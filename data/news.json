@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-14T07:13:37.826167+00:00",
+  "as_of": "2026-09-14T07:42:54.971712+00:00",
   "source": "Google News RSS",
   "strategy": "12 themes; financial publishers ranked first; one focus per theme",
   "items": [
@@ -36,11 +36,11 @@
       "category": "貴金屬 / 黃金"
     },
     {
-      "title": "盤中看盤重點： - hao.cnyes.com",
-      "summary": "盤中看盤重點： hao.cnyes.com 延伸關注：超級央行週來襲！台股震盪退守46K 外資土洋對決關鍵曝 - 中天新聞網。",
-      "source": "hao.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlNEItd3QyTElFeHNBTTZZbS1LNkdfbVBYT05YSUF0bDZIcUdra0RGd1RHaWliMEh2a2x0dnJscEJ4MURxNl9BSw?oc=5",
-      "published": "Mon, 14 Sep 2026 05:41:29 GMT",
+      "title": "〈台股盤前要聞〉台股4萬6攻防拉起戰線、超級央行周登場 - news.cnyes.com",
+      "summary": "〈台股盤前要聞〉台股4萬6攻防拉起戰線、超級央行周登場 news.cnyes.com 延伸關注：盤中看盤重點： - 鉅亨號。",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFdGVtTU40QWNISDd3VVRsUVBfMGIxMDMyNUhBWjJoWVRGUnhaVWtBcGFiWTZSM0tUSHVVM0VSTmVZZml1cVZFM1phREE1Y00?oc=5",
+      "published": "Sun, 13 Sep 2026 21:11:27 GMT",
       "category": "台灣"
     }
   ]
