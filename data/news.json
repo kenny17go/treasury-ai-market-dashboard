@@ -43,5 +43,7 @@
       "published": "Sun, 13 Sep 2026 21:11:27 GMT",
       "category": "台灣"
     }
-  ]
+  ],
+  "fallback_at": "2026-09-14T07:48:19.665003+00:00",
+  "fallback_reason": "latest source unavailable; preserving last good data"
 }
