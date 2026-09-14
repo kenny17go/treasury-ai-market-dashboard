@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-14T14:44:43.860289+00:00",
+  "as_of": "2026-09-14T15:13:31.736329+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -22,21 +22,21 @@
       "rank": 2
     },
     {
-      "title": "〈熱門股〉油價又破百！00642U飆漲衝新高、00673R逆勢吸金額度面臨告罄",
-      "summary": "〈熱門股〉油價又破百！00642U飆漲衝新高、00673R逆勢吸金額度面臨告罄 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPYTNHX1M5Vm5Sd2FyQTZpTFJSQy1Jc2c1UGo0aDgwTDZvc2plaG5IcHdITkgydi1ST1VDYmotYklCZ2cwc1p0WGtLaw?oc=5",
-      "published": "Sat, 12 Sep 2026 03:19:09 GMT",
-      "topic": "能源",
-      "rank": 3
-    },
-    {
       "title": "AI熱潮降溫怎麼辦？野村示警：全球經濟將遭「多線程」極限壓力測試",
       "summary": "AI熱潮降溫怎麼辦？野村示警：全球經濟將遭「多線程」極限壓力測試 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYUNEOG93N1dUUXhMZEYzSWhEMGZqY3NkOGYxSDZUbXJtd00yQkgxVU1JdmVrTFlVWllYY25GNzR4Sk9lT1pyUkU4SQ?oc=5",
       "published": "Sun, 13 Sep 2026 02:10:06 GMT",
       "topic": "AI / 半導體",
+      "rank": 3
+    },
+    {
+      "title": "〈熱門股〉油價又破百！00642U飆漲衝新高、00673R逆勢吸金額度面臨告罄",
+      "summary": "〈熱門股〉油價又破百！00642U飆漲衝新高、00673R逆勢吸金額度面臨告罄 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPYTNHX1M5Vm5Sd2FyQTZpTFJSQy1Jc2c1UGo0aDgwTDZvc2plaG5IcHdITkgydi1ST1VDYmotYklCZ2cwc1p0WGtLaw?oc=5",
+      "published": "Sat, 12 Sep 2026 03:19:09 GMT",
+      "topic": "能源",
       "rank": 4
     },
     {
