@@ -25,6 +25,8 @@ fx:
   - {symbol: "GBPUSD=X", name: "GBP/USD", decimals: 4}
   - {symbol: "HKD=X", name: "USD/HKD", decimals: 4}
   - {symbol: "TWD=X", name: "USD/TWD", decimals: 3}
+  - {symbol: "SGD=X", name: "USD/SGD", decimals: 4}
+  - {symbol: "KRW=X", name: "USD/KRW", decimals: 2}
 stocks:
   - {symbol: "TSM", label: "TSM ADR"}
   - {symbol: "ASX", label: "ASX ADR"}
