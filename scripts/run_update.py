@@ -1,9 +1,10 @@
 from __future__ import annotations
 import json, re, traceback
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 import update_market as u
 
 DATA = u.DATA
+TZ8 = timezone(timedelta(hours=8))
 
 def load(name):
     p = DATA / name
@@ -16,7 +17,7 @@ def save(name, obj):
     (DATA / name).write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding='utf-8')
 
 def _num(value):
-    s = str(value or '').replace(',', '').replace('%', '').strip()
+    s = str(value or '').replace(',', '').replace('%', '').replace('−', '-').strip()
     if s in ('', '-', '—'):
         return None
     try:
@@ -24,14 +25,109 @@ def _num(value):
     except Exception:
         return None
 
-def fetch_taiwan_futures_quote():
-    """Fetch the front-month Taiwan Index Futures quote from Yahoo Taiwan.
+def _field_index(fields, keywords):
+    for i, f in enumerate(fields or []):
+        text = str(f).replace(' ', '')
+        if all(k in text for k in keywords):
+            return i
+    return None
 
-    TAIFEX's public real-time site is intended for browsing and does not expose a
-    documented development API, so the dashboard uses Yahoo Taiwan's futures
-    table for the display quote while keeping TAIFEX as the official source for
-    positioning data.
-    """
+def _find_twse_table(tables, key):
+    return next((t for t in (tables or []) if key in str(t.get('title', ''))), None)
+
+def fetch_twse_official_snapshot():
+    """Fetch authoritative TAIEX close and market volume from TWSE MI_INDEX."""
+    base = 'https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX'
+    today = datetime.now(TZ8).date()
+    last_error = None
+    for days_back in range(8):
+        d = today - timedelta(days=days_back)
+        try:
+            r = u.get_http(base, params={'date': d.strftime('%Y%m%d'), 'type': 'ALLBUT0999', 'response': 'json'})
+            obj = r.json()
+            if str(obj.get('stat', '')).upper() != 'OK':
+                continue
+            tables = obj.get('tables') or []
+            idx_table = _find_twse_table(tables, '價格指數')
+            market_table = _find_twse_table(tables, '市場成交資訊')
+            breadth_table = _find_twse_table(tables, '漲跌證券數合計')
+
+            close = change = change_pct = None
+            if idx_table:
+                fields = idx_table.get('fields') or []
+                row = next((x for x in (idx_table.get('data') or []) if x and '發行量加權股價指數' in str(x[0])), None)
+                if row:
+                    i_close = _field_index(fields, ['收盤', '指數'])
+                    i_change = _field_index(fields, ['漲跌', '點數'])
+                    i_pct = _field_index(fields, ['漲跌', '百分比'])
+                    close = _num(row[i_close]) if i_close is not None and i_close < len(row) else None
+                    change = _num(row[i_change]) if i_change is not None and i_change < len(row) else None
+                    change_pct = _num(row[i_pct]) if i_pct is not None and i_pct < len(row) else None
+                    sign_col = next((i for i, f in enumerate(fields) if '(+/-)' in str(f) or '(+／-)' in str(f)), None)
+                    if sign_col is not None and sign_col < len(row) and str(row[sign_col]).strip() in ('-', '－', '−'):
+                        if change is not None:
+                            change = -abs(change)
+                        if change_pct is not None:
+                            change_pct = -abs(change_pct)
+                    if change_pct is None and close is not None and change is not None and close - change:
+                        change_pct = change / (close - change) * 100
+
+            turnover = volume = trades = None
+            if market_table:
+                fields = market_table.get('fields') or []
+                rows = market_table.get('data') or []
+                row = next((x for x in rows if x and str(x[0]).replace(' ', '').startswith('1.一般股票')), None)
+                if row is None and rows:
+                    row = rows[0]
+                if row:
+                    i_value = _field_index(fields, ['成交金額'])
+                    i_volume = _field_index(fields, ['成交股數'])
+                    i_trades = _field_index(fields, ['成交筆數'])
+                    turnover = _num(row[i_value]) if i_value is not None and i_value < len(row) else None
+                    volume = _num(row[i_volume]) if i_volume is not None and i_volume < len(row) else None
+                    trades = _num(row[i_trades]) if i_trades is not None and i_trades < len(row) else None
+
+            up = down = flat = None
+            if breadth_table:
+                for row in breadth_table.get('data') or []:
+                    if not row:
+                        continue
+                    label = str(row[0]).replace(' ', '')
+                    val = _num(row[-1])
+                    if label.startswith('上漲'):
+                        up = val
+                    elif label.startswith('下跌'):
+                        down = val
+                    elif label.startswith('持平'):
+                        flat = val
+
+            if close is None:
+                raise ValueError('TAIEX close not found in official TWSE response')
+            directional = (up or 0) + (down or 0)
+            return {
+                'date': d.isoformat(),
+                'index_close': close,
+                'index_change': change,
+                'index_change_pct': change_pct,
+                'turnover_twd': turnover,
+                'turnover_100m_twd': round(turnover / 100_000_000, 2) if turnover is not None else None,
+                'volume_shares': volume,
+                'volume_100m_shares': round(volume / 100_000_000, 2) if volume is not None else None,
+                'trade_count': int(trades) if trades is not None else None,
+                'advance_count': int(up) if up is not None else None,
+                'decline_count': int(down) if down is not None else None,
+                'flat_count': int(flat) if flat is not None else None,
+                'advance_pct': round(up / directional * 100, 1) if up is not None and directional else None,
+                'decline_pct': round(down / directional * 100, 1) if down is not None and directional else None,
+                'source': 'TWSE MI_INDEX official',
+                'source_url': base,
+            }
+        except Exception as e:
+            last_error = e
+    raise RuntimeError(f'TWSE official snapshot unavailable: {last_error}')
+
+def fetch_taiwan_futures_quote():
+    """Fetch the front-month Taiwan Index Futures quote from Yahoo Taiwan."""
     url = 'https://tw.stock.yahoo.com/future/futures.html'
     r = u.get_http(url)
     soup = u.BeautifulSoup(r.text, 'html.parser')
@@ -52,41 +148,21 @@ def fetch_taiwan_futures_quote():
         if price is None:
             continue
         return {
-            'name': '台指期近一',
-            'symbol': symbol,
-            'price': price,
-            'bid': _num(rest[0]),
-            'ask': _num(rest[1]),
-            'change': _num(rest[3]),
-            'change_pct': _num(rest[4]),
-            'volume': _num(rest[5]),
+            'name': '台指期近一', 'symbol': symbol, 'price': price,
+            'bid': _num(rest[0]), 'ask': _num(rest[1]), 'change': _num(rest[3]),
+            'change_pct': _num(rest[4]), 'volume': _num(rest[5]),
             'quote_time': rest[-1] if rest and re.fullmatch(r'\d{1,2}:\d{2}:\d{2}', rest[-1]) else None,
-            'source': 'Yahoo股市',
-            'source_url': url,
+            'source': 'Yahoo股市', 'source_url': url,
             'fetched_at': datetime.now(timezone.utc).isoformat(),
         }
-
-    # Text fallback for markup changes while preserving the same field order.
     text = soup.get_text('\n', strip=True)
-    m = re.search(
-        r'台指期近一\s*WTX&\s*([\d,.+-]+)\s*([\d,.+-]+)\s*([\d,.+-]+)\s*([\d,.+-]+)\s*([\d,.+-]+)%\s*([\d,]+)',
-        text,
-        re.S,
-    )
+    m = re.search(r'台指期近一\s*WTX&\s*([\d,.+-]+)\s*([\d,.+-]+)\s*([\d,.+-]+)\s*([\d,.+-]+)\s*([\d,.+-]+)%\s*([\d,]+)', text, re.S)
     if m:
         return {
-            'name': '台指期近一',
-            'symbol': 'WTX&',
-            'bid': _num(m.group(1)),
-            'ask': _num(m.group(2)),
-            'price': _num(m.group(3)),
-            'change': _num(m.group(4)),
-            'change_pct': _num(m.group(5)),
-            'volume': _num(m.group(6)),
-            'quote_time': None,
-            'source': 'Yahoo股市',
-            'source_url': url,
-            'fetched_at': datetime.now(timezone.utc).isoformat(),
+            'name': '台指期近一', 'symbol': 'WTX&', 'bid': _num(m.group(1)),
+            'ask': _num(m.group(2)), 'price': _num(m.group(3)), 'change': _num(m.group(4)),
+            'change_pct': _num(m.group(5)), 'volume': _num(m.group(6)), 'quote_time': None,
+            'source': 'Yahoo股市', 'source_url': url, 'fetched_at': datetime.now(timezone.utc).isoformat(),
         }
     raise ValueError('Taiwan Index Futures quote not parsed')
 
@@ -156,18 +232,39 @@ def main():
 
     market = merge_quote_sections(load('market.json'), old['market.json'], ['indices','pulse','taiwan','commodities','fx'])
     try:
+        snap = fetch_twse_official_snapshot()
+        old_tw = next((x for x in market.get('taiwan', []) if x.get('symbol') == '^TWII'), {})
+        market['taiwan'] = [{
+            'symbol': '^TWII', 'name': '台灣加權指數', 'price': snap['index_close'],
+            'change': snap['index_change'], 'change_pct': snap['index_change_pct'],
+            'spark': old_tw.get('spark', []), 'quote_date': snap['date'], 'source': 'TWSE official'
+        }]
+        market['taiwan_stats'] = snap
+        market['source'] = 'Yahoo Finance via yfinance / TWSE official MI_INDEX'
+        print(f"TWSE official: {snap['date']} TAIEX={snap['index_close']} volume={snap.get('volume_100m_shares')}億股 turnover={snap.get('turnover_100m_twd')}億元")
+    except Exception as e:
+        print('[WARN] official TWSE snapshot failed:', e)
+        traceback.print_exc()
+        old_stats = old['market.json'].get('taiwan_stats') or {}
+        old_tw = next((x for x in old['market.json'].get('taiwan', []) if x.get('source') == 'TWSE official'), None)
+        if old_tw and old_stats.get('source') == 'TWSE MI_INDEX official':
+            market['taiwan'] = [old_tw]
+            market['taiwan_stats'] = {**old_stats, 'fallback': True}
+        else:
+            # Avoid presenting Yahoo's mismatched ^TWII close as an official close.
+            market['taiwan'] = []
+            market['taiwan_stats'] = {'source': 'TWSE MI_INDEX official', 'status': 'unavailable'}
+
+    try:
         market['taiwan_futures'] = fetch_taiwan_futures_quote()
     except Exception as e:
         print('[WARN] Taiwan futures quote failed:', e)
         if old['market.json'].get('taiwan_futures'):
             market['taiwan_futures'] = {**old['market.json']['taiwan_futures'], 'fallback': True}
         else:
-            market['taiwan_futures'] = {
-                'name': '台指期近一', 'symbol': 'WTX&', 'price': None,
-                'change': None, 'change_pct': None, 'source': 'Yahoo股市',
-                'status': 'unavailable'
-            }
+            market['taiwan_futures'] = {'name':'台指期近一','symbol':'WTX&','price':None,'change':None,'change_pct':None,'source':'Yahoo股市','status':'unavailable'}
     save('market.json', market)
+
     save('stocks.json', merge_quote_sections(load('stocks.json'), old['stocks.json'], ['stocks']))
     save('rates.json', merge_rates(load('rates.json'), old['rates.json']))
     restore_if_empty('news.json', old['news.json'], lambda x: bool(x.get('items')))
