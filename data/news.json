@@ -1,23 +1,23 @@
 {
-  "as_of": "2026-09-14T14:30:07.434129+00:00",
+  "as_of": "2026-09-14T14:44:43.860289+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
+    {
+      "title": "本週操盤筆記：超級央行週來了！Fed、日銀升息箭在弦上 美股、美債繃緊神經",
+      "summary": "本週操盤筆記：超級央行週來了！Fed、日銀升息箭在弦上 美股、美債繃緊神經 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nTUZZWnFyZXRhekJnUUJwczBBazg1ZWRyVjZ0bkVCSVpzWnZaN2VxVjFGNXcyRU5Za0RsX082RHhxSlVZUVgzaWdEUQ?oc=5",
+      "published": "Sun, 13 Sep 2026 13:50:03 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1
+    },
     {
       "title": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測",
       "summary": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZYlNOVy1jclEtUW5YVXBFWXkwR1E0TEtWVkE1OE1zLTJPc0dldXM2SEdBdzg0ZDMwSzJJckZCODQyTDdQZThPdlNacw?oc=5",
       "published": "Mon, 14 Sep 2026 11:55:29 GMT",
-      "topic": "Fed / 利率",
-      "rank": 1
-    },
-    {
-      "title": "CPI成翻盤關鍵！高盛、花旗改口押升息 TD喊連升3次",
-      "summary": "CPI成翻盤關鍵！高盛、花旗改口押升息 TD喊連升3次 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xMDZaYWc5cUlYR01EN29aekhJZ1U0RUR1Z1YyRlVsVHJqLXRVM2dHeG5qeHgtcDhwVUx1RHJRZmVEd0xjVENrWE5LWQ?oc=5",
-      "published": "Sat, 12 Sep 2026 05:10:08 GMT",
       "topic": "Fed / 利率",
       "rank": 2
     },
