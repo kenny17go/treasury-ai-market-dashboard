@@ -7,7 +7,7 @@ import yfinance as yf
 
 ROOT=Path(__file__).resolve().parents[1]; DATA=ROOT/'data'; CONFIG=ROOT/'config'/'market.yml'; DATA.mkdir(exist_ok=True)
 TZ8=timezone(timedelta(hours=8))
-UA={'User-Agent':'Mozilla/5.0 TreasuryAI/1.1'}
+UA={'User-Agent':'Mozilla/5.0 TreasuryAI/1.2'}
 
 def clean(v):
     try:
@@ -44,12 +44,11 @@ def quote(item):
 def load_cfg(): return yaml.safe_load(CONFIG.read_text(encoding='utf-8'))
 
 def update_market(cfg):
-    now=datetime.now(timezone.utc).isoformat()
-    sections={}
+    now=datetime.now(timezone.utc).isoformat(); sections={}
     for sec in ('indices','pulse','taiwan','commodities','fx'):
         out=[]
         for item in cfg.get(sec,[]):
-            q=quote(item); out.append(q); time.sleep(.1)
+            out.append(quote(item)); time.sleep(.1)
         sections[sec]=out
     save('market.json',{'as_of':now,'status':'Auto Update','source':'Yahoo Finance via yfinance',**sections})
 
@@ -71,22 +70,19 @@ def update_rates():
     rows=[]; cache={}
     for sid,name in mapping:
         try:
-            vals=fred_series(sid); cache[sid]=vals
-            value=vals[-1]; prev=vals[-2] if len(vals)>1 else value
+            vals=fred_series(sid); cache[sid]=vals; value=vals[-1]; prev=vals[-2] if len(vals)>1 else value
             rows.append({'series':sid,'name':name,'value':clean(value),'unit':'%','change_bps':clean((value-prev)*100)})
         except Exception as e:
             print('FRED',sid,e); rows.append({'series':sid,'name':name,'value':None,'unit':'%','change_bps':None})
     try:
-        v2=cache['DGS2']; v10=cache['DGS10']
-        spread=(v10[-1]-v2[-1])*100
+        v2=cache['DGS2']; v10=cache['DGS10']; spread=(v10[-1]-v2[-1])*100
         prev_spread=((v10[-2] if len(v10)>1 else v10[-1])-(v2[-2] if len(v2)>1 else v2[-1]))*100
         rows.append({'series':'2S10S','name':'2Y10Y 利差','value':clean(spread),'unit':'bps','change_bps':clean(spread-prev_spread)})
     except Exception as e:
         print('2s10s',e); rows.append({'series':'2S10S','name':'2Y10Y 利差','value':None,'unit':'bps','change_bps':None})
     save('rates.json',{'as_of':datetime.now(timezone.utc).isoformat(),'source':'FRED / Federal Reserve H.15','rates':rows})
 
-def clean_news_title(t):
-    return re.sub(r'\s+-\s+[^-]{2,50}$','',t or '').strip()
+def clean_news_title(t): return re.sub(r'\s+-\s+[^-]{2,50}$','',t or '').strip()
 
 def update_news():
     queries=['美股 Nvidia 半導體 財經','Fed 美債 利率 美元 財經','台灣 股市 外資 財經','中國 歐洲 經濟 財經']
@@ -96,11 +92,9 @@ def update_news():
         try:
             feed=feedparser.parse(url)
             for e in feed.entries[:8]:
-                title=clean_news_title(e.get('title',''))
-                key=title.lower()
+                title=clean_news_title(e.get('title','')); key=title.lower()
                 if not title or key in seen: continue
-                seen.add(key)
-                source=''
+                seen.add(key); source=''
                 if isinstance(e.get('source'),dict): source=e.source.get('title','')
                 items.append({'title':title,'url':e.get('link','#'),'source':source,'published':e.get('published',''),'time':''})
         except Exception as ex: print('news',ex)
@@ -129,46 +123,65 @@ def load_json(name):
     try:return json.loads((DATA/name).read_text(encoding='utf-8'))
     except:return {}
 
-def rules_brief(market,stocks,rates):
+def market_recap(market,stocks,rates,news,calendar):
     indices=[x for x in market.get('indices',[]) if x.get('change_pct') is not None]
     st=[x for x in stocks.get('stocks',[]) if x.get('change_pct') is not None]
     avg=sum(x['change_pct'] for x in indices)/len(indices) if indices else 0
     vix=next((x for x in market.get('pulse',[]) if x.get('symbol')=='^VIX'),None)
-    vix_adj=0
-    if vix and vix.get('price') is not None:
-        vix_adj=-8 if vix['price']>=25 else (5 if vix['price']<16 else 0)
-    score=max(0,min(100,round(50+avg*12+vix_adj)))
-    label='偏多' if score>=62 else '偏空' if score<=38 else '中性'
+    vix_adj=-8 if vix and vix.get('price') is not None and vix['price']>=25 else (5 if vix and vix.get('price') is not None and vix['price']<16 else 0)
+    score=max(0,min(100,round(50+avg*12+vix_adj))); label='偏多' if score>=62 else '偏空' if score<=38 else '中性'
     best=max(st,key=lambda x:x['change_pct'],default=None); worst=min(st,key=lambda x:x['change_pct'],default=None)
     r10=next((x for x in rates.get('rates',[]) if x.get('series')=='DGS10'),None)
     curve=next((x for x in rates.get('rates',[]) if x.get('series')=='2S10S'),None)
+    dxy=next((x for x in market.get('fx',[]) if x.get('name')=='DXY'),None)
     bullets=[]
     if indices: bullets.append('主要美股指數平均變動 '+f'{avg:+.2f}%'+('，風險偏好改善。' if avg>0 else '，風險偏好轉弱。'))
     if vix and vix.get('price') is not None: bullets.append(f"VIX {vix['price']:.2f}，日變動 {vix.get('change_pct',0):+.2f}%。")
     if best and worst: bullets.append(f"自選股強勢為 {best.get('label',best['symbol'])} {best['change_pct']:+.2f}%；較弱為 {worst.get('label',worst['symbol'])} {worst['change_pct']:+.2f}%。")
     if r10 and r10.get('value') is not None: bullets.append(f"美債10年殖利率 {r10['value']:.3f}%，單日變動 {r10.get('change_bps',0):+.1f} bps。")
-    if curve and curve.get('value') is not None: bullets.append(f"2Y10Y 利差 {curve['value']:+.1f} bps。")
-    return {'mode':'rules','headline':f'市場風險情緒：{label}','bullets':bullets[:4],'risk_score':score,'risk_label':label}
+    yesterday=[]
+    if indices: yesterday.append(f"美股主要指數平均 {avg:+.2f}%，市場風險情緒偏{label}。")
+    if r10 and r10.get('value') is not None: yesterday.append(f"美債10年殖利率收在 {r10['value']:.3f}%，日變動 {r10.get('change_bps',0):+.1f} bps。")
+    if dxy and dxy.get('change_pct') is not None: yesterday.append(f"美元指數 DXY 日變動 {dxy['change_pct']:+.2f}%，留意美元方向對風險資產的影響。")
+    if len(yesterday)<3:
+        for x in news.get('items',[]):
+            if x.get('title') and x['title'] not in yesterday: yesterday.append(x['title'])
+            if len(yesterday)>=3: break
+    today=[]
+    for e in sorted(calendar.get('items',[]),key=lambda x:(-int(x.get('importance') or 1),x.get('time','99:99')))[:3]:
+        today.append(f"{e.get('time','--:--')} {e.get('country','')}｜{e.get('title','重要經濟事件')}")
+    for x in news.get('items',[]):
+        if len(today)>=3: break
+        if x.get('title'): today.append(x['title'])
+    watch=[]
+    if r10 and r10.get('change_bps') is not None: watch.append(f"利率：10Y 美債殖利率目前日變動 {r10['change_bps']:+.1f} bps，觀察是否延續。")
+    if dxy and dxy.get('change_pct') is not None: watch.append(f"美元：DXY 日變動 {dxy['change_pct']:+.2f}%，留意美元與風險資產是否同向。")
+    if vix and vix.get('price') is not None: watch.append(f"波動率：VIX {vix['price']:.2f}，{'高於25，風險控管優先。' if vix['price']>=25 else '觀察是否出現波動率快速上升。'}")
+    if curve and curve.get('value') is not None: watch.append(f"曲線：2Y10Y 利差 {curve['value']:+.1f} bps，留意陡峭化／扁平化方向。")
+    return {'mode':'rules','headline':f'市場風險情緒：{label}','bullets':bullets[:4],'risk_score':score,'risk_label':label,'yesterday_top':yesterday[:3],'today_top':today[:3],'todays_watch':watch[:4]}
 
-def openai_brief(base,market,stocks,rates):
+def openai_brief(base,market,stocks,rates,news,calendar):
     key=os.getenv('OPENAI_API_KEY')
     if not key:return base
     model=os.getenv('OPENAI_MODEL','gpt-5.6-luna')
-    payload={'model':model,'input':[{'role':'system','content':'你是金融市場晨報編輯。只根據輸入數據，以繁體中文寫1句標題與3個精簡重點，不做投資建議，不捏造。輸出JSON：headline, bullets。'},{'role':'user','content':json.dumps({'market':market,'stocks':stocks,'rates':rates},ensure_ascii=False)[:28000]}]}
+    instruction='你是金融市場晨報編輯。只根據輸入資料，以繁體中文輸出JSON，不做投資建議、不捏造。欄位：headline字串、bullets陣列3項、yesterday_top陣列3項、today_top陣列3項、todays_watch陣列4項。文字要短、交易室風格。'
+    user=json.dumps({'market':market,'stocks':stocks,'rates':rates,'news':news,'calendar':calendar},ensure_ascii=False)[:36000]
+    payload={'model':model,'input':[{'role':'system','content':instruction},{'role':'user','content':user}]}
     try:
-        r=requests.post('https://api.openai.com/v1/responses',headers={'Authorization':f'Bearer {key}','Content-Type':'application/json'},json=payload,timeout=45); r.raise_for_status(); data=r.json()
-        text=''
+        r=requests.post('https://api.openai.com/v1/responses',headers={'Authorization':f'Bearer {key}','Content-Type':'application/json'},json=payload,timeout=45); r.raise_for_status(); data=r.json(); text=''
         for o in data.get('output',[]):
             for c in o.get('content',[]):
                 if c.get('type')=='output_text': text+=c.get('text','')
         text=text.strip().removeprefix('```json').removesuffix('```').strip(); parsed=json.loads(text)
-        base.update({'mode':'openai','headline':parsed.get('headline',base['headline']),'bullets':parsed.get('bullets',base['bullets'])})
+        for k in ('headline','bullets','yesterday_top','today_top','todays_watch'):
+            if parsed.get(k): base[k]=parsed[k]
+        base['mode']='openai'
     except Exception as e: print('OpenAI optional brief failed:',e)
     return base
 
 def update_brief():
-    m,s,r=load_json('market.json'),load_json('stocks.json'),load_json('rates.json')
-    base=rules_brief(m,s,r); out=openai_brief(base,m,s,r); out['as_of']=datetime.now(timezone.utc).isoformat(); save('brief.json',out)
+    m,s,r,n,c=load_json('market.json'),load_json('stocks.json'),load_json('rates.json'),load_json('news.json'),load_json('calendar.json')
+    base=market_recap(m,s,r,n,c); out=openai_brief(base,m,s,r,n,c); out['as_of']=datetime.now(timezone.utc).isoformat(); save('brief.json',out)
 
 def main():
     cfg=load_cfg(); update_market(cfg); update_stocks(cfg); update_rates(); update_news(); update_calendar(); update_brief()
