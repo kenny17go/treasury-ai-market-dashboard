@@ -22,7 +22,6 @@ def calendar_from_cbc_official():
         txt=re.sub(r'\s+',' ',a.get_text(' ',strip=True))
         if '中央銀行理監事聯席會議預定日期' in txt:
             links.append(urljoin(index,a['href']))
-    # Current page normally exposes the newest annual schedule first.
     urls=links[:3] or [index]
     now=datetime.now(TZ8); out=[]; seen=set()
     for url in urls:
@@ -49,7 +48,6 @@ def calendar_from_ecb_official():
     for node in soup.find_all(['tr','li','p','div']):
         txt=re.sub(r'\s+',' ',node.get_text(' ',strip=True)).strip()
         if 'monetary policy meeting' not in txt.lower(): continue
-        # Prefer the decision/press-conference day when the page says Day 2.
         if 'day 1' in txt.lower() and 'day 2' not in txt.lower(): continue
         m=re.search(r'(?<!\d)(\d{2})/(\d{2})/(20\d{2})(?!\d)',txt)
         if not m: continue
@@ -85,7 +83,7 @@ def calendar_from_boj_official():
 
 
 def update_calendar():
-    now=datetime.now(TZ8); end=now+timedelta(days=21)
+    now=datetime.now(TZ8); end=now+timedelta(days=60)
     layers=[]
     def add(name, fn, priority):
         try:
@@ -95,7 +93,6 @@ def update_calendar():
         except Exception as e:
             print('calendar',name,'failed',e); layers.append((priority,name,[]))
 
-    # Aggregated economic-data layers.
     add('鉅亨網', prev.calendar_from_cnyes, 2)
     try:
         official_us=prev._official_calendar() or []
@@ -105,8 +102,6 @@ def update_calendar():
     add('財經M平方', prev.calendar_from_macromicro, 3)
     add('永豐期貨', prev.calendar_from_sinopac, 4)
     add('工商時報', prev.calendar_from_ctee, 5)
-
-    # Official central-bank layers for Taiwan, Japan and the euro area.
     add('中央銀行（台灣）', calendar_from_cbc_official, 1)
     add('Bank of Japan', calendar_from_boj_official, 1)
     add('European Central Bank', calendar_from_ecb_official, 1)
@@ -144,7 +139,7 @@ def update_calendar():
         'status':'ok' if items else 'unavailable',
         'source':' + '.join(dict.fromkeys(active)) if active else 'calendar sources unavailable',
         'source_mode':'Global multi-source + official central banks',
-        'window_days':21,
+        'window_days':60,
         'cost_note':'重要經濟數據：鉅亨網／財經M平方＋BLS／BEA；央行動態：Fed、台灣央行、BOJ、ECB 官方來源優先。永豐期貨與工商時報作備援／交叉參考。',
         'items':items[:80]
     })
@@ -157,9 +152,6 @@ def update_brief():
     todays_events=[x for x in (c.get('items') or []) if x.get('date')==today]
     todays_events.sort(key=lambda x:(-int(x.get('importance') or 1),x.get('time','99:99')))
     today_top=[f"{x.get('flag','')} {x.get('time','—')} {x.get('country','')}｜{x.get('title','重要經濟事件')}".strip() for x in todays_events[:3]]
-
-    # If today's official/economic calendar has fewer than three items, use only
-    # news published on today's Taipei date. Never pull a future calendar event.
     if len(today_top)<3:
         for x in n.get('items',[]):
             if len(today_top)>=3: break
