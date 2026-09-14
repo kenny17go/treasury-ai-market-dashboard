@@ -1,8 +1,7 @@
 from __future__ import annotations
 import json, traceback
-from pathlib import Path
 from datetime import datetime, timezone
-import update_v145 as u
+import update_v146 as u
 
 DATA = u.DATA
 
@@ -82,6 +81,6 @@ def main():
     except Exception as e:
         print('[WARN] brief stage failed:',e); traceback.print_exc()
         if old['brief.json']: save('brief.json',old['brief.json'])
-    print('V1.4.5 update completed: Treasury Pulse removed from UI and dual-source themed financial news enabled.')
+    print('V1.4.6 update completed: Cnyes + official calendar, CTEE fallback, enriched event fields and 12-theme news radar.')
 
 if __name__=='__main__': main()
