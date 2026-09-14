@@ -2,7 +2,7 @@ from __future__ import annotations
 import json, traceback
 from pathlib import Path
 from datetime import datetime, timezone
-import update_v144 as u
+import update_v145 as u
 
 DATA = u.DATA
 
@@ -27,7 +27,6 @@ def merge_quote_sections(new, old, keys):
                 x = {**ox, **{kk: vv for kk, vv in x.items() if vv not in (None, [], '')}}
             merged.append(x)
         new[sec] = merged
-    # Keep Taiwan breadth/turnover if the latest TWSE request fails.
     if not new.get('taiwan_stats') and old.get('taiwan_stats'):
         new['taiwan_stats']={**old['taiwan_stats'],'fallback':True}
     return new
@@ -83,6 +82,6 @@ def main():
     except Exception as e:
         print('[WARN] brief stage failed:',e); traceback.print_exc()
         if old['brief.json']: save('brief.json',old['brief.json'])
-    print('V1.4.4 update completed: TWSE turnover/breadth and resilient themed financial news.')
+    print('V1.4.5 update completed: Treasury Pulse removed from UI and dual-source themed financial news enabled.')
 
 if __name__=='__main__': main()
