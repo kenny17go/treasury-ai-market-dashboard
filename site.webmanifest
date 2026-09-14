@@ -12,8 +12,8 @@
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "/treasury-ai-market-dashboard/assets/icon.png",
-      "sizes": "64x64",
+      "src": "/treasury-ai-market-dashboard/apple-touch-icon-v2.png",
+      "sizes": "180x180",
       "type": "image/png",
       "purpose": "any"
     }
