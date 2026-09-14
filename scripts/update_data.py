@@ -4,9 +4,10 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import requests, yaml, feedparser, pandas as pd
 import yfinance as yf
+from bs4 import BeautifulSoup
 
 ROOT=Path(__file__).resolve().parents[1]; DATA=ROOT/'data'; CONFIG=ROOT/'config'/'market.yml'; DATA.mkdir(exist_ok=True)
-TZ8=timezone(timedelta(hours=8)); UA={'User-Agent':'Mozilla/5.0 TreasuryAI/1.3'}
+TZ8=timezone(timedelta(hours=8)); UA={'User-Agent':'Mozilla/5.0 TreasuryAI/1.4'}
 
 def clean(v):
     try:
@@ -76,19 +77,37 @@ def update_rates():
         except: rows.append({'series':sid,'name':name,'value':None,'unit':'bps','change_bps':None})
     save('rates.json',{'as_of':datetime.now(timezone.utc).isoformat(),'source':'FRED / Federal Reserve / ECB','rates':rows})
 
-def clean_news_title(t): return re.sub(r'\s+-\s+[^-]{2,50}$','',t or '').strip()
+def clean_news_title(t):
+    t=re.sub(r'\s+-\s+[^-]{2,50}$','',t or '').strip()
+    return re.sub(r'\s+',' ',t)
+
+def news_key(t):
+    return re.sub(r'[^0-9a-z\u4e00-\u9fff]','',t.lower())[:120]
+
+def news_category(t):
+    s=t.lower()
+    rules=[
+        ('Fed / Rates',['fed','fomc','利率','美債','殖利率','降息','升息','央行','cpi','ppi','非農']),
+        ('AI / 半導體',['nvidia','nvda','amd','台積電','tsmc','半導體','ai','晶片','asml']),
+        ('台灣市場',['台股','台灣','外資','台積電','新台幣','twd']),
+        ('中國 / 亞洲',['中國','大陸','人民幣','cnh','日本','日圓','boj','韓國']),
+        ('歐洲',['歐洲','ecb','歐元','德國','英國','boe'])]
+    for cat,keys in rules:
+        if any(k in s for k in keys): return cat
+    return '全球市場'
+
 def update_news():
-    queries=['美股 Nvidia 半導體 財經','Fed 美債 利率 美元 財經','台灣 股市 外資 財經','中國 歐洲 經濟 財經']; items=[]; seen=set()
+    queries=['美股 Nvidia 半導體 財經','Fed 美債 利率 美元 財經','台灣 股市 外資 財經','中國 歐洲 經濟 財經']; items=[]; seen=set(); seen_url=set()
     for q in queries:
         try:
             feed=feedparser.parse('https://news.google.com/rss/search?q='+requests.utils.quote(q)+'&hl=zh-TW&gl=TW&ceid=TW:zh-Hant')
-            for e in feed.entries[:8]:
-                title=clean_news_title(e.get('title','')); key=title.lower()
-                if not title or key in seen: continue
-                seen.add(key); source=e.source.get('title','') if isinstance(e.get('source'),dict) else ''
-                items.append({'title':title,'url':e.get('link','#'),'source':source,'published':e.get('published',''),'time':''})
+            for e in feed.entries[:12]:
+                title=clean_news_title(e.get('title','')); url=e.get('link','#'); key=news_key(title)
+                if not title or len(key)<6 or key in seen or url in seen_url: continue
+                seen.add(key); seen_url.add(url); source=e.source.get('title','') if isinstance(e.get('source'),dict) else ''
+                items.append({'title':title,'url':url,'source':source,'published':e.get('published',''),'time':'','category':news_category(title)})
         except Exception as ex: print('news',ex)
-    save('news.json',{'as_of':datetime.now(timezone.utc).isoformat(),'source':'Google News RSS','items':items[:16]})
+    save('news.json',{'as_of':datetime.now(timezone.utc).isoformat(),'source':'Google News RSS','items':items[:30]})
 
 def parse_num(v):
     if v is None:return None
@@ -96,9 +115,11 @@ def parse_num(v):
     return float(m.group()) if m else None
 
 def update_calendar():
-    items=[]
+    items=[]; api_key=(os.getenv('TRADING_ECONOMICS_API_KEY') or '').strip(); credential=api_key or 'guest:guest'; mode='api-key' if api_key else 'guest'
+    source='Trading Economics API' if api_key else 'Trading Economics guest API'
+    cost_note='API key 方案可能需要付費訂閱，依 Trading Economics 方案為準。' if api_key else 'Guest 模式目前不需本站 API key，但資料範圍與可用性可能受限。'
     try:
-        r=requests.get('https://api.tradingeconomics.com/calendar?c=guest:guest',headers=UA,timeout=25); r.raise_for_status(); raw=r.json(); today=datetime.now(TZ8).date(); countries={'United States','Japan','Euro Area','China','Taiwan','United Kingdom','Canada'}
+        r=requests.get('https://api.tradingeconomics.com/calendar',params={'c':credential},headers=UA,timeout=25); r.raise_for_status(); raw=r.json(); today=datetime.now(TZ8).date(); countries={'United States','Japan','Euro Area','China','Taiwan','United Kingdom','Canada'}
         for e in raw:
             try:
                 dt=datetime.fromisoformat(str(e.get('Date','')).replace('Z','+00:00')); dt=dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc); local=dt.astimezone(TZ8)
@@ -106,12 +127,39 @@ def update_calendar():
                 imp=int(e.get('Importance') or 1)
                 if imp<2: continue
                 actual=e.get('Actual') or ''; forecast=e.get('Forecast') or ''; previous=e.get('Previous') or ''
-                a,f=parse_num(actual),parse_num(forecast); surprise=None
-                if a is not None and f is not None: surprise=clean(a-f)
+                a,f=parse_num(actual),parse_num(forecast); surprise=clean(a-f) if a is not None and f is not None else None
                 items.append({'time':local.strftime('%H:%M'),'title':e.get('Event') or e.get('Category') or 'Economic event','country':e.get('Country',''),'importance':imp,'actual':actual,'forecast':forecast,'previous':previous,'surprise':surprise})
             except: continue
     except Exception as e: print('calendar',e)
-    save('calendar.json',{'as_of':datetime.now(timezone.utc).isoformat(),'source':'Trading Economics guest feed when available','items':sorted(items,key=lambda x:x['time'])[:18]})
+    save('calendar.json',{'as_of':datetime.now(timezone.utc).isoformat(),'source':source,'source_mode':mode,'cost_note':cost_note,'items':sorted(items,key=lambda x:x['time'])[:24]})
+
+def parse_int(v):
+    try:return int(str(v).replace(',','').replace('+','').strip())
+    except:return None
+
+def update_positioning():
+    url='https://www.taifex.com.tw/cht/3/futContractsDateExcel'; result={'product':'臺股期貨','identity':'外資','date':None,'trade_net_contracts':None,'oi_long_contracts':None,'oi_short_contracts':None,'oi_net_contracts':None}
+    try:
+        r=requests.get(url,headers=UA,timeout=25); r.raise_for_status(); soup=BeautifulSoup(r.text,'html.parser'); text=soup.get_text(' ',strip=True)
+        m=re.search(r'日期\s*(\d{4}/\d{2}/\d{2})',text); result['date']=m.group(1) if m else None
+        current_product=None
+        for tr in soup.find_all('tr'):
+            cells=[c.get_text(' ',strip=True) for c in tr.find_all(['th','td'])]
+            if not cells: continue
+            if '臺股期貨' in cells: current_product='臺股期貨'
+            identities=[i for i,x in enumerate(cells) if x in ('自營商','投信','外資')]
+            if current_product=='臺股期貨' and identities:
+                i=identities[0]
+                if cells[i]=='外資':
+                    nums=[parse_int(x) for x in cells[i+1:]]; nums=[x for x in nums if x is not None]
+                    if len(nums)>=12:
+                        result.update({'trade_long_contracts':nums[0],'trade_short_contracts':nums[2],'trade_net_contracts':nums[4],'oi_long_contracts':nums[6],'oi_short_contracts':nums[8],'oi_net_contracts':nums[10]})
+                        break
+        if result.get('oi_net_contracts') is None: raise ValueError('TAIFEX TX foreign row not parsed')
+        status='ok'
+    except Exception as e:
+        print('TAIFEX positioning',e); status='unavailable'
+    save('positioning.json',{'as_of':datetime.now(timezone.utc).isoformat(),'source':'TAIFEX 三大法人-區分各期貨契約','source_url':url,'status':status,'tx_foreign':result})
 
 def update_professional():
     m=load_json('market.json'); r=load_json('rates.json'); rates=r.get('rates',[])
@@ -119,11 +167,12 @@ def update_professional():
     policies=[x for x in rates if x.get('series') in ('DFF','ECBDFR')]
     fed=next((x for x in policies if x.get('series')=='DFF'),None); ff=None
     try:
-        q=quote({'symbol':'ZQ=F','name':'30D Fed Funds Futures','decimals':3}); implied=(100-q['price']) if q.get('price') is not None else None
-        current=fed.get('value') if fed else None; cut_bps=(current-implied)*100 if current is not None and implied is not None else None
-        proxy=max(0,min(100,cut_bps/25*100)) if cut_bps is not None else None
-        ff={'futures_price':q.get('price'),'implied_rate':clean(implied),'cut_bias_bps':clean(cut_bps),'easing_probability_proxy':clean(proxy),'note':'近月 30-Day Fed Funds futures 粗略推估，非 CME FedWatch 官方機率。'}
-    except Exception as e: print('fed proxy',e)
+        q=quote({'symbol':'ZQ=F','name':'30-Day Fed Funds Futures','decimals':3}); implied=(100-q['price']) if q.get('price') is not None else None
+        current=fed.get('value') if fed else None; basis=(implied-current)*100 if current is not None and implied is not None else None
+        easing_bps=(current-implied)*100 if current is not None and implied is not None else None
+        proxy=max(0,min(100,easing_bps/25*100)) if easing_bps is not None else None
+        ff={'symbol':'ZQ=F','name':'30-Day Fed Funds Futures (front-month continuous)','futures_price':q.get('price'),'futures_change_pct':q.get('change_pct'),'implied_rate':clean(implied),'effective_rate':clean(current),'basis_bps':clean(basis),'cut_bias_bps':clean(easing_bps),'easing_probability_proxy':clean(proxy),'source':'Yahoo Finance / FRED','note':'100 - futures price 為近月隱含平均有效聯邦基金利率的粗略代理；非 CME FedWatch 官方會議機率。'}
+    except Exception as e: print('fed futures',e)
     fx=m.get('fx',[]); get=lambda name: next((x for x in fx if x.get('name')==name),None)
     asia=[get(x) for x in ('USD/TWD','USD/JPY','USD/CNH','USD/HKD','USD/SGD','USD/KRW') if get(x)]
     twd={'usd_twd':get('USD/TWD'),'dxy':get('DXY'),'usd_cnh':get('USD/CNH')}
@@ -142,10 +191,10 @@ def market_recap(market,stocks,rates,news,calendar):
     if r10:y.append(f"10Y 美債殖利率 {r10.get('value',0):.3f}%。")
     if dxy:y.append(f"DXY 日變動 {dxy.get('change_pct',0):+.2f}%。")
     today=[f"{e.get('time','--:--')} {e.get('country','')}｜{e.get('title','重要經濟事件')}" for e in sorted(calendar.get('items',[]),key=lambda x:(-int(x.get('importance') or 1),x.get('time','99:99')))[:3]]
-    while len(today)<3:
+    if len(today)<3:
         for x in news.get('items',[]):
-            if x.get('title') and x['title'] not in today: today.append(x['title']); break
-        else: break
+            if len(today)>=3: break
+            if x.get('title') and x['title'] not in today: today.append(x['title'])
     watch=[]
     if r10: watch.append(f"利率：10Y 日變動 {r10.get('change_bps',0):+.1f} bps。")
     if dxy: watch.append(f"美元：DXY 日變動 {dxy.get('change_pct',0):+.2f}%。")
@@ -157,5 +206,5 @@ def update_brief():
     m,s,r,n,c=[load_json(x) for x in ('market.json','stocks.json','rates.json','news.json','calendar.json')]; out=market_recap(m,s,r,n,c); out['as_of']=datetime.now(timezone.utc).isoformat(); save('brief.json',out)
 
 def main():
-    cfg=load_cfg(); update_market(cfg); update_stocks(cfg); update_rates(); update_news(); update_calendar(); update_professional(); update_brief()
+    cfg=load_cfg(); update_market(cfg); update_stocks(cfg); update_rates(); update_news(); update_calendar(); update_positioning(); update_professional(); update_brief()
 if __name__=='__main__': main()
