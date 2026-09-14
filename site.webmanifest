@@ -9,13 +9,8 @@
   "background_color": "#0b3558",
   "theme_color": "#0b3558",
   "orientation": "portrait-primary",
+  "prefer_related_applications": false,
   "icons": [
-    {
-      "src": "/treasury-ai-market-dashboard/apple-touch-icon.png",
-      "sizes": "180x180",
-      "type": "image/png",
-      "purpose": "any"
-    },
     {
       "src": "/treasury-ai-market-dashboard/assets/icon.png",
       "sizes": "64x64",
