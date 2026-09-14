@@ -1,7 +1,7 @@
 from __future__ import annotations
 import json, traceback
 from datetime import datetime, timezone
-import update_v146a as u
+import update_v146b as u
 
 DATA = u.DATA
 
@@ -81,6 +81,6 @@ def main():
     except Exception as e:
         print('[WARN] brief stage failed:',e); traceback.print_exc()
         if old['brief.json']: save('brief.json',old['brief.json'])
-    print('V1.4.6a update completed: multi-source calendar reliability and top-5 market news enabled.')
+    print('V1.4.6b update completed: global central-bank calendar and strict today filtering enabled.')
 
 if __name__=='__main__': main()
