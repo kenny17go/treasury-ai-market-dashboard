@@ -7,7 +7,7 @@ import yfinance as yf
 
 ROOT=Path(__file__).resolve().parents[1]; DATA=ROOT/'data'; CONFIG=ROOT/'config'/'market.yml'; DATA.mkdir(exist_ok=True)
 TZ8=timezone(timedelta(hours=8))
-UA={'User-Agent':'Mozilla/5.0 TreasuryAI/1.0'}
+UA={'User-Agent':'Mozilla/5.0 TreasuryAI/1.1'}
 
 def clean(v):
     try:
@@ -18,7 +18,6 @@ def save(name,obj):
     (DATA/name).write_text(json.dumps(obj,ensure_ascii=False,indent=2),encoding='utf-8')
 
 def hist_for(symbol):
-    # Intraday first; fall back to daily. yfinance may occasionally throttle, so keep this isolated.
     for period,interval in [('5d','30m'),('1mo','1d')]:
         try:
             h=yf.Ticker(symbol).history(period=period,interval=interval,auto_adjust=False,prepost=False,timeout=15)
@@ -32,7 +31,6 @@ def quote(item):
     symbol=item['symbol']; vals=hist_for(symbol)
     if len(vals)<2: return {**item,'price':None,'change':None,'change_pct':None,'spark':[]}
     price=vals[-1]
-    # Prefer previous session close from daily history.
     prev=None
     try:
         d=yf.Ticker(symbol).history(period='7d',interval='1d',auto_adjust=False,timeout=15)
@@ -48,7 +46,7 @@ def load_cfg(): return yaml.safe_load(CONFIG.read_text(encoding='utf-8'))
 def update_market(cfg):
     now=datetime.now(timezone.utc).isoformat()
     sections={}
-    for sec in ('indices','taiwan','commodities','fx'):
+    for sec in ('indices','pulse','taiwan','commodities','fx'):
         out=[]
         for item in cfg.get(sec,[]):
             q=quote(item); out.append(q); time.sleep(.1)
@@ -69,14 +67,22 @@ def fred_series(series):
     return vals[-2:] if len(vals)>=2 else vals
 
 def update_rates():
-    mapping=[('DGS2','美債 2年'),('DGS10','美債 10年'),('DGS30','美債 30年')]
-    rows=[]
+    mapping=[('DGS2','美債 2年'),('DGS10','美債 10年'),('DGS30','美債 30年'),('SOFR','SOFR')]
+    rows=[]; cache={}
     for sid,name in mapping:
         try:
-            vals=fred_series(sid); value=vals[-1]; prev=vals[-2] if len(vals)>1 else value
-            rows.append({'series':sid,'name':name,'value':clean(value),'change_bps':clean((value-prev)*100)})
+            vals=fred_series(sid); cache[sid]=vals
+            value=vals[-1]; prev=vals[-2] if len(vals)>1 else value
+            rows.append({'series':sid,'name':name,'value':clean(value),'unit':'%','change_bps':clean((value-prev)*100)})
         except Exception as e:
-            print('FRED',sid,e); rows.append({'series':sid,'name':name,'value':None,'change_bps':None})
+            print('FRED',sid,e); rows.append({'series':sid,'name':name,'value':None,'unit':'%','change_bps':None})
+    try:
+        v2=cache['DGS2']; v10=cache['DGS10']
+        spread=(v10[-1]-v2[-1])*100
+        prev_spread=((v10[-2] if len(v10)>1 else v10[-1])-(v2[-2] if len(v2)>1 else v2[-1]))*100
+        rows.append({'series':'2S10S','name':'2Y10Y 利差','value':clean(spread),'unit':'bps','change_bps':clean(spread-prev_spread)})
+    except Exception as e:
+        print('2s10s',e); rows.append({'series':'2S10S','name':'2Y10Y 利差','value':None,'unit':'bps','change_bps':None})
     save('rates.json',{'as_of':datetime.now(timezone.utc).isoformat(),'source':'FRED / Federal Reserve H.15','rates':rows})
 
 def clean_news_title(t):
@@ -94,7 +100,7 @@ def update_news():
                 key=title.lower()
                 if not title or key in seen: continue
                 seen.add(key)
-                source='';
+                source=''
                 if isinstance(e.get('source'),dict): source=e.source.get('title','')
                 items.append({'title':title,'url':e.get('link','#'),'source':source,'published':e.get('published',''),'time':''})
         except Exception as ex: print('news',ex)
@@ -102,7 +108,6 @@ def update_news():
 
 def update_calendar():
     items=[]
-    # Trading Economics provides a limited guest feed. If unavailable, dashboard gracefully shows an empty state.
     try:
         r=requests.get('https://api.tradingeconomics.com/calendar?c=guest:guest',headers=UA,timeout=25); r.raise_for_status(); raw=r.json()
         today=datetime.now(TZ8).date(); countries={'United States','Japan','Euro Area','China','Taiwan','United Kingdom','Canada'}
@@ -128,18 +133,25 @@ def rules_brief(market,stocks,rates):
     indices=[x for x in market.get('indices',[]) if x.get('change_pct') is not None]
     st=[x for x in stocks.get('stocks',[]) if x.get('change_pct') is not None]
     avg=sum(x['change_pct'] for x in indices)/len(indices) if indices else 0
-    score=max(0,min(100,round(50+avg*12)))
+    vix=next((x for x in market.get('pulse',[]) if x.get('symbol')=='^VIX'),None)
+    vix_adj=0
+    if vix and vix.get('price') is not None:
+        vix_adj=-8 if vix['price']>=25 else (5 if vix['price']<16 else 0)
+    score=max(0,min(100,round(50+avg*12+vix_adj)))
     label='偏多' if score>=62 else '偏空' if score<=38 else '中性'
     best=max(st,key=lambda x:x['change_pct'],default=None); worst=min(st,key=lambda x:x['change_pct'],default=None)
     r10=next((x for x in rates.get('rates',[]) if x.get('series')=='DGS10'),None)
+    curve=next((x for x in rates.get('rates',[]) if x.get('series')=='2S10S'),None)
     bullets=[]
     if indices: bullets.append('主要美股指數平均變動 '+f'{avg:+.2f}%'+('，風險偏好改善。' if avg>0 else '，風險偏好轉弱。'))
+    if vix and vix.get('price') is not None: bullets.append(f"VIX {vix['price']:.2f}，日變動 {vix.get('change_pct',0):+.2f}%。")
     if best and worst: bullets.append(f"自選股強勢為 {best.get('label',best['symbol'])} {best['change_pct']:+.2f}%；較弱為 {worst.get('label',worst['symbol'])} {worst['change_pct']:+.2f}%。")
     if r10 and r10.get('value') is not None: bullets.append(f"美債10年殖利率 {r10['value']:.3f}%，單日變動 {r10.get('change_bps',0):+.1f} bps。")
-    return {'mode':'rules','headline':f'市場風險情緒：{label}','bullets':bullets,'risk_score':score,'risk_label':label}
+    if curve and curve.get('value') is not None: bullets.append(f"2Y10Y 利差 {curve['value']:+.1f} bps。")
+    return {'mode':'rules','headline':f'市場風險情緒：{label}','bullets':bullets[:4],'risk_score':score,'risk_label':label}
 
 def openai_brief(base,market,stocks,rates):
-    key=os.getenv('OPENAI_API_KEY');
+    key=os.getenv('OPENAI_API_KEY')
     if not key:return base
     model=os.getenv('OPENAI_MODEL','gpt-5.6-luna')
     payload={'model':model,'input':[{'role':'system','content':'你是金融市場晨報編輯。只根據輸入數據，以繁體中文寫1句標題與3個精簡重點，不做投資建議，不捏造。輸出JSON：headline, bullets。'},{'role':'user','content':json.dumps({'market':market,'stocks':stocks,'rates':rates},ensure_ascii=False)[:28000]}]}
