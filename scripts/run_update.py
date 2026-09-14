@@ -25,6 +25,30 @@ def _num(value):
     except Exception:
         return None
 
+def _signed_move(change_raw, pct_raw, context=''):
+    """Normalize Yahoo Taiwan direction markers into signed numeric values.
+
+    Yahoo Taiwan uses ▲/▼ plus Taiwan market colors; the numeric cells may omit
+    the minus sign. Preserve explicit signs first, otherwise use the direction
+    marker from the surrounding row/text.
+    """
+    change = _num(change_raw)
+    pct = _num(pct_raw)
+    text = f'{context} {change_raw} {pct_raw}'
+    down = '▼' in text or '跌' in text
+    up = '▲' in text or '漲' in text
+    if down:
+        if change is not None:
+            change = -abs(change)
+        if pct is not None:
+            pct = -abs(pct)
+    elif up:
+        if change is not None:
+            change = abs(change)
+        if pct is not None:
+            pct = abs(pct)
+    return change, pct
+
 def _field_index(fields, keywords):
     for i, f in enumerate(fields or []):
         text = str(f).replace(' ', '')
@@ -137,6 +161,7 @@ def fetch_taiwan_futures_quote():
             idx = cells.index('台指期近一')
         except ValueError:
             continue
+        row_text = ' '.join(cells)
         rest = cells[idx + 1:]
         if rest and rest[0].startswith('WTX'):
             symbol = rest.pop(0)
@@ -147,21 +172,25 @@ def fetch_taiwan_futures_quote():
         price = _num(rest[2])
         if price is None:
             continue
+        change, change_pct = _signed_move(rest[3], rest[4], row_text)
         return {
             'name': '台指期近一', 'symbol': symbol, 'price': price,
-            'bid': _num(rest[0]), 'ask': _num(rest[1]), 'change': _num(rest[3]),
-            'change_pct': _num(rest[4]), 'volume': _num(rest[5]),
+            'bid': _num(rest[0]), 'ask': _num(rest[1]), 'change': change,
+            'change_pct': change_pct, 'volume': _num(rest[5]),
             'quote_time': rest[-1] if rest and re.fullmatch(r'\d{1,2}:\d{2}:\d{2}', rest[-1]) else None,
+            'direction_marker': '▼' if change_pct is not None and change_pct < 0 else ('▲' if change_pct is not None and change_pct > 0 else ''),
             'source': 'Yahoo股市', 'source_url': url,
             'fetched_at': datetime.now(timezone.utc).isoformat(),
         }
     text = soup.get_text('\n', strip=True)
-    m = re.search(r'台指期近一\s*WTX&\s*([\d,.+-]+)\s*([\d,.+-]+)\s*([\d,.+-]+)\s*([\d,.+-]+)\s*([\d,.+-]+)%\s*([\d,]+)', text, re.S)
+    m = re.search(r'台指期近一\s*WTX&\s*([\d,.+-]+)\s*([\d,.+-]+)\s*([\d,.+-]+)\s*([▲▼]?)\s*([\d,.+-]+)\s*\(?([\d,.+-]+)%?\)?\s*([\d,]+)', text, re.S)
     if m:
+        change, change_pct = _signed_move(m.group(5), m.group(6), m.group(4))
         return {
             'name': '台指期近一', 'symbol': 'WTX&', 'bid': _num(m.group(1)),
-            'ask': _num(m.group(2)), 'price': _num(m.group(3)), 'change': _num(m.group(4)),
-            'change_pct': _num(m.group(5)), 'volume': _num(m.group(6)), 'quote_time': None,
+            'ask': _num(m.group(2)), 'price': _num(m.group(3)), 'change': change,
+            'change_pct': change_pct, 'volume': _num(m.group(7)), 'quote_time': None,
+            'direction_marker': m.group(4),
             'source': 'Yahoo股市', 'source_url': url, 'fetched_at': datetime.now(timezone.utc).isoformat(),
         }
     raise ValueError('Taiwan Index Futures quote not parsed')
@@ -251,7 +280,6 @@ def main():
             market['taiwan'] = [old_tw]
             market['taiwan_stats'] = {**old_stats, 'fallback': True}
         else:
-            # Avoid presenting Yahoo's mismatched ^TWII close as an official close.
             market['taiwan'] = []
             market['taiwan_stats'] = {'source': 'TWSE MI_INDEX official', 'status': 'unavailable'}
 
