@@ -15,8 +15,7 @@
     "DXY 日變動 +0.35%。"
   ],
   "today_top": [
-    "新聞｜〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
-    "新聞｜美股 ETF 吸金力十足"
+    "今日暫無已確認的高重要性事件；不以未來日期事件補位。"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +1.0 bps。",
@@ -26,5 +25,5 @@
   ],
   "today_date_taipei": "2026-09-15",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-14T23:37:12.898061+00:00"
+  "as_of": "2026-09-14T23:41:00.789891+00:00"
 }
