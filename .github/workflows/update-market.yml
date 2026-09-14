@@ -1,6 +1,12 @@
 name: Update market data
 on:
   workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths:
+      - "scripts/**"
+      - "config/**"
+      - "requirements.txt"
   schedule:
     - cron: '*/30 * * * 1-5'
 permissions:
