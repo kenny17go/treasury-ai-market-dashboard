@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import json
+import re
+from datetime import datetime
 from pathlib import Path
 
 import update_market as u
@@ -10,13 +12,11 @@ MARKET = DATA / 'market.json'
 
 
 def num(v):
-    s = str(v or '').replace(',', '').replace('%', '').replace('−', '-').strip()
-    if s in ('', '-', '—'):
+    if v is None:
         return None
-    try:
-        return float(s)
-    except Exception:
-        return None
+    s = str(v).replace(',', '').replace('%', '').replace('−', '-').strip()
+    m = re.search(r'-?\d+(?:\.\d+)?', s)
+    return float(m.group(0)) if m else None
 
 
 def field_index(fields, keyword):
@@ -26,110 +26,147 @@ def field_index(fields, keyword):
     return None
 
 
-def table_for_date(date_text):
+def twse_tables(date_text):
     url = 'https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX'
-    r = u.get_http(url, params={'date': date_text.replace('-', ''), 'type': 'ALLBUT0999', 'response': 'json'})
+    r = u.get_http(
+        url,
+        params={'date': date_text.replace('-', ''), 'type': 'ALLBUT0999', 'response': 'json'},
+    )
     obj = r.json()
     if str(obj.get('stat', '')).upper() != 'OK':
         raise RuntimeError(f'TWSE MI_INDEX not OK: {obj.get("stat")}')
     return obj.get('tables') or []
 
 
-def total_turnover(tables):
-    for t in tables:
-        fields = t.get('fields') or []
-        vi = field_index(fields, '成交金額')
-        if vi is None:
-            continue
-        rows = t.get('data') or []
-        # Prefer an explicit total row when TWSE supplies one.
-        for row in rows:
-            if not row or vi >= len(row):
-                continue
-            label = str(row[0]).replace(' ', '')
-            if '合計' in label or '總計' in label:
-                v = num(row[vi])
-                if v is not None:
-                    return v
-        # Otherwise sum the mutually exclusive security-category rows.
-        vals = []
-        for row in rows:
-            if not row or vi >= len(row):
-                continue
-            label = str(row[0]).replace(' ', '')
-            if '合計' in label or '總計' in label:
-                continue
-            v = num(row[vi])
-            if v is not None:
-                vals.append(v)
-        if vals:
-            return sum(vals)
+def fmtqik_turnover(date_text):
+    """Return official total market turnover from TWSE FMTQIK.
+
+    FMTQIK is the official daily market-statistics series and its 成交金額 is
+    the full market total used by TWSE/CNA market-close reports. This avoids
+    accidentally showing the 1.一般股票 subtotal.
+    """
+    dt = datetime.strptime(date_text, '%Y-%m-%d')
+    roc_date = f'{dt.year - 1911:03d}/{dt.month:02d}/{dt.day:02d}'
+    r = u.get_http(
+        'https://www.twse.com.tw/exchangeReport/FMTQIK',
+        params={'response': 'json', 'date': dt.strftime('%Y%m%d')},
+    )
+    obj = r.json()
+    for row in obj.get('data') or []:
+        if row and str(row[0]).strip() == roc_date and len(row) >= 3:
+            value = num(row[2])
+            if value is not None:
+                return value
     return None
 
 
-def breadth(tables):
-    # First preference: a row-based summary table with Up/Down columns.
-    for t in tables:
-        fields = t.get('fields') or []
-        ui = field_index(fields, '上漲')
-        di = field_index(fields, '下跌')
-        fi = field_index(fields, '持平')
-        if ui is None or di is None:
+def mi_index_total_turnover(tables):
+    """Fallback: read the explicit 總計(1~15) row from MI_INDEX."""
+    for table in tables:
+        fields = table.get('fields') or []
+        vi = field_index(fields, '成交金額')
+        if vi is None:
             continue
-        rows = t.get('data') or []
-        preferred = next((r for r in rows if r and '股票' in str(r[0])), None)
-        row = preferred or (rows[0] if rows else None)
-        if row and ui < len(row) and di < len(row):
-            up, down = num(row[ui]), num(row[di])
-            flat = num(row[fi]) if fi is not None and fi < len(row) else None
-            if up is not None and down is not None:
-                return int(up), int(down), int(flat) if flat is not None else None
+        for row in table.get('data') or []:
+            if not row or vi >= len(row):
+                continue
+            label = str(row[0]).replace(' ', '')
+            if label.startswith('總計'):
+                value = num(row[vi])
+                if value is not None:
+                    return value
+    return None
 
-    # Second preference: legacy table with 上漲/下跌/持平 as first-column labels.
-    for t in tables:
+
+def stock_breadth(tables):
+    """Read listed-stock up/down/flat counts from TWSE breadth table.
+
+    TWSE currently provides rows such as 上漲(漲停), 下跌(跌停), 持平 and
+    columns 類型 / 整體市場 / 股票. We explicitly use the 股票 column.
+    Values may look like 341(12), so only the leading count is parsed.
+    """
+    for table in tables:
+        rows = table.get('data') or []
+        if not rows:
+            continue
+        labels = [str(row[0]).replace(' ', '') for row in rows if row]
+        if not any(x.startswith('上漲') for x in labels):
+            continue
+        if not any(x.startswith('下跌') for x in labels):
+            continue
+
+        fields = [str(x).replace(' ', '') for x in (table.get('fields') or [])]
+        stock_idx = next((i for i, f in enumerate(fields) if f == '股票' or f.endswith('股票')), None)
+        if stock_idx is None:
+            # Current TWSE layout is 類型 / 整體市場 / 股票.
+            stock_idx = 2
+
         up = down = flat = None
-        for row in t.get('data') or []:
+        for row in rows:
             if not row:
                 continue
             label = str(row[0]).replace(' ', '')
-            value = num(row[-1])
+            if stock_idx >= len(row):
+                continue
+            value = num(row[stock_idx])
             if label.startswith('上漲'):
-                up = value
+                up = int(value) if value is not None else None
             elif label.startswith('下跌'):
-                down = value
+                down = int(value) if value is not None else None
             elif label.startswith('持平'):
-                flat = value
+                flat = int(value) if value is not None else None
+
         if up is not None and down is not None:
-            return int(up), int(down), int(flat) if flat is not None else None
+            return up, down, flat
+
     return None, None, None
 
 
 def main():
     market = json.loads(MARKET.read_text(encoding='utf-8'))
     stats = market.get('taiwan_stats') or {}
-    date_text = stats.get('date') or next((x.get('quote_date') for x in market.get('taiwan', []) if x.get('quote_date')), None)
+    date_text = stats.get('date') or next(
+        (x.get('quote_date') for x in market.get('taiwan', []) if x.get('quote_date')),
+        None,
+    )
     if not date_text:
         raise RuntimeError('Taiwan trade date missing from market.json')
 
-    tables = table_for_date(date_text)
-    turnover = total_turnover(tables)
-    up, down, flat = breadth(tables)
+    tables = twse_tables(date_text)
 
-    if turnover is not None:
-        stats['turnover_twd'] = turnover
-        stats['turnover_100m_twd'] = round(turnover / 100_000_000, 2)
-    if up is not None and down is not None:
-        stats['advance_count'] = up
-        stats['decline_count'] = down
-        stats['flat_count'] = flat
-        directional = up + down
-        stats['advance_pct'] = round(up / directional * 100, 1) if directional else None
-        stats['decline_pct'] = round(down / directional * 100, 1) if directional else None
+    turnover = fmtqik_turnover(date_text)
+    if turnover is None:
+        turnover = mi_index_total_turnover(tables)
 
-    # Volume is intentionally no longer displayed in the Taiwan-market UI.
+    up, down, flat = stock_breadth(tables)
+
+    if turnover is None:
+        raise RuntimeError(f'TWSE TOTAL turnover missing for {date_text}')
+    if up is None or down is None:
+        raise RuntimeError(f'TWSE STOCK breadth missing for {date_text}: up={up}, down={down}')
+
+    directional = up + down
+    stats.update({
+        'turnover_twd': turnover,
+        'turnover_100m_twd': round(turnover / 100_000_000, 2),
+        'advance_count': up,
+        'decline_count': down,
+        'flat_count': flat,
+        'advance_pct': round(up / directional * 100, 1) if directional else None,
+        'decline_pct': round(down / directional * 100, 1) if directional else None,
+        'source': 'TWSE official FMTQIK + MI_INDEX',
+        'source_url': 'https://www.twse.com.tw/exchangeReport/FMTQIK',
+    })
+
+    # Cash-market volume remains in JSON for diagnostics/backward compatibility,
+    # but the Taiwan-market UI intentionally does not display it.
     market['taiwan_stats'] = stats
     MARKET.write_text(json.dumps(market, ensure_ascii=False, indent=2), encoding='utf-8')
-    print(f"TWSE stats corrected: date={date_text} turnover={stats.get('turnover_100m_twd')}億元 up={stats.get('advance_count')} down={stats.get('decline_count')}")
+    print(
+        f'TWSE corrected: date={date_text} '
+        f'turnover={stats["turnover_100m_twd"]}億元 '
+        f'up={up} down={down} flat={flat}'
+    )
 
 
 if __name__ == '__main__':
