@@ -31,7 +31,9 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.6-luna' }}
           TRADING_ECONOMICS_API_KEY: ${{ secrets.TRADING_ECONOMICS_API_KEY }}
-        run: python scripts/run_update.py
+        run: |
+          python scripts/run_update.py
+          python scripts/fix_twse_stats.py
       - name: Commit data
         run: |
           git config user.name "treasury-ai-bot"
