@@ -1,246 +1,255 @@
 {
-  "as_of": "2026-09-14T04:44:11.246733+00:00",
-  "source": "Google News RSS",
+  "as_of": "2026-09-14T04:54:51.338773+00:00",
+  "source": "Google News RSS · preferred financial publishers",
+  "preferred_sources": [
+    "鉅亨網",
+    "經濟日報",
+    "自由財經",
+    "華爾街日報",
+    "金融時報",
+    "彭博社",
+    "路透社"
+  ],
   "items": [
     {
-      "title": "美股四大指數背離 阮慕驊：9月會有答案 - 財經新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcmg1OEhCUENaeUhHcmduWkVFek9IY040YzdmVkN0WnFsc1F1MnpnaVU4R2RlYy1pcTVuOTJOYk9kRl9DYV9iNlo3cXB5a1lBSE1sN2c1RWRpYklrQkFiQkhoSFZMZFFBeXZsaUpkeFlNdkhENTZYcVRXcmJmaG5rNmxnVnRJQXRJSEJZ?oc=5",
-      "source": "news.pchome.com.tw",
-      "published": "Sun, 30 Aug 2026 07:00:00 GMT",
+      "title": "美股收盤／油價破百美債殖利率連升打壓美股 費半逆勢四連漲",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yTHVHUF9mRjF1akZLNkFvWjFMRHczSTJjN3JHVkdvaWJ4cFpaUTRsYzAzZFBDVHNNaHhITUZHZHZtQ2xac1VJUTNnZkpoUzBrVWRHTTZodDhCUEZK0gFiQVVfeXFMTlpqTU9GSEtXaURaVWlHQm15TjQ5eHZ6d0VQUlUwQlZOZ3BDR2FUMW5Gd05vTGt5ejZSakNGSWtWMmFBdzZxQnV2dXVoeWVsTE9CcDFnUFVjUG94N0J4RmZSd1E?oc=5",
+      "source": "經濟日報",
+      "published": "Wed, 09 Sep 2026 22:58:10 GMT",
+      "time": "",
+      "category": "Fed / Rates"
+    },
+    {
+      "title": "本周重磅／利率問題搶 AI 鋒頭 Fed 會升息嗎？美股承壓、台股短期波動放大 | 當期活動 | 活動",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBleEl3b0lPbENOb1BXTlhPajZkMk5IcVRkbS1GSTNyNktnUXJ3QjRBZXVXMUk3b01FRjlORTQtSTc0emxPcGl6VFl1VzZhN25fajVBZnVBcmpaV1pN?oc=5",
+      "source": "經濟日報",
+      "published": "Wed, 09 Sep 2026 07:23:47 GMT",
+      "time": "",
+      "category": "Fed / Rates"
+    },
+    {
+      "title": "9月11日重要財經行事曆",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DTjNCek5PNE5FeERzaXV0dldnWmllU3JYNlkxUXk3OFNWLTN2Y2REcU5hdmwybTM1YkUzN1QyTnE4Qk9KZ2Zzd2xtMEo5UExvYmRmYWFOMVJ6d9IBX0FVX3lxTFAxOWExa0RKQmROWV9GOWxfMEo0MVlYR29GVUdCUDZheU9vNjhaUXJmdk95M2Q5S0lwY0diaHE1cXFJeW5OV3d6cDJTUmpqNzlscDI3WkJ5RVBVYUNGWVBz?oc=5",
+      "source": "經濟日報",
+      "published": "Thu, 10 Sep 2026 23:40:05 GMT",
       "time": "",
       "category": "全球市場"
     },
     {
-      "title": "美國消費轉弱美股自歷史高點回落、半導體後市聚焦月底輝達財報| 全球財經| 全球",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12cWFDTllkTVYyQWtHZVhWaWRUSi02ZjNtTTJ3cHJCRHF4RFRxMXBNOGl3NTRlUHBwSmJMQV9OamV1UHRGYklSRzYzcnFjUEVf?oc=5",
-      "source": "UDN",
-      "published": "Sat, 15 Aug 2026 07:00:00 GMT",
-      "time": "",
-      "category": "AI / 半導體"
-    },
-    {
-      "title": "輝達財報超預期飆8%！AI需求全面開花",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxc0p2Sjc3RWxmZkJaaFdJbFE1X1QyNUthTWY3VXJ5am12QTBpUUVJTFFSdXlVTzVfM0V0TnB5aVFYSHBTb0UxTTJ6Y1ozTG8?oc=5",
-      "source": "TVBS新聞網",
-      "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "time": "",
-      "category": "AI / 半導體"
-    },
-    {
-      "title": "超級財報季倒數計時！機構預測2026 Q2 美股財報驚人上修，科技股與低β防禦股夏季健康良性輪動，機會來了？！｜美股即時通2026.07.08｜豐雲學堂2026 年 09 月",
-      "url": "https://news.google.com/rss/articles/CBMi1gVBVV95cUxNWkVaYnQyLVgtUW96X0RfSFNMczFmNnVTT1oyWm11WWZVSlFBZ0pNeG9ndWVZVnpsUjJ3X2lGcVRnSWlCVTJKY2lsckJTdl9NNmZEU2sxRmQ1ZkNReUV6eE5WTU1MVjQzNnFXT21JY1l0UEtrbHpoM1pHRHA3RUpnWGswRE1SX2ZHQ0VucDR6eVJVSjhnLUNwVHg1OWxrVHRwaldWR1hPN2NRdFJ2TzJUd2lsNlY0eTZEeElNcDNwYkZaZTg2NnNWN1FIWGhheGl1bXZVSzNoWEMteUZCTzYzV09neDhhN2RsSGJ1VnBxU19XbUluREJwSWVaWmVIc1F0R3NLZkRmdzZEYWJrWWNIaHpTdnZNbXhVd0JMQ0tadlNmS3B0cXplMVdxbTVkQWQ0Qi1vUENTVUoyZ2tNS2x0NjlfZUdXa2RndXNKb0xQSU5uUDA2bEk3VHNIbF9Na09FVkxwNVdQU3BIZ3N1ZUI4bEMzaEtOWmVzLXEyazE5LThOT2xWUDRfV2pHTWlEU21vektYSWJ1RXhrb0dwcVJzNFBESE1SMEtDcEJHR3JRa19TeE9jMW9zWDhleXFIZ1h5MXRDdDlUc3daZy1ibEY0d29WczNQWFVYTW1BaXZnMEpWMVNxZmZNT3FqRWVrSkxUZy11Xy1Lb1o0UXhYWGo4SXZTOEJkV3pSS3dRUXVBVGRMXy1yQXc1Q18tOHp1OE1ma2ZJV2QtNmFwdVlralh4STNERU5yLWtlUk9kZXl5S0dFaWlkbWVKWTBDNUhRQkJTZFNUNS1WQzVZTW9Od2w3S0QwWk5SQTZhZUt1dmRBX2M4dlhmR2xsVzh4eFoyaXpudFZjT2VPN0xGeEdDQ1RyZTRIOEhNN2tSYVY3Ri1lMm9RdFBHY3lwRlRyYkUxZTZLTllrUVEwcDBLbm9mdGpVNHpTMmVUT1NPTktDNU1hTFRhaVJ6b0E?oc=5",
-      "source": "sinotrade.com.tw",
-      "published": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "title": "9月11日 五件財經大事搶先看",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aMVlIeWdMLUdaYVhRazhkZGpxQlpjbEkyM2hyTlRnalJWU2V3Q3RnVDUtMVNMMUlPa2kwb0hqRG05NkU1WExhU2FIQ2VPaERlZGZJTGNzbndNUdIBX0FVX3lxTE5ZSHFRR1Z6WjFwT0xURzJ3cTktZHo5UVROQXpwcFVBSXRpQXQwR2NWbEhzb2NiWkNzaFg5d080ckQ0LXU3NVo2YjdCSk9jZmhQd2hrNXBKanVhNG5KVWZJ?oc=5",
+      "source": "經濟日報",
+      "published": "Thu, 10 Sep 2026 19:29:53 GMT",
       "time": "",
       "category": "全球市場"
     },
     {
-      "title": "美國消費轉弱 美股自歷史高點回落 半導體後市聚焦月底Nvidia財報",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWTjUwcmFiRXRvQmRyY2RfTDVPMTJ4YXpUVzM2Yk4tUW5tTktORHgxRjBkVXNaX3pPZmptcDJzNnNFeUsxTXdfdmpVOElfZVduNmg1M21xMVVCakJESFJidnNR?oc=5",
-      "source": "世界新聞網",
-      "published": "Sat, 15 Aug 2026 07:00:00 GMT",
-      "time": "",
-      "category": "AI / 半導體"
-    },
-    {
-      "title": "美債殖利率飆多年新高！科技股慘遭拋售美股全收黑",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xQjJId0pVYjdNZFBYT3MtN1FlS3kxanAzNlZzeXBzeW9RT3Jrbms4dkxhcUNDOXJLRllqY0t3ejFBXzNPOF9heEFvZGp5VmM3S05zd0RSeGFDNkVxNzdTX3JZMnYwdw?oc=5",
-      "source": "民視財經網",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "title": "美國8月 PPI 好壞參半 美股期指挫低",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtOEF3aURma3RLYlpDeml4YVlOOVp4RGF2Nm5aOWd0Rkc2VW9zR1B5aUdTTmRRV0NxQlhjdnZMQlY0M25Ydy14QmZ5TmZRTzE4dDh2SWJOaEp1YkRM0gFiQVVfeXFMTUpmNnhJWGVacnFLQm5SLXZGdEFTUDlNTGE3aWtuZEFUWTA2YUNWLVlBcmdBTmZYVnhFX3RwMnk1TkxQc1Bsbkl5bTBRR3F3TEZXMTdtT194Um84MGZZRnJaOXc?oc=5",
+      "source": "經濟日報",
+      "published": "Thu, 10 Sep 2026 12:46:55 GMT",
       "time": "",
       "category": "Fed / Rates"
     },
     {
-      "title": "【專家分析】買Nvidia係「投資鐵律」？",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zQ0Q3czZpblpPTzkwSHNUWENFSDVmSXFja183T3UxNG1uV2NKRTNZUWN5Z28zb01lWTVwSWtxcDVRU21jNFhpMXl4cC1CXzljaWJxODlNeUE4Z1ZHZ21oanBUa0tQc2RDeUtTUW40ZFlXQ2s?oc=5",
-      "source": "Now 財經",
-      "published": "Tue, 25 Aug 2026 02:53:00 GMT",
+      "title": "Fed 傳聲筒：升不升息就差在0.1個百分點 華許等周五 CPI 定奪",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tcUtkTUQ2TkUyZl9TU2NXMVB5dXVndzB1V19kaWdqbFBWUnpzVTJtNWpCa3BFc3hMeUR5S0hzcFhSUjR6YlJrN2xCSllBQVpxOXh4UDJWS2ltZ9IBX0FVX3lxTE8tanFzZGh3V09SYmhaMWxhc2puVkxGWmhWSUo1QkZBOXJqdGVYX3Bra3dsdWVVUVBPd0xUaGQzMVVrNUVYdVcxZTJMWWF3TFdQV2pKOHNEU0NPRFk5Z2Y4?oc=5",
+      "source": "經濟日報",
+      "published": "Thu, 10 Sep 2026 01:44:29 GMT",
       "time": "",
-      "category": "AI / 半導體"
+      "category": "Fed / Rates"
     },
     {
-      "title": "全球晶片股崩盤元凶找到了！原因恐怕沒那麼簡單",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oY2N5TWl0VHlrZUdRaWpHUTNidW04UnJVaS1XZVlSNnk3Umx4QTgtV0Y5RWs2VV9DWHNzSG5BOF8wQVlfdEZzcFNEd2V0T29XbktBOC1YSV9UdmF5N0RV0gFkQVVfeXFMT09HcVVVMlB4WHJRZXhHeHZDdVI0MVNEZ0V2ckd5NTlSQXFyMjhVb0huS095aGlxaDRTU05UNUpWM1J3TUs1Wjd1cDF4MFdnUU5GUHlKYXR6QUI2TVhTbmZ0OVJRRA?oc=5",
-      "source": "自由財經",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "time": "",
-      "category": "AI / 半導體"
-    },
-    {
-      "title": "英特爾財報亮眼帶動上週美股半導體族群攻堅，有助本週台股開盤期待",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVBneW9IMmRINUk2bkM5WW9pVklWakpVaGZoNTh4TVltOUVZWVc2UmV5TE9OdnRmcUM4R2xUd3hzSVA5ejVoVG1Ed0xtVmxnV2hKaTF6RUEzN0IxdWw0NEYtQnZWU1NzVTBLbjlVSmVuY1ctSUM0OVNMVFI5QkN4UEJTUWVFSHY4MmNhUU9WQXVZRTF1cVRhMHowUXY4eU1xZW50eEw3c1pPODRLUlE3WUhvQXEyWWg5M1UwYmp2RkRQOFE?oc=5",
-      "source": "TechNews 科技新報",
-      "published": "Mon, 27 Apr 2026 07:00:00 GMT",
-      "time": "",
-      "category": "AI / 半導體"
-    },
-    {
-      "title": "快訊／AI 雜音再起！軟體股重傷 台積電ADR挫 3% 、美光砸6兆擴產反跌",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XVlZXdzZGblVxaHNmU2RQZVJQTnRNM3NzZVY4b2tKNEJCLWpNbkVDenNZUF9hcUNpSkNYS1F4dmhEdzE4eWYyaFEyZw?oc=5",
-      "source": "三立新聞",
-      "published": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "time": "",
-      "category": "AI / 半導體"
-    },
-    {
-      "title": "捨舊愛、擁新歡？輝達相對費半指數表現2年最差 這檔飆漲逾200%",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3OG5iUTJYSGFEQTZKa0kyQmlHQk0xV25HSHQzMTAwSWp6cVQwTVJrRmVVbDNQS3FrZGlTY2lDeHZxM0F0U3p0dng5ZjFNUk0y?oc=5",
-      "source": "UDN",
-      "published": "Fri, 08 May 2026 07:00:00 GMT",
+      "title": "9月14日重要財經行事曆",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcW9pTXgwMUtyblBSRW9YT0ZBWXhuTTVGNjh0cnZFWUtxX25TUlNJQWNpS1dOX2hFUFIyaXkyLUFLWl9xclhDZmlEdGkyOEg3RUFIU1RmcVRvNWJYeHh0S0R0MTVscWFyRUQxcS1icFUyN05temthVTNJV1ZJRFp1cNIBX0FVX3lxTFBxb1hOUDhfM3pnN0hFR3RHeWtDMnFmNEZ4QnpISGtSXzd1LXR2b2w1aEtOVk5QUTJCWmxjcFhremw4N2Z3bHJJSmlSZURGRzNrdkZpWkZiWDlkV0dnVnZj?oc=5",
+      "source": "經濟日報",
+      "published": "Sun, 13 Sep 2026 23:44:55 GMT",
       "time": "",
       "category": "全球市場"
     },
     {
-      "title": "【專家分析】瞓身美股變現最強AI、軟件股？",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzS1BHT0RqN1Rfd2F1bWF1Z1hyWXN4R2xDcU1lZUNhUnhOOHB0dk5uTlNLYjZhaHZnWHRaVi1GUXNkSm5BTHdkZkoxYVRzLUpsV1JKLUNDTXlSbU0?oc=5",
-      "source": "Now 財經",
-      "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "title": "9月14日 五件財經大事搶先看",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYSHdTUHhMZWxIVnRBUXNDMEpwVlBnQVFvUmg3T3V6bW9rcHZmdE1veFBpT0xYLWpUR1VqYVN2YU1jb2VNeVdBb0xUUUtIT3FqVjVOMUNTMGV0d9IBX0FVX3lxTE1FZWFXNXFuRmNWN1Nqa2VrdmF6LXdHNHRsYWJzNnF1SVl5V0QxUWRRYUNrVFlKbm5JeWNILTBGaHlWa09LYXZRbzI1d0QwbkdBb1ZVaUpOa3oxazJIc2I0?oc=5",
+      "source": "經濟日報",
+      "published": "Sun, 13 Sep 2026 20:12:12 GMT",
       "time": "",
-      "category": "AI / 半導體"
+      "category": "全球市場"
     },
     {
-      "title": "油價飆升推升美債殖利率 美元高檔震盪靜待通膨數據",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XaFJ6YTd3eFVlVG4zZkM4ZWdIeTRMSk5XNXBNOWp0bzBjMkhiWUVtVk54NW9fbzZSU1VYN29Oakc4TVNscXVCdElpc2otWEcwWDJVeXE0cnJpdkNEVFN4SEtENGswUQ?oc=5",
-      "source": "民視財經網",
-      "published": "Fri, 11 Sep 2026 11:49:42 GMT",
+      "title": "金融三業前8月籌資2934億元 市場熱證券業掀發債潮",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT21xTHRrOFV0YVVxZ044cXphNDhKZUJNdnFMeG5XRUJVajdCRXZOV2xSMmVWdU1oNnBqV3o1VnJ3T0QyTHRVQVJtWElZZVFPbUx5d0VIOG01dTR2c25idUVoMGtwYV9LQVl2Qi1leGlpZ1dTMkt5SWktc0hLaU9VYtIBX0FVX3lxTE0xb19FR2Iwb3Q2bXJaS0xTWWRPcEgwd1V3Tlotb0FNbVBwbWJnRXduS1ZOUFMzRDdvbjh3c1dlTkdsZ3luQ3k1RWRLaVBJNldVR2w2RTFoX0NiUW1BTWRF?oc=5",
+      "source": "經濟日報",
+      "published": "Sun, 13 Sep 2026 12:01:12 GMT",
+      "time": "",
+      "category": "全球市場"
+    },
+    {
+      "title": "台股本週先反彈後震盪 關注美利率決策與台指期結算 | 產業熱點 | 產業",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4ZkJUdXZmRDVwR05QQmJ5Rl96alV4eXZoV01UNTFNMktkQldXMzVmUG9mNjJJQWNVd1BDUFlaaXJsWTE2TkNzUTVOMW5vd3RVVzRpYkZMWFlRa04xWW1jNTItQmJCNUR2SWthXzlURDJ1S0FJZW90eDBqc2s?oc=5",
+      "source": "經濟日報",
+      "published": "Sun, 13 Sep 2026 01:21:38 GMT",
       "time": "",
       "category": "Fed / Rates"
     },
     {
-      "title": "美升息機率增 亞幣應聲開貶",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yWTBGeURxVFRFWlBwT2RVVWVPNE5IRENVN3NpbU1SLUFyNllRODc5RGR6d2tRODkwM2lSckJXV2RUd3U2ZGVhRmlvbjdaY0VLUnN3RGlzb1cxMknSAVtBVV95cUxOclkwRnlEcVRURVpQcE9kVVVlTzROSERDVTdzaW1NUi1BcjZZUTg3OURkendrUTg5MDNpUnJCV1dkVHd1NmRlYUZpb243WmNFS1Jzd0Rpc29XMTJJ?oc=5",
+      "title": "9月13日 五件財經大事搶先看",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43NWpQNzlWV3RjWHJpOXJmWUFhYWhjcGlYV2trS2JsSmJaY1JDMy01UGxBNmxPVE5FeFh2eG5kRzF0aEE0VnpEclIyQjlYQmhFeVRzOEFNRy00a0hjb2xVVWVjZFVSNEZOZHNjZ3ZaNGpZVDZ2cVBR0gFfQVVfeXFMT3Q2Y21hZG5NNkdxY1YtV3A4OGxGaG1LVlJPaU1nRmRYUnJFUjN4RFFOcGJyLUFVV2xUZkVDOTlZTk1oQlVvcFBjUFctZ2l0c29ta2tGTWZGWmwxYzRMaDA?oc=5",
+      "source": "經濟日報",
+      "published": "Sat, 12 Sep 2026 18:37:05 GMT",
+      "time": "",
+      "category": "全球市場"
+    },
+    {
+      "title": "美股 AI 行情 本周面臨關鍵考驗 市場不怕利率上揚 就怕利率一直上揚",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ONGJoaExzQmEtSkJjSjFieXl3c1hCNXA3SDhzelQ0VGxobjZfeEFBcG8zLWRYcmxQa0k4ejlaYU1aa1dnRnRlVnFmcll5NVZmRGJtWjFYQndpQjdialBQeDByLTJmTWpIVmVkV25fMmlFTU5wQjNQU9IBYkFVX3lxTE5CSEs5NTlYUmQzUGtuVEhyMXR5LWp4X185QTJ1UWswcHBrLW1iN3ZDWWNKc2x1eUUwQUlLVFA2LXl3M0Q2VnNhamFObk9rMWUyVHV6VWxTTHpBRmd2a2llcXJn?oc=5",
+      "source": "經濟日報",
+      "published": "Sat, 12 Sep 2026 17:51:36 GMT",
+      "time": "",
+      "category": "Fed / Rates"
+    },
+    {
+      "title": "Fed 傳聲筒暗示 升息周期來了 美銀、德銀預測今年調高3碼",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5N09RLUpKQVJwLTFRODBXRXEwQXBYLUJwUllQczhDQXFUU0VfRmhoV3RLTXVqOEtvYzdSbVNTZ05MSTF6MldLODJudV9rWG5Ya29oMmV5a2VjUdIBX0FVX3lxTE12ZXhwc1Nsd0xpQUhBZlFRbVA3ZXAzSUFVYU5yY3o2bklhdThTOWZfelF6WWRfRjgyY2FlVGh2ZmR4STJ3Y1RLcXVRbjQ4b25mYlpFdEJTYVJUOWdJQUZr?oc=5",
+      "source": "經濟日報",
+      "published": "Sat, 12 Sep 2026 17:47:54 GMT",
+      "time": "",
+      "category": "Fed / Rates"
+    },
+    {
+      "title": "Fed 升息 市場剉咧等？專家：美國股債市將破涕為笑 關鍵在這兩個字",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yc0FJQVBrbTZXUTB3NFNFRDU2TmgyZFVfQ3B3R0kxNmJodUxVOHA1NXBXcExPekJEYUR4alpZTkpTWi1SNG5POVFBbmJ3VUtTcGZycXJ6LVVxcjFB0gFiQVVfeXFMTTZQUVhPVUdEeTgtT3NlMENMSTQtOG0xV0V1XzJpMkhYcWM3UEdvZ3oyR0VPMWk0YTAyblAyWHU5aUl1WGR1TW9pZkxrSmQ5alVxZ05ZcEVlajRmMkIwSzRaOWc?oc=5",
+      "source": "經濟日報",
+      "published": "Sat, 12 Sep 2026 08:39:48 GMT",
+      "time": "",
+      "category": "Fed / Rates"
+    },
+    {
+      "title": "Fed 下周升息1碼已無懸念 AI 晶片股最怕這兩種狀況",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oU2xHRm9GWkVZdUZlQnZmcFpVcGpEN2F0YlFXRzQtRnlwVlBwRTN2SlM1aFVCR0xTWko3WW9vMWh0SjIwNkNVMEpfX1dJMkJHTGtDWXBkZGc0Zlkt0gFiQVVfeXFMUDB3XzhOaUYycUZXOVdJRnJEdUF5Z2lLZmlPOWg4QmZDQS12X2NmcU1aMGtyLXJHdHd1S3pFcXJ6SDZMTEpNTjVFRTRMSXptNHAxckZfdkNMTWxZeFJZa0l5VXc?oc=5",
+      "source": "經濟日報",
+      "published": "Sat, 12 Sep 2026 03:45:59 GMT",
+      "time": "",
+      "category": "Fed / Rates"
+    },
+    {
+      "title": "台股估震盪 關注中東變數、AI發展及美利率決策",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwZ1FVVE83b1dwZEMwWFRwbWdlY0szOGhrU05oWDVzV3VJd0VqS1dpRUEzWmZjc3VYQmdEUlY5QWZkQWFaNEJIRlAxSy1pazVSUnk1MFpBYWJsZ9IBX0FVX3lxTFBrMUc2Q2lRdlRxRkZnaUNLWmNuU09LSnYxajJDMW41M2lGemt1aVpxajlfcWQxRTl1TGNiTHIxQnFidHY1Z2ZCVGhOUWtDZzI5VUFSRVU2cnZReVBDLTRF?oc=5",
+      "source": "經濟日報",
+      "published": "Mon, 14 Sep 2026 00:36:32 GMT",
+      "time": "",
+      "category": "Fed / Rates"
+    },
+    {
+      "title": "9月12日 五件財經大事搶先看",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PelR6TEdvWnZ0dVJZUDRDOW5vTkRGc2dDZjlEWnRFUTk0ZkhjQThnd3lRR2lYeFk3NVZMMW9Za0hZMjFIS3FnZ3BxX2dYYnFKdjl2UjZncERaUdIBX0FVX3lxTFBOb1VtVmhGQjY4Mkk5bmlVaEVpVERZc0JMRTB4T1lXdmgyWFFhZTlZMnR1R3R0Y0xkSkMtTlVmX21xZ2JzUFBETU5Ld290MFVfY0NFeUhMVjdNWW5IUVBV?oc=5",
+      "source": "經濟日報",
+      "published": "Fri, 11 Sep 2026 17:57:01 GMT",
+      "time": "",
+      "category": "全球市場"
+    },
+    {
+      "title": "美股收盤》蘋果發表新機反跌！3大指數收黑 台積電ADR跌0.83％",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lclhBWWFteXNRWkRGYl95U0c3U2FVNGZfckt5RWpJVHduZHRtY0h2UjVKUWJud0pOQWRRbTRaTXRzQzNLWm02OGNhczdLNmhjZWN4S3hUTDJaRllLclVn0gFkQVVfeXFMTVZoeTFuUGYxaWRuQTM4aTE2dWJ3NDRpV3EzYmhSTXY3WUF4Nzc0bTJJRDIxTEtMWHNsQzVvUUd0WGU3NllLQi1pR0RsVkhvX2FGWU0tNnhPaG54Y3VQZklmTllncg?oc=5",
       "source": "自由財經",
-      "published": "Fri, 11 Sep 2026 21:30:00 GMT",
+      "published": "Wed, 09 Sep 2026 22:34:06 GMT",
       "time": "",
-      "category": "Fed / Rates"
+      "category": "AI / 半導體"
     },
     {
-      "title": "美債殖利率快破5%多可怕？借錢更貴、股票承壓 台灣也躲不掉",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCTmRTbGJ6Y1hfd3pwV3Frb2JJZjdjSzBFRFlLT3ZJRWxOU3pOYTdMYUxaZVllb01idXZ4QXVGQy1OUVlJZ0QxdFB6QVZ5LWM?oc=5",
-      "source": "TVBS新聞網",
-      "published": "Fri, 11 Sep 2026 01:30:00 GMT",
-      "time": "",
-      "category": "Fed / Rates"
-    },
-    {
-      "title": "美債20年殖利率衝破5%，是金融危機警訊嗎？歷史、黃金、ETF一次看懂｜豐雲學堂2026 年 09 月",
-      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNSC0wUUhxX3A1M3VnN2tGSWhiUUI5NTVBUUZFNUsyMjhYQlZ5UjA2cTNYdzl0UklXeFJvaTBPMHNjSHZkMUFDX2NiY1E0N18zUnV5SWNRMUpOZ2dFM0NUYzJ2Y2hFMl85bU5sbFJpNHpVUS1XZkJxUWljelJHeFE3eDNZNU9NTVNmWFZDRy1vckFwRm10UmZCT1RSOUJieXNBVi1SWjJlcV9aYUZoMkdtQlRQY1lmZWs4YWdMbGs1LVdjVWVac0haWVlCZUFzTkI3bkdUNVBGSV9pSEVoNUtRRkVyN094dkZmdmd2VXVJVjFMX29KMnJfMC16cHI5ZlpJb0tDNksybnIzVnVEekxKc2JEMlZGZ052Q3hUVUJNVEVudzNYU2VncXBXR1RBeHY0bEVhQXhUSVNoN0RyQmtham1NNHR0c1JJTFhfajEzRWJHT2ZzYVo1eUhFQTRoTENNRTRTdU0za2IydERYTk9GZWh5a2FBUGVRMFgyZkhhaTNaOW9SbnpjcS1ISlp6M3o5Tm55bEF3Y2lna3BScGZ0UmlvOWh1ZHZsSUNhcHR5ektNa0tSa3c?oc=5",
-      "source": "sinotrade.com.tw",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "time": "",
-      "category": "Fed / Rates"
-    },
-    {
-      "title": "貝森特擴大回購長債為YCC鋪路？ 專家：美元貶定了除非Fed這麼做| 全球財經| 全球",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yWWJIaHRvWS1zNDIxU1dtSFA4ZHd6VFkwWnZ6dUoyMm9RUy1DcWg4UzcxNHNTeEZIS0kwY3oxR1BxSi1xT21zMFZmd3BsZW84?oc=5",
-      "source": "UDN",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "time": "",
-      "category": "Fed / Rates"
-    },
-    {
-      "title": "警訊？美 30 年債殖利率創金融危機來最長 5% 紀錄",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2JmN3JiQjMxVDFZR3V1ZXF1V1RwakVBeW9PaTZqWkh0UDNueEdZUHM2R3dwa1g3YUVMWHk4Rmk4V2FMOGFRMmZJSDBfM0V4b1JWQl9jbEJ4YTlnRHR5OE8xZEZROEtvTVppa2RJS0U2ZDRCQVNzQVhBNlphcTlKanJsaDE1NmNwUkdlUGtqV296N3ZSdzlsaGw0ZG41aldJTXBVZVdsMjZWQXNkOWpj?oc=5",
-      "source": "TechNews 科技新報",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "time": "",
-      "category": "Fed / Rates"
-    },
-    {
-      "title": "準確預言金融海嘯「華爾街先知」示警：美經濟Q4迎「清算時刻」Fed本周將按兵不動",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PTlotNmlnN2YwZmtnR29xUS1RcXR0MGV1YUFzdldabEt2eHVTRVRZS1N6NXpKaWRJdThBMVYwVFE5OWNfaENNTXUxWVpLaEk?oc=5",
-      "source": "news.cnyes.com",
-      "published": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "time": "",
-      "category": "Fed / Rates"
-    },
-    {
-      "title": "美債續跌 美元升至2個月高點 市場估Fed 12月升息機率大增",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EaC1fWndQWm1HbzJMOUY5d2ZTOUlJRF8wSUZMQWNkWGduM0JfUDVZb2NmNGgxYXl4ckhaUmQ2Ykludm9GSVVpLWYwcFVlYkdzbmllTDUtWkR0UzluUnR4ZVVn0gFnQVVfeXFMTkJqTzdkeUJKQUMxM2owLTctZVliemx0d3RNUFRsVXNhb3RLYzRQWnRuVWJKRExfdk13SDlxSWVCYUJzakpKUmZIY3VOcFpxUjBETVB5cWNMSWlNOERrTUFuTy1lSUV6OA?oc=5",
-      "source": "世界新聞網",
-      "published": "Mon, 08 Jun 2026 07:00:00 GMT",
-      "time": "",
-      "category": "Fed / Rates"
-    },
-    {
-      "title": "Fed利率按兵不動 美債殖利率小幅攀升 白銀大漲",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQeGlCY29mN1NLTUFzaEZGdFd3TndybW1Ocm1hbUxwNS10NDhPVXp0MEZpNUppU2xneFhlczlBWS16VEpIbmU5ZUhDOTNDdHVFN3NOSTFTandETmVsVW0za1JkdVRKZnFyZ0l6STAySnJDdkdXeHZ2QzdmenluLXhmeE9aWDVVbXA1TFdXalVHUXN1S2NFd1d0SDlDa0pIYzRnQUROaHdUSGFEdmJZbUNyRVBIRUp4UGFFZG9MdGt3d0ZwUjlDWE9SbXBEeHp2T2swNGs3dEpyY0JRUWpMZGpGUDItTkd6QmdGRmFjTUdDNHBIbWdpNXc2dW4yRjVyTTVLRXBRbko5dDAwWVVGai00MjJVNEQtX3pKZXhHRTNLbUVLTVA4dEE1SFNEUDlIaGlZX1ZRbzlTZnctdGJrM1VYRFZxTUVNcDRCb2k2VG1pLTJiNnBVcFE?oc=5",
-      "source": "ntdtv.com.tw",
-      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "time": "",
-      "category": "Fed / Rates"
-    },
-    {
-      "title": "川普欽點華許掌Fed 震撼金融業！受惠、躺槍受害股一次看- 財經",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wek9yTmkyOE9XN1Zid2pNSmhwc1VKWXlHVkQyZ1NDRFB5QV9FNDlZWmN6UkltTFY0bTMyTWY0Z3VsQVE1RDJ3SVhlRC1DaUg0SGRsZ0Q5c1VDT3RTSFdHTS1DNkUxRmM2ODJmaXhB?oc=5",
-      "source": "中時新聞網",
-      "published": "Mon, 09 Feb 2026 08:00:00 GMT",
-      "time": "",
-      "category": "Fed / Rates"
-    },
-    {
-      "title": "美元美債走勢分化強勁經濟推升美實質殖利率專家：抱美元、避長債| 全球財經| 全球",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wQUVydDlneXBnNEFzQ0p1eDBqY21UVDJXcUhEWGRDV1ZIdkJkZ1lFdmlPSDdqZzczQ0I2bXFiWk40R3dueTdYVFpiUVBmeHN4?oc=5",
-      "source": "UDN",
-      "published": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "time": "",
-      "category": "Fed / Rates"
-    },
-    {
-      "title": "國際財經：美財政部長債回購倍增至每次40億美元，恐與Fed抗通膨政策相互掣肘",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazl6a01HV2haWjVMdFZKYkRUUGtKNmpYNkltNTJDZk1Ub2xxeGU4Q3RPRy1CckprUTBUekFjNWIyT3RNd18yQmlwN0MxYlNzQjJIYUNZM1YwSmY3TG9CeG5fUFhkUFdiQW5RcGVWa212T2dOMnZ2U3Fkd3U5Z1RxaFh6X283dUtf?oc=5",
-      "source": "富聯網",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "time": "",
-      "category": "Fed / Rates"
-    },
-    {
-      "title": "外資892億巨刀落下台股755點跳水險守46K 權值股集體熄火金融攜航運綠地開紅花｜Yahoo財經掃描",
-      "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxPcUZXVnlVWjNIUVhudHNSc2xmcXY0WDVuYXlXVThna3lIamtVQ3JwYndRWFNOWDhMWjk0LWkxUjJxZXNDZDJoMFQ2YVdfdmhsOTQ1V2JrbUZlSHpOTmxnTXBGQ2dxOHhSWldYTldHVGJQYUdOaW5sNnVRR1R0NmNQVk9nMmhHTEtSZ1ZERlF5R09EckxCendmZ1ZjblhnRm55MUdmcU1yVW5aSG1MTE5YZWFISDA3UUJYUUF2SFk1NU1mcjdjMzByWXdSNHp0eTE2ZEdTUlhaZVllbjQ5OC1qbXIyV05Bc0R2aFA4d2JkSFVPMmFmR2FsSkg0ZGRUbFhFNGI2TERGLXczdzhLSlBJbkU2UkppZVM5MEZ2a0ExM09hX0t4aEZsQ2NiaUZkMjhXZGR2Y3pvTHB1UU9SRDYta1dBRHRIQnUtMlJXU0lXcW1GZFQwaUxhMTlPMjBiSlFiaUFoLVBhVkltV0hIRW5JeXI5a0tnTHlySHpzM3h1V2E2UTdDMEpIam9QeUdYSFpGNWNRc2luR1RPeEJxejl4X3ZVRG1wVmR4Z1hxWl9tZXFxS00zMEJTeWNiVEJtYWQwMWdrY3ZTbUtJTUtISmZhQzFaOHdfQ3lTRWtsRFo5aHhsYmpkSWYyRmJjdUczc0ZwSXZvWmtjMlR5alpiMlJncHk2YVJPV0loajVEOHBsem1HVk9aQ3FUX24yRDBYS092?oc=5",
-      "source": "Yahoo股市",
-      "published": "Fri, 11 Sep 2026 09:16:39 GMT",
-      "time": "",
-      "category": "台灣市場"
-    },
-    {
-      "title": "財經青紅燈》外資銀彈續留台灣",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsSjRsamhiVVFnUjZnVE9FVlJad1ItaHkxWHNkV3AtTVNHckswLTFKZDVvTl9FR1pqRmFvcUlNSG1zQkdnTVRaTU1QbWhtZ0ZpY1ExYUdR0gFbQVVfeXFMT0NZVi10bXlpWWpzX2tzc2c2blEtUFNDTkJ4MWNvTExqWFFHM2dJNE4ydHp2ZlhHdUs2ZXg5QnNrWjJmVV8zYXZ4RUJvX1hhamVnNW5NcUNXUUtfOA?oc=5",
+      "title": "美債殖利率攀升 美股3大指數收跌",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGckhZeWs5NURlWFRUWm9XcVp1bXZjT3Fab1BKZzFOaG1iSUFjclJuVEZPWGJwZXpzaG51QTI0VWY5U2JxSmZra2owWExlVnI1YkEyeDFHeXFrVGhIalRB0gFkQVVfeXFMTjFBMFdfX2tsNzgzRkRLM3RyVXljem5qNjhrYllnR3hpTTYwd2pPOFkwRVNwRzVIbWZUWDZIdVJGd3FYNW5LRDd4MkItbzdjODFucjNyTHk5WjVURVNEbmNMUk9zTQ?oc=5",
       "source": "自由財經",
-      "published": "Tue, 08 Sep 2026 21:30:00 GMT",
+      "published": "Wed, 09 Sep 2026 21:12:03 GMT",
       "time": "",
-      "category": "台灣市場"
+      "category": "Fed / Rates"
     },
     {
-      "title": "通膨數據衝擊外資狂賣892億！台股重挫755點，資金轉進金融航運避險-財經焦點情報站",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd3lMcjUtWHdOWlhnOHoxUVlLZ1dVRFplbnZMLXdGcVpUUFpjNHhsV1QtYjhaTWN3Mnh2VHAyZ3VQMlo2LW5FYUVYMFlCWHl0cWdEUEVFYjdPaENPLXQtUFRmSkJjZmtuNS1VTzBENy0yTEhMamFLempJOVNCNVFWSWhn?oc=5",
-      "source": "CMoney投資網誌",
-      "published": "Fri, 11 Sep 2026 10:34:21 GMT",
+      "title": "聯發科小金雞意騰強攻語音終端市場 明年營收有望續創新高",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iUUhVYXhxMEo5bTNHNWRKT3o3OEZXaU1LYXNOMDhCd0dzZTlrNXVLNWJSZ3FZdjFBWEpOY1otc0pNTnk1NFgyTG16Sm9hb195NXlBUl9WR3NrOWk1MmtN0gFkQVVfeXFMTjJfREtGNHdxOVFsTGtFQ2R0cVNZYWh1SmZHMS1TVVVkTjRQT3o3V19ybXBhakY5bVRPekxwZklYVF91ZUttQkNiek1nOXltRGJwQUxRdjdFX2dqZlYzOEZtS1l0RA?oc=5",
+      "source": "自由財經",
+      "published": "Wed, 09 Sep 2026 08:27:53 GMT",
       "time": "",
-      "category": "台灣市場"
+      "category": "全球市場"
     },
     {
-      "title": "外資大買209億助台股多頭續航！台塑四寶催油門攜面板雙雄守住77點紅盤｜Yahoo財經掃描",
-      "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxQVlJlaENCTnl0Smx0VGtrb0hDSlRvNzBBeTRlX0hzQ1AtOFJaV1FtVEpSNDVMZEFKaU9XeTNmRkxCbzdYZUpRTGliVkd6d1JaWnhhaFB0Tm1xYTJtMGpnWUtaempYQzBqZXlpMU9pOHNScTRSSW5QYWdabGlBSV9Pak5nWGRhbkFtNHBWNVhVcDBwYVg3eWZ6cF9Tc2J4T0ZBZXdOX2Y1dmVyMFN0amp6Z2NrMURLOUcwY0l5TXl5R2pOU1AxYy0yOS1yVmtjXzBQT1o0RXBSQlVWNXNNTE8yVXNYWjZDYkowQTdoN29rYTVHMzFVUnJTS0FLU2FpdzFzLWJRVXo1Vlg0dFQ2V2FNcFFHU21XZ3ZaMGNIcVNvT1BRci1WVE1ZOS1JOWN6S0w4YXdDTnVUTDhuRGNTdkpaaERucUQ4TFJYa0NiRjFSX0V5cUZaN0Q1U2QxWWI1cmtGLWpUdHFtVG1RT1NxemtoOVZQX09YWDBwNTFfa3gxQlpTX3BZNTdiTFpyeHdNU1NnWWYwVEhoMnJwaGhPNW5kbjViUGZ5bkgwN08zQUFNWG9USVJNTlE2bnpPWlptdVFoX05jb0NyOFR6RWdGaS1sbTN1SWhiTGduLV9GOTIzcjhoUGRCdGdvS3dLR0ZnNE44bHpBZmVfY1cyVlBicWFqdDBfWFoxTXBEX0kyaA?oc=5",
-      "source": "Yahoo股市",
-      "published": "Wed, 09 Sep 2026 09:14:50 GMT",
+      "title": "市場持續關注中東局勢 歐股多收高",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zSXZIMFRXWmZOc090d3RwYTNwN1VZNjNfMUxweHlnSFRxendOeFlXdkgzMVFsWWhDV0RrSXhBMTJmU2t5VXMzUDQzb1lGR2FpTmxkRmZQTEp4MFQzbWZZ0gFkQVVfeXFMTjUtLXJOZEpUXy1VTktLMkprbENCWXlwcFBXQVZtWV9MUFMtOTRZOG1Jc3docXBOREVhbjFwLVZTZ2JlYVM2TnQ4MkxId0M4dVlqdDBqUVFEN3hrZGZ4ajA1OWxwMA?oc=5",
+      "source": "自由財經",
+      "published": "Tue, 08 Sep 2026 17:06:04 GMT",
       "time": "",
-      "category": "台灣市場"
+      "category": "全球市場"
     },
     {
-      "title": "【Follow法人】外資連2買！台積電單日吸金近140億元 狂掃5檔金融股",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOcUIwRHEwU3FaT2lfVkdlRnFORHVOSG1nUEN0c2R2VXhFb1N4OVNHNkh6QWFCMS1xb3V6dmFsLVQ0T3RMa1hUaE1kX2ZwRUZYd2FjbzIyaHVFZHZ5ZDlNV2Q2OEY3b3BTbEtuVWdDNlNWdUE4NkZKVmUwSS0zRTViQTlGbmtwY1BMWEdFRlE2TDdmNzRNRDZWNl95NDN4TlpJZWM4dVdwcmIydzZMcWdNZXZpU09vcXQwTmtTeVhMODNBRFplZEJJQUJJUG1ZeE11dzh1UG1iMTN2b3FaWlhLQnB1bC0yeWprMlhYZ1BLWFpUaHA5T1RzcWdaOUg4c1c3bUx1aC15UkxNR1VGejFOY2RQNEFOUHRJbGVXZXRaMlF6ZVhmdmJUQ3FGa3d2UjV5SjBxR3dMR1lnM0tLOUtyTnBSckNOZlhib2Q2MDltOEU2QXRMaTRVeVJMWkhPTk83UVZjXzUwc3owS3BkQjFlYU1hZGd4YlZUeVRLSFhLM2k3SHY4WmhNTFFBOEtWOE5weUtiTXVSUQ?oc=5",
-      "source": "Yahoo股市",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "title": "美股收盤》油價飆破100美元！道瓊連4黑 台積電ADR跌近2％",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vLW5aV3diOXpDQmlDalZxMjVfWi1BSDlhOVlReUFMRkhuZVYyWFE3NE1wZUFra0xNTkFOTGdtcHZtQ1pZQUJGc0pyX3AwZzdvcGotYnI5TEs5cFVMZkdj0gFkQVVfeXFMTTgtaXdZaWUwZkpIOGl0OFE3MExhMVJYeWZ2bFFhdWRidkF2VVN2V20xUUZXYk1uSHR2ZkZuM3p1SVBsM3Z0VC1YZkItRlV4QVMydk5YSjRTQkg1c3NoS083bDJvTw?oc=5",
+      "source": "自由財經",
+      "published": "Thu, 10 Sep 2026 21:54:32 GMT",
       "time": "",
       "category": "AI / 半導體"
     },
     {
-      "title": "【Follow法人】台積電遭外資提款288億元！彰銀賣超3.7萬張居冠 金融股成重災區",
-      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQeG94RkJtYVdmc0ppRUgtMnljQUFBekZNVXNxMWNxak9KZEZQTGR6dUhpemk2b1ozTFJTdHVmdm5yMF9FVjRscWM5MjloNlhoRjVLS2QtVXhGM3VIZmJtT3pKRThzZjF5eVpGaWVlc0hGbTlWclNETW45dkdUbmFTOXZwdWR6ZUVfaG1FdDBpVzlmWC1pTWcya21OaHJnNVgzNFYweXF5ZkpzcjgyWmlDU1Q1Nzl2TnB2cm9hWVVfbS1HeURVQUpIbzNpX1lMTVpNVDIyb1ZHbGswZGxSZ2g2eGxreFdjRHV3RzlqYzZhNnpDZXliVy1jT1hwZzFEd0VNNnNGMDVfLXd2VjdqNHRMS3JGSnV5cDFEUE5oRmp3R3o1X1RSb2VpTUZpU2EteEZUbzM1YmFOVUppQ0x1RGNOQ2Rub2RTa3U3bDdBWHA2ajRfTzZIQ0xzU0FTSTNCaTd0WkxNaWNNUzk3c1g0dFVFUTlialdaeUlpNFJ0cjRwbEROSlpXQ09NdlBvbmxZMkMyOE16QWNQdDZuMmFnY2tIWjl3SnJGTEZ0MWtad1BIVHZVV2hVS0Fud1JIWGo1cFkwZ3dOc3gzNHVseEEyeVNadUZuVQ?oc=5",
-      "source": "Yahoo股市",
-      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "title": "崇友前8月營收43.63億創新高 布局AI高階商用梯市場",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qTXhFQ19FdXA3SnJkeG5FV3FMODFHZVJWZ0UxcWhJX0FWcFVxNDkyYlVTdGtLZjBTZUFUem8xZHVVbUFVX2xheWxWUTkzRmFKWHQ2bFIxQ3REa3pBRlhr0gFkQVVfeXFMUFF3MXZpaFZnNEFVVU9kUkJ4c0Y1V3lna245TUtMNVYzXzJadHZlZnBkcEpONktrVXhHNGxlUkN4MHY5Um02R1RLVVFFSlpCMHkyYXZ4SkR2REJfRGdwa0FqU0p1Sw?oc=5",
+      "source": "自由財經",
+      "published": "Thu, 10 Sep 2026 10:15:19 GMT",
       "time": "",
       "category": "AI / 半導體"
+    },
+    {
+      "title": "金研院攜手金管會與證交所 赴英推廣台金融市場",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wekdYdl9lR0RkMkRVU3pUTmpSVW85VnpvUkFqclExVWg0LWhMOHZuNVBxOHEtWlB4X0puNlpady0tb0F1ZjlBbW5zLWNiMjRaWnNaLWVXVU9uY2JfNld30gFkQVVfeXFMUHRHTjYycjhzS2hEdmRiMTM0VG1ncjNhYWNDMTd2ZU40MXlERmc1c2VaWGlkbVVqcXI1OU9jc1ZIa1VlX2JSc094NG1pSXl5V19pd0szUzR6VlJ6cG80Y2JBMWNISw?oc=5",
+      "source": "自由財經",
+      "published": "Thu, 10 Sep 2026 10:09:42 GMT",
+      "time": "",
+      "category": "全球市場"
+    },
+    {
+      "title": "大同8月營收月增年減 強化澳洲電力市場耕耘",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1T1BjTXVBLWxnTlNvQ3hDam9EM2E0NWp2LTZLRFFBRzdzU0xkdVh5am4xLTlYeUVoOG9WczVRV1J0STg3cWhaT3kzaWdjLWJiYUx3bGhDS01qWlc0UGpZ0gFkQVVfeXFMUF8wSk9RaEotblc4ZG9YOVBBcFdDWUplY1Awajh6ZGdFRTV6clZISVI0STFPUnRIQ1FFa2JkUWdkRmJLemFOS1FXS2tXdjhlb3lwVWZxTXVRUWJZeFhkVHk1N20wSw?oc=5",
+      "source": "自由財經",
+      "published": "Thu, 10 Sep 2026 07:51:09 GMT",
+      "time": "",
+      "category": "全球市場"
+    },
+    {
+      "title": "〈財經週報-台股熱點〉AI ASIC市場發燒 矽智財族群前景看旺",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mb3V6QmlWTkxSbG5Vd01oYURiT0dBQnp1TlJPQWpvOHFUTmhvRDYxRFpfcndVb1dlYUg3ODhROXRhU3FYRGJpWVpacUZYWjZlRHg4ZmJn0gFbQVVfeXFMT3V0VzZhaU5IUUZLaGZob2owaVRtVGc0SXRMdWhyQUpOS2lRWmY2VmU0ZUF5NEhGOEU2b2pqRnM0TTQydFJxZi02YzJ6eEd2Nk9Dclc4TnltYkdhNA?oc=5",
+      "source": "自由財經",
+      "published": "Sun, 13 Sep 2026 21:30:00 GMT",
+      "time": "",
+      "category": "AI / 半導體"
+    },
+    {
+      "title": "〈財經週報-投資趨勢〉利率正常化下 日股聚焦四大投資主軸",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40WjRnSXR6N0l5eGVGakdmQmlmSEo1M09PaS05MHhTeVRsYTdCUXc0MFVXU3lnT0ZESjczeUlobFpjVkF4dzRRMzRZRlpDY1VXNWxOR1R30gFbQVVfeXFMTkZJUlBjaXFZVlVDZ0dYYU04UzY3YlEyUjlTanJuZmhsRUZkbHBZVDVYQ0wyYTkyX25VVS1qTFJXTE9SWHlQbUpuMlBaTDhHa1FoZDJ5Nnh5WGVKaw?oc=5",
+      "source": "自由財經",
+      "published": "Sun, 13 Sep 2026 21:30:00 GMT",
+      "time": "",
+      "category": "Fed / Rates"
+    },
+    {
+      "title": "Fed動向難測 法人：台股買黑不買紅",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KQlBOb25aamo3MFpwZDd5M0RSY2ZMWkltYWZaWDVVR1ZGMm4yWlNic2NJWEhvcFpjeTY1aG4ycFBnR2VRQUVoRU9ocGJXZVpmR0ZneERR0gFbQVVfeXFMT1piMWNVUjNrcTNGeWFPc3dvYU5Va1BZTTdzWXkweEdKaG5CZVNmNnB6Wk1mWEl1OWNpV1JfcG8wbVEtSllqSG11aVBKbzgzVkJUdW5UVXdtTW5oNA?oc=5",
+      "source": "自由財經",
+      "published": "Sun, 13 Sep 2026 21:30:00 GMT",
+      "time": "",
+      "category": "Fed / Rates"
+    },
+    {
+      "title": "台股血洗千點美股來救! 國際股市「紅中透憂」台股買黑不買紅",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FRm95QWhRUElJVklZTkw2NFVGczJGTFp0UDVjR3laN0J4Nk05WGJCQ2FVVm5CeVhya2N3UUlDRU9zcmVxUm9BUEVmclpFTUdrbUtUZS1FYTRUei1YZEtV0gFkQVVfeXFMTlhnUWh6Y3NQOUI4ekZoQjd1Q0M4d3FhNnFjM0J4ZzdfMFhKc1otRlRpdy1sWHFvSmtaNi0teVF0OG44UE82NTgtUW5kTzhBWWtaT0FmaURkZlVrZDdtTldsZXZSSg?oc=5",
+      "source": "自由財經",
+      "published": "Sun, 13 Sep 2026 02:05:56 GMT",
+      "time": "",
+      "category": "台灣市場"
+    },
+    {
+      "title": "台股4萬6000點保衛戰？外資空單未再創高 多頭仍有機會",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRT3RNc1pjTDJiRmpudTF0RTU2dkREWWx1LTUweV9tdHBUQXhjdHFBbzVOWmZmYXc4b3k0Q3FOeWlSb0FuNUttX3dnWUtrZmlUekViYl9hWGszWU83X0tVLWktaXnSAWRBVV95cUxQUU90TXNaY0wyYkZqbnUxdEU1NnZERFlsdS01MHlfbXRwVEF4Y3RxQW81TlpmZmF3OG95NENxTnlpUm9BbjVLbV93Z1lLa2ZpVHpFYmJfYVhrM1lPN19LVS1pLWl5?oc=5",
+      "source": "自由財經",
+      "published": "Sat, 12 Sep 2026 23:02:58 GMT",
+      "time": "",
+      "category": "台灣市場"
     }
   ]
 }

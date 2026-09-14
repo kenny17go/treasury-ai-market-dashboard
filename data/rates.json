@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-09-14T04:42:51.638457+00:00",
-  "source": "U.S. Treasury XML",
+  "as_of": "2026-09-14T04:54:28.510185+00:00",
+  "source": "U.S. Treasury / ECB",
   "rates": [
     {
       "series": "DGS2",
@@ -71,9 +71,11 @@
     {
       "series": "ECBDFR",
       "name": "ECB Deposit Rate",
-      "value": null,
+      "value": 2.25,
       "unit": "%",
-      "change_bps": null
+      "change_bps": null,
+      "date": "2026-06-17",
+      "source": "ECB"
     }
   ]
 }
