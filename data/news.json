@@ -1,62 +1,54 @@
 {
-  "as_of": "2026-09-14T06:17:42.939098+00:00",
-  "source": "Bing News RSS + Google News RSS",
-  "strategy": "9 themes; financial publishers ranked first; one focus per theme",
+  "as_of": "2026-09-14T06:24:09.119144+00:00",
+  "source": "Google News RSS",
+  "strategy": "12 themes; financial publishers ranked first; one focus per theme",
   "items": [
     {
       "title": "〈美股早盤〉Fed升息也嚇不倒？油價回落助攻道瓊狂飆逾600點 標普力拚終結連四黑 - news.cnyes.com",
-      "summary": "〈美股早盤〉Fed升息也嚇不倒？油價回落助攻道瓊狂飆逾600點 標普力拚終結連四黑 news.cnyes.com 延伸關注：【即時新聞】通膨再起重擊美股！蘋果(AAPL)推首款摺疊機，甲骨文(ORCL)與這3檔概念股狂飆 - CMoney投資網誌。",
+      "summary": "〈美股早盤〉Fed升息也嚇不倒？油價回落助攻道瓊狂飆逾600點 標普力拚終結連四黑 news.cnyes.com 延伸關注：【即時新聞】通膨再起重擊美股！蘋果(AAPL)推首款摺疊機，甲骨文(ORCL)與這3檔概念股狂飆 - cmnews.com.tw。",
       "source": "news.cnyes.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oeVZPbHZWVHN6Qk4tZ2JQYnZweDh1VmZzeWVwQlZMWnE0b2J3RnA0bVlCaE9vZFNVM1Q4S2t4TW5ESzEtM1F1VmQ2OEh4WU0?oc=5",
       "published": "Fri, 11 Sep 2026 13:43:30 GMT",
       "category": "美股"
     },
     {
-      "title": "「這3檔」達股神巴菲特標準！外媒精選AI長期績優股 台積電列其中 - FTNN 新聞網",
-      "summary": "「這3檔」達股神巴菲特標準！外媒精選AI長期績優股 台積電列其中 FTNN 新聞網",
-      "source": "FTNN 新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nUnRGU3Z6bW5XUDlhaUNpTzFZM3I4SlFhbnhKcWk1ZkN1akNjVFZEcmFmcjBFdl9NN2JvMUFES19UakNYeDk2Z3NsSQ?oc=5",
-      "published": "Sun, 13 Sep 2026 05:55:00 GMT",
-      "category": "半導體"
+      "title": "10年期美國公債 概述 - CME Group",
+      "summary": "10年期美國公債 概述 CME Group 延伸關注：美財政部債務回購規模不如預期 長期公債殖利率攀升 - n.yam.com。",
+      "source": "CME Group",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHkzTWVILUcxUUxCMkNkNXpNanNDVXM4VnBlUXlqRnFJNTZTVWNQQ3AyREdPNEl1Nl84UWswenF6RGtZNUlxVTUzVTVaX2FHbEtwNFUtWS1uZ0RRZXhPdjAwcHhtUWc1al9MTXdpMzNLbGh3a1MwUW8yWDhjRHZWZHdKR1g3RnZnQXRqZEdHSFBFUGpYbXJENlRn?oc=5",
+      "published": "Fri, 11 Sep 2026 20:44:45 GMT",
+      "category": "美債"
     },
     {
       "title": "全球企業AI動態周報 | 祖克柏、馬斯克呼籲建設更多AI資料中心；三星是中國AI資料中心投資增長最大受益者 - hao.cnyes.com",
-      "summary": "全球企業AI動態周報 | 祖克柏、馬斯克呼籲建設更多AI資料中心；三星是中國AI資料中心投資增長最大受益者 hao.cnyes.com 延伸關注：Oracle Corporation | ORCL 股價走勢與即時報價 - BigGo 財經。",
+      "summary": "全球企業AI動態周報 | 祖克柏、馬斯克呼籲建設更多AI資料中心；三星是中國AI資料中心投資增長最大受益者 hao.cnyes.com",
       "source": "hao.cnyes.com",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yQVJxUzVuVFJUZGNqbHNaN053YzdYT2VpMkFoeVlQR1pnRklvdThzQ3NPbEVNYmp1Qi1iYkpoNjgyY21Hb00zVg?oc=5",
       "published": "Fri, 11 Sep 2026 06:44:43 GMT",
       "category": "軟體 / AI"
     },
     {
-      "title": "黃金期 保守看待",
-      "summary": "黃金期 保守看待 經濟日報 延伸關注：Fed 下周會不會升息？主席華許立場為何？三種情境分析。",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TZTF1ZlhyV1BpRThjTmZYV2FKMnpsUmliU0VLN19wdnhyMEFUcmlQZzZIb2M5MDB6T1pZdjhUWE45TlI2djBFOXhrWGNOYUUtN3FTbTZNN0JlN1HSAWBBVV95cUxOTWxlOVdOOTc0MUY3dU05MUFiSGxKOVh4NkoxRUlxMUd3RzdNSi1rZlJUbmxpeGd2cFdPZVI2VTAyX3M3VkRXWTlVakVhamNqanA0RVg3NmwyazdEM0NzTFk?oc=5",
-      "published": "Sun, 13 Sep 2026 16:47:52 GMT",
-      "category": "央行 / 利率"
+      "title": "油價飆漲通膨壓力籠罩全球主要央行今年決策一次看| 國際 - 中央社 CNA",
+      "summary": "油價飆漲通膨壓力籠罩全球主要央行今年決策一次看| 國際 中央社 CNA",
+      "source": "中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JSDNURDh2VkduVDY3RnBsb3hObll4TDd2bTBzN2VpeEgzZndmWGc1eWlvRkxkWWJxeGIzaGFZYVNpVkxBakx0WXE1Tm1EOUtLQWpUVHZvMnlHOHJ5ZlNV?oc=5",
+      "published": "Sun, 13 Sep 2026 09:10:00 GMT",
+      "category": "央行"
     },
     {
-      "title": "歐洲央行官員認可10月定價，德國國債和英國國債收益率創數十年高位 - FXStreet",
-      "summary": "歐洲央行官員認可10月定價，德國國債和英國國債收益率創數十年高位 FXStreet 延伸關注：歐洲股市小幅上揚，油價回落助力經濟資料向好-CMoney 研究員 - CMoney投資網誌。",
-      "source": "FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNzNDQjNxMGZpZVJhQ21wcmxJTV9VVy03UmJybEpUUzV4MXNnQVBaQmtheUJXMkpNUkFzUlc2dEtxaEY0QTE2Zk9SaFotNW84bDZoV2hwcHpTVVVOcEZJTVhMYWtqOTJQa2lKbWJWemhYVjlzcVIxaXMwX1FEY0kwZ25vbXV3U19sQmF0NHB0R3BURFlfSkRjQi1PdkxJWjA1cVBTelgyVFh4am5ONEZyQTdnbG9HNG1idmp6aUdlOXh5TTRiUDIyUWNJalBoMmlMU3R6anJrWERobWU3ZWdUZmFVdS03Vl84QnE4X0xUSnhxX3RpSFQ5bDhuSDRvenJm0gGGAkFVX3lxTFBUQ0M2T1I1ZUlIWjBmOWROSEF0UWlGMXdJY192MXp0cjVRV2o1bXpPV3RMLUFPWE83VEd4ZzMwOFNncUtRNDFJWmRzY3J1NURnR3JITXU4UlkycHcxSnVpbjBacmJJSWZIRlc1X3BtMVhzbG5tVFk0OGJ3MEdfSmQtRlp6TkhwSUd4aEZ4MGNmUE1jQ0Q4dC13VTY4M2c2eVY4QTVfNXYwUktfX2o1SWlFOEdZczlJTWFqQmotUHZrc280MXJvWV9qVk1PWHc5QmJKWnFPa0lCMkkyek9RZWgyRXlyOWVlaFN2MjVBOXQ2aERrV3hhRTJsUjhBMHJrY083cUV4aGc?oc=5",
-      "published": "Fri, 11 Sep 2026 10:43:46 GMT",
-      "category": "歐洲"
+      "title": "美國PPI升溫壓低黃金與白銀，利率壓力還會延續多久？-詠晴K線解密 - cmnews.com.tw",
+      "summary": "美國PPI升溫壓低黃金與白銀，利率壓力還會延續多久？-詠晴K線解密 cmnews.com.tw",
+      "source": "cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOEVqb0dZU1NKSm5meHZKdk5yQ0ZfZEdhdWNlQnlxRXhWbGlHS3ZDZFVSMDlfNFRUQTlGcUlBRHd3ejRSV0hGZnVvWWNWcFpJZEluWWRpYnNqalplNEtxZFpfVkh6d2M3Tm5WdmdpV0hFWkRFVm9DdkRlLU9UeUsycU93OXNpalE?oc=5",
+      "published": "Sat, 12 Sep 2026 13:51:20 GMT",
+      "category": "貴金屬 / 黃金"
     },
     {
-      "title": "中國祭出40年房貸政策能讓低迷房市起死回生嗎？！ | 中央廣播電臺 - LINE TODAY",
-      "summary": "中國祭出40年房貸政策能讓低迷房市起死回生嗎？！ | 中央廣播電臺 LINE TODAY",
-      "source": "LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TV19RQnBYNzdwX1J1dXJrMjFxUE1uTWVFS19RTEhHY0JhYUhhRUJSS1A3RzlVZnp2YllSTENyTEFja09NUi1aZXdZR1phQ1c0clR0MWJn?oc=5",
-      "published": "Fri, 11 Sep 2026 11:54:13 GMT",
-      "category": "中國"
-    },
-    {
-      "title": "外資反手賣超383億元！群創、新纖一日翻轉 5金融股卻同步加碼 | 市場焦點 | 證券",
-      "summary": "外資反手賣超383億元！群創、新纖一日翻轉 5金融股卻同步加碼 | 市場焦點 | 證券 經濟日報 延伸關注：台股盤中急跌震盪逾1450點 AI權值股走弱。",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1UG8zSXhBYzYxYzRSVGp5SFpSU3d2a2E0Q3A4MkRlMTRIYUlnM1FQS2w1V3NubzdIU2I5NXVHMlVyQjVjeG9IZXR6eDZwY19fTUZSSXgxTHhKdw?oc=5",
-      "published": "Sat, 12 Sep 2026 09:00:00 GMT",
+      "title": "盤中看盤重點： - hao.cnyes.com",
+      "summary": "盤中看盤重點： hao.cnyes.com 延伸關注：超級央行週來襲！台股震盪退守46K 外資土洋對決關鍵曝 - 中天新聞網。",
+      "source": "hao.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlNEItd3QyTElFeHNBTTZZbS1LNkdfbVBYT05YSUF0bDZIcUdra0RGd1RHaWliMEh2a2x0dnJscEJ4MURxNl9BSw?oc=5",
+      "published": "Mon, 14 Sep 2026 05:41:29 GMT",
       "category": "台灣"
     }
   ]
