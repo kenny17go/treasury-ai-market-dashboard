@@ -32,9 +32,9 @@ function txSessionInfo(){
   const t=taiwanNowParts();
   const weekday=['Mon','Tue','Wed','Thu','Fri'].includes(t.weekday);
   const earlyNight=['Tue','Wed','Thu','Fri','Sat'].includes(t.weekday)&&t.mins<300;
-  const day=weekday&&t.mins>=525&&t.mins<825; // 08:45–13:45
-  const dayClosed=weekday&&t.mins>=825&&t.mins<900; // 13:45–15:00
-  const night=(weekday&&t.mins>=900)||earlyNight; // 15:00–05:00
+  const day=weekday&&t.mins>=525&&t.mins<825;
+  const dayClosed=weekday&&t.mins>=825&&t.mins<900;
+  const night=(weekday&&t.mins>=900)||earlyNight;
 
   if(day) return {label:'日盤',state:'open',detail:'日盤即時 · 08:45–13:45'};
   if(dayClosed) return {label:'日盤收盤',state:'closed',detail:'日盤收盤'};
@@ -66,16 +66,31 @@ renderMarket=function(m){
   const idx=(m?.taiwan||[]).find(x=>x.symbol==='^TWII')||(m?.taiwan||[])[0];
   const dataDate=idx?.quote_date||s.date||'';
   const state=taiwanCashState(dataDate);
+  const tw=document.querySelector('#taiwanMarkets');
+  if(!tw) return;
 
-  const indexMeta=document.querySelector('#taiwanMarkets .tw-index-row small');
+  const indexMeta=tw.querySelector('.tw-index-row small');
   if(indexMeta) indexMeta.textContent=`${state.detail} · ${dataDate||'—'} · TWSE 官方`;
 
-  const turnoverMeta=document.querySelector('#taiwanMarkets .tw-stat.turnover small');
-  if(turnoverMeta) turnoverMeta.textContent=`${state.detail} · ${dataDate||'—'} · TWSE 官方`;
+  // Remove cash-market volume completely; user only wants turnover.
+  tw.querySelector('.tw-stat.volume')?.remove();
 
-  const volumeMeta=document.querySelector('#taiwanMarkets .tw-stat.volume small');
-  if(volumeMeta) volumeMeta.textContent=`${state.detail} · 成交股數 · TWSE 官方`;
+  // Move turnover directly below the index point change on the right side.
+  const turnoverValue=s.turnover_100m_twd==null?'—':`${fmt(s.turnover_100m_twd,2)} 億元`;
+  const delta=tw.querySelector('.tw-index-row .delta');
+  if(delta){
+    delta.querySelector('.tw-turnover-inline')?.remove();
+    const line=document.createElement('small');
+    line.className='tw-turnover-inline';
+    line.style.cssText='display:block;margin-top:8px;color:#607586;font-size:11px;font-weight:700;white-space:nowrap';
+    line.textContent=`成交金額 ${turnoverValue}`;
+    delta.appendChild(line);
+  }
+  tw.querySelector('.tw-stat.turnover')?.remove();
 
-  const breadthMeta=document.querySelector('#taiwanMarkets .tw-stat.breadth small');
+  // Keep only market breadth below the index row.
+  const stats=tw.querySelector('.twse-stats');
+  if(stats) stats.style.gridTemplateColumns='1fr';
+  const breadthMeta=tw.querySelector('.tw-stat.breadth small');
   if(breadthMeta) breadthMeta.textContent=`${state.detail} · 方向佔比不含持平股票`;
 };
