@@ -6,8 +6,7 @@ from bs4 import BeautifulSoup
 import update_v144 as prev
 from update_v144 import *
 
-# V1.4.5: fix themed news updater and add a second RSS source so one provider failure
-# does not blank the whole News Radar.
+# V1.4.6: dual-source financial news radar with 12 Treasury-oriented themes.
 PREFERRED_SOURCES_145 = {
     '鉅亨網':100,'Anue鉅亨':100,'經濟日報':98,'自由財經':96,'路透':95,'Reuters':95,
     '彭博':93,'Bloomberg':93,'華爾街日報':92,'Wall Street Journal':92,'WSJ':92,
@@ -16,23 +15,24 @@ PREFERRED_SOURCES_145 = {
 }
 
 THEME_QUERIES_145 = {
-    '美股':'美股 標普500 那斯達克 道瓊 財報 華爾街',
-    '半導體':'半導體 台積電 NVIDIA AMD ASML 晶片 AI伺服器',
-    '軟體 / AI':'人工智慧 AI 軟體 Microsoft Google Meta OpenAI 科技',
-    '央行 / 利率':'聯準會 Fed FOMC 利率 美債 殖利率 央行 降息 升息',
-    '能源':'原油 WTI Brent OPEC 天然氣 能源 油價',
-    '歐洲':'歐洲 ECB 歐元 英國 德國 法國 經濟 股市',
-    '中國':'中國 人民幣 經濟 房市 股市 刺激政策',
-    '地產':'房地產 房貸 REIT 商用不動產 地產 利率',
-    '台灣':'台股 加權指數 外資 台積電 新台幣 財經',
+    '美股':'美股 標普500 那斯達克 道瓊 華爾街 財報 美股期貨',
+    '美債':'美國公債 美債 Treasury 殖利率 2年 10年 30年 殖利率曲線',
+    '半導體':'半導體 台積電 NVIDIA AMD ASML 晶片 AI伺服器 HBM',
+    '軟體 / AI':'人工智慧 AI 軟體 Microsoft Google Meta OpenAI 雲端 科技',
+    '央行':'聯準會 Fed FOMC ECB BOJ 央行 升息 降息 利率決策',
+    '美國數據':'美國 CPI PPI 非農 就業 GDP 零售銷售 PMI 消費者信心 經濟數據',
+    '能源 / 油價':'原油 WTI Brent OPEC 天然氣 能源 油價',
+    '貴金屬 / 黃金':'黃金 金價 白銀 貴金屬 COMEX 美元 實質利率',
+    '歐洲':'歐洲 ECB 歐元 英國 德國 法國 經濟 股市 歐債',
+    '日本':'日本 日銀 BOJ 日圓 日本公債 JGB 日本經濟 日股',
+    '中國':'中國 人民幣 經濟 房市 股市 刺激政策 人民銀行',
+    '台灣':'台股 加權指數 外資 台積電 新台幣 央行 出口 財經',
 }
 
 
 def clean_news_title_145(value):
     text=BeautifulSoup(html.unescape(str(value or '')),'html.parser').get_text(' ',strip=True)
     text=re.sub(r'\s+',' ',text).strip()
-    # Google/Bing sometimes append publisher after a dash. Keep the title intact unless
-    # the suffix is exactly a known publisher; source metadata is displayed separately.
     known='|'.join(re.escape(k) for k in sorted(PREFERRED_SOURCES_145,key=len,reverse=True))
     text=re.sub(rf'\s+-\s+(?:{known})\s*$','',text,flags=re.I)
     return text.strip()
@@ -53,7 +53,6 @@ def clean_summary_145(raw,title):
     txt=BeautifulSoup(html.unescape(str(raw or '')),'html.parser').get_text(' ',strip=True)
     txt=re.sub(r'\s+',' ',txt).strip()
     if not txt or txt.lower()==title.lower(): return ''
-    # Avoid dumping RSS boilerplate. Only keep a short excerpt if it adds information.
     if len(txt)>220: txt=txt[:220].rstrip(' ,;，；')+'…'
     return txt
 
@@ -103,7 +102,6 @@ def update_news():
             got=bing_candidates_145(q); candidates.extend(got)
             if got: providers.add('Bing News RSS')
         except Exception as e: print('Bing news',cat,e)
-        # Deduplicate within the category before ranking.
         local={}
         for x in candidates:
             k=news_key_145(x['title'])
@@ -116,8 +114,6 @@ def update_news():
             if k in used: continue
             chosen=x; used.add(k); break
         if not chosen: continue
-        # One concise paragraph per theme. A second headline is used only as context,
-        # avoiding invented facts or AI-generated claims.
         second=next((x for x in ranked if news_key_145(x['title'])!=news_key_145(chosen['title']) and news_key_145(x['title']) not in used),None)
         paragraph=chosen.get('summary','').strip()
         if not paragraph:
@@ -130,9 +126,8 @@ def update_news():
     save('news.json',{
         'as_of':datetime.now(timezone.utc).isoformat(),
         'source':' + '.join(sorted(providers)) if providers else 'news feeds unavailable',
-        'strategy':'9 themes; financial publishers ranked first; one focus per theme',
+        'strategy':'12 themes; financial publishers ranked first; one focus per theme',
         'items':rows
     })
 
-# Keep the V1.4.4 TWSE market statistics implementation.
 update_market=prev.update_market
