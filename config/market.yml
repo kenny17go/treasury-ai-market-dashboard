@@ -8,7 +8,6 @@ pulse:
   - {symbol: "^RUT", name: "Russell 2000", decimals: 2}
 taiwan:
   - {symbol: "^TWII", name: "台灣加權指數"}
-  - {symbol: "^TWOII", name: "櫃買指數"}
 commodities:
   - {symbol: "GC=F", name: "Gold"}
   - {symbol: "SI=F", name: "Silver"}
