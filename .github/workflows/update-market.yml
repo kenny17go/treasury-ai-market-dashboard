@@ -31,7 +31,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.6-luna' }}
           TRADING_ECONOMICS_API_KEY: ${{ secrets.TRADING_ECONOMICS_API_KEY }}
-        run: python scripts/update_data.py
+        run: python scripts/run_update.py
       - name: Commit data
         run: |
           git config user.name "treasury-ai-bot"
@@ -39,4 +39,5 @@ jobs:
           git add data/*.json
           git diff --cached --quiet && exit 0
           git commit -m "chore: update market data"
+          git pull --rebase origin main
           git push
