@@ -26,7 +26,9 @@ function renderTaiwanFutures(q){
   }
   const time=q.quote_time?` · ${esc(q.quote_time)}`:'';
   const fallback=q.fallback?' · Last valid':'';
-  box.innerHTML=`<div class="tx-quote-main"><div><span>${esc(q.name||'台指期近一')} <em>${esc(q.symbol||'WTX&')}</em></span><b>${fmt(q.price,0)}</b></div><div class="tx-change ${cls(q.change_pct)}"><strong>${pct(q.change_pct)}</strong><small>${q.change==null?'—':`${sign(q.change)}${fmt(q.change,0)}`}</small></div></div><div class="tx-quote-meta"><span>${esc(sess.detail)}</span><span>${esc(q.source||'Yahoo股市')}${time}${fallback}</span></div>`;
+  const marker=Number(q.change_pct)<0?'▼':Number(q.change_pct)>0?'▲':'';
+  const volume=q.volume==null?'—':`${fmt(q.volume,0)} 口`;
+  box.innerHTML=`<div class="tx-quote-main"><div><span>${esc(q.name||'台指期近一')} <em>${esc(q.symbol||'WTX&')}</em></span><b>${fmt(q.price,0)}</b></div><div class="tx-change ${cls(q.change_pct)}"><strong>${marker} ${pct(q.change_pct)}</strong><small>${q.change==null?'—':`${sign(q.change)}${fmt(q.change,0)}`}</small></div></div><div class="tx-quote-meta"><span>${esc(sess.detail)} · 成交量 <b>${volume}</b></span><span>${esc(q.source||'Yahoo股市')}${time}${fallback}</span></div>`;
 }
 
 renderMarket = function(m){
