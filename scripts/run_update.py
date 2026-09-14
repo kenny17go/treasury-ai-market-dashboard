@@ -1,7 +1,7 @@
 from __future__ import annotations
 import json, traceback
 from datetime import datetime, timezone
-import update_v146b as u
+import update_v146c as u
 
 DATA = u.DATA
 
@@ -59,14 +59,25 @@ def restore_if_empty(name, old, predicate):
 def main():
     cfg=u.load_cfg()
     old={n:load(n) for n in ['market.json','stocks.json','rates.json','news.json','calendar.json','positioning.json','professional.json','brief.json']}
+    critical_failures=[]
     stages=[
-        ('market', lambda:u.update_market(cfg)),('stocks', lambda:u.update_stocks(cfg)),('rates', u.update_rates),
-        ('news', u.update_news),('calendar', u.update_calendar),('positioning', u.update_positioning),('professional', u.update_professional),
+        ('market', lambda:u.update_market(cfg), False),
+        ('stocks', lambda:u.update_stocks(cfg), False),
+        ('rates', u.update_rates, False),
+        ('news', u.update_news, False),
+        ('calendar', u.update_calendar, True),
+        ('positioning', u.update_positioning, False),
+        ('professional', u.update_professional, False),
     ]
-    for name, fn in stages:
-        try: fn()
+    for name, fn, critical in stages:
+        try:
+            fn()
         except Exception as e:
-            print(f'[WARN] {name} stage failed: {e}'); traceback.print_exc()
+            print(f'[WARN] {name} stage failed: {e}')
+            traceback.print_exc()
+            if critical:
+                critical_failures.append(f'{name}: {e}')
+
     save('market.json',merge_quote_sections(load('market.json'), old['market.json'], ['indices','pulse','taiwan','commodities','fx']))
     save('stocks.json',merge_quote_sections(load('stocks.json'), old['stocks.json'], ['stocks']))
     save('rates.json',merge_rates(load('rates.json'), old['rates.json']))
@@ -77,10 +88,26 @@ def main():
     if not p.get('yield_curve') and oldp.get('yield_curve'): p['yield_curve']=oldp['yield_curve']
     if not p.get('policy_rates') and oldp.get('policy_rates'): p['policy_rates']=oldp['policy_rates']
     save('professional.json',p)
-    try: u.update_brief()
+
+    try:
+        u.update_brief()
     except Exception as e:
-        print('[WARN] brief stage failed:',e); traceback.print_exc()
-        if old['brief.json']: save('brief.json',old['brief.json'])
-    print('V1.4.6b update completed: global central-bank calendar and strict today filtering enabled.')
+        print('[WARN] brief stage failed:',e)
+        traceback.print_exc()
+        if old['brief.json']:
+            save('brief.json',old['brief.json'])
+        critical_failures.append(f'brief: {e}')
+
+    # Validate the two areas that previously looked successful while actually
+    # failing and silently restoring stale JSON.
+    cal=load('calendar.json'); brief=load('brief.json')
+    if cal.get('source_mode') != 'Official global central banks + official statistics + market-calendar enrichment':
+        critical_failures.append('calendar validation: new V1.4.6c schema was not generated')
+    if brief.get('today_filter') != 'calendar date == Taipei today; news published date == Taipei today; future events forbidden':
+        critical_failures.append('brief validation: strict Taipei-today filter was not generated')
+
+    if critical_failures:
+        raise RuntimeError('Critical data pipeline failure(s): ' + ' | '.join(critical_failures))
+    print('V1.4.6c update completed and validated: global calendar + strict today filtering are live.')
 
 if __name__=='__main__': main()
