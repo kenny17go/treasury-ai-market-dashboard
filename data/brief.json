@@ -1,1 +1,11 @@
-{"as_of":null,"mode":"rules","headline":"等待首次資料更新","bullets":["上傳 GitHub 後，至 Actions 手動執行 Update market data，即會自動產生市場資料。"],"risk_score":50,"risk_label":"中性"}
+{
+  "mode": "rules",
+  "headline": "市場風險情緒：偏多",
+  "bullets": [
+    "主要美股指數平均變動 +1.14%，風險偏好改善。",
+    "自選股強勢為 DELL +11.94%；較弱為 SNDK -3.48%。"
+  ],
+  "risk_score": 64,
+  "risk_label": "偏多",
+  "as_of": "2026-09-14T03:12:27.848085+00:00"
+}
