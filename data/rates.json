@@ -1,23 +1,40 @@
 {
-  "as_of": "2026-09-14T03:12:25.513578+00:00",
+  "as_of": "2026-09-14T03:24:09.364068+00:00",
   "source": "FRED / Federal Reserve H.15",
   "rates": [
     {
       "series": "DGS2",
       "name": "美債 2年",
       "value": null,
+      "unit": "%",
       "change_bps": null
     },
     {
       "series": "DGS10",
       "name": "美債 10年",
       "value": null,
+      "unit": "%",
       "change_bps": null
     },
     {
       "series": "DGS30",
       "name": "美債 30年",
       "value": null,
+      "unit": "%",
+      "change_bps": null
+    },
+    {
+      "series": "SOFR",
+      "name": "SOFR",
+      "value": null,
+      "unit": "%",
+      "change_bps": null
+    },
+    {
+      "series": "2S10S",
+      "name": "2Y10Y 利差",
+      "value": null,
+      "unit": "bps",
       "change_bps": null
     }
   ]
