@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="assets/style.css" />
 <link rel="stylesheet" href="assets/v141.css" />
 <link rel="stylesheet" href="assets/v143.css" />
+<link rel="stylesheet" href="assets/v144.css" />
 </head>
 <body>
 <header class="topbar"><div><div class="brand">Treasury AI <span>市場一頁通</span></div><div class="subline"><span id="reportDate">資料載入中…</span><span class="dot">•</span><span id="marketStatus">Auto Update</span><span class="dot">•</span><span id="dataFreshness" class="freshness">Checking</span></div></div><div class="top-actions"><button id="refreshBtn" class="pill ghost">重新整理</button><div class="pill">TREASURY · TAIPEI</div></div></header>
@@ -22,11 +23,12 @@
 <section class="brief-grid"><article class="panel"><div class="panel-title-row"><h2>昨日 3 件事</h2><span class="tag">Recap</span></div><div id="yesterdayTop" class="brief-list"></div></article><article class="panel"><div class="panel-title-row"><h2>今日 3 件事</h2><span class="tag">Today</span></div><div id="todayTop" class="brief-list"></div></article></section>
 <section class="section-head watchlist-head"><div><h2>自訂 Watchlist</h2><p>直接在這台裝置編輯顯示標的，設定儲存在瀏覽器。</p></div><div class="watchlist-actions"><span id="stockUpdated" class="muted"></span><button id="editWatchlistBtn" class="small-btn">編輯 Watchlist</button></div></section><section id="stockGrid" class="stock-grid"></section>
 <section class="lower-grid"><article class="panel ai-panel"><div class="panel-title-row"><h2>AI Morning View</h2><span id="aiBadge" class="tag">Rules</span></div><div id="aiView" class="ai-view"></div></article><article class="panel"><div class="panel-title-row"><h2>市場溫度</h2><span class="tag">Risk</span></div><div id="riskMeter" class="risk-meter"></div></article></section>
-<section class="news-calendar-layout"><article class="panel news-panel"><div class="panel-title-row"><h2>新聞雷達</h2><span class="tag">9 Themes</span></div><p class="source-note">每個主題只保留一則最重要財經焦點：美股、半導體、軟體 / AI、央行 / 利率、能源、歐洲、中國、地產、台灣。</p><div id="news" class="news-summary-grid"></div></article><article class="panel calendar-panel"><div class="panel-title-row"><h2>近期數據 / 央行動態</h2><span id="calendarSourceBadge" class="tag">Official</span></div><div id="calendarCostNote" class="source-note"></div><div id="calendar" class="calendar-list"></div></article></section>
-<footer><div>資料為資訊展示用途，可能延遲或缺漏；非投資建議。</div><div>美債殖利率主要取自 U.S. Treasury 官方 Daily Treasury Par Yield Curve；Cbonds 可作交叉參考。</div><div>經濟行事曆改用 BLS、BEA、Federal Reserve 官方來源，顯示未來 14 天的重要事件。</div><div class="version">Treasury AI · V1.4.3</div></footer>
+<section class="news-calendar-layout"><article class="panel news-panel"><div class="panel-title-row"><h2>新聞雷達</h2><span class="tag">9 Themes</span></div><p class="source-note">每個主題只保留一個最重要財經焦點；優先財經媒體，不再用限定來源查詢造成整區空白。</p><div id="news" class="news-summary-grid"></div></article><article class="panel calendar-panel"><div class="panel-title-row"><h2>近期數據 / 央行動態</h2><span id="calendarSourceBadge" class="tag">Official</span></div><div id="calendarCostNote" class="source-note"></div><div id="calendar" class="calendar-list"></div></article></section>
+<footer><div>資料為資訊展示用途，可能延遲或缺漏；非投資建議。</div><div>台灣市場成交值與上漲/下跌家數取自 TWSE MI_INDEX；方向比例不含持平股票。</div><div>美債殖利率主要取自 U.S. Treasury 官方 Daily Treasury Par Yield Curve；Cbonds 可作交叉參考。</div><div>經濟行事曆改用 BLS、BEA、Federal Reserve 官方來源，顯示未來 14 天的重要事件。</div><div class="version">Treasury AI · V1.4.4</div></footer>
 </main>
 <div id="watchlistModal" class="modal" aria-hidden="true"><div class="modal-card"><div class="modal-head"><div><h2>編輯 Watchlist</h2><p>勾選要顯示的標的。此設定只儲存在目前瀏覽器。</p></div><button id="closeWatchlistBtn" class="modal-close">×</button></div><input id="watchlistSearch" class="modal-search" type="search" placeholder="搜尋代號，例如 NVDA / TSM…" /><div id="watchlistChoices" class="watchlist-choices"></div><div class="modal-actions"><button id="resetWatchlistBtn" class="small-btn ghostish">恢復預設</button><button id="saveWatchlistBtn" class="small-btn">儲存</button></div></div></div>
 <script src="assets/app.js" defer></script>
 <script src="assets/v141.js" defer></script>
 <script src="assets/v143.js" defer></script>
+<script src="assets/v144.js" defer></script>
 </body></html>
