@@ -42,14 +42,16 @@ renderMarket = function(m){
   if(tw){
     const idx=(m.taiwan||[]).find(x=>x.symbol==='^TWII')||(m.taiwan||[])[0];
     const s=m.taiwan_stats||{};
-    const idxHtml=idx?`<div class="mini-market tw-index-row"><div><div class="label">台灣加權指數</div><div class="value">${fmt(idx.price)}</div></div><div class="delta ${cls(idx.change_pct)}">${pct(idx.change_pct)}</div></div>`:'';
-    const turnover=s.turnover_100m_twd==null?'—':`${fmt(s.turnover_100m_twd,1)} 億`;
+    const official=s.source==='TWSE MI_INDEX official'||idx?.source==='TWSE official';
+    const idxHtml=idx?`<div class="mini-market tw-index-row"><div><div class="label">台灣加權指數</div><div class="value">${fmt(idx.price)}</div><small>${esc(idx.quote_date||s.date||'')} · ${official?'TWSE 官方':'資料來源待確認'}</small></div><div class="delta ${cls(idx.change_pct)}">${pct(idx.change_pct)}<small>${idx.change==null?'':`${sign(idx.change)}${fmt(idx.change,2)} 點`}</small></div></div>`:'<div class="empty">台灣加權指數官方資料暫時無法取得。</div>';
+    const turnover=s.turnover_100m_twd==null?'—':`${fmt(s.turnover_100m_twd,2)} 億元`;
+    const volume=s.volume_100m_shares==null?'—':`${fmt(s.volume_100m_shares,2)} 億股`;
     const up=s.advance_pct==null?'—':`${fmt(s.advance_pct,1)}%`;
     const down=s.decline_pct==null?'—':`${fmt(s.decline_pct,1)}%`;
     const upCount=s.advance_count==null?'—':fmt(s.advance_count,0);
     const downCount=s.decline_count==null?'—':fmt(s.decline_count,0);
     const barUp=s.advance_pct==null?50:Math.max(0,Math.min(100,Number(s.advance_pct)));
-    tw.innerHTML=idxHtml+`<div class="twse-stats"><div class="tw-stat turnover"><span>加權市場成交值</span><b>${turnover}</b><small>${esc(s.date||'')} · TWSE</small></div><div class="tw-stat breadth"><span>上漲 vs 下跌個股</span><div class="breadth-values"><b class="up">${up}</b><em>${upCount} 檔</em><b class="down">${down}</b><em>${downCount} 檔</em></div><div class="breadth-bar"><i style="width:${barUp}%"></i></div><small>方向佔比不含持平股票</small></div></div>`;
+    tw.innerHTML=idxHtml+`<div class="twse-stats"><div class="tw-stat turnover"><span>上市成交金額</span><b>${turnover}</b><small>${esc(s.date||'')} · TWSE 官方</small></div><div class="tw-stat volume"><span>上市成交量</span><b>${volume}</b><small>成交股數 · TWSE 官方</small></div><div class="tw-stat breadth"><span>上漲 vs 下跌個股</span><div class="breadth-values"><b class="up">${up}</b><em>${upCount} 檔</em><b class="down">${down}</b><em>${downCount} 檔</em></div><div class="breadth-bar"><i style="width:${barUp}%"></i></div><small>方向佔比不含持平股票</small></div></div>`;
   }
   renderTaiwanFutures(m.taiwan_futures);
 
@@ -148,7 +150,6 @@ renderBrief = function(b){
   el.innerHTML=rows.map((x,i)=>`<div class="brief-item"><span>${i+1}</span><div>${esc(x)}</div></div>`).join('');
 };
 
-// Desk Signals is intentionally disabled in V1.4.8; hidden compatibility target remains in HTML.
 renderSignals = function(){};
 
 document.addEventListener('keydown',e=>{
