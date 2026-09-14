@@ -2,7 +2,7 @@ from __future__ import annotations
 import json, traceback
 from pathlib import Path
 from datetime import datetime, timezone
-import update_v142 as u
+import update_v143 as u
 
 DATA = u.DATA
 
@@ -47,8 +47,7 @@ def merge_rates(new, old):
 
 def restore_if_empty(name, old, predicate):
     new=load(name)
-    if predicate(new):
-        return new
+    if predicate(new): return new
     if old:
         old['fallback_at']=datetime.now(timezone.utc).isoformat()
         old['fallback_reason']='latest source unavailable; preserving last good data'
@@ -59,48 +58,28 @@ def restore_if_empty(name, old, predicate):
 def main():
     cfg=u.load_cfg()
     old={n:load(n) for n in ['market.json','stocks.json','rates.json','news.json','calendar.json','positioning.json','professional.json','brief.json']}
-
     stages=[
-        ('market', lambda:u.update_market(cfg)),
-        ('stocks', lambda:u.update_stocks(cfg)),
-        ('rates', u.update_rates),
-        ('news', u.update_news),
-        ('calendar', u.update_calendar),
-        ('positioning', u.update_positioning),
-        ('professional', u.update_professional),
+        ('market', lambda:u.update_market(cfg)),('stocks', lambda:u.update_stocks(cfg)),('rates', u.update_rates),
+        ('news', u.update_news),('calendar', u.update_calendar),('positioning', u.update_positioning),('professional', u.update_professional),
     ]
     for name, fn in stages:
-        try:
-            fn()
+        try: fn()
         except Exception as e:
-            print(f'[WARN] {name} stage failed: {e}')
-            traceback.print_exc()
-
-    m=merge_quote_sections(load('market.json'), old['market.json'], ['indices','pulse','taiwan','commodities','fx']); save('market.json',m)
-    s=merge_quote_sections(load('stocks.json'), old['stocks.json'], ['stocks']); save('stocks.json',s)
-    r=merge_rates(load('rates.json'), old['rates.json']); save('rates.json',r)
-
+            print(f'[WARN] {name} stage failed: {e}'); traceback.print_exc()
+    save('market.json',merge_quote_sections(load('market.json'), old['market.json'], ['indices','pulse','taiwan','commodities','fx']))
+    save('stocks.json',merge_quote_sections(load('stocks.json'), old['stocks.json'], ['stocks']))
+    save('rates.json',merge_rates(load('rates.json'), old['rates.json']))
     restore_if_empty('news.json', old['news.json'], lambda x: bool(x.get('items')))
-    # Calendar source may be valid even on a no-event day. Only restore old data when the provider itself is unavailable.
-    restore_if_empty('calendar.json', old['calendar.json'], lambda x: x.get('status')=='ok')
+    restore_if_empty('calendar.json', old['calendar.json'], lambda x: x.get('status')=='ok' and bool(x.get('items')))
     restore_if_empty('positioning.json', old['positioning.json'], lambda x: x.get('status')=='ok' and x.get('tx_foreign',{}).get('oi_net_contracts') is not None)
-
     p=load('professional.json'); oldp=old['professional.json']
-    fp=p.get('fed_pricing') or {}; ofp=oldp.get('fed_pricing') or {}
-    if not fp.get('outcomes') and ofp.get('outcomes'):
-        p['fed_pricing']={**ofp,'fallback':True}
     if not p.get('yield_curve') and oldp.get('yield_curve'): p['yield_curve']=oldp['yield_curve']
     if not p.get('policy_rates') and oldp.get('policy_rates'): p['policy_rates']=oldp['policy_rates']
     save('professional.json',p)
-
-    try:
-        u.update_brief()
+    try: u.update_brief()
     except Exception as e:
-        print('[WARN] brief stage failed:',e)
-        traceback.print_exc()
+        print('[WARN] brief stage failed:',e); traceback.print_exc()
         if old['brief.json']: save('brief.json',old['brief.json'])
+    print('V1.4.3 update completed: official 14-day calendar and nine-category financial news summaries.')
 
-    print('V1.4.2 update completed; calendar, policy rates, Fed probability and financial-news source filters enabled.')
-
-if __name__=='__main__':
-    main()
+if __name__=='__main__': main()
