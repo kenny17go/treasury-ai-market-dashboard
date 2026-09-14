@@ -1,49 +1,52 @@
 {
-  "as_of": "2026-09-14T07:42:54.971712+00:00",
+  "as_of": "2026-09-14T14:24:08.368109+00:00",
   "source": "Google News RSS",
-  "strategy": "12 themes; financial publishers ranked first; one focus per theme",
+  "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
     {
-      "title": "美股期貨開盤跳水 那指急跌逾1% AI巨頭齊喊放慢+Fed升息機率高漲",
-      "summary": "美股期貨開盤跳水 那指急跌逾1% AI巨頭齊喊放慢+Fed升息機率高漲 經濟日報 延伸關注：美股早盤／油價下跌 道瓊大漲逾600點 通膨數據超預期 Fed 升息機率增。",
+      "title": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測",
+      "summary": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZYlNOVy1jclEtUW5YVXBFWXkwR1E0TEtWVkE1OE1zLTJPc0dldXM2SEdBdzg0ZDMwSzJJckZCODQyTDdQZThPdlNacw?oc=5",
+      "published": "Mon, 14 Sep 2026 11:55:29 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1
+    },
+    {
+      "title": "CPI成翻盤關鍵！高盛、花旗改口押升息 TD喊連升3次",
+      "summary": "CPI成翻盤關鍵！高盛、花旗改口押升息 TD喊連升3次 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xMDZaYWc5cUlYR01EN29aekhJZ1U0RUR1Z1YyRlVsVHJqLXRVM2dHeG5qeHgtcDhwVUx1RHJRZmVEd0xjVENrWE5LWQ?oc=5",
+      "published": "Sat, 12 Sep 2026 05:10:08 GMT",
+      "topic": "Fed / 利率",
+      "rank": 2
+    },
+    {
+      "title": "〈熱門股〉油價又破百！00642U飆漲衝新高、00673R逆勢吸金額度面臨告罄",
+      "summary": "〈熱門股〉油價又破百！00642U飆漲衝新高、00673R逆勢吸金額度面臨告罄 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPYTNHX1M5Vm5Sd2FyQTZpTFJSQy1Jc2c1UGo0aDgwTDZvc2plaG5IcHdITkgydi1ST1VDYmotYklCZ2cwc1p0WGtLaw?oc=5",
+      "published": "Sat, 12 Sep 2026 03:19:09 GMT",
+      "topic": "能源",
+      "rank": 3
+    },
+    {
+      "title": "AI熱潮降溫怎麼辦？野村示警：全球經濟將遭「多線程」極限壓力測試",
+      "summary": "AI熱潮降溫怎麼辦？野村示警：全球經濟將遭「多線程」極限壓力測試 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYUNEOG93N1dUUXhMZEYzSWhEMGZqY3NkOGYxSDZUbXJtd00yQkgxVU1JdmVrTFlVWllYY25GNzR4Sk9lT1pyUkU4SQ?oc=5",
+      "published": "Sun, 13 Sep 2026 02:10:06 GMT",
+      "topic": "AI / 半導體",
+      "rank": 4
+    },
+    {
+      "title": "油價高掛 亞洲大考驗",
+      "summary": "油價高掛 亞洲大考驗 經濟日報",
       "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWU5WR1J5blB0dUJidGszb01UbDhZeGg2Ql9neTgya21tcHJxdDdUcjlCNjBSTnVhRUhLbDFjdzZsckhCS2lMNFBvcEk5UFl1WThqY0x2WC1fanNhYlFlbEZfazZWTGFpOU91VEhfWkVGV0FMRmNwNExiQmhQYjJNTkhoYmV5X2_SAWJBVV95cUxNVldaaUJQRC1uTzJZOXB4VnRtZFdhcU1reWoyU3hFaDVqQjN5SmF2UDdwZTBGT1hWVnlvbkVNQXdLRnJpU0RlVDVkNmhjS0lrWkk4eTBZUTJTNndzbUZNeWoyUQ?oc=5",
-      "published": "Sun, 13 Sep 2026 23:27:54 GMT",
-      "category": "美股"
-    },
-    {
-      "title": "10年期美國公債 概述 - CME Group",
-      "summary": "10年期美國公債 概述 CME Group 延伸關注：美財政部債務回購規模不如預期 長期公債殖利率攀升 - 蕃新聞。",
-      "source": "CME Group",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHkzTWVILUcxUUxCMkNkNXpNanNDVXM4VnBlUXlqRnFJNTZTVWNQQ3AyREdPNEl1Nl84UWswenF6RGtZNUlxVTUzVTVaX2FHbEtwNFUtWS1uZ0RRZXhPdjAwcHhtUWc1al9MTXdpMzNLbGh3a1MwUW8yWDhjRHZWZHdKR1g3RnZnQXRqZEdHSFBFUGpYbXJENlRn?oc=5",
-      "published": "Fri, 11 Sep 2026 20:44:45 GMT",
-      "category": "美債"
-    },
-    {
-      "title": "油價飆漲通膨壓力籠罩全球主要央行今年決策一次看| 國際 - 中央社 CNA",
-      "summary": "油價飆漲通膨壓力籠罩全球主要央行今年決策一次看| 國際 中央社 CNA",
-      "source": "中央社 CNA",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JSDNURDh2VkduVDY3RnBsb3hObll4TDd2bTBzN2VpeEgzZndmWGc1eWlvRkxkWWJxeGIzaGFZYVNpVkxBakx0WXE1Tm1EOUtLQWpUVHZvMnlHOHJ5ZlNV?oc=5",
-      "published": "Sun, 13 Sep 2026 09:10:00 GMT",
-      "category": "央行"
-    },
-    {
-      "title": "美國PPI升溫壓低黃金與白銀，利率壓力還會延續多久？-詠晴K線解密 - CMoney投資網誌",
-      "summary": "美國PPI升溫壓低黃金與白銀，利率壓力還會延續多久？-詠晴K線解密 CMoney投資網誌",
-      "source": "CMoney投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOEVqb0dZU1NKSm5meHZKdk5yQ0ZfZEdhdWNlQnlxRXhWbGlHS3ZDZFVSMDlfNFRUQTlGcUlBRHd3ejRSV0hGZnVvWWNWcFpJZEluWWRpYnNqalplNEtxZFpfVkh6d2M3Tm5WdmdpV0hFWkRFVm9DdkRlLU9UeUsycU93OXNpalE?oc=5",
-      "published": "Sat, 12 Sep 2026 13:51:20 GMT",
-      "category": "貴金屬 / 黃金"
-    },
-    {
-      "title": "〈台股盤前要聞〉台股4萬6攻防拉起戰線、超級央行周登場 - news.cnyes.com",
-      "summary": "〈台股盤前要聞〉台股4萬6攻防拉起戰線、超級央行周登場 news.cnyes.com 延伸關注：盤中看盤重點： - 鉅亨號。",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFdGVtTU40QWNISDd3VVRsUVBfMGIxMDMyNUhBWjJoWVRGUnhaVWtBcGFiWTZSM0tUSHVVM0VSTmVZZml1cVZFM1phREE1Y00?oc=5",
-      "published": "Sun, 13 Sep 2026 21:11:27 GMT",
-      "category": "台灣"
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yWGNCdWZrejBrX1FLRjQ4dzBETEN5R2VMR1F3SU9XdDNORmM1NkVkNTFhWEVBdHJOeHlQVGFuNFE4bGlRNGNTbE9MdUNYVk54U3JaNUJtWDg0Z9IBX0FVX3lxTE5hTG5RUWliamktQXdTRWh6Tm1DNzZXNkpIbHo5UTdqQjRXZ1FqR0h6akRmVklxV1JnUElxd095Q3pEX1d4b3lydU11OWxDZkZveEcxSmptd0V6MHQyMEpV?oc=5",
+      "published": "Fri, 11 Sep 2026 17:27:12 GMT",
+      "topic": "能源",
+      "rank": 5
     }
-  ],
-  "fallback_at": "2026-09-14T14:15:58.928641+00:00",
-  "fallback_reason": "latest source unavailable; preserving last good data"
+  ]
 }

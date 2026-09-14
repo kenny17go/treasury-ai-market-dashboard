@@ -1,22 +1,22 @@
 {
-  "as_of": "2026-09-14T14:15:56.870959+00:00",
+  "as_of": "2026-09-14T14:25:45.506300+00:00",
   "status": "ok",
   "source": "BEA + Federal Reserve + 中央銀行（台灣） + Bank of Japan + European Central Bank + Eurostat",
   "source_mode": "Official global central banks + official statistics + market-calendar enrichment",
   "window_days": 60,
-  "cost_note": "央行動態以 Fed、台灣央行、BOJ、ECB 官方日程為優先；重要數據以 BLS、BEA、Eurostat 及鉅亨／M平方等來源補強，永豐期貨與工商時報交叉參考。",
+  "cost_note": "央行動態以 Fed、台灣央行、BOJ、ECB 官方日程為優先；重要數據以 BLS、BEA、Eurostat 及鉅亨／M平方等來源補強。",
   "items": [
     {
       "date": "2026-09-17",
       "time": "02:00",
       "title": "FOMC 利率決議 / 記者會",
       "country": "United States",
+      "flag": "🇺🇸",
       "importance": 3,
       "actual": "",
       "forecast": "",
       "previous": "",
-      "source": "Federal Reserve",
-      "flag": "🇺🇸"
+      "source": "Federal Reserve"
     },
     {
       "date": "2026-09-17",
@@ -59,12 +59,36 @@
       "time": "20:30",
       "title": "U.S. International Transactions and Investment Position, 2nd Quarter 2026",
       "country": "United States",
+      "flag": "🇺🇸",
       "importance": 3,
       "actual": "",
       "forecast": "",
       "previous": "",
-      "source": "BEA",
-      "flag": "🇺🇸"
+      "source": "BEA"
+    },
+    {
+      "date": "2026-09-30",
+      "time": "20:30",
+      "title": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 2nd Quarter 2026; State PCE, 2025",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "BEA"
+    },
+    {
+      "date": "2026-09-30",
+      "time": "20:30",
+      "title": "Personal Income and Outlays, August 2026",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "BEA"
     },
     {
       "date": "2026-10-02",
@@ -91,16 +115,64 @@
       "source": "Eurostat"
     },
     {
-      "date": "2026-10-29",
-      "time": "02:00",
-      "title": "FOMC 利率決議 / 記者會",
+      "date": "2026-10-06",
+      "time": "20:30",
+      "title": "U.S. International Trade in Goods and Services, August 2026",
       "country": "United States",
+      "flag": "🇺🇸",
       "importance": 3,
       "actual": "",
       "forecast": "",
       "previous": "",
-      "source": "Federal Reserve",
-      "flag": "🇺🇸"
+      "source": "BEA"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "22:00",
+      "title": "Services Supplied Through Affiliates, 2024",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "BEA"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "02:00",
+      "title": "FOMC 利率決議 / 記者會",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "Federal Reserve"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "20:30",
+      "title": "GDP (Advance Estimate), 3rd Quarter 2026",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "BEA"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "20:30",
+      "title": "Personal Income and Outlays, September 2026",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "BEA"
     },
     {
       "date": "2026-10-29",
@@ -137,6 +209,18 @@
       "forecast": "",
       "previous": "",
       "source": "Bank of Japan 官方年度日程"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "21:30",
+      "title": "U.S. International Trade in Goods and Services, September 2026",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "BEA"
     }
   ]
 }
