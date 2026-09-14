@@ -3,6 +3,9 @@ indices:
   - {symbol: "^IXIC", name: "NASDAQ"}
   - {symbol: "^DJI", name: "DOW JONES"}
   - {symbol: "^SOX", name: "SOX"}
+pulse:
+  - {symbol: "^VIX", name: "VIX", decimals: 2}
+  - {symbol: "^RUT", name: "Russell 2000", decimals: 2}
 taiwan:
   - {symbol: "^TWII", name: "台灣加權指數"}
   - {symbol: "^TWOII", name: "櫃買指數"}
