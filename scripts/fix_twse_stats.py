@@ -9,8 +9,8 @@ import update_market as u
 
 DATA = Path(__file__).resolve().parents[1] / 'data'
 MARKET = DATA / 'market.json'
-FMTQIK_URL = 'https://www.twse.com.tw/exchangeReport/FMTQIK'
 MI_INDEX_URL = 'https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX'
+YAHOO_TSE_URL = 'https://tw.stock.yahoo.com/s/tse.php'
 
 
 def num(v):
@@ -21,8 +21,7 @@ def num(v):
     return float(m.group(0)) if m else None
 
 
-def normalize_twse_date(raw):
-    """Normalize TWSE dates such as 115/09/14 or 2026/09/14 to YYYY-MM-DD."""
+def normalize_date(raw):
     s = str(raw or '').strip().replace('-', '/')
     m = re.fullmatch(r'(\d{3,4})/(\d{1,2})/(\d{1,2})', s)
     if not m:
@@ -36,13 +35,6 @@ def normalize_twse_date(raw):
         return None
 
 
-def field_index(fields, keyword):
-    for i, f in enumerate(fields or []):
-        if keyword in str(f).replace(' ', ''):
-            return i
-    return None
-
-
 def twse_tables(date_text):
     r = u.get_http(
         MI_INDEX_URL,
@@ -54,78 +46,50 @@ def twse_tables(date_text):
     return obj.get('tables') or []
 
 
-def _fmtqik_json_turnover(date_text):
-    """Read the exact trading-date row from official FMTQIK JSON.
+def yahoo_regular_session_turnover(date_text):
+    """Return the cash-market close turnover shown on Yahoo Taiwan's TSE page.
 
-    Important: do not sum MI_INDEX security-category rows. Those categories are
-    not guaranteed to be mutually exclusive with the official market headline
-    definition, which previously produced 6,653.16 億 instead of 6,309.17 億.
+    This is intentionally the regular-session market headline amount used by
+    Taiwan market pages/news. It does NOT use TWSE FMTQIK because FMTQIK adds
+    after-hours/odd-lot/block components and therefore produces a larger number
+    than the 13:30 close headline the dashboard is meant to show.
     """
-    r = u.get_http(FMTQIK_URL, params={'response': 'json', 'date': date_text.replace('-', '')})
-    obj = r.json()
-    fields = obj.get('fields') or []
-    value_idx = field_index(fields, '成交金額')
-    if value_idx is None:
-        value_idx = 2  # documented FMTQIK order: 日期/成交股數/成交金額/...
-
-    arrays = []
-    if isinstance(obj.get('data'), list):
-        arrays.append(obj['data'])
-    for key, value in obj.items():
-        if key != 'data' and key.startswith('data') and isinstance(value, list):
-            arrays.append(value)
-
-    for rows in arrays:
-        for row in rows:
-            if not row or normalize_twse_date(row[0]) != date_text:
-                continue
-            if value_idx >= len(row):
-                continue
-            value = num(row[value_idx])
-            if value is not None:
-                return value
-    return None
-
-
-def _fmtqik_html_turnover(date_text):
-    """Second official-source parser for the same FMTQIK report."""
-    r = u.get_http(FMTQIK_URL, params={'response': 'html', 'date': date_text.replace('-', '')})
+    r = u.get_http(YAHOO_TSE_URL)
     soup = u.BeautifulSoup(r.text, 'html.parser')
-    for table in soup.find_all('table'):
-        rows = table.find_all('tr')
-        if not rows:
-            continue
-        header = [x.get_text(' ', strip=True).replace(' ', '') for x in rows[0].find_all(['th', 'td'])]
-        value_idx = next((i for i, x in enumerate(header) if '成交金額' in x), None)
-        if value_idx is None:
-            continue
-        for tr in rows[1:]:
-            cells = [x.get_text(' ', strip=True) for x in tr.find_all(['th', 'td'])]
-            if not cells or normalize_twse_date(cells[0]) != date_text or value_idx >= len(cells):
-                continue
-            value = num(cells[value_idx])
-            if value is not None:
-                return value
-    return None
+    text = soup.get_text(' ', strip=True)
+
+    # Prefer an explicit yyyy/mm/dd date on the page when available.
+    dates = re.findall(r'20\d{2}/\d{1,2}/\d{1,2}', text)
+    if dates:
+        normalized = {normalize_date(x) for x in dates}
+        if date_text not in normalized:
+            raise RuntimeError(f'Yahoo TSE page date does not match {date_text}: {sorted(x for x in normalized if x)}')
+
+    # Yahoo pages use wording such as 成交金額 6,309.17 億 or 成交6309.17億.
+    patterns = [
+        r'成交金額\s*([\d,]+(?:\.\d+)?)\s*億',
+        r'成交\s*([\d,]+(?:\.\d+)?)\s*億',
+    ]
+    values = []
+    for pat in patterns:
+        for raw in re.findall(pat, text):
+            v = num(raw)
+            if v is not None and 100 <= v <= 30000:
+                values.append(v)
+    if not values:
+        raise RuntimeError('Yahoo TSE regular-session turnover not found')
+
+    # The first explicit 成交金額 figure is the market headline. Avoid summing
+    # anything; summing categories was the source of the previous 6,653.16 error.
+    return round(values[0], 2)
 
 
-def fmtqik_turnover(date_text):
-    value = _fmtqik_json_turnover(date_text)
-    if value is not None:
-        return value, 'FMTQIK JSON exact-date row'
-    value = _fmtqik_html_turnover(date_text)
-    if value is not None:
-        return value, 'FMTQIK HTML exact-date row'
-    raise RuntimeError(f'TWSE FMTQIK exact-date turnover missing for {date_text}')
+def stock_breadth(tables):
+    """Read listed-stock up/down/flat counts from the TWSE breadth table.
 
-
-def market_breadth(tables):
-    """Read the official close headline up/down counts from MI_INDEX.
-
-    TWSE breadth tables commonly expose 類型 / 整體市場 / 股票. The published
-    market-close headline count for 2026-09-14 is 341 up / 674 down, which is
-    the 整體市場 column. The narrower 股票 column was 332 / 665 and was the
-    reason the previous display differed from the official closing summary.
+    The dashboard label says 個股, so use the 股票 column, not 整體市場.
+    The overall-market column includes ETF/warrant/etc. and can be in the
+    thousands, which caused the incorrect 3,983 / 8,508 display.
     """
     for table in tables:
         rows = table.get('data') or []
@@ -136,18 +100,19 @@ def market_breadth(tables):
             continue
 
         fields = [str(x).replace(' ', '') for x in (table.get('fields') or [])]
-        overall_idx = next((i for i, f in enumerate(fields) if '整體市場' in f), None)
-        if overall_idx is None:
-            overall_idx = 1 if len(fields) > 1 else None
-        if overall_idx is None:
+        stock_idx = next((i for i, f in enumerate(fields) if f == '股票' or f.endswith('股票')), None)
+        if stock_idx is None:
+            # Current TWSE layout: 類型 / 整體市場 / 股票
+            stock_idx = 2 if len(fields) > 2 else None
+        if stock_idx is None:
             continue
 
         up = down = flat = None
         for row in rows:
-            if not row or overall_idx >= len(row):
+            if not row or stock_idx >= len(row):
                 continue
             label = str(row[0]).replace(' ', '')
-            value = num(row[overall_idx])
+            value = num(row[stock_idx])
             if label.startswith('上漲'):
                 up = int(value) if value is not None else None
             elif label.startswith('下跌'):
@@ -158,7 +123,7 @@ def market_breadth(tables):
         if up is not None and down is not None:
             return up, down, flat
 
-    raise RuntimeError('TWSE MI_INDEX overall-market breadth table not found')
+    raise RuntimeError('TWSE MI_INDEX stock breadth table not found')
 
 
 def main():
@@ -170,37 +135,35 @@ def main():
     )
     if not date_text:
         raise RuntimeError('Taiwan trade date missing from market.json')
-
-    # Guard against silently applying a monthly or adjacent-date value.
     date_text = datetime.strptime(date_text, '%Y-%m-%d').strftime('%Y-%m-%d')
-    turnover, turnover_method = fmtqik_turnover(date_text)
-    up, down, flat = market_breadth(twse_tables(date_text))
 
-    turnover_100m = round(turnover / 100_000_000, 2)
-    if not (100 <= turnover_100m <= 30_000):
-        raise RuntimeError(f'TWSE turnover sanity check failed: {turnover_100m} 億元')
+    # Do not overwrite with FMTQIK totals. The dashboard wants the regular cash
+    # session headline amount shown at/after the close.
+    turnover_100m = yahoo_regular_session_turnover(date_text)
+    up, down, flat = stock_breadth(twse_tables(date_text))
 
     directional = up + down
     stats.update({
-        'turnover_twd': turnover,
         'turnover_100m_twd': turnover_100m,
-        'turnover_method': turnover_method,
+        'turnover_twd': round(turnover_100m * 100_000_000),
+        'turnover_method': 'Yahoo Taiwan TSE regular-session headline; exact trade date',
         'turnover_trade_date': date_text,
         'advance_count': up,
         'decline_count': down,
         'flat_count': flat,
         'advance_pct': round(up / directional * 100, 1) if directional else None,
         'decline_pct': round(down / directional * 100, 1) if directional else None,
-        'breadth_scope': 'overall_market',
-        'source': 'TWSE official FMTQIK + MI_INDEX',
-        'source_url': FMTQIK_URL,
+        'breadth_scope': 'listed_stocks',
+        'turnover_source': 'Yahoo股市',
+        'breadth_source': 'TWSE MI_INDEX 股票欄',
+        'source': 'TWSE official MI_INDEX + Yahoo Taiwan regular-session turnover',
     })
 
     market['taiwan_stats'] = stats
     MARKET.write_text(json.dumps(market, ensure_ascii=False, indent=2), encoding='utf-8')
     print(
-        f'TWSE verified: date={date_text} turnover={turnover_100m}億元 '
-        f'({turnover_method}) up={up} down={down} flat={flat}'
+        f'Taiwan close verified: date={date_text} turnover={turnover_100m}億元 '
+        f'listed-stock breadth up={up} down={down} flat={flat}'
     )
 
 
