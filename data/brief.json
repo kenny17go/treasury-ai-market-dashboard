@@ -2,15 +2,15 @@
   "mode": "rules",
   "headline": "市場風險情緒：偏空",
   "bullets": [
-    "主要美股指數平均變動 -1.44%。",
+    "主要美股指數平均變動 -1.52%。",
     "美債10年殖利率 4.960%，日變動 +1.0 bps。",
-    "自選股強勢 GOOGL +2.14%；較弱 COHR -9.32%。",
+    "自選股強勢 GOOGL +2.11%；較弱 COHR -9.60%。",
     "2Y10Y 利差 +33.0 bps。"
   ],
-  "risk_score": 33,
+  "risk_score": 32,
   "risk_label": "偏空",
   "yesterday_top": [
-    "美股主要指數平均 -1.44%，風險情緒偏空。",
+    "美股主要指數平均 -1.52%，風險情緒偏空。",
     "10Y 美債殖利率 4.960%。",
     "DXY 日變動 +0.40%。"
   ],
@@ -21,10 +21,10 @@
   "todays_watch": [
     "利率：10Y 日變動 +1.0 bps。",
     "美元：DXY 日變動 +0.40%。",
-    "波動率：VIX 17.15。",
+    "波動率：VIX 16.93。",
     "曲線：2Y10Y +33.0 bps。"
   ],
   "today_date_taipei": "2026-09-14",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-14T15:48:43.783735+00:00"
+  "as_of": "2026-09-14T15:56:34.555769+00:00"
 }
