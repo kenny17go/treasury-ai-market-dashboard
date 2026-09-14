@@ -2,7 +2,7 @@ from __future__ import annotations
 import json, traceback
 from pathlib import Path
 from datetime import datetime, timezone
-import update_v141 as u
+import update_v142 as u
 
 DATA = u.DATA
 
@@ -38,7 +38,6 @@ def merge_rates(new, old):
             x={**ox, **{k:v for k,v in x.items() if v is not None}}
             x['fallback']=True
         out.append(x)
-    # preserve an old series that a new provider did not emit
     present={x.get('series') for x in out}
     for sid,ox in old_map.items():
         if sid not in present and ox.get('value') is not None:
@@ -82,7 +81,8 @@ def main():
     r=merge_rates(load('rates.json'), old['rates.json']); save('rates.json',r)
 
     restore_if_empty('news.json', old['news.json'], lambda x: bool(x.get('items')))
-    restore_if_empty('calendar.json', old['calendar.json'], lambda x: bool(x.get('items')))
+    # Calendar source may be valid even on a no-event day. Only restore old data when the provider itself is unavailable.
+    restore_if_empty('calendar.json', old['calendar.json'], lambda x: x.get('status')=='ok')
     restore_if_empty('positioning.json', old['positioning.json'], lambda x: x.get('status')=='ok' and x.get('tx_foreign',{}).get('oi_net_contracts') is not None)
 
     p=load('professional.json'); oldp=old['professional.json']
@@ -100,7 +100,7 @@ def main():
         traceback.print_exc()
         if old['brief.json']: save('brief.json',old['brief.json'])
 
-    print('V1.4.1 robust update completed; unavailable upstream sources preserve last known good data.')
+    print('V1.4.2 update completed; calendar, policy rates, Fed probability and financial-news source filters enabled.')
 
 if __name__=='__main__':
     main()
