@@ -251,5 +251,7 @@
       "time": "",
       "category": "台灣市場"
     }
-  ]
+  ],
+  "fallback_at": "2026-09-14T05:25:51.374427+00:00",
+  "fallback_reason": "latest source unavailable; preserving last good data"
 }

@@ -1,8 +1,43 @@
 {
-  "as_of": "2026-09-14T05:11:10.178284+00:00",
+  "as_of": "2026-09-14T05:25:50.876057+00:00",
   "status": "ok",
-  "source": "Xoomar official-source calendar",
-  "source_mode": "free-json-us",
-  "cost_note": "目前優先使用免 API Key 的公開 JSON 行事曆；若啟用 Trading Economics API Key，可能依供應商方案產生費用。",
-  "items": []
+  "source": "BEA + Federal Reserve",
+  "source_mode": "official",
+  "window_days": 14,
+  "cost_note": "官方來源：BLS、BEA、Federal Reserve；免 API Key。顯示未來 14 天重要事件，週末也不會因「今日無事件」而整區空白。",
+  "items": [
+    {
+      "date": "2026-09-17",
+      "time": "02:00",
+      "title": "FOMC 利率決議 / 記者會",
+      "country": "United States",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "Federal Reserve"
+    },
+    {
+      "date": "2026-09-24",
+      "time": "20:30",
+      "title": "U.S. International Transactions and Investment Position, 2nd Quarter 2026",
+      "country": "United States",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "BEA"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "02:00",
+      "title": "FOMC 利率決議 / 記者會",
+      "country": "United States",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "Federal Reserve"
+    }
+  ]
 }
