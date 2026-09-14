@@ -1,1 +1,49 @@
-
+indices:
+  - {symbol: "^GSPC", name: "S&P 500"}
+  - {symbol: "^IXIC", name: "NASDAQ"}
+  - {symbol: "^DJI", name: "DOW JONES"}
+  - {symbol: "^SOX", name: "SOX"}
+taiwan:
+  - {symbol: "^TWII", name: "台灣加權指數"}
+  - {symbol: "^TWOII", name: "櫃買指數"}
+commodities:
+  - {symbol: "GC=F", name: "Gold"}
+  - {symbol: "SI=F", name: "Silver"}
+  - {symbol: "HG=F", name: "Copper"}
+  - {symbol: "BZ=F", name: "Brent"}
+  - {symbol: "CL=F", name: "WTI"}
+fx:
+  - {symbol: "DX-Y.NYB", name: "DXY", decimals: 3}
+  - {symbol: "EURUSD=X", name: "EUR/USD", decimals: 4}
+  - {symbol: "JPY=X", name: "USD/JPY", decimals: 3}
+  - {symbol: "CNH=X", name: "USD/CNH", decimals: 4}
+  - {symbol: "AUDUSD=X", name: "AUD/USD", decimals: 4}
+  - {symbol: "CHF=X", name: "USD/CHF", decimals: 4}
+  - {symbol: "GBPUSD=X", name: "GBP/USD", decimals: 4}
+  - {symbol: "HKD=X", name: "USD/HKD", decimals: 4}
+  - {symbol: "TWD=X", name: "USD/TWD", decimals: 3}
+stocks:
+  - {symbol: "TSM", label: "TSM ADR"}
+  - {symbol: "ASX", label: "ASX ADR"}
+  - {symbol: "UMC", label: "UMC ADR"}
+  - {symbol: "NVDA", label: "NVDA"}
+  - {symbol: "AMD", label: "AMD"}
+  - {symbol: "INTC", label: "INTC"}
+  - {symbol: "GOOGL", label: "GOOGL"}
+  - {symbol: "MSFT", label: "MSFT"}
+  - {symbol: "META", label: "META"}
+  - {symbol: "AMZN", label: "AMZN"}
+  - {symbol: "AAPL", label: "AAPL"}
+  - {symbol: "AVGO", label: "AVGO"}
+  - {symbol: "SPXC", label: "SPXC"}
+  - {symbol: "TSLA", label: "TSLA"}
+  - {symbol: "MU", label: "MU"}
+  - {symbol: "SNDK", label: "SNDK"}
+  - {symbol: "SWKS", label: "SWKS"}
+  - {symbol: "ASML", label: "ASML"}
+  - {symbol: "QCOM", label: "QCOM"}
+  - {symbol: "ARM", label: "ARM"}
+  - {symbol: "DELL", label: "DELL"}
+  - {symbol: "MRVL", label: "MRVL"}
+  - {symbol: "LITE", label: "LITE"}
+  - {symbol: "COHR", label: "COHR"}
