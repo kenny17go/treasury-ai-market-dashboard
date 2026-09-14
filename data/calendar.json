@@ -1,10 +1,10 @@
 {
-  "as_of": "2026-09-14T08:44:08.100949+00:00",
+  "as_of": "2026-09-14T09:47:49.377722+00:00",
   "status": "ok",
-  "source": "BLS/BEA/Federal Reserve",
-  "source_mode": "Cnyes + official; CTEE fallback/cross-check",
-  "window_days": 14,
-  "cost_note": "鉅亨網＋官方來源為主；工商時報作備援/交叉參考。重要度為來源標示或規則判定；Actual/Forecast/Previous 以可取得資料為準。",
+  "source": "BEA + Federal Reserve + 中央銀行（台灣） + Bank of Japan + European Central Bank + Eurostat",
+  "source_mode": "Official global central banks + official statistics + market-calendar enrichment",
+  "window_days": 60,
+  "cost_note": "央行動態以 Fed、台灣央行、BOJ、ECB 官方日程為優先；重要數據以 BLS、BEA、Eurostat 及鉅亨／M平方等來源補強，永豐期貨與工商時報交叉參考。",
   "items": [
     {
       "date": "2026-09-17",
@@ -19,6 +19,42 @@
       "flag": "🇺🇸"
     },
     {
+      "date": "2026-09-17",
+      "time": "17:00",
+      "title": "歐元區 HICP / CPI（8月終值）",
+      "country": "Eurozone",
+      "flag": "🇪🇺",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "Eurostat"
+    },
+    {
+      "date": "2026-09-17",
+      "time": "—",
+      "title": "台灣央行理監事聯席會議 / 會後記者會",
+      "country": "Taiwan",
+      "flag": "🇹🇼",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "中央銀行（台灣）"
+    },
+    {
+      "date": "2026-09-18",
+      "time": "—",
+      "title": "日本銀行金融政策決定會合 / 政策聲明",
+      "country": "Japan",
+      "flag": "🇯🇵",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "Bank of Japan 官方年度日程"
+    },
+    {
       "date": "2026-09-24",
       "time": "20:30",
       "title": "U.S. International Transactions and Investment Position, 2nd Quarter 2026",
@@ -29,6 +65,78 @@
       "previous": "",
       "source": "BEA",
       "flag": "🇺🇸"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "17:00",
+      "title": "歐元區 HICP / CPI（9月初值）",
+      "country": "Eurozone",
+      "flag": "🇪🇺",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "Eurostat"
+    },
+    {
+      "date": "2026-10-05",
+      "time": "17:00",
+      "title": "歐元區工業生產者物價 PPI",
+      "country": "Eurozone",
+      "flag": "🇪🇺",
+      "importance": 2,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "Eurostat"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "02:00",
+      "title": "FOMC 利率決議 / 記者會",
+      "country": "United States",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "Federal Reserve",
+      "flag": "🇺🇸"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "—",
+      "title": "ECB 貨幣政策會議 / 利率決議與記者會",
+      "country": "Eurozone",
+      "flag": "🇪🇺",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "European Central Bank 官方年度日程"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "18:00",
+      "title": "歐元區 GDP（第3季初值）",
+      "country": "Eurozone",
+      "flag": "🇪🇺",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "Eurostat"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "—",
+      "title": "日本銀行金融政策決定會合 / 政策聲明",
+      "country": "Japan",
+      "flag": "🇯🇵",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "Bank of Japan 官方年度日程"
     }
   ]
 }
