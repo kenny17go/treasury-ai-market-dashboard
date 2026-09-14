@@ -1,4 +1,4 @@
-// V1.4.4 UI: Taiwan turnover/breadth + themed news fallback presentation.
+// V1.4.6 UI: Taiwan turnover/breadth + 12-theme News Radar.
 const _renderMarketV144Base=renderMarket;
 renderMarket=function(m){
   _renderMarketV144Base(m);
@@ -18,7 +18,7 @@ renderMarket=function(m){
 const _renderNewsV144Base=renderNews;
 renderNews=function(n){
   NEWS_DATA=n.items||[];
-  const order=['美股','半導體','軟體 / AI','央行 / 利率','能源','歐洲','中國','地產','台灣'];
+  const order=['美股','美債','半導體','軟體 / AI','央行','美國數據','能源 / 油價','貴金屬 / 黃金','歐洲','日本','中國','台灣'];
   const map=new Map(NEWS_DATA.map(x=>[x.category,x]));
   $('#news').innerHTML=order.map(cat=>{const x=map.get(cat);if(!x)return `<article class="news-summary-card missing"><div class="news-theme">${esc(cat)}</div><p>此主題目前沒有取得可用新聞。</p></article>`;const paragraph=(x.summary&&x.summary.trim())||x.title;return `<article class="news-summary-card"><div class="news-theme">${esc(cat)}</div><a href="${safeUrl(x.url)}" target="_blank" rel="noopener noreferrer"><b>${esc(x.title)}</b></a><p>${esc(paragraph)}</p><small>${esc(x.source||'財經新聞')} ${x.published?'· '+esc(x.published):''}</small></article>`}).join('');
 };
