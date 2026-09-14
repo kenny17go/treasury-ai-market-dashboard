@@ -2,7 +2,7 @@ from __future__ import annotations
 import json, traceback
 from pathlib import Path
 from datetime import datetime, timezone
-import update_data as u
+import update_v141 as u
 
 DATA = u.DATA
 
@@ -36,7 +36,13 @@ def merge_rates(new, old):
         ox=old_map.get(x.get('series'), {})
         if x.get('value') is None and ox.get('value') is not None:
             x={**ox, **{k:v for k,v in x.items() if v is not None}}
+            x['fallback']=True
         out.append(x)
+    # preserve an old series that a new provider did not emit
+    present={x.get('series') for x in out}
+    for sid,ox in old_map.items():
+        if sid not in present and ox.get('value') is not None:
+            out.append({**ox,'fallback':True})
     new['rates']=out
     return new
 
@@ -71,7 +77,6 @@ def main():
             print(f'[WARN] {name} stage failed: {e}')
             traceback.print_exc()
 
-    # Merge last-known-good values when individual upstream quotes fail.
     m=merge_quote_sections(load('market.json'), old['market.json'], ['indices','pulse','taiwan','commodities','fx']); save('market.json',m)
     s=merge_quote_sections(load('stocks.json'), old['stocks.json'], ['stocks']); save('stocks.json',s)
     r=merge_rates(load('rates.json'), old['rates.json']); save('rates.json',r)
@@ -80,27 +85,22 @@ def main():
     restore_if_empty('calendar.json', old['calendar.json'], lambda x: bool(x.get('items')))
     restore_if_empty('positioning.json', old['positioning.json'], lambda x: x.get('status')=='ok' and x.get('tx_foreign',{}).get('oi_net_contracts') is not None)
 
-    p=load('professional.json')
-    oldp=old['professional.json']
-    fp=p.get('fed_pricing') or {}
-    if fp.get('futures_price') is None and (oldp.get('fed_pricing') or {}).get('futures_price') is not None:
-        p['fed_pricing']=oldp['fed_pricing']
-    if not p.get('yield_curve') and oldp.get('yield_curve'):
-        p['yield_curve']=oldp['yield_curve']
-    if not p.get('policy_rates') and oldp.get('policy_rates'):
-        p['policy_rates']=oldp['policy_rates']
+    p=load('professional.json'); oldp=old['professional.json']
+    fp=p.get('fed_pricing') or {}; ofp=oldp.get('fed_pricing') or {}
+    if not fp.get('outcomes') and ofp.get('outcomes'):
+        p['fed_pricing']={**ofp,'fallback':True}
+    if not p.get('yield_curve') and oldp.get('yield_curve'): p['yield_curve']=oldp['yield_curve']
+    if not p.get('policy_rates') and oldp.get('policy_rates'): p['policy_rates']=oldp['policy_rates']
     save('professional.json',p)
 
-    # Generate brief last; never allow one missing value to abort the entire update.
     try:
         u.update_brief()
     except Exception as e:
         print('[WARN] brief stage failed:',e)
         traceback.print_exc()
-        if old['brief.json']:
-            save('brief.json',old['brief.json'])
+        if old['brief.json']: save('brief.json',old['brief.json'])
 
-    print('Robust update completed; partial upstream failures preserve last known good data.')
+    print('V1.4.1 robust update completed; unavailable upstream sources preserve last known good data.')
 
 if __name__=='__main__':
     main()
