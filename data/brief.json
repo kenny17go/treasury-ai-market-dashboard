@@ -1,0 +1,1 @@
+{"as_of":null,"mode":"rules","headline":"等待首次資料更新","bullets":["上傳 GitHub 後，至 Actions 手動執行 Update market data，即會自動產生市場資料。"],"risk_score":50,"risk_label":"中性"}
