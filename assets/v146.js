@@ -1,7 +1,7 @@
-// V1.4.6 UI: enriched economic calendar + 12-theme News Radar.
+// V1.4.6a UI: multi-source economic calendar + Top 5 market news.
 renderCalendar=function(c){
   const badge=$('#calendarSourceBadge'),note=$('#calendarCostNote');
-  if(badge) badge.textContent='Cnyes + Official · 14D';
+  if(badge) badge.textContent='Multi-source · 14D';
   if(note) note.textContent=(c.source?`來源：${c.source}。 `:'')+(c.cost_note||'');
   const rows=(c.items||[]).slice(0,20);
   const imp=x=>{const n=Math.max(1,Math.min(3,Number(x)||1));return `<span class="cal-importance imp-${n}" aria-label="重要度 ${n}">${'●'.repeat(n)}${'○'.repeat(3-n)}</span>`};
@@ -14,9 +14,8 @@ renderCalendar=function(c){
 
 renderNews=function(n){
   NEWS_DATA=n.items||[];
-  const order=['美股','美債','半導體','軟體 / AI','央行','美國數據','能源 / 油價','貴金屬 / 黃金','歐洲','日本','中國','台灣'];
-  const map=new Map(NEWS_DATA.map(x=>[x.category,x]));
-  $('#news').innerHTML=order.map(cat=>{const x=map.get(cat);if(!x)return `<article class="news-summary-card missing"><div class="news-theme">${esc(cat)}</div><p>此主題目前沒有取得可用新聞。</p></article>`;const paragraph=(x.summary&&x.summary.trim())||x.title;return `<article class="news-summary-card"><div class="news-theme">${esc(cat)}</div><a href="${safeUrl(x.url)}" target="_blank" rel="noopener noreferrer"><b>${esc(x.title)}</b></a><p>${esc(paragraph)}</p><small>${esc(x.source||'財經新聞')} ${x.published?'· '+esc(x.published):''}</small></article>`}).join('');
+  const rows=NEWS_DATA.slice(0,5);
+  $('#news').innerHTML=rows.length?rows.map((x,i)=>{const paragraph=(x.summary&&x.summary.trim())||x.title;return `<article class="news-summary-card top-news-card"><div class="news-theme">重點 ${i+1}${x.topic?' · '+esc(x.topic):''}</div><a href="${safeUrl(x.url)}" target="_blank" rel="noopener noreferrer"><b>${esc(x.title)}</b></a><p>${esc(paragraph)}</p><small>${esc(x.source||'財經新聞')} ${x.published?'· '+esc(x.published):''}</small></article>`}).join(''):'<div class="empty">目前沒有取得可用的重點市場新聞。</div>';
 };
 
 load();
