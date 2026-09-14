@@ -4,18 +4,26 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
 <meta name="theme-color" content="#0b3558" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<meta name="apple-mobile-web-app-title" content="市場一頁通" />
+<meta name="mobile-web-app-capable" content="yes" />
 <title>市場一頁通｜測試版</title>
-<link rel="icon" href="favicon.png?v=20260914c" type="image/png" />
-<link rel="shortcut icon" href="favicon.png?v=20260914c" type="image/png" />
-<link rel="apple-touch-icon" href="apple-touch-icon.png?v=20260914c" />
+<link rel="icon" href="favicon.png?v=20260914e" type="image/png" />
+<link rel="shortcut icon" href="favicon.png?v=20260914e" type="image/png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/treasury-ai-market-dashboard/apple-touch-icon.png" />
+<link rel="manifest" href="/treasury-ai-market-dashboard/site.webmanifest?v=146e" />
 <link rel="stylesheet" href="assets/style.css" />
 <link rel="stylesheet" href="assets/v141.css" />
 <link rel="stylesheet" href="assets/v143.css" />
 <link rel="stylesheet" href="assets/v144.css" />
-<style>.brand-icon{width:44px;height:44px;border-radius:12px;object-fit:cover;vertical-align:middle;margin-right:10px;box-shadow:0 2px 10px rgba(0,0,0,.16)}.brand-wrap{display:flex;align-items:center}.brand-copy{min-width:0}</style>
+<style>
+.brand-icon{width:44px;height:44px;border-radius:12px;object-fit:cover;vertical-align:middle;margin-right:10px;box-shadow:0 2px 10px rgba(0,0,0,.16)}.brand-wrap{display:flex;align-items:center}.brand-copy{min-width:0}
+.spread-strip{grid-column:1/-1;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:6px}.spread-chip{border:1px solid #dbe5ec;background:#f7fafc;border-radius:12px;padding:10px 12px;display:grid;gap:2px}.spread-chip span{font-size:12px;color:#597086;font-weight:700}.spread-chip b{font-size:18px;color:#17324d}.spread-chip small{font-size:12px}.spread-chip small.up{color:#079b82}.spread-chip small.down{color:#d64b5d}@media(max-width:560px){.spread-strip{grid-template-columns:1fr 1fr}.spread-chip{padding:9px}.spread-chip b{font-size:16px}}
+</style>
 </head>
 <body>
-<header class="topbar"><div class="brand-wrap"><img class="brand-icon" src="assets/icon.png?v=20260914c" alt="市場一頁通 icon" /><div class="brand-copy"><div class="brand">市場一頁通 <span>測試版</span></div><div class="subline"><span id="reportDate">資料載入中…</span><span class="dot">•</span><span id="marketStatus">Auto Update</span><span class="dot">•</span><span id="dataFreshness" class="freshness">Checking</span></div></div></div><div class="top-actions"><button id="refreshBtn" class="pill ghost">重新整理</button><div class="pill">TREASURY · TAIPEI</div></div></header>
+<header class="topbar"><div class="brand-wrap"><img class="brand-icon" src="assets/icon.png?v=20260914e" alt="市場一頁通 icon" /><div class="brand-copy"><div class="brand">市場一頁通 <span>測試版</span></div><div class="subline"><span id="reportDate">資料載入中…</span><span class="dot">•</span><span id="marketStatus">Auto Update</span><span class="dot">•</span><span id="dataFreshness" class="freshness">Checking</span></div></div></div><div class="top-actions"><button id="refreshBtn" class="pill ghost">重新整理</button><div class="pill">TREASURY · TAIPEI</div></div></header>
 <main class="page">
 <section class="desk-strip"><div class="desk-block"><div class="desk-title">Global Sessions</div><div id="sessionStrip" class="session-strip"></div></div><div class="desk-block event-block"><div class="desk-title">Next Key Event</div><div id="nextEvent" class="next-event">等待近期事件資料…</div></div></section>
 <section id="heroIndices" class="hero-grid"></section>
@@ -26,13 +34,14 @@
 <section class="section-head watchlist-head"><div><h2>自訂 Watchlist</h2><p>直接在這台裝置編輯顯示標的，設定儲存在瀏覽器。</p></div><div class="watchlist-actions"><span id="stockUpdated" class="muted"></span><button id="editWatchlistBtn" class="small-btn">編輯 Watchlist</button></div></section><section id="stockGrid" class="stock-grid"></section>
 <section class="lower-grid"><article class="panel ai-panel"><div class="panel-title-row"><h2>AI Morning View</h2><span id="aiBadge" class="tag">Rules</span></div><div id="aiView" class="ai-view"></div></article><article class="panel"><div class="panel-title-row"><h2>市場溫度</h2><span class="tag">Risk</span></div><div id="riskMeter" class="risk-meter"></div></article></section>
 <section class="news-calendar-layout"><article class="panel news-panel"><div class="panel-title-row"><h2>新聞重點</h2><span class="tag">Top 5</span></div><p class="source-note">不強制分類；依財經來源品質、時效性、市場影響度與去重排序，選出 5 個最重要市場焦點。</p><div id="news" class="news-summary-grid"></div></article><article class="panel calendar-panel"><div class="panel-title-row"><h2>近期數據 / 央行動態</h2><span id="calendarSourceBadge" class="tag">Global · Official + Multi-source</span></div><div id="calendarCostNote" class="source-note"></div><div id="calendar" class="calendar-list"></div></article></section>
-<footer><div>資料為資訊展示用途，可能延遲或缺漏；非投資建議。</div><div>台灣市場成交值與上漲/下跌家數取自 TWSE MI_INDEX；方向比例不含持平股票。</div><div>美債殖利率主要取自 U.S. Treasury 官方 Daily Treasury Par Yield Curve；Cbonds 可作交叉參考。</div><div>經濟行事曆：Fed、台灣央行、BOJ、ECB 官方日程＋BLS／BEA／Eurostat 重要數據；鉅亨網／財經M平方補強，永豐期貨與工商時報交叉參考。</div><div class="version">市場一頁通 · 測試版 · V1.4.6d</div></footer>
+<footer><div>資料為資訊展示用途，可能延遲或缺漏；非投資建議。</div><div>台灣市場成交值與上漲/下跌家數取自 TWSE MI_INDEX；方向比例不含持平股票。</div><div>美債殖利率主要取自 U.S. Treasury 官方 Daily Treasury Par Yield Curve；Cbonds 可作交叉參考。</div><div>經濟行事曆：Fed、台灣央行、BOJ、ECB 官方日程＋BLS／BEA／Eurostat 重要數據；鉅亨網／財經M平方補強。</div><div class="version">市場一頁通 · 測試版 · V1.4.6e</div></footer>
 </main>
 <div id="watchlistModal" class="modal" aria-hidden="true"><div class="modal-card"><div class="modal-head"><div><h2>編輯 Watchlist</h2><p>勾選要顯示的標的。此設定只儲存在目前瀏覽器。</p></div><button id="closeWatchlistBtn" class="modal-close">×</button></div><input id="watchlistSearch" class="modal-search" type="search" placeholder="搜尋代號，例如 NVDA / TSM…" /><div id="watchlistChoices" class="watchlist-choices"></div><div class="modal-actions"><button id="resetWatchlistBtn" class="small-btn ghostish">恢復預設</button><button id="saveWatchlistBtn" class="small-btn">儲存</button></div></div></div>
-<script src="assets/app.js?v=146d" defer></script>
-<script src="assets/v141.js?v=146d" defer></script>
-<script src="assets/v143.js?v=146d" defer></script>
-<script src="assets/v144.js?v=146d" defer></script>
-<script src="assets/v146.js?v=146d" defer></script>
-<script src="assets/v146b.js?v=146d" defer></script>
+<script src="assets/app.js?v=146e" defer></script>
+<script src="assets/v141.js?v=146e" defer></script>
+<script src="assets/v143.js?v=146e" defer></script>
+<script src="assets/v144.js?v=146e" defer></script>
+<script src="assets/v146.js?v=146e" defer></script>
+<script src="assets/v146b.js?v=146e" defer></script>
+<script src="assets/v146e.js?v=146e" defer></script>
 </body></html>
