@@ -1,0 +1,15 @@
+{
+  "as_of": null,
+  "source": "TAIFEX 三大法人-區分各期貨契約",
+  "source_url": "https://www.taifex.com.tw/cht/3/futContractsDateExcel",
+  "status": "waiting",
+  "tx_foreign": {
+    "product": "臺股期貨",
+    "identity": "外資",
+    "date": null,
+    "trade_net_contracts": null,
+    "oi_long_contracts": null,
+    "oi_short_contracts": null,
+    "oi_net_contracts": null
+  }
+}
