@@ -1,30 +1,30 @@
 {
-  "as_of": "2026-09-14T06:24:09.119144+00:00",
-  "source": "Google News RSS",
+  "as_of": "2026-09-14T06:47:41.305239+00:00",
+  "source": "Bing News RSS + Google News RSS",
   "strategy": "12 themes; financial publishers ranked first; one focus per theme",
   "items": [
     {
-      "title": "〈美股早盤〉Fed升息也嚇不倒？油價回落助攻道瓊狂飆逾600點 標普力拚終結連四黑 - news.cnyes.com",
-      "summary": "〈美股早盤〉Fed升息也嚇不倒？油價回落助攻道瓊狂飆逾600點 標普力拚終結連四黑 news.cnyes.com 延伸關注：【即時新聞】通膨再起重擊美股！蘋果(AAPL)推首款摺疊機，甲骨文(ORCL)與這3檔概念股狂飆 - cmnews.com.tw。",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oeVZPbHZWVHN6Qk4tZ2JQYnZweDh1VmZzeWVwQlZMWnE0b2J3RnA0bVlCaE9vZFNVM1Q4S2t4TW5ESzEtM1F1VmQ2OEh4WU0?oc=5",
-      "published": "Fri, 11 Sep 2026 13:43:30 GMT",
+      "title": "美股期貨開盤跳水 那指急跌逾1% AI巨頭齊喊放慢+Fed升息機率高漲",
+      "summary": "美股期貨開盤跳水 那指急跌逾1% AI巨頭齊喊放慢+Fed升息機率高漲 經濟日報 延伸關注：美股早盤／油價下跌 道瓊大漲逾600點 通膨數據超預期 Fed 升息機率增。",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWU5WR1J5blB0dUJidGszb01UbDhZeGg2Ql9neTgya21tcHJxdDdUcjlCNjBSTnVhRUhLbDFjdzZsckhCS2lMNFBvcEk5UFl1WThqY0x2WC1fanNhYlFlbEZfazZWTGFpOU91VEhfWkVGV0FMRmNwNExiQmhQYjJNTkhoYmV5X2_SAWJBVV95cUxNVldaaUJQRC1uTzJZOXB4VnRtZFdhcU1reWoyU3hFaDVqQjN5SmF2UDdwZTBGT1hWVnlvbkVNQXdLRnJpU0RlVDVkNmhjS0lrWkk4eTBZUTJTNndzbUZNeWoyUQ?oc=5",
+      "published": "Sun, 13 Sep 2026 23:27:54 GMT",
       "category": "美股"
     },
     {
       "title": "10年期美國公債 概述 - CME Group",
-      "summary": "10年期美國公債 概述 CME Group 延伸關注：美財政部債務回購規模不如預期 長期公債殖利率攀升 - n.yam.com。",
+      "summary": "10年期美國公債 概述 CME Group 延伸關注：美財政部債務回購規模不如預期 長期公債殖利率攀升 - 蕃新聞。",
       "source": "CME Group",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHkzTWVILUcxUUxCMkNkNXpNanNDVXM4VnBlUXlqRnFJNTZTVWNQQ3AyREdPNEl1Nl84UWswenF6RGtZNUlxVTUzVTVaX2FHbEtwNFUtWS1uZ0RRZXhPdjAwcHhtUWc1al9MTXdpMzNLbGh3a1MwUW8yWDhjRHZWZHdKR1g3RnZnQXRqZEdHSFBFUGpYbXJENlRn?oc=5",
       "published": "Fri, 11 Sep 2026 20:44:45 GMT",
       "category": "美債"
     },
     {
-      "title": "全球企業AI動態周報 | 祖克柏、馬斯克呼籲建設更多AI資料中心；三星是中國AI資料中心投資增長最大受益者 - hao.cnyes.com",
-      "summary": "全球企業AI動態周報 | 祖克柏、馬斯克呼籲建設更多AI資料中心；三星是中國AI資料中心投資增長最大受益者 hao.cnyes.com",
-      "source": "hao.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yQVJxUzVuVFJUZGNqbHNaN053YzdYT2VpMkFoeVlQR1pnRklvdThzQ3NPbEVNYmp1Qi1iYkpoNjgyY21Hb00zVg?oc=5",
-      "published": "Fri, 11 Sep 2026 06:44:43 GMT",
+      "title": "AI競賽甩開Meta、Google？ OpenAI左擁輝達、右抱AMD晶片",
+      "summary": "科技大頭條，超微(AMD)與OpenAI達成協議，透過多年合約，提供AI晶片給OpenAI，每年可望帶來數百億美元營收，OpenAI也可獲認股權證，最多添購超微10%股票。專家分析，OpenAI在人工智慧的實力，已 ...",
+      "source": "Bing News",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7988911694eebb3f2d92916e6186f&url=https%3a%2f%2fwww.msn.com%2fzh-tw%2fnews%2ftechandscience%2fai%25E7%25AB%25B6%25E8%25B3%25BD%25E7%2594%25A9%25E9%2596%258Bmeta-google-openai%25E5%25B7%25A6%25E6%2593%2581%25E8%25BC%259D%25E9%2581%2594-%25E5%258F%25B3%25E6%258A%25B1amd%25E6%2599%25B6%25E7%2589%2587%2far-AA1O1iC2&c=12911273622517127391&mkt=en-us",
+      "published": "Tue, 07 Oct 2025 08:08:00 GMT",
       "category": "軟體 / AI"
     },
     {
@@ -36,9 +36,9 @@
       "category": "央行"
     },
     {
-      "title": "美國PPI升溫壓低黃金與白銀，利率壓力還會延續多久？-詠晴K線解密 - cmnews.com.tw",
-      "summary": "美國PPI升溫壓低黃金與白銀，利率壓力還會延續多久？-詠晴K線解密 cmnews.com.tw",
-      "source": "cmnews.com.tw",
+      "title": "美國PPI升溫壓低黃金與白銀，利率壓力還會延續多久？-詠晴K線解密 - CMoney投資網誌",
+      "summary": "美國PPI升溫壓低黃金與白銀，利率壓力還會延續多久？-詠晴K線解密 CMoney投資網誌",
+      "source": "CMoney投資網誌",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOEVqb0dZU1NKSm5meHZKdk5yQ0ZfZEdhdWNlQnlxRXhWbGlHS3ZDZFVSMDlfNFRUQTlGcUlBRHd3ejRSV0hGZnVvWWNWcFpJZEluWWRpYnNqalplNEtxZFpfVkh6d2M3Tm5WdmdpV0hFWkRFVm9DdkRlLU9UeUsycU93OXNpalE?oc=5",
       "published": "Sat, 12 Sep 2026 13:51:20 GMT",
       "category": "貴金屬 / 黃金"
