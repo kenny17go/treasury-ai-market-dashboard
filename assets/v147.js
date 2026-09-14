@@ -1,7 +1,33 @@
-// V1.4.7 consolidated UI overrides.
-// Replaces the accumulated V1.4.x patch renderers with one final rendering layer.
-// IMPORTANT: no load() call here. app.js already performs the initial load; avoiding
-// duplicate loads cuts redundant JSON requests and race conditions on mobile Safari.
+// V1.4.8 consolidated UI overrides.
+// app.js performs the initial load; this file only overrides final renderers.
+
+function txSessionInfo(){
+  const parts=new Intl.DateTimeFormat('en-US',{timeZone:'Asia/Taipei',weekday:'short',hour:'2-digit',minute:'2-digit',hour12:false}).formatToParts(new Date());
+  const get=t=>parts.find(x=>x.type===t)?.value;
+  const w=get('weekday'), mins=Number(get('hour'))*60+Number(get('minute'));
+  const weekday=['Mon','Tue','Wed','Thu','Fri'].includes(w);
+  const earlyNight=['Tue','Wed','Thu','Fri','Sat'].includes(w)&&mins<300;
+  const day=weekday&&mins>=525&&mins<825;
+  const night=(weekday&&mins>=900)||earlyNight;
+  if(day) return {label:'日盤',state:'open',detail:'08:45–13:45'};
+  if(night) return {label:'夜盤',state:'open',detail:'15:00–05:00'};
+  return {label:'休市',state:'closed',detail:'目前非一般交易時段'};
+}
+
+function renderTaiwanFutures(q){
+  const box=$('#taiwanFuturesQuote'), badge=$('#txSessionBadge');
+  if(!box||!badge) return;
+  const sess=txSessionInfo();
+  badge.textContent=sess.label;
+  badge.className=`tag tx-session ${sess.state}`;
+  if(!q||q.price==null){
+    box.innerHTML=`<div class="empty compact-empty">台指期近月報價暫時無法取得。<small>${esc(sess.detail)}</small></div>`;
+    return;
+  }
+  const time=q.quote_time?` · ${esc(q.quote_time)}`:'';
+  const fallback=q.fallback?' · Last valid':'';
+  box.innerHTML=`<div class="tx-quote-main"><div><span>${esc(q.name||'台指期近一')} <em>${esc(q.symbol||'WTX&')}</em></span><b>${fmt(q.price,0)}</b></div><div class="tx-change ${cls(q.change_pct)}"><strong>${pct(q.change_pct)}</strong><small>${q.change==null?'—':`${sign(q.change)}${fmt(q.change,0)}`}</small></div></div><div class="tx-quote-meta"><span>${esc(sess.detail)}</span><span>${esc(q.source||'Yahoo股市')}${time}${fallback}</span></div>`;
+}
 
 renderMarket = function(m){
   const report=$('#reportDate'), status=$('#marketStatus');
@@ -25,6 +51,7 @@ renderMarket = function(m){
     const barUp=s.advance_pct==null?50:Math.max(0,Math.min(100,Number(s.advance_pct)));
     tw.innerHTML=idxHtml+`<div class="twse-stats"><div class="tw-stat turnover"><span>加權市場成交值</span><b>${turnover}</b><small>${esc(s.date||'')} · TWSE</small></div><div class="tw-stat breadth"><span>上漲 vs 下跌個股</span><div class="breadth-values"><b class="up">${up}</b><em>${upCount} 檔</em><b class="down">${down}</b><em>${downCount} 檔</em></div><div class="breadth-bar"><i style="width:${barUp}%"></i></div><small>方向佔比不含持平股票</small></div></div>`;
   }
+  renderTaiwanFutures(m.taiwan_futures);
 
   const commodities=$('#commodities');
   if(commodities) commodities.innerHTML=(m.commodities||[]).map(q=>`<div>${esc(q.name)}</div><div>${q.price==null?'—':fmt(q.price)}</div><div class="${cls(q.change_pct)}">${pct(q.change_pct)}</div>`).join('');
@@ -121,7 +148,9 @@ renderBrief = function(b){
   el.innerHTML=rows.map((x,i)=>`<div class="brief-item"><span>${i+1}</span><div>${esc(x)}</div></div>`).join('');
 };
 
-// Accessibility and mobile quality-of-life helpers.
+// Desk Signals is intentionally disabled in V1.4.8; hidden compatibility target remains in HTML.
+renderSignals = function(){};
+
 document.addEventListener('keydown',e=>{
   if(e.key==='Escape'&&$('#watchlistModal')?.classList.contains('show')) closeWatchlist();
 });
