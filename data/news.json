@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-15T05:35:24.186053+00:00",
+  "as_of": "2026-09-15T05:52:09.336795+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -31,21 +31,21 @@
       "rank": 3
     },
     {
+      "title": "美股 ETF 吸金力十足",
+      "summary": "美股 ETF 吸金力十足 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMHFWTEdGR2VrRFQ0WTBJeGpveVpkMTBhdUhadlMtQzBZaGRJZ3ZyWWZMNDRLVWNhajJjLTZ3RzRGMnlDLVlza0FTeHM0NEI0dTVqSGpMb3pfZ9IBX0FVX3lxTE1ZNUE4eTRRcGFzdXk3aldiZWFHUFlndnUyTzgxWDl5NFVscmVyRW9veDVxVVQ5WHZNbzRUaDFlX0d4UnJLNGtDMm5DM0VDR1Vrd0FHUU5hdkY0TVV6LWQw?oc=5",
+      "published": "Mon, 14 Sep 2026 16:57:49 GMT",
+      "topic": "美股",
+      "rank": 4
+    },
+    {
       "title": "油價飆升美債殖利率破5% 全球股市重挫科技半導體領跌 - 民視財經網",
       "summary": "油價飆升美債殖利率破5% 全球股市重挫科技半導體領跌 民視財經網",
       "source": "民視財經網",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wMmNnMnV5dUpTTzZ6ZkVlSktBaEJMM29EVk4tV1hJSm5FRXhJX3Z1QnJSMnBzUzNaV0wwaXpZb0MxQnVhNDhaRWRaekMxT1NQOEluc2tnMXRpM0RpS2w3ZlRJdW40QQ?oc=5",
       "published": "Mon, 14 Sep 2026 15:31:01 GMT",
       "topic": "Fed / 利率",
-      "rank": 4
-    },
-    {
-      "title": "AI熱潮降溫怎麼辦？野村示警：全球經濟將遭「多線程」極限壓力測試",
-      "summary": "AI熱潮降溫怎麼辦？野村示警：全球經濟將遭「多線程」極限壓力測試 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYUNEOG93N1dUUXhMZEYzSWhEMGZqY3NkOGYxSDZUbXJtd00yQkgxVU1JdmVrTFlVWllYY25GNzR4Sk9lT1pyUkU4SQ?oc=5",
-      "published": "Sun, 13 Sep 2026 02:10:06 GMT",
-      "topic": "AI / 半導體",
       "rank": 5
     }
   ]
