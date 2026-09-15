@@ -1,17 +1,8 @@
 {
-  "as_of": "2026-09-14T23:48:55.823709+00:00",
+  "as_of": "2026-09-15T01:05:40.290778+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
-    {
-      "title": "本週操盤筆記：超級央行週來了！Fed、日銀升息箭在弦上 美股、美債繃緊神經",
-      "summary": "本週操盤筆記：超級央行週來了！Fed、日銀升息箭在弦上 美股、美債繃緊神經 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nTUZZWnFyZXRhekJnUUJwczBBazg1ZWRyVjZ0bkVCSVpzWnZaN2VxVjFGNXcyRU5Za0RsX082RHhxSlVZUVgzaWdEUQ?oc=5",
-      "published": "Sun, 13 Sep 2026 13:50:03 GMT",
-      "topic": "Fed / 利率",
-      "rank": 1
-    },
     {
       "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
       "summary": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5% 鉅亨網",
@@ -19,7 +10,7 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90Tk9oSDdXOTc1eGdkbzVEa2NUVDRud2pmX0NwdmdlTXV2MW5qQ0x5b1pXa2RGUm1HVkpfM0tjN0VLRDFtUTB5Mldkbw?oc=5",
       "published": "Mon, 14 Sep 2026 21:25:23 GMT",
       "topic": "AI / 半導體",
-      "rank": 2
+      "rank": 1
     },
     {
       "title": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測",
@@ -27,6 +18,15 @@
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZYlNOVy1jclEtUW5YVXBFWXkwR1E0TEtWVkE1OE1zLTJPc0dldXM2SEdBdzg0ZDMwSzJJckZCODQyTDdQZThPdlNacw?oc=5",
       "published": "Mon, 14 Sep 2026 11:55:29 GMT",
+      "topic": "Fed / 利率",
+      "rank": 2
+    },
+    {
+      "title": "高殖利率環境以平衡策略為核心，股市震盪中擇優布局",
+      "summary": "高殖利率環境以平衡策略為核心，股市震盪中擇優布局 MoneyDJ",
+      "source": "MoneyDJ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTnNfN1Q0TExDOE1DaDlNZnE2TjVxRkx5dFZfYVo1a2JKVkVHUUViLTl5d09OZmpzbzRnWjN0b3NMdUpHQ2xySzEwZ1dNeFpQTGMxS2ZqYUQybzU2amdMX250dTljVDdEUFEtXzR2LWNHai1DUmxjcmF5Q3drU0xXaGkzZUxLWTQ1ZkRzd0ZtRERvVWxTZno0?oc=5",
+      "published": "Mon, 14 Sep 2026 04:06:00 GMT",
       "topic": "Fed / 利率",
       "rank": 3
     },
