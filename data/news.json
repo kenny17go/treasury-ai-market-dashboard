@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-15T13:36:52.992224+00:00",
+  "as_of": "2026-09-15T14:02:42.005217+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -13,21 +13,21 @@
       "rank": 1
     },
     {
+      "title": "〈美股早盤〉油價與美債殖利率同步攀升 主要指數開盤走勢低迷 - news.cnyes.com",
+      "summary": "〈美股早盤〉油價與美債殖利率同步攀升 主要指數開盤走勢低迷 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HU1dIQVB4eElHNEtPWFZyaldDMUJOYWVDZnNVOXR4U3daZ3R6SlBod2F1OFRFSXR1OFJnOHVvZzZmYjFKODhhUjFZdVc2MFE?oc=5",
+      "published": "Tue, 15 Sep 2026 13:38:55 GMT",
+      "topic": "Fed / 利率",
+      "rank": 2
+    },
+    {
       "title": "美股 ETF 吸金力十足",
       "summary": "美股 ETF 吸金力十足 經濟日報",
       "source": "經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMHFWTEdGR2VrRFQ0WTBJeGpveVpkMTBhdUhadlMtQzBZaGRJZ3ZyWWZMNDRLVWNhajJjLTZ3RzRGMnlDLVlza0FTeHM0NEI0dTVqSGpMb3pfZ9IBX0FVX3lxTE1ZNUE4eTRRcGFzdXk3aldiZWFHUFlndnUyTzgxWDl5NFVscmVyRW9veDVxVVQ5WHZNbzRUaDFlX0d4UnJLNGtDMm5DM0VDR1Vrd0FHUU5hdkY0TVV6LWQw?oc=5",
       "published": "Mon, 14 Sep 2026 16:57:49 GMT",
       "topic": "美股",
-      "rank": 2
-    },
-    {
-      "title": "【全球市場焦點】油價衝破百美元、美債殖利率5%資金風向變了 - news.cnyes.com",
-      "summary": "【全球市場焦點】油價衝破百美元、美債殖利率5%資金風向變了 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83ai1FQW9kVUZ4em5UN0twMzZfandxckJtS0dLNlRUc3BqUWNsZkliU1FUX1MtejRqcEtJRnA0ckQ2cFRLQmhsUm44MFpvWjg?oc=5",
-      "published": "Tue, 15 Sep 2026 09:30:43 GMT",
-      "topic": "Fed / 利率",
       "rank": 3
     },
     {
@@ -40,11 +40,11 @@
       "rank": 4
     },
     {
-      "title": "亞洲主要交易所第一槍！韓股周一起延長交易時間 2400檔股票盤後交易到晚上8點",
-      "summary": "亞洲主要交易所第一槍！韓股周一起延長交易時間 2400檔股票盤後交易到晚上8點 鉅亨網",
+      "title": "車廠兩難！Stellantis執行長：全球車市分化為「美國」與「其他地區」",
+      "summary": "車廠兩難！Stellantis執行長：全球車市分化為「美國」與「其他地區」 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZVFdoTktRSVJ3VUtlUUNVakMxS25fRWRiWktXS25kT215c25qR1NNTlEzN1NkSWprTS1iLTVqYnk4U3lXR2VsN3ZQcw?oc=5",
-      "published": "Sun, 13 Sep 2026 22:50:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zNkRZU1N4VUc2RzlkZ2lZUXFSVHNCNGRwYTV4aU1HQnpLakRFNm1ycHJrN3AxUTVuYy1LMjVHUG82Sk91dVB3cjJtWQ?oc=5",
+      "published": "Sun, 13 Sep 2026 11:00:03 GMT",
       "topic": "全球市場",
       "rank": 5
     }

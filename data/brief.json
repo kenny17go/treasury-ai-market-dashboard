@@ -2,29 +2,29 @@
   "mode": "rules",
   "headline": "市場風險情緒：中性",
   "bullets": [
-    "主要美股指數平均變動 +0.08%。",
+    "主要美股指數平均變動 +0.06%。",
     "美債10年殖利率 4.970%，日變動 +1.0 bps。",
-    "自選股強勢 SWKS +5.21%；較弱 GOOGL -0.81%。",
+    "自選股強勢 SWKS +9.94%；較弱 GOOGL -1.28%。",
     "2Y10Y 利差 +32.0 bps。"
   ],
   "risk_score": 51,
   "risk_label": "中性",
   "yesterday_top": [
-    "美股主要指數平均 +0.08%，風險情緒中性。",
+    "美股主要指數平均 +0.06%，風險情緒中性。",
     "10Y 美債殖利率 4.970%。",
-    "DXY 日變動 +0.14%。"
+    "DXY 日變動 +0.10%。"
   ],
   "today_top": [
-    "新聞｜美股 ETF 吸金力十足",
-    "新聞｜【全球市場焦點】油價衝破百美元、美債殖利率5%資金風向變了 - news.cnyes.com"
+    "新聞｜〈美股早盤〉油價與美債殖利率同步攀升 主要指數開盤走勢低迷 - news.cnyes.com",
+    "新聞｜美股 ETF 吸金力十足"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +1.0 bps。",
-    "美元：DXY 日變動 +0.14%。",
-    "波動率：VIX 16.87。",
+    "美元：DXY 日變動 +0.10%。",
+    "波動率：VIX 16.99。",
     "曲線：2Y10Y +32.0 bps。"
   ],
   "today_date_taipei": "2026-09-15",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-15T13:38:42.552069+00:00"
+  "as_of": "2026-09-15T14:04:25.109953+00:00"
 }
