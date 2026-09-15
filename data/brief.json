@@ -12,19 +12,20 @@
   "yesterday_top": [
     "美股主要指數平均 -1.80%，風險情緒偏空。",
     "10Y 美債殖利率 4.970%。",
-    "DXY 日變動 +0.19%。"
+    "DXY 日變動 +0.18%。"
   ],
   "today_top": [
+    "新聞｜拋售猛烈！10年期美債殖利率升破5% 創20年新高",
     "新聞｜〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
     "新聞｜美股 ETF 吸金力十足"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +1.0 bps。",
-    "美元：DXY 日變動 +0.19%。",
-    "波動率：VIX 17.84。",
+    "美元：DXY 日變動 +0.18%。",
+    "波動率：VIX 17.94。",
     "曲線：2Y10Y +32.0 bps。"
   ],
   "today_date_taipei": "2026-09-15",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-15T09:06:50.584929+00:00"
+  "as_of": "2026-09-15T09:42:43.291252+00:00"
 }
