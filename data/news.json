@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-15T21:02:36.466086+00:00",
+  "as_of": "2026-09-15T21:34:10.050095+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -22,11 +22,11 @@
       "rank": 2
     },
     {
-      "title": "〈美股早盤〉油價與美債殖利率同步攀升 主要指數開盤走勢低迷 - news.cnyes.com",
-      "summary": "〈美股早盤〉油價與美債殖利率同步攀升 主要指數開盤走勢低迷 news.cnyes.com",
+      "title": "〈美股盤後〉美債殖利率升破5%創19年新高 油價再飆 三大指數盡墨 費半跌深反彈 - news.cnyes.com",
+      "summary": "〈美股盤後〉美債殖利率升破5%創19年新高 油價再飆 三大指數盡墨 費半跌深反彈 news.cnyes.com",
       "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HU1dIQVB4eElHNEtPWFZyaldDMUJOYWVDZnNVOXR4U3daZ3R6SlBod2F1OFRFSXR1OFJnOHVvZzZmYjFKODhhUjFZdVc2MFE?oc=5",
-      "published": "Tue, 15 Sep 2026 13:38:55 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80TW41QTBEYUZHWF9sS2xiZlpEdExOVTJhWXpTRVFHUVVqMkQ5ekxtaHhJMWRIa19jQnF1bE1WNVMwQTRYZU1IMWdBV1FVSzQ?oc=5",
+      "published": "Tue, 15 Sep 2026 21:08:10 GMT",
       "topic": "Fed / 利率",
       "rank": 3
     },
