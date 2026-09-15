@@ -1,8 +1,17 @@
 {
-  "as_of": "2026-09-15T03:52:12.877502+00:00",
+  "as_of": "2026-09-15T04:04:44.792143+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
+    {
+      "title": "AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬",
+      "summary": "AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CSmxwRlBSMDFYSWkwNGZmcHRPVUJCUW5KWmdMQnlGYmFIWlo2NHJxQ09mcEtRZWpGV3o3UEttaFp4SE82eDE2eXpfQQ?oc=5",
+      "published": "Tue, 15 Sep 2026 02:20:06 GMT",
+      "topic": "黃金",
+      "rank": 1
+    },
     {
       "title": "〈紐約匯市〉油價大漲、Fed升息在即 美元攀高",
       "summary": "〈紐約匯市〉油價大漲、Fed升息在即 美元攀高 鉅亨網",
@@ -10,7 +19,7 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOQzdzNmxERWMycWVGOXpqZXd0eDlkZ1ltYWpqX000WU1ia0szZjhDd3dUNW54ZFVCTlp1cEFCX0E3czB5bHBkWmVWWQ?oc=5",
       "published": "Mon, 14 Sep 2026 23:05:34 GMT",
       "topic": "Fed / 利率",
-      "rank": 1
+      "rank": 2
     },
     {
       "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
@@ -19,7 +28,7 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90Tk9oSDdXOTc1eGdkbzVEa2NUVDRud2pmX0NwdmdlTXV2MW5qQ0x5b1pXa2RGUm1HVkpfM0tjN0VLRDFtUTB5Mldkbw?oc=5",
       "published": "Mon, 14 Sep 2026 21:25:23 GMT",
       "topic": "AI / 半導體",
-      "rank": 2
+      "rank": 3
     },
     {
       "title": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測",
@@ -28,15 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZYlNOVy1jclEtUW5YVXBFWXkwR1E0TEtWVkE1OE1zLTJPc0dldXM2SEdBdzg0ZDMwSzJJckZCODQyTDdQZThPdlNacw?oc=5",
       "published": "Mon, 14 Sep 2026 11:55:29 GMT",
       "topic": "Fed / 利率",
-      "rank": 3
-    },
-    {
-      "title": "美股 ETF 吸金力十足",
-      "summary": "美股 ETF 吸金力十足 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMHFWTEdGR2VrRFQ0WTBJeGpveVpkMTBhdUhadlMtQzBZaGRJZ3ZyWWZMNDRLVWNhajJjLTZ3RzRGMnlDLVlza0FTeHM0NEI0dTVqSGpMb3pfZ9IBX0FVX3lxTE1ZNUE4eTRRcGFzdXk3aldiZWFHUFlndnUyTzgxWDl5NFVscmVyRW9veDVxVVQ5WHZNbzRUaDFlX0d4UnJLNGtDMm5DM0VDR1Vrd0FHUU5hdkY0TVV6LWQw?oc=5",
-      "published": "Mon, 14 Sep 2026 16:57:49 GMT",
-      "topic": "美股",
       "rank": 4
     },
     {
