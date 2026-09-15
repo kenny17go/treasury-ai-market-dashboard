@@ -48,5 +48,7 @@
       "topic": "AI / 半導體",
       "rank": 5
     }
-  ]
+  ],
+  "fallback_at": "2026-09-15T13:07:15.698583+00:00",
+  "fallback_reason": "latest source unavailable; preserving last good data"
 }
