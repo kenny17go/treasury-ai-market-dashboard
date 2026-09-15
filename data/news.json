@@ -1,8 +1,17 @@
 {
-  "as_of": "2026-09-15T02:41:34.025588+00:00",
+  "as_of": "2026-09-15T02:57:01.275250+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
+    {
+      "title": "〈紐約匯市〉油價大漲、Fed升息在即 美元攀高",
+      "summary": "〈紐約匯市〉油價大漲、Fed升息在即 美元攀高 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOQzdzNmxERWMycWVGOXpqZXd0eDlkZ1ltYWpqX000WU1ia0szZjhDd3dUNW54ZFVCTlp1cEFCX0E3czB5bHBkWmVWWQ?oc=5",
+      "published": "Mon, 14 Sep 2026 23:05:34 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1
+    },
     {
       "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
       "summary": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5% 鉅亨網",
@@ -10,7 +19,7 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90Tk9oSDdXOTc1eGdkbzVEa2NUVDRud2pmX0NwdmdlTXV2MW5qQ0x5b1pXa2RGUm1HVkpfM0tjN0VLRDFtUTB5Mldkbw?oc=5",
       "published": "Mon, 14 Sep 2026 21:25:23 GMT",
       "topic": "AI / 半導體",
-      "rank": 1
+      "rank": 2
     },
     {
       "title": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測",
@@ -18,15 +27,6 @@
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZYlNOVy1jclEtUW5YVXBFWXkwR1E0TEtWVkE1OE1zLTJPc0dldXM2SEdBdzg0ZDMwSzJJckZCODQyTDdQZThPdlNacw?oc=5",
       "published": "Mon, 14 Sep 2026 11:55:29 GMT",
-      "topic": "Fed / 利率",
-      "rank": 2
-    },
-    {
-      "title": "油價飆升美債殖利率破5% 全球股市重挫科技半導體領跌 - 民視財經網",
-      "summary": "油價飆升美債殖利率破5% 全球股市重挫科技半導體領跌 民視財經網",
-      "source": "民視財經網",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wMmNnMnV5dUpTTzZ6ZkVlSktBaEJMM29EVk4tV1hJSm5FRXhJX3Z1QnJSMnBzUzNaV0wwaXpZb0MxQnVhNDhaRWRaekMxT1NQOEluc2tnMXRpM0RpS2w3ZlRJdW40QQ?oc=5",
-      "published": "Mon, 14 Sep 2026 15:31:01 GMT",
       "topic": "Fed / 利率",
       "rank": 3
     },
@@ -40,12 +40,12 @@
       "rank": 4
     },
     {
-      "title": "〈熱門股〉油價又破百！00642U飆漲衝新高、00673R逆勢吸金額度面臨告罄",
-      "summary": "〈熱門股〉油價又破百！00642U飆漲衝新高、00673R逆勢吸金額度面臨告罄 鉅亨網",
+      "title": "車廠兩難！Stellantis執行長：全球車市分化為「美國」與「其他地區」",
+      "summary": "車廠兩難！Stellantis執行長：全球車市分化為「美國」與「其他地區」 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPYTNHX1M5Vm5Sd2FyQTZpTFJSQy1Jc2c1UGo0aDgwTDZvc2plaG5IcHdITkgydi1ST1VDYmotYklCZ2cwc1p0WGtLaw?oc=5",
-      "published": "Sat, 12 Sep 2026 03:19:09 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zNkRZU1N4VUc2RzlkZ2lZUXFSVHNCNGRwYTV4aU1HQnpLakRFNm1ycHJrN3AxUTVuYy1LMjVHUG82Sk91dVB3cjJtWQ?oc=5",
+      "published": "Sun, 13 Sep 2026 11:00:03 GMT",
+      "topic": "全球市場",
       "rank": 5
     }
   ]
