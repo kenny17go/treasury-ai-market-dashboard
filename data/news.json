@@ -1,8 +1,17 @@
 {
-  "as_of": "2026-09-15T14:02:42.005217+00:00",
+  "as_of": "2026-09-15T14:36:47.386809+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
+    {
+      "title": "華爾街劃出美股生死線！10年期美債殖利率攻入危險區",
+      "summary": "華爾街劃出美股生死線！10年期美債殖利率攻入危險區 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LTm4xem5ybU5EZGNveE5xZGZ6VEF1cFBYWFEyU2tWZl9nMWJUTEoxZjhUUklLUXBreEUwWm5fU0p4SEowZ0M4N0FGWQ?oc=5",
+      "published": "Tue, 15 Sep 2026 12:40:03 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1
+    },
     {
       "title": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測",
       "summary": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測 鉅亨網",
@@ -10,25 +19,7 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZYlNOVy1jclEtUW5YVXBFWXkwR1E0TEtWVkE1OE1zLTJPc0dldXM2SEdBdzg0ZDMwSzJJckZCODQyTDdQZThPdlNacw?oc=5",
       "published": "Mon, 14 Sep 2026 11:55:29 GMT",
       "topic": "Fed / 利率",
-      "rank": 1
-    },
-    {
-      "title": "〈美股早盤〉油價與美債殖利率同步攀升 主要指數開盤走勢低迷 - news.cnyes.com",
-      "summary": "〈美股早盤〉油價與美債殖利率同步攀升 主要指數開盤走勢低迷 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HU1dIQVB4eElHNEtPWFZyaldDMUJOYWVDZnNVOXR4U3daZ3R6SlBod2F1OFRFSXR1OFJnOHVvZzZmYjFKODhhUjFZdVc2MFE?oc=5",
-      "published": "Tue, 15 Sep 2026 13:38:55 GMT",
-      "topic": "Fed / 利率",
       "rank": 2
-    },
-    {
-      "title": "美股 ETF 吸金力十足",
-      "summary": "美股 ETF 吸金力十足 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMHFWTEdGR2VrRFQ0WTBJeGpveVpkMTBhdUhadlMtQzBZaGRJZ3ZyWWZMNDRLVWNhajJjLTZ3RzRGMnlDLVlza0FTeHM0NEI0dTVqSGpMb3pfZ9IBX0FVX3lxTE1ZNUE4eTRRcGFzdXk3aldiZWFHUFlndnUyTzgxWDl5NFVscmVyRW9veDVxVVQ5WHZNbzRUaDFlX0d4UnJLNGtDMm5DM0VDR1Vrd0FHUU5hdkY0TVV6LWQw?oc=5",
-      "published": "Mon, 14 Sep 2026 16:57:49 GMT",
-      "topic": "美股",
-      "rank": 3
     },
     {
       "title": "AI熱潮降溫怎麼辦？野村示警：全球經濟將遭「多線程」極限壓力測試",
@@ -37,7 +28,7 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYUNEOG93N1dUUXhMZEYzSWhEMGZqY3NkOGYxSDZUbXJtd00yQkgxVU1JdmVrTFlVWllYY25GNzR4Sk9lT1pyUkU4SQ?oc=5",
       "published": "Sun, 13 Sep 2026 02:10:06 GMT",
       "topic": "AI / 半導體",
-      "rank": 4
+      "rank": 3
     },
     {
       "title": "車廠兩難！Stellantis執行長：全球車市分化為「美國」與「其他地區」",
@@ -46,6 +37,15 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zNkRZU1N4VUc2RzlkZ2lZUXFSVHNCNGRwYTV4aU1HQnpLakRFNm1ycHJrN3AxUTVuYy1LMjVHUG82Sk91dVB3cjJtWQ?oc=5",
       "published": "Sun, 13 Sep 2026 11:00:03 GMT",
       "topic": "全球市場",
+      "rank": 4
+    },
+    {
+      "title": "AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬 - news.cnyes.com",
+      "summary": "AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pcFJoWUdCVERWd0Y1eEdVWE1IcXQyYldUb3BVTG8xYXp4SFlDQVpMdjhoRHo1Q1FJWGwxOHBwVmpXOFI5RjFlQjdOM3plZHc?oc=5",
+      "published": "Tue, 15 Sep 2026 02:20:06 GMT",
+      "topic": "黃金",
       "rank": 5
     }
   ]
