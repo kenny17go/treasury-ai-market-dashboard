@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-15T07:08:35.687694+00:00",
+  "as_of": "2026-09-15T07:38:10.696170+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -22,11 +22,11 @@
       "rank": 2
     },
     {
-      "title": "戰爭、百元油價、美債狂飆三大逆風都扛住 基金經理：新興市場可承受Fed升息風險 - news.cnyes.com",
-      "summary": "戰爭、百元油價、美債狂飆三大逆風都扛住 基金經理：新興市場可承受Fed升息風險 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyc2RhanVOdUJIdjJWZk53Y3JUSlBPMEZOX0s4WXZlTjFuSHJUcVFSMk90ZjRkc0N3OFFXNnZEaC05YVdZVGdIci15eFJDWkU?oc=5",
-      "published": "Mon, 14 Sep 2026 22:29:59 GMT",
+      "title": "油價與美債殖利率雙飆 全球股市收黑費半重挫近6% - 民視財經網",
+      "summary": "油價與美債殖利率雙飆 全球股市收黑費半重挫近6% 民視財經網",
+      "source": "民視財經網",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tMmdmMEVSUUV2eDlHNG95aWJkT2lnbnZ2RmpSU0l5dFBaZnVNdHZpOUl0S1NlNEI1ZEFMRm14UHMwbzV1cUpwanp0eDNVZXBCZE56UzNVY0t5U1NiX0JraG5MLUVQUQ?oc=5",
+      "published": "Mon, 14 Sep 2026 21:21:31 GMT",
       "topic": "Fed / 利率",
       "rank": 3
     },
