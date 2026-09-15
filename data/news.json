@@ -1,16 +1,25 @@
 {
-  "as_of": "2026-09-15T17:34:22.020879+00:00",
+  "as_of": "2026-09-15T18:02:44.668581+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
     {
-      "title": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測",
-      "summary": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測 鉅亨網",
+      "title": "全球市場雙重警報！油價飆破107美元、10年期美債殖利率攻上5%",
+      "summary": "全球市場雙重警報！油價飆破107美元、10年期美債殖利率攻上5% 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZYlNOVy1jclEtUW5YVXBFWXkwR1E0TEtWVkE1OE1zLTJPc0dldXM2SEdBdzg0ZDMwSzJJckZCODQyTDdQZThPdlNacw?oc=5",
-      "published": "Mon, 14 Sep 2026 11:55:29 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSeXdnMGk3Zm1KSl9XR1pKZjA1SlpOTlYxOTVMZDRSMU9WNUJwZE93RFd5Z3ctNDQwUUdwd29KanRxUXlaZDJMay0zRQ?oc=5",
+      "published": "Tue, 15 Sep 2026 11:30:50 GMT",
       "topic": "Fed / 利率",
       "rank": 1
+    },
+    {
+      "title": "Fed升息反而不是最壞情境？華爾街拆解三套劇本 股債匯金這樣走",
+      "summary": "Fed升息反而不是最壞情境？華爾街拆解三套劇本 股債匯金這樣走 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ja2Y0RWJBUUhrSmxjUGRTZlJUV3kyYjFscmxaVlpuMXpzZUJpU0pIdTM1d2t6bEFFdkdKUFFaRzZ2SU9NbURQYmIyYw?oc=5",
+      "published": "Tue, 15 Sep 2026 11:00:03 GMT",
+      "topic": "Fed / 利率",
+      "rank": 2
     },
     {
       "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
@@ -19,25 +28,7 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90Tk9oSDdXOTc1eGdkbzVEa2NUVDRud2pmX0NwdmdlTXV2MW5qQ0x5b1pXa2RGUm1HVkpfM0tjN0VLRDFtUTB5Mldkbw?oc=5",
       "published": "Mon, 14 Sep 2026 21:25:23 GMT",
       "topic": "AI / 半導體",
-      "rank": 2
-    },
-    {
-      "title": "〈美股早盤〉油價與美債殖利率同步攀升 主要指數開盤走勢低迷 - news.cnyes.com",
-      "summary": "〈美股早盤〉油價與美債殖利率同步攀升 主要指數開盤走勢低迷 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HU1dIQVB4eElHNEtPWFZyaldDMUJOYWVDZnNVOXR4U3daZ3R6SlBod2F1OFRFSXR1OFJnOHVvZzZmYjFKODhhUjFZdVc2MFE?oc=5",
-      "published": "Tue, 15 Sep 2026 13:38:55 GMT",
-      "topic": "Fed / 利率",
       "rank": 3
-    },
-    {
-      "title": "美股 ETF 吸金力十足",
-      "summary": "美股 ETF 吸金力十足 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMHFWTEdGR2VrRFQ0WTBJeGpveVpkMTBhdUhadlMtQzBZaGRJZ3ZyWWZMNDRLVWNhajJjLTZ3RzRGMnlDLVlza0FTeHM0NEI0dTVqSGpMb3pfZ9IBX0FVX3lxTE1ZNUE4eTRRcGFzdXk3aldiZWFHUFlndnUyTzgxWDl5NFVscmVyRW9veDVxVVQ5WHZNbzRUaDFlX0d4UnJLNGtDMm5DM0VDR1Vrd0FHUU5hdkY0TVV6LWQw?oc=5",
-      "published": "Mon, 14 Sep 2026 16:57:49 GMT",
-      "topic": "美股",
-      "rank": 4
     },
     {
       "title": "AI熱潮降溫怎麼辦？野村示警：全球經濟將遭「多線程」極限壓力測試",
@@ -46,6 +37,15 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYUNEOG93N1dUUXhMZEYzSWhEMGZqY3NkOGYxSDZUbXJtd00yQkgxVU1JdmVrTFlVWllYY25GNzR4Sk9lT1pyUkU4SQ?oc=5",
       "published": "Sun, 13 Sep 2026 02:10:06 GMT",
       "topic": "AI / 半導體",
+      "rank": 4
+    },
+    {
+      "title": "AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬 - news.cnyes.com",
+      "summary": "AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pcFJoWUdCVERWd0Y1eEdVWE1IcXQyYldUb3BVTG8xYXp4SFlDQVpMdjhoRHo1Q1FJWGwxOHBwVmpXOFI5RjFlQjdOM3plZHc?oc=5",
+      "published": "Tue, 15 Sep 2026 02:20:06 GMT",
+      "topic": "黃金",
       "rank": 5
     }
   ]

@@ -2,15 +2,15 @@
   "mode": "rules",
   "headline": "市場風險情緒：中性",
   "bullets": [
-    "主要美股指數平均變動 -0.48%。",
+    "主要美股指數平均變動 -0.45%。",
     "美債10年殖利率 4.970%，日變動 +1.0 bps。",
-    "自選股強勢 SWKS +12.69%；較弱 SPXC -2.65%。",
+    "自選股強勢 SWKS +13.12%；較弱 SPXC -2.64%。",
     "2Y10Y 利差 +32.0 bps。"
   ],
-  "risk_score": 44,
+  "risk_score": 45,
   "risk_label": "中性",
   "yesterday_top": [
-    "美股主要指數平均 -0.48%，風險情緒中性。",
+    "美股主要指數平均 -0.45%，風險情緒中性。",
     "10Y 美債殖利率 4.970%。",
     "DXY 日變動 +0.20%。"
   ],
@@ -20,10 +20,10 @@
   "todays_watch": [
     "利率：10Y 日變動 +1.0 bps。",
     "美元：DXY 日變動 +0.20%。",
-    "波動率：VIX 17.66。",
+    "波動率：VIX 17.59。",
     "曲線：2Y10Y +32.0 bps。"
   ],
   "today_date_taipei": "2026-09-16",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-15T17:36:39.292945+00:00"
+  "as_of": "2026-09-15T18:05:00.365302+00:00"
 }
