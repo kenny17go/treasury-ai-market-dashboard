@@ -21,10 +21,10 @@
   "todays_watch": [
     "利率：10Y 日變動 +1.0 bps。",
     "美元：DXY 日變動 +0.14%。",
-    "波動率：VIX 17.45。",
+    "波動率：VIX 17.24。",
     "曲線：2Y10Y +32.0 bps。"
   ],
   "today_date_taipei": "2026-09-15",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-15T10:38:41.485642+00:00"
+  "as_of": "2026-09-15T11:05:58.303701+00:00"
 }
