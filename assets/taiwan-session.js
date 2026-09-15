@@ -70,7 +70,11 @@ renderMarket=function(m){
   if(!tw) return;
 
   const indexMeta=tw.querySelector('.tw-index-row small');
-  if(indexMeta) indexMeta.textContent=`${state.detail} · ${dataDate||'—'} · TWSE 官方`;
+  if(indexMeta){
+    const qtime=idx?.quote_time?` ${idx.quote_time}`:'';
+    const source=(idx?.source==='TWSE MIS official'||idx?.source==='TWSE official')?'TWSE 即時':'TWSE 官方';
+    indexMeta.textContent=`${state.detail} · ${dataDate||'—'}${qtime} · ${source}`;
+  }
 
   // Remove cash-market volume completely; user only wants turnover.
   tw.querySelector('.tw-stat.volume')?.remove();
@@ -88,9 +92,16 @@ renderMarket=function(m){
   }
   tw.querySelector('.tw-stat.turnover')?.remove();
 
-  // Keep only market breadth below the index row.
+  // Breadth/turnover can lag the index if no verified intraday aggregate source is available.
+  // Never label yesterday's complete-close statistics as today's live statistics.
+  const statsLive=s.live_stats===true||s.session==='intraday';
+  const statsDetail=statsLive?'今日盤中':`前一交易日收盤${s.date?` · ${s.date}`:''}`;
   const stats=tw.querySelector('.twse-stats');
   if(stats) stats.style.gridTemplateColumns='1fr';
   const breadthMeta=tw.querySelector('.tw-stat.breadth small');
-  if(breadthMeta) breadthMeta.textContent=`${state.detail} · 方向佔比不含持平股票`;
+  if(breadthMeta) breadthMeta.textContent=`${statsDetail} · 方向佔比不含持平股票`;
+  const turnoverLine=tw.querySelector('.tw-turnover-inline');
+  if(turnoverLine&&state.label==='盤中'&&!statsLive){
+    turnoverLine.textContent=`前收成交金額 ${turnoverValue}`;
+  }
 };
