@@ -12,7 +12,7 @@
   "yesterday_top": [
     "美股主要指數平均 -1.80%，風險情緒偏空。",
     "10Y 美債殖利率 4.970%。",
-    "DXY 日變動 +0.18%。"
+    "DXY 日變動 +0.20%。"
   ],
   "today_top": [
     "新聞｜AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬",
@@ -21,11 +21,11 @@
   ],
   "todays_watch": [
     "利率：10Y 日變動 +1.0 bps。",
-    "美元：DXY 日變動 +0.18%。",
+    "美元：DXY 日變動 +0.20%。",
     "波動率：VIX 17.10。",
     "曲線：2Y10Y +32.0 bps。"
   ],
   "today_date_taipei": "2026-09-15",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-15T06:32:08.348566+00:00"
+  "as_of": "2026-09-15T06:54:23.804427+00:00"
 }
