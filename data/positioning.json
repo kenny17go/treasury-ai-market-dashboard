@@ -13,5 +13,7 @@
     "oi_net_contracts": -82658,
     "trade_long_contracts": 93734,
     "trade_short_contracts": 91421
-  }
+  },
+  "fallback_at": "2026-09-15T06:06:39.680379+00:00",
+  "fallback_reason": "latest source unavailable; preserving last good data"
 }
