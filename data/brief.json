@@ -15,8 +15,7 @@
     "DXY 日變動 +0.15%。"
   ],
   "today_top": [
-    "新聞｜國際油價站上109美元美債殖利率破5% Fed升息倒數美股三大指數全跌| 全球財經| 全球 - UDN",
-    "新聞｜〈美股盤後〉美債殖利率升破5%創19年新高 油價再飆 三大指數盡墨 費半跌深反彈 - news.cnyes.com"
+    "新聞｜國際油價站上109美元！美債殖利率破5% Fed升息倒數美股三大指數全跌| 全球財經| 全球 - udn.com"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +3.0 bps。",
@@ -26,5 +25,5 @@
   ],
   "today_date_taipei": "2026-09-16",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-15T23:05:00.320992+00:00"
+  "as_of": "2026-09-15T23:35:57.805564+00:00"
 }
