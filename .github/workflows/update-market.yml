@@ -9,7 +9,11 @@ on:
       - "requirements.txt"
       - ".github/workflows/update-market.yml"
   schedule:
-    - cron: '*/30 * * * 1-5'
+    # Taiwan cash session needs a much faster refresh cadence.
+    # 00:00-06:59 UTC = 08:00-14:59 Asia/Taipei.
+    - cron: '*/5 0-6 * * 1-5'
+    # Outside Taiwan cash-session hours, 30-minute updates are sufficient.
+    - cron: '*/30 7-23 * * 1-5'
 permissions:
   contents: write
 concurrency:
@@ -33,7 +37,10 @@ jobs:
           TRADING_ECONOMICS_API_KEY: ${{ secrets.TRADING_ECONOMICS_API_KEY }}
         run: |
           python scripts/run_update.py
-          python scripts/fix_twse_stats.py
+          # Closing-stat enrichment is useful, but must never block intraday TAIEX.
+          python scripts/fix_twse_stats.py || echo "close-stat enrichment unavailable; preserving last valid close stats"
+          # During 09:00-13:30 Taipei time this overwrites TAIEX with TWSE MIS live data.
+          python scripts/live_twse.py
       - name: Commit data
         run: |
           git config user.name "treasury-ai-bot"
