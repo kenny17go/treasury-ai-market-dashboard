@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-15T11:36:11.223004+00:00",
+  "as_of": "2026-09-15T12:03:10.392822+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -40,12 +40,12 @@
       "rank": 4
     },
     {
-      "title": "〈台幣〉股匯雙殺！超級央行周前夕陷恐慌 重挫1.6角創近半年最大貶幅",
-      "summary": "〈台幣〉股匯雙殺！超級央行周前夕陷恐慌 重挫1.6角創近半年最大貶幅 鉅亨網",
+      "title": "AI熱潮降溫怎麼辦？野村示警：全球經濟將遭「多線程」極限壓力測試",
+      "summary": "AI熱潮降溫怎麼辦？野村示警：全球經濟將遭「多線程」極限壓力測試 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rTEJSZmFqXzAwNW4zc0daSnE4ZHhOUGY5U2NmcEJvanhfeW1raHRXaUQ2dmlCdXdNc1ZObWlMcEFKdzdLVlQtX3VKOA?oc=5",
-      "published": "Tue, 15 Sep 2026 11:25:21 GMT",
-      "topic": "全球市場",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYUNEOG93N1dUUXhMZEYzSWhEMGZqY3NkOGYxSDZUbXJtd00yQkgxVU1JdmVrTFlVWllYY25GNzR4Sk9lT1pyUkU4SQ?oc=5",
+      "published": "Sun, 13 Sep 2026 02:10:06 GMT",
+      "topic": "AI / 半導體",
       "rank": 5
     }
   ]
