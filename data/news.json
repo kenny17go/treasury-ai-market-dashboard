@@ -1,16 +1,43 @@
 {
-  "as_of": "2026-09-15T08:39:20.854121+00:00",
+  "as_of": "2026-09-15T09:05:10.481377+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
     {
-      "title": "油價飆升美債殖利率破5% 全球股市重挫科技半導體領跌 - 民視財經網",
-      "summary": "油價飆升美債殖利率破5% 全球股市重挫科技半導體領跌 民視財經網",
-      "source": "民視財經網",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wMmNnMnV5dUpTTzZ6ZkVlSktBaEJMM29EVk4tV1hJSm5FRXhJX3Z1QnJSMnBzUzNaV0wwaXpZb0MxQnVhNDhaRWRaekMxT1NQOEluc2tnMXRpM0RpS2w3ZlRJdW40QQ?oc=5",
-      "published": "Mon, 14 Sep 2026 15:31:01 GMT",
+      "title": "本週操盤筆記：超級央行週來了！Fed、日銀升息箭在弦上 美股、美債繃緊神經",
+      "summary": "本週操盤筆記：超級央行週來了！Fed、日銀升息箭在弦上 美股、美債繃緊神經 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nTUZZWnFyZXRhekJnUUJwczBBazg1ZWRyVjZ0bkVCSVpzWnZaN2VxVjFGNXcyRU5Za0RsX082RHhxSlVZUVgzaWdEUQ?oc=5",
+      "published": "Sun, 13 Sep 2026 13:50:03 GMT",
       "topic": "Fed / 利率",
       "rank": 1
+    },
+    {
+      "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
+      "summary": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5% 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90Tk9oSDdXOTc1eGdkbzVEa2NUVDRud2pmX0NwdmdlTXV2MW5qQ0x5b1pXa2RGUm1HVkpfM0tjN0VLRDFtUTB5Mldkbw?oc=5",
+      "published": "Mon, 14 Sep 2026 21:25:23 GMT",
+      "topic": "AI / 半導體",
+      "rank": 2
+    },
+    {
+      "title": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測",
+      "summary": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZYlNOVy1jclEtUW5YVXBFWXkwR1E0TEtWVkE1OE1zLTJPc0dldXM2SEdBdzg0ZDMwSzJJckZCODQyTDdQZThPdlNacw?oc=5",
+      "published": "Mon, 14 Sep 2026 11:55:29 GMT",
+      "topic": "Fed / 利率",
+      "rank": 3
+    },
+    {
+      "title": "〈美股早盤〉AI熱潮恐踩煞車！主要指數開低、科技股領跌",
+      "summary": "〈美股早盤〉AI熱潮恐踩煞車！主要指數開低、科技股領跌 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnSk1pSVRfRTB1MGM5LVNrM0psZnNXaFBia05zbHlXVGkwSEpJaTVQYWJQdjhmYWRHSnlYZkFSMm9reFVta2tUdW9lWQ?oc=5",
+      "published": "Mon, 14 Sep 2026 13:39:47 GMT",
+      "topic": "AI / 半導體",
+      "rank": 4
     },
     {
       "title": "美股 ETF 吸金力十足",
@@ -19,33 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMHFWTEdGR2VrRFQ0WTBJeGpveVpkMTBhdUhadlMtQzBZaGRJZ3ZyWWZMNDRLVWNhajJjLTZ3RzRGMnlDLVlza0FTeHM0NEI0dTVqSGpMb3pfZ9IBX0FVX3lxTE1ZNUE4eTRRcGFzdXk3aldiZWFHUFlndnUyTzgxWDl5NFVscmVyRW9veDVxVVQ5WHZNbzRUaDFlX0d4UnJLNGtDMm5DM0VDR1Vrd0FHUU5hdkY0TVV6LWQw?oc=5",
       "published": "Mon, 14 Sep 2026 16:57:49 GMT",
       "topic": "美股",
-      "rank": 2
-    },
-    {
-      "title": "戰爭、百元油價、美債狂飆三大逆風都扛住 基金經理：新興市場可承受Fed升息風險 - news.cnyes.com",
-      "summary": "戰爭、百元油價、美債狂飆三大逆風都扛住 基金經理：新興市場可承受Fed升息風險 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyc2RhanVOdUJIdjJWZk53Y3JUSlBPMEZOX0s4WXZlTjFuSHJUcVFSMk90ZjRkc0N3OFFXNnZEaC05YVdZVGdIci15eFJDWkU?oc=5",
-      "published": "Mon, 14 Sep 2026 22:29:59 GMT",
-      "topic": "Fed / 利率",
-      "rank": 3
-    },
-    {
-      "title": "全球市場觀測站／科技股Q4有望重返主流",
-      "summary": "全球市場觀測站／科技股Q4有望重返主流 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oWGoxT1llNjNuYVVwTmV0blpWV0YxWFlxbC1WdzNfREtoS2FzNjBkd2Z6SUNDX0pUbGRlRzFpbUJyQUlaa3dDQ0VLdC1VYlB4OHM4Z2lQZmVzQdIBX0FVX3lxTE9sU3ozUzdnTGxDcXppM2xoYUtSUVU4VmlDNUVxOUNRM04tRmdYR3RzbkEtcXE4bDF5Ym56R0I5X005Ykg0T1ZudWFOOU9LUW5yQTBveFEwNFdUYlZxMnh3?oc=5",
-      "published": "Sun, 13 Sep 2026 16:28:37 GMT",
-      "topic": "全球市場",
-      "rank": 4
-    },
-    {
-      "title": "AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬 - news.cnyes.com",
-      "summary": "AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pcFJoWUdCVERWd0Y1eEdVWE1IcXQyYldUb3BVTG8xYXp4SFlDQVpMdjhoRHo1Q1FJWGwxOHBwVmpXOFI5RjFlQjdOM3plZHc?oc=5",
-      "published": "Tue, 15 Sep 2026 02:20:06 GMT",
-      "topic": "黃金",
       "rank": 5
     }
   ]
