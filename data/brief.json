@@ -12,19 +12,20 @@
   "yesterday_top": [
     "美股主要指數平均 -1.80%，風險情緒偏空。",
     "10Y 美債殖利率 4.970%。",
-    "DXY 日變動 +0.50%。"
+    "DXY 日變動 +0.46%。"
   ],
   "today_top": [
-    "新聞｜〈紐約匯市〉油價大漲、Fed升息在即 美元攀高",
-    "新聞｜〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%"
+    "新聞｜美股 ETF 吸金力十足",
+    "新聞｜戰爭、百元油價、美債狂飆三大逆風都扛住 基金經理：新興市場可承受Fed升息風險 - news.cnyes.com",
+    "新聞｜AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬 - news.cnyes.com"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +1.0 bps。",
-    "美元：DXY 日變動 +0.50%。",
+    "美元：DXY 日變動 +0.46%。",
     "波動率：VIX 17.10。",
     "曲線：2Y10Y +32.0 bps。"
   ],
   "today_date_taipei": "2026-09-15",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-15T02:58:42.943196+00:00"
+  "as_of": "2026-09-15T03:18:08.084263+00:00"
 }
