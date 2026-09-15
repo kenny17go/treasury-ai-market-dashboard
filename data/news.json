@@ -1,17 +1,8 @@
 {
-  "as_of": "2026-09-15T16:03:11.953689+00:00",
+  "as_of": "2026-09-15T16:37:00.046838+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
-    {
-      "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
-      "summary": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5% 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90Tk9oSDdXOTc1eGdkbzVEa2NUVDRud2pmX0NwdmdlTXV2MW5qQ0x5b1pXa2RGUm1HVkpfM0tjN0VLRDFtUTB5Mldkbw?oc=5",
-      "published": "Mon, 14 Sep 2026 21:25:23 GMT",
-      "topic": "AI / 半導體",
-      "rank": 1
-    },
     {
       "title": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測",
       "summary": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測 鉅亨網",
@@ -19,6 +10,15 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZYlNOVy1jclEtUW5YVXBFWXkwR1E0TEtWVkE1OE1zLTJPc0dldXM2SEdBdzg0ZDMwSzJJckZCODQyTDdQZThPdlNacw?oc=5",
       "published": "Mon, 14 Sep 2026 11:55:29 GMT",
       "topic": "Fed / 利率",
+      "rank": 1
+    },
+    {
+      "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
+      "summary": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5% 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90Tk9oSDdXOTc1eGdkbzVEa2NUVDRud2pmX0NwdmdlTXV2MW5qQ0x5b1pXa2RGUm1HVkpfM0tjN0VLRDFtUTB5Mldkbw?oc=5",
+      "published": "Mon, 14 Sep 2026 21:25:23 GMT",
+      "topic": "AI / 半導體",
       "rank": 2
     },
     {
@@ -40,12 +40,12 @@
       "rank": 4
     },
     {
-      "title": "AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬 - news.cnyes.com",
-      "summary": "AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pcFJoWUdCVERWd0Y1eEdVWE1IcXQyYldUb3BVTG8xYXp4SFlDQVpMdjhoRHo1Q1FJWGwxOHBwVmpXOFI5RjFlQjdOM3plZHc?oc=5",
-      "published": "Tue, 15 Sep 2026 02:20:06 GMT",
-      "topic": "黃金",
+      "title": "車廠兩難！Stellantis執行長：全球車市分化為「美國」與「其他地區」",
+      "summary": "車廠兩難！Stellantis執行長：全球車市分化為「美國」與「其他地區」 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zNkRZU1N4VUc2RzlkZ2lZUXFSVHNCNGRwYTV4aU1HQnpLakRFNm1ycHJrN3AxUTVuYy1LMjVHUG82Sk91dVB3cjJtWQ?oc=5",
+      "published": "Sun, 13 Sep 2026 11:00:03 GMT",
+      "topic": "全球市場",
       "rank": 5
     }
   ]
