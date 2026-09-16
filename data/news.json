@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-16T01:56:24.053157+00:00",
+  "as_of": "2026-09-16T02:14:52.111901+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -40,12 +40,12 @@
       "rank": 4
     },
     {
-      "title": "AI熱潮降溫怎麼辦？野村示警：全球經濟將遭「多線程」極限壓力測試",
-      "summary": "AI熱潮降溫怎麼辦？野村示警：全球經濟將遭「多線程」極限壓力測試 鉅亨網",
+      "title": "車廠兩難！Stellantis執行長：全球車市分化為「美國」與「其他地區」",
+      "summary": "車廠兩難！Stellantis執行長：全球車市分化為「美國」與「其他地區」 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYUNEOG93N1dUUXhMZEYzSWhEMGZqY3NkOGYxSDZUbXJtd00yQkgxVU1JdmVrTFlVWllYY25GNzR4Sk9lT1pyUkU4SQ?oc=5",
-      "published": "Sun, 13 Sep 2026 02:10:06 GMT",
-      "topic": "AI / 半導體",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zNkRZU1N4VUc2RzlkZ2lZUXFSVHNCNGRwYTV4aU1HQnpLakRFNm1ycHJrN3AxUTVuYy1LMjVHUG82Sk91dVB3cjJtWQ?oc=5",
+      "published": "Sun, 13 Sep 2026 11:00:03 GMT",
+      "topic": "全球市場",
       "rank": 5
     }
   ]
