@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-16T06:33:56.278999+00:00",
+  "as_of": "2026-09-16T06:52:59.230438+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -13,13 +13,22 @@
       "rank": 1
     },
     {
-      "title": "〈美股盤後〉美債殖利率升破5%創19年新高 油價再飆 三大指數盡墨 費半止跌小漲 - news.cnyes.com",
-      "summary": "〈美股盤後〉美債殖利率升破5%創19年新高 油價再飆 三大指數盡墨 費半止跌小漲 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80TW41QTBEYUZHWF9sS2xiZlpEdExOVTJhWXpTRVFHUVVqMkQ5ekxtaHhJMWRIa19jQnF1bE1WNVMwQTRYZU1IMWdBV1FVSzQ?oc=5",
-      "published": "Tue, 15 Sep 2026 21:08:10 GMT",
+      "title": "〈貴金屬盤後〉油價大漲助長升息機率 現貨黃金跌破4300美元",
+      "summary": "〈貴金屬盤後〉油價大漲助長升息機率 現貨黃金跌破4300美元 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5SHRCUFBHVlFZd1hyZTVEdHp1eWVMSzQwVG4tbkhNUndVbVZwVHhNNHJ6Wm9XblpHUUx6NlZtcExadmlHQ3h6VnlCMA?oc=5",
+      "published": "Tue, 15 Sep 2026 22:33:59 GMT",
       "topic": "Fed / 利率",
       "rank": 2
+    },
+    {
+      "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
+      "summary": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5% 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90Tk9oSDdXOTc1eGdkbzVEa2NUVDRud2pmX0NwdmdlTXV2MW5qQ0x5b1pXa2RGUm1HVkpfM0tjN0VLRDFtUTB5Mldkbw?oc=5",
+      "published": "Mon, 14 Sep 2026 21:25:23 GMT",
+      "topic": "AI / 半導體",
+      "rank": 3
     },
     {
       "title": "美股 ETF 吸金力十足",
@@ -28,23 +37,14 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMHFWTEdGR2VrRFQ0WTBJeGpveVpkMTBhdUhadlMtQzBZaGRJZ3ZyWWZMNDRLVWNhajJjLTZ3RzRGMnlDLVlza0FTeHM0NEI0dTVqSGpMb3pfZ9IBX0FVX3lxTE1ZNUE4eTRRcGFzdXk3aldiZWFHUFlndnUyTzgxWDl5NFVscmVyRW9veDVxVVQ5WHZNbzRUaDFlX0d4UnJLNGtDMm5DM0VDR1Vrd0FHUU5hdkY0TVV6LWQw?oc=5",
       "published": "Mon, 14 Sep 2026 16:57:49 GMT",
       "topic": "美股",
-      "rank": 3
-    },
-    {
-      "title": "短線變數多 宜分散布局",
-      "summary": "短線變數多 宜分散布局 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1Nlk3VlU1RENZSmtEOWZHeHg5QWkyVExKa095RmVJbDJDTUpSYTdzN1Npc3l2V252TVRnY2Nnby1TUlhKS2tHRGQ3VHpLTDhTY1JrbGdfR1RubW5RdFpQNjlkMnU1WlZpMW9obHZTd0E2WkN4VXR4Wlc0c3d5QdIBX0FVX3lxTE9rWklHTnRaSXE5S01GSC1hRndVQjRhZUtZWENObkdfVjZNSUpVck5lVkdvelVwNGxGRFZObldEV0tSSngwS2hCa2hnT3NmMUlsV05iVGkzc3JxR3NnYjB3?oc=5",
-      "published": "Sun, 13 Sep 2026 16:31:15 GMT",
-      "topic": "全球市場",
       "rank": 4
     },
     {
-      "title": "成長股混搭債券抗震 投信建議善用主動式 ETF 搭配天然資源基金 | 基金天地 | 理財",
-      "summary": "成長股混搭債券抗震 投信建議善用主動式 ETF 搭配天然資源基金 | 基金天地 | 理財 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WTDV4aFRNSkZqQk95dnBQWEhXUU9TQVlTWXVPcmVUdG5uOHlhZjBBa1JHdDMtMHRTLXRScEtHcHlsaDJ2bDByaDRGa0hWaFVaUU56Ti0yV2JXQXVoMFRMSlBlbUtrbDVRT2FiYXNoUFd5TFV5UER1WQ?oc=5",
-      "published": "Sun, 13 Sep 2026 16:38:07 GMT",
+      "title": "亞洲主要交易所第一槍！韓股周一起延長交易時間 2400檔股票盤後交易到晚上8點",
+      "summary": "亞洲主要交易所第一槍！韓股周一起延長交易時間 2400檔股票盤後交易到晚上8點 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZVFdoTktRSVJ3VUtlUUNVakMxS25fRWRiWktXS25kT215c25qR1NNTlEzN1NkSWprTS1iLTVqYnk4U3lXR2VsN3ZQcw?oc=5",
+      "published": "Sun, 13 Sep 2026 22:50:59 GMT",
       "topic": "全球市場",
       "rank": 5
     }
