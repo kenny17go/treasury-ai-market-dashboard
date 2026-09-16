@@ -1,25 +1,16 @@
 {
-  "as_of": "2026-09-16T16:36:07.996025+00:00",
+  "as_of": "2026-09-16T17:02:22.708842+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
     {
-      "title": "美股收盤／國際油價站上109美元美債殖利率破5% Fed 升息倒數美股三大指數全跌| 美股動態| 國際",
-      "summary": "美股收盤／國際油價站上109美元美債殖利率破5% Fed 升息倒數美股三大指數全跌| 美股動態| 國際 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ia2tNTFRxRlBmeTV4Z0lVME9lNVZ5Xzhia2hZVUVaV3Jpd2JWWGRkdkhtSXE0REZzVWdtc2xIanVrelJrUmYxbEt4Vy0ySEZuN2Y3Tk9qSjBiU1dq?oc=5",
-      "published": "Tue, 15 Sep 2026 22:49:24 GMT",
+      "title": "Fed升息反而不是最壞情境？華爾街拆解三套劇本 股債匯金這樣走",
+      "summary": "Fed升息反而不是最壞情境？華爾街拆解三套劇本 股債匯金這樣走 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ja2Y0RWJBUUhrSmxjUGRTZlJUV3kyYjFscmxaVlpuMXpzZUJpU0pIdTM1d2t6bEFFdkdKUFFaRzZ2SU9NbURQYmIyYw?oc=5",
+      "published": "Tue, 15 Sep 2026 11:00:03 GMT",
       "topic": "Fed / 利率",
       "rank": 1
-    },
-    {
-      "title": "美股期貨開盤跳水 那指急跌逾1% AI 巨頭齊喊放慢 + Fed 升息機率高漲",
-      "summary": "美股期貨開盤跳水 那指急跌逾1% AI 巨頭齊喊放慢 + Fed 升息機率高漲 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSY25jaWdBcXVYaTdFR0ttMHNVTWtvZlJxNjFHNENmem1LMllOYlhOb3hOa1RNS0tVT2Y1NktuSlhZSldURlF4VWRDS0VkZU5qR19vWmlLM3hRMlRt0gFiQVVfeXFMTVZXWmlCUEQtbk8yWTlweFZ0bWRXYXFNa3lqMlN4RWg1akIzeUphdlA3cGUwRk9YVlZ5b25FTUF3S0ZyaVNEZVQ1ZDZoY0tJa1pJOHkwWVEyUzZ3c21GTXlqMlE?oc=5",
-      "published": "Sun, 13 Sep 2026 23:27:54 GMT",
-      "topic": "Fed / 利率",
-      "rank": 2
     },
     {
       "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
@@ -28,23 +19,32 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90Tk9oSDdXOTc1eGdkbzVEa2NUVDRud2pmX0NwdmdlTXV2MW5qQ0x5b1pXa2RGUm1HVkpfM0tjN0VLRDFtUTB5Mldkbw?oc=5",
       "published": "Mon, 14 Sep 2026 21:25:23 GMT",
       "topic": "AI / 半導體",
+      "rank": 2
+    },
+    {
+      "title": "美股收盤／國際油價站上109美元美債殖利率破5% Fed 升息倒數美股三大指數全跌| 美股動態| 國際 - money.udn.com",
+      "summary": "美股收盤／國際油價站上109美元美債殖利率破5% Fed 升息倒數美股三大指數全跌| 美股動態| 國際 money.udn.com",
+      "source": "money.udn.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ia2tNTFRxRlBmeTV4Z0lVME9lNVZ5Xzhia2hZVUVaV3Jpd2JWWGRkdkhtSXE0REZzVWdtc2xIanVrelJrUmYxbEt4Vy0ySEZuN2Y3Tk9qSjBiU1dq?oc=5",
+      "published": "Tue, 15 Sep 2026 22:49:24 GMT",
+      "topic": "Fed / 利率",
       "rank": 3
     },
     {
-      "title": "美股 ETF 吸金力十足",
-      "summary": "美股 ETF 吸金力十足 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMHFWTEdGR2VrRFQ0WTBJeGpveVpkMTBhdUhadlMtQzBZaGRJZ3ZyWWZMNDRLVWNhajJjLTZ3RzRGMnlDLVlza0FTeHM0NEI0dTVqSGpMb3pfZ9IBX0FVX3lxTE1ZNUE4eTRRcGFzdXk3aldiZWFHUFlndnUyTzgxWDl5NFVscmVyRW9veDVxVVQ5WHZNbzRUaDFlX0d4UnJLNGtDMm5DM0VDR1Vrd0FHUU5hdkY0TVV6LWQw?oc=5",
-      "published": "Mon, 14 Sep 2026 16:57:49 GMT",
-      "topic": "美股",
+      "title": "美銀經理人調查：現金水位3.9%創半年新高 做多半導體續居最擁擠交易",
+      "summary": "美銀經理人調查：現金水位3.9%創半年新高 做多半導體續居最擁擠交易 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtUFJtZEpBMlVmYzA5T1l4UE4tRWVZYVhhMVNiQ1FLUkh4VVhiSmFjeW9jNHVlY2JiMWY5LVUyV1FzVlRUY2xpVFNMVQ?oc=5",
+      "published": "Wed, 16 Sep 2026 12:06:24 GMT",
+      "topic": "AI / 半導體",
       "rank": 4
     },
     {
-      "title": "成長股混搭債券抗震 投信建議善用主動式 ETF 搭配天然資源基金 | 基金天地 | 理財",
-      "summary": "成長股混搭債券抗震 投信建議善用主動式 ETF 搭配天然資源基金 | 基金天地 | 理財 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WTDV4aFRNSkZqQk95dnBQWEhXUU9TQVlTWXVPcmVUdG5uOHlhZjBBa1JHdDMtMHRTLXRScEtHcHlsaDJ2bDByaDRGa0hWaFVaUU56Ti0yV2JXQXVoMFRMSlBlbUtrbDVRT2FiYXNoUFd5TFV5UER1WQ?oc=5",
-      "published": "Sun, 13 Sep 2026 16:38:07 GMT",
+      "title": "亞洲主要交易所第一槍！韓股周一起延長交易時間 2400檔股票盤後交易到晚上8點",
+      "summary": "亞洲主要交易所第一槍！韓股周一起延長交易時間 2400檔股票盤後交易到晚上8點 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZVFdoTktRSVJ3VUtlUUNVakMxS25fRWRiWktXS25kT215c25qR1NNTlEzN1NkSWprTS1iLTVqYnk4U3lXR2VsN3ZQcw?oc=5",
+      "published": "Sun, 13 Sep 2026 22:50:59 GMT",
       "topic": "全球市場",
       "rank": 5
     }
