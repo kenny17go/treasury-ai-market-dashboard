@@ -12,7 +12,7 @@
   "yesterday_top": [
     "美股主要指數平均 -0.36%，風險情緒中性。",
     "10Y 美債殖利率 5.000%。",
-    "DXY 日變動 +0.24%。"
+    "DXY 日變動 +0.27%。"
   ],
   "today_top": [
     "新聞｜美股收盤／國際油價站上109美元 美債殖利率破5% Fed 升息倒數美股三大指數全跌",
@@ -20,11 +20,11 @@
   ],
   "todays_watch": [
     "利率：10Y 日變動 +3.0 bps。",
-    "美元：DXY 日變動 +0.24%。",
+    "美元：DXY 日變動 +0.27%。",
     "波動率：VIX 17.20。",
     "曲線：2Y10Y +33.0 bps。"
   ],
   "today_date_taipei": "2026-09-16",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-16T01:29:58.067658+00:00"
+  "as_of": "2026-09-16T01:45:31.179162+00:00"
 }
