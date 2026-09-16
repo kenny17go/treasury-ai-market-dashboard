@@ -12,18 +12,19 @@
   "yesterday_top": [
     "美股主要指數平均 -0.36%，風險情緒中性。",
     "10Y 美債殖利率 5.000%。",
-    "DXY 日變動 -0.03%。"
+    "DXY 日變動 -0.08%。"
   ],
   "today_top": [
-    "新聞｜美股收盤／國際油價站上109美元 美債殖利率破5% Fed 升息倒數美股三大指數全跌"
+    "新聞｜美股收盤／國際油價站上109美元 美債殖利率破5% Fed 升息倒數美股三大指數全跌",
+    "新聞｜〈美股盤後〉美債殖利率升破5%創19年新高 油價再飆 三大指數盡墨 費半止跌小漲 - news.cnyes.com"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +3.0 bps。",
-    "美元：DXY 日變動 -0.03%。",
+    "美元：DXY 日變動 -0.08%。",
     "波動率：VIX 17.20。",
     "曲線：2Y10Y +33.0 bps。"
   ],
   "today_date_taipei": "2026-09-16",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-16T05:55:25.121948+00:00"
+  "as_of": "2026-09-16T06:12:08.154886+00:00"
 }
