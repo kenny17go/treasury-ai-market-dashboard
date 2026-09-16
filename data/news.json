@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-16T01:12:30.285210+00:00",
+  "as_of": "2026-09-16T01:28:08.661914+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -13,21 +13,21 @@
       "rank": 1
     },
     {
-      "title": "華爾街劃出美股生死線！10年期美債殖利率攻入危險區",
-      "summary": "華爾街劃出美股生死線！10年期美債殖利率攻入危險區 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LTm4xem5ybU5EZGNveE5xZGZ6VEF1cFBYWFEyU2tWZl9nMWJUTEoxZjhUUklLUXBreEUwWm5fU0p4SEowZ0M4N0FGWQ?oc=5",
-      "published": "Tue, 15 Sep 2026 12:40:03 GMT",
-      "topic": "Fed / 利率",
-      "rank": 2
-    },
-    {
       "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
       "summary": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5% 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90Tk9oSDdXOTc1eGdkbzVEa2NUVDRud2pmX0NwdmdlTXV2MW5qQ0x5b1pXa2RGUm1HVkpfM0tjN0VLRDFtUTB5Mldkbw?oc=5",
       "published": "Mon, 14 Sep 2026 21:25:23 GMT",
       "topic": "AI / 半導體",
+      "rank": 2
+    },
+    {
+      "title": "〈美股盤後〉美債殖利率升破5%創19年新高 油價再飆 三大指數盡墨 費半跌深反彈 - news.cnyes.com",
+      "summary": "〈美股盤後〉美債殖利率升破5%創19年新高 油價再飆 三大指數盡墨 費半跌深反彈 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80TW41QTBEYUZHWF9sS2xiZlpEdExOVTJhWXpTRVFHUVVqMkQ5ekxtaHhJMWRIa19jQnF1bE1WNVMwQTRYZU1IMWdBV1FVSzQ?oc=5",
+      "published": "Tue, 15 Sep 2026 21:08:10 GMT",
+      "topic": "Fed / 利率",
       "rank": 3
     },
     {
