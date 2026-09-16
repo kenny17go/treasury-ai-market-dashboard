@@ -1,17 +1,8 @@
 {
-  "as_of": "2026-09-15T23:33:52.338101+00:00",
+  "as_of": "2026-09-16T00:17:39.965591+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
-    {
-      "title": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測",
-      "summary": "華許展「鷹」風？市場已消化3次升息預期 富達指路：Fed實際升息次數恐少於市場預測 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZYlNOVy1jclEtUW5YVXBFWXkwR1E0TEtWVkE1OE1zLTJPc0dldXM2SEdBdzg0ZDMwSzJJckZCODQyTDdQZThPdlNacw?oc=5",
-      "published": "Mon, 14 Sep 2026 11:55:29 GMT",
-      "topic": "Fed / 利率",
-      "rank": 1
-    },
     {
       "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
       "summary": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5% 鉅亨網",
@@ -19,14 +10,23 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90Tk9oSDdXOTc1eGdkbzVEa2NUVDRud2pmX0NwdmdlTXV2MW5qQ0x5b1pXa2RGUm1HVkpfM0tjN0VLRDFtUTB5Mldkbw?oc=5",
       "published": "Mon, 14 Sep 2026 21:25:23 GMT",
       "topic": "AI / 半導體",
+      "rank": 1
+    },
+    {
+      "title": "國際油價站上109美元美債殖利率破5% Fed升息倒數美股三大指數全跌| 全球財經| 全球 - UDN",
+      "summary": "國際油價站上109美元美債殖利率破5% Fed升息倒數美股三大指數全跌| 全球財經| 全球 UDN",
+      "source": "UDN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jV0NoQ1VEakVBbTVRRlg4bWVHekJTT2NsYWhtMFZibXdpN3NRdWY5NUJnNHFLbWdkRG10YTU1NU5qcjE2OFNrM1V5ZnY5OGh3SWIzUVNDQ3pLMTdUN2JpUjc2cjFOdG9tNm9rSTRSU3V1eWp0TWI0cnYweGlHVm8?oc=5",
+      "published": "Tue, 15 Sep 2026 22:49:23 GMT",
+      "topic": "Fed / 利率",
       "rank": 2
     },
     {
-      "title": "國際油價站上109美元！美債殖利率破5% Fed升息倒數美股三大指數全跌| 全球財經| 全球 - udn.com",
-      "summary": "國際油價站上109美元！美債殖利率破5% Fed升息倒數美股三大指數全跌| 全球財經| 全球 udn.com",
-      "source": "udn.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CdS1pNUZLbXZlTUJDY3NSSEVnSkZ1T3JoVHY2YWlsZGowUGhreU5TTXpDV3FtYl9IR2V0WDJfV1RqTTVraG9sWWVJUzBhNWpq?oc=5",
-      "published": "Tue, 15 Sep 2026 22:49:23 GMT",
+      "title": "〈美股盤後〉美債殖利率升破5%創19年新高 油價再飆 三大指數盡墨 費半跌深反彈 - news.cnyes.com",
+      "summary": "〈美股盤後〉美債殖利率升破5%創19年新高 油價再飆 三大指數盡墨 費半跌深反彈 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80TW41QTBEYUZHWF9sS2xiZlpEdExOVTJhWXpTRVFHUVVqMkQ5ekxtaHhJMWRIa19jQnF1bE1WNVMwQTRYZU1IMWdBV1FVSzQ?oc=5",
+      "published": "Tue, 15 Sep 2026 21:08:10 GMT",
       "topic": "Fed / 利率",
       "rank": 3
     },
