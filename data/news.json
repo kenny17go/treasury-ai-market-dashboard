@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-16T16:03:19.587015+00:00",
+  "as_of": "2026-09-16T16:36:07.996025+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -40,12 +40,12 @@
       "rank": 4
     },
     {
-      "title": "美銀經理人調查：現金水位3.9%創半年新高 做多半導體續居最擁擠交易",
-      "summary": "美銀經理人調查：現金水位3.9%創半年新高 做多半導體續居最擁擠交易 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtUFJtZEpBMlVmYzA5T1l4UE4tRWVZYVhhMVNiQ1FLUkh4VVhiSmFjeW9jNHVlY2JiMWY5LVUyV1FzVlRUY2xpVFNMVQ?oc=5",
-      "published": "Wed, 16 Sep 2026 12:06:24 GMT",
-      "topic": "AI / 半導體",
+      "title": "成長股混搭債券抗震 投信建議善用主動式 ETF 搭配天然資源基金 | 基金天地 | 理財",
+      "summary": "成長股混搭債券抗震 投信建議善用主動式 ETF 搭配天然資源基金 | 基金天地 | 理財 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WTDV4aFRNSkZqQk95dnBQWEhXUU9TQVlTWXVPcmVUdG5uOHlhZjBBa1JHdDMtMHRTLXRScEtHcHlsaDJ2bDByaDRGa0hWaFVaUU56Ti0yV2JXQXVoMFRMSlBlbUtrbDVRT2FiYXNoUFd5TFV5UER1WQ?oc=5",
+      "published": "Sun, 13 Sep 2026 16:38:07 GMT",
+      "topic": "全球市場",
       "rank": 5
     }
   ]
