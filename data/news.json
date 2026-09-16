@@ -1,17 +1,8 @@
 {
-  "as_of": "2026-09-16T10:36:16.975532+00:00",
+  "as_of": "2026-09-16T11:02:47.249123+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
-    {
-      "title": "美股收盤／國際油價站上109美元 美債殖利率破5% Fed 升息倒數美股三大指數全跌",
-      "summary": "美股收盤／國際油價站上109美元 美債殖利率破5% Fed 升息倒數美股三大指數全跌 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ia2tNTFRxRlBmeTV4Z0lVME9lNVZ5Xzhia2hZVUVaV3Jpd2JWWGRkdkhtSXE0REZzVWdtc2xIanVrelJrUmYxbEt4Vy0ySEZuN2Y3Tk9qSjBiU1dq0gFiQVVfeXFMTkdfU2hrb3A4WkhWQnJFVEVkVlNZanVwalh4ZWRtVUdObmRlY0o1bkJSUWhKLTFjc0pLWnZlTDJOaFdCU09mSDNRNWdyVUtMWGI4YjhZeENmd1JFa3EycWNLV1E?oc=5",
-      "published": "Tue, 15 Sep 2026 22:49:24 GMT",
-      "topic": "Fed / 利率",
-      "rank": 1
-    },
     {
       "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
       "summary": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5% 鉅亨網",
@@ -19,6 +10,15 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90Tk9oSDdXOTc1eGdkbzVEa2NUVDRud2pmX0NwdmdlTXV2MW5qQ0x5b1pXa2RGUm1HVkpfM0tjN0VLRDFtUTB5Mldkbw?oc=5",
       "published": "Mon, 14 Sep 2026 21:25:23 GMT",
       "topic": "AI / 半導體",
+      "rank": 1
+    },
+    {
+      "title": "美股收盤／國際油價站上109美元 美債殖利率破5% Fed 升息倒數美股三大指數全跌 - money.udn.com",
+      "summary": "美股收盤／國際油價站上109美元 美債殖利率破5% Fed 升息倒數美股三大指數全跌 money.udn.com",
+      "source": "money.udn.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ia2tNTFRxRlBmeTV4Z0lVME9lNVZ5Xzhia2hZVUVaV3Jpd2JWWGRkdkhtSXE0REZzVWdtc2xIanVrelJrUmYxbEt4Vy0ySEZuN2Y3Tk9qSjBiU1dq0gFiQVVfeXFMTkdfU2hrb3A4WkhWQnJFVEVkVlNZanVwalh4ZWRtVUdObmRlY0o1bkJSUWhKLTFjc0pLWnZlTDJOaFdCU09mSDNRNWdyVUtMWGI4YjhZeENmd1JFa3EycWNLV1E?oc=5",
+      "published": "Tue, 15 Sep 2026 22:49:24 GMT",
+      "topic": "Fed / 利率",
       "rank": 2
     },
     {
@@ -31,21 +31,21 @@
       "rank": 3
     },
     {
-      "title": "美股 ETF 吸金力十足",
-      "summary": "美股 ETF 吸金力十足 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMHFWTEdGR2VrRFQ0WTBJeGpveVpkMTBhdUhadlMtQzBZaGRJZ3ZyWWZMNDRLVWNhajJjLTZ3RzRGMnlDLVlza0FTeHM0NEI0dTVqSGpMb3pfZ9IBX0FVX3lxTE1ZNUE4eTRRcGFzdXk3aldiZWFHUFlndnUyTzgxWDl5NFVscmVyRW9veDVxVVQ5WHZNbzRUaDFlX0d4UnJLNGtDMm5DM0VDR1Vrd0FHUU5hdkY0TVV6LWQw?oc=5",
-      "published": "Mon, 14 Sep 2026 16:57:49 GMT",
-      "topic": "美股",
+      "title": "AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬 - news.cnyes.com",
+      "summary": "AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pcFJoWUdCVERWd0Y1eEdVWE1IcXQyYldUb3BVTG8xYXp4SFlDQVpMdjhoRHo1Q1FJWGwxOHBwVmpXOFI5RjFlQjdOM3plZHc?oc=5",
+      "published": "Tue, 15 Sep 2026 02:20:06 GMT",
+      "topic": "黃金",
       "rank": 4
     },
     {
-      "title": "車廠兩難！Stellantis執行長：全球車市分化為「美國」與「其他地區」",
-      "summary": "車廠兩難！Stellantis執行長：全球車市分化為「美國」與「其他地區」 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zNkRZU1N4VUc2RzlkZ2lZUXFSVHNCNGRwYTV4aU1HQnpLakRFNm1ycHJrN3AxUTVuYy1LMjVHUG82Sk91dVB3cjJtWQ?oc=5",
-      "published": "Sun, 13 Sep 2026 11:00:03 GMT",
-      "topic": "全球市場",
+      "title": "高盛、野村異口同聲：油價牽動美債 能源才是市場真正關鍵 - news.cnyes.com",
+      "summary": "高盛、野村異口同聲：油價牽動美債 能源才是市場真正關鍵 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9neXg2aDQ4R1o5MjRaeFhfemw1cjN4TzZ0anNzUzFxRVRVdTJGa2NOb1BkUWpsVy1JcnZ3N3dpSHJXdzFpUVFobW5UMEN1RWM?oc=5",
+      "published": "Wed, 16 Sep 2026 07:20:03 GMT",
+      "topic": "美債",
       "rank": 5
     }
   ]
