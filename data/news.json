@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-16T12:41:44.891467+00:00",
+  "as_of": "2026-09-16T13:04:04.913315+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -22,11 +22,11 @@
       "rank": 2
     },
     {
-      "title": "美債10年期殖利率叩關5% FOMC決戰凌晨2點！美債開始跟股市搶錢 台股明日大波動 - 商傳媒",
-      "summary": "美債10年期殖利率叩關5% FOMC決戰凌晨2點！美債開始跟股市搶錢 台股明日大波動 商傳媒",
-      "source": "商傳媒",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOREZPSGt5b3EtUUxDeS1LQ2RHZ0haSmFrTmdOMllOMTJlLXJJUEdsSFhxVHRlaFpwNk9HS0F6WFZSY2JMellDQ285X19reGt6UmRJZGNHVWkxOEYwV2w1UVFsdXpiZEZtMldfdlJSMXJFNmM?oc=5",
-      "published": "Wed, 16 Sep 2026 09:34:13 GMT",
+      "title": "〈美股盤後〉美債殖利率升破5%創19年新高 油價再飆 三大指數盡墨 費半止跌小漲 - news.cnyes.com",
+      "summary": "〈美股盤後〉美債殖利率升破5%創19年新高 油價再飆 三大指數盡墨 費半止跌小漲 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80TW41QTBEYUZHWF9sS2xiZlpEdExOVTJhWXpTRVFHUVVqMkQ5ekxtaHhJMWRIa19jQnF1bE1WNVMwQTRYZU1IMWdBV1FVSzQ?oc=5",
+      "published": "Wed, 16 Sep 2026 07:12:07 GMT",
       "topic": "Fed / 利率",
       "rank": 3
     },
