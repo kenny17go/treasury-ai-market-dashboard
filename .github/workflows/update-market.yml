@@ -37,6 +37,10 @@ jobs:
           TRADING_ECONOMICS_API_KEY: ${{ secrets.TRADING_ECONOMICS_API_KEY }}
         run: |
           python scripts/run_update.py
+          # Recalculate every U.S. stock's move against the actual prior
+          # regular-session close, matched by trading date. This avoids the
+          # Yahoo daily-candle timing bug that can compare against two sessions ago.
+          python scripts/fix_stock_changes.py
           # Closing-stat enrichment is useful, but must never block intraday TAIEX.
           python scripts/fix_twse_stats.py || echo "close-stat enrichment unavailable; preserving last valid close stats"
           # During 09:00-13:30 Taipei time this overwrites TAIEX with TWSE MIS live data.
