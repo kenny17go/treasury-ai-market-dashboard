@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-16T14:37:17.932922+00:00",
+  "as_of": "2026-09-16T15:03:52.289325+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -31,21 +31,21 @@
       "rank": 3
     },
     {
-      "title": "美銀經理人調查：現金水位3.9%創半年新高 做多半導體續居最擁擠交易",
-      "summary": "美銀經理人調查：現金水位3.9%創半年新高 做多半導體續居最擁擠交易 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtUFJtZEpBMlVmYzA5T1l4UE4tRWVZYVhhMVNiQ1FLUkh4VVhiSmFjeW9jNHVlY2JiMWY5LVUyV1FzVlRUY2xpVFNMVQ?oc=5",
-      "published": "Wed, 16 Sep 2026 12:06:24 GMT",
-      "topic": "AI / 半導體",
-      "rank": 4
-    },
-    {
       "title": "美股 ETF 吸金力十足",
       "summary": "美股 ETF 吸金力十足 經濟日報",
       "source": "經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMHFWTEdGR2VrRFQ0WTBJeGpveVpkMTBhdUhadlMtQzBZaGRJZ3ZyWWZMNDRLVWNhajJjLTZ3RzRGMnlDLVlza0FTeHM0NEI0dTVqSGpMb3pfZ9IBX0FVX3lxTE1ZNUE4eTRRcGFzdXk3aldiZWFHUFlndnUyTzgxWDl5NFVscmVyRW9veDVxVVQ5WHZNbzRUaDFlX0d4UnJLNGtDMm5DM0VDR1Vrd0FHUU5hdkY0TVV6LWQw?oc=5",
       "published": "Mon, 14 Sep 2026 16:57:49 GMT",
       "topic": "美股",
+      "rank": 4
+    },
+    {
+      "title": "美銀經理人調查：現金水位3.9%創半年新高 做多半導體續居最擁擠交易",
+      "summary": "美銀經理人調查：現金水位3.9%創半年新高 做多半導體續居最擁擠交易 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtUFJtZEpBMlVmYzA5T1l4UE4tRWVZYVhhMVNiQ1FLUkh4VVhiSmFjeW9jNHVlY2JiMWY5LVUyV1FzVlRUY2xpVFNMVQ?oc=5",
+      "published": "Wed, 16 Sep 2026 12:06:24 GMT",
+      "topic": "AI / 半導體",
       "rank": 5
     }
   ]
