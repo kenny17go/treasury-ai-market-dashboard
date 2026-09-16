@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-16T04:53:02.010336+00:00",
+  "as_of": "2026-09-16T05:06:01.567281+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -40,11 +40,11 @@
       "rank": 4
     },
     {
-      "title": "車廠兩難！Stellantis執行長：全球車市分化為「美國」與「其他地區」",
-      "summary": "車廠兩難！Stellantis執行長：全球車市分化為「美國」與「其他地區」 鉅亨網",
+      "title": "亞洲主要交易所第一槍！韓股周一起延長交易時間 2400檔股票盤後交易到晚上8點",
+      "summary": "亞洲主要交易所第一槍！韓股周一起延長交易時間 2400檔股票盤後交易到晚上8點 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zNkRZU1N4VUc2RzlkZ2lZUXFSVHNCNGRwYTV4aU1HQnpLakRFNm1ycHJrN3AxUTVuYy1LMjVHUG82Sk91dVB3cjJtWQ?oc=5",
-      "published": "Sun, 13 Sep 2026 11:00:03 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZVFdoTktRSVJ3VUtlUUNVakMxS25fRWRiWktXS25kT215c25qR1NNTlEzN1NkSWprTS1iLTVqYnk4U3lXR2VsN3ZQcw?oc=5",
+      "published": "Sun, 13 Sep 2026 22:50:59 GMT",
       "topic": "全球市場",
       "rank": 5
     }
