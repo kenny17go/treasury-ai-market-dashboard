@@ -1,17 +1,8 @@
 {
-  "as_of": "2026-09-17T16:36:14.060260+00:00",
+  "as_of": "2026-09-17T17:02:40.752910+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
-    {
-      "title": "美債殖利率創2023年來新高 投資人憂借貸成本衝擊經濟",
-      "summary": "美債殖利率創2023年來新高 投資人憂借貸成本衝擊經濟 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zR0ktVThzUlI4TDNpWFFZb21lQ2RZUklUM2djVlpRMmNoeGdQWjJ3eHdReVE4WGtDalBGZWVhOEpRZHdYMVFtWGgxY2JuRGxzcGVCaXJLX0p4Z9IBX0FVX3lxTFB0Tk1sZ2JQYWdZbGpWRS1uS2pZb1VkeVJnd29NZlBXaXQ1V0tyRHVYV1c0RGxhMTBPQmhuUVhUTC1HUnItOEhPQlJOci1ZX3lEM1pXU201Q3F4OGxrWUs4?oc=5",
-      "published": "Mon, 14 Sep 2026 17:33:35 GMT",
-      "topic": "Fed / 利率",
-      "rank": 1
-    },
     {
       "title": "Fed升息反而不是最壞情境？華爾街拆解三套劇本 股債匯金這樣走",
       "summary": "Fed升息反而不是最壞情境？華爾街拆解三套劇本 股債匯金這樣走 鉅亨網",
@@ -19,7 +10,7 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ja2Y0RWJBUUhrSmxjUGRTZlJUV3kyYjFscmxaVlpuMXpzZUJpU0pIdTM1d2t6bEFFdkdKUFFaRzZ2SU9NbURQYmIyYw?oc=5",
       "published": "Tue, 15 Sep 2026 11:00:03 GMT",
       "topic": "Fed / 利率",
-      "rank": 2
+      "rank": 1
     },
     {
       "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
@@ -28,16 +19,16 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90Tk9oSDdXOTc1eGdkbzVEa2NUVDRud2pmX0NwdmdlTXV2MW5qQ0x5b1pXa2RGUm1HVkpfM0tjN0VLRDFtUTB5Mldkbw?oc=5",
       "published": "Mon, 14 Sep 2026 21:25:23 GMT",
       "topic": "AI / 半導體",
-      "rank": 3
+      "rank": 2
     },
     {
-      "title": "美股 ETF 吸金力十足",
-      "summary": "美股 ETF 吸金力十足 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMHFWTEdGR2VrRFQ0WTBJeGpveVpkMTBhdUhadlMtQzBZaGRJZ3ZyWWZMNDRLVWNhajJjLTZ3RzRGMnlDLVlza0FTeHM0NEI0dTVqSGpMb3pfZ9IBX0FVX3lxTE1ZNUE4eTRRcGFzdXk3aldiZWFHUFlndnUyTzgxWDl5NFVscmVyRW9veDVxVVQ5WHZNbzRUaDFlX0d4UnJLNGtDMm5DM0VDR1Vrd0FHUU5hdkY0TVV6LWQw?oc=5",
-      "published": "Mon, 14 Sep 2026 16:57:49 GMT",
-      "topic": "美股",
-      "rank": 4
+      "title": "〈美股早盤〉國際油價與美債殖利率回落 主要指數開高 - news.cnyes.com",
+      "summary": "〈美股早盤〉國際油價與美債殖利率回落 主要指數開高 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aWEhsNWJ2V2NPUTMwcDItVVFDRk5ZMWN5TzVPVlJ2WVVtSTY4VjF1X3NlWHMwUmlfLVFPN1lwR2JGZVlKZkFpdTFROUpHU1U?oc=5",
+      "published": "Thu, 17 Sep 2026 13:39:40 GMT",
+      "topic": "Fed / 利率",
+      "rank": 3
     },
     {
       "title": "AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬 - news.cnyes.com",
@@ -46,6 +37,15 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pcFJoWUdCVERWd0Y1eEdVWE1IcXQyYldUb3BVTG8xYXp4SFlDQVpMdjhoRHo1Q1FJWGwxOHBwVmpXOFI5RjFlQjdOM3plZHc?oc=5",
       "published": "Tue, 15 Sep 2026 02:20:06 GMT",
       "topic": "黃金",
+      "rank": 4
+    },
+    {
+      "title": "日本新聞-日本專區",
+      "summary": "日本新聞-日本專區 MoneyDJ",
+      "source": "MoneyDJ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2JOaVo5bTBSVWdzWDRBamFJWXp4U19TeFBkWGYzalczc1VDMUdaY1QzS21MT191SWk1cGwxNUFjUjBocHVYbWwxMmhoQmFxZjRjWWw1dy1qeGdERldiMTNFMXdNUnVHSmZ3d2RoUFp3ckYzUlBwN1d1NW9xT2Q4b3JYdDlMdw?oc=5",
+      "published": "Wed, 16 Sep 2026 04:48:12 GMT",
+      "topic": "日本",
       "rank": 5
     }
   ]
