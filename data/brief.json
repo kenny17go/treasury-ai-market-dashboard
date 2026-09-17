@@ -12,7 +12,7 @@
   "yesterday_top": [
     "美股主要指數平均 -0.23%，風險情緒中性。",
     "10Y 美債殖利率 5.010%。",
-    "DXY 日變動 +0.67%。"
+    "DXY 日變動 +0.69%。"
   ],
   "today_top": [
     "🇪🇺 17:00 Eurozone｜歐元區 HICP / CPI（8月終值）",
@@ -20,11 +20,11 @@
   ],
   "todays_watch": [
     "利率：10Y 日變動 +1.0 bps。",
-    "美元：DXY 日變動 +0.67%。",
+    "美元：DXY 日變動 +0.69%。",
     "波動率：VIX 17.71。",
     "曲線：2Y10Y +27.0 bps。"
   ],
   "today_date_taipei": "2026-09-17",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-17T03:54:49.523460+00:00"
+  "as_of": "2026-09-17T04:08:38.423372+00:00"
 }
