@@ -1,23 +1,23 @@
 {
-  "as_of": "2026-09-17T15:03:00.790724+00:00",
+  "as_of": "2026-09-17T15:36:10.705621+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
-    {
-      "title": "美股收盤／國際油價站上109美元 美債殖利率破5% Fed 升息倒數美股三大指數全跌",
-      "summary": "美股收盤／國際油價站上109美元 美債殖利率破5% Fed 升息倒數美股三大指數全跌 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ia2tNTFRxRlBmeTV4Z0lVME9lNVZ5Xzhia2hZVUVaV3Jpd2JWWGRkdkhtSXE0REZzVWdtc2xIanVrelJrUmYxbEt4Vy0ySEZuN2Y3Tk9qSjBiU1dq0gFiQVVfeXFMTkdfU2hrb3A4WkhWQnJFVEVkVlNZanVwalh4ZWRtVUdObmRlY0o1bkJSUWhKLTFjc0pLWnZlTDJOaFdCU09mSDNRNWdyVUtMWGI4YjhZeENmd1JFa3EycWNLV1E?oc=5",
-      "published": "Tue, 15 Sep 2026 22:49:24 GMT",
-      "topic": "Fed / 利率",
-      "rank": 1
-    },
     {
       "title": "美債殖利率創2023年來新高 投資人憂借貸成本衝擊經濟",
       "summary": "美債殖利率創2023年來新高 投資人憂借貸成本衝擊經濟 經濟日報",
       "source": "經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zR0ktVThzUlI4TDNpWFFZb21lQ2RZUklUM2djVlpRMmNoeGdQWjJ3eHdReVE4WGtDalBGZWVhOEpRZHdYMVFtWGgxY2JuRGxzcGVCaXJLX0p4Z9IBX0FVX3lxTFB0Tk1sZ2JQYWdZbGpWRS1uS2pZb1VkeVJnd29NZlBXaXQ1V0tyRHVYV1c0RGxhMTBPQmhuUVhUTC1HUnItOEhPQlJOci1ZX3lEM1pXU201Q3F4OGxrWUs4?oc=5",
       "published": "Mon, 14 Sep 2026 17:33:35 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1
+    },
+    {
+      "title": "Fed升息反而不是最壞情境？華爾街拆解三套劇本 股債匯金這樣走",
+      "summary": "Fed升息反而不是最壞情境？華爾街拆解三套劇本 股債匯金這樣走 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ja2Y0RWJBUUhrSmxjUGRTZlJUV3kyYjFscmxaVlpuMXpzZUJpU0pIdTM1d2t6bEFFdkdKUFFaRzZ2SU9NbURQYmIyYw?oc=5",
+      "published": "Tue, 15 Sep 2026 11:00:03 GMT",
       "topic": "Fed / 利率",
       "rank": 2
     },
