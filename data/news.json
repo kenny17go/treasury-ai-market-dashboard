@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-17T01:14:10.396560+00:00",
+  "as_of": "2026-09-17T01:30:50.707490+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
