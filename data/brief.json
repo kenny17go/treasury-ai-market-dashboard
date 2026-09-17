@@ -2,17 +2,17 @@
   "mode": "rules",
   "headline": "市場風險情緒：偏多",
   "bullets": [
-    "主要美股指數平均變動 +1.43%。",
+    "主要美股指數平均變動 +1.55%。",
     "美債10年殖利率 5.010%，日變動 +1.0 bps。",
-    "自選股強勢 ARM +8.45%；較弱 META -0.40%。",
+    "自選股強勢 INTC +8.27%；較弱 LITE -1.23%。",
     "2Y10Y 利差 +27.0 bps。"
   ],
-  "risk_score": 72,
+  "risk_score": 74,
   "risk_label": "偏多",
   "yesterday_top": [
-    "美股主要指數平均 +1.43%，風險情緒偏多。",
+    "美股主要指數平均 +1.55%，風險情緒偏多。",
     "10Y 美債殖利率 5.010%。",
-    "DXY 日變動 -0.20%。"
+    "DXY 日變動 -0.23%。"
   ],
   "today_top": [
     "🇪🇺 17:00 Eurozone｜歐元區 HICP / CPI（8月終值）",
@@ -20,11 +20,11 @@
   ],
   "todays_watch": [
     "利率：10Y 日變動 +1.0 bps。",
-    "美元：DXY 日變動 -0.20%。",
+    "美元：DXY 日變動 -0.23%。",
     "波動率：VIX 15.80。",
     "曲線：2Y10Y +27.0 bps。"
   ],
   "today_date_taipei": "2026-09-17",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-17T14:04:40.583175+00:00"
+  "as_of": "2026-09-17T14:38:46.050989+00:00"
 }
