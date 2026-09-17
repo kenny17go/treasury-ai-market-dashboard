@@ -12,20 +12,19 @@
   "yesterday_top": [
     "美股主要指數平均 -0.23%，風險情緒中性。",
     "10Y 美債殖利率 5.010%。",
-    "DXY 日變動 -0.05%。"
+    "DXY 日變動 -0.29%。"
   ],
   "today_top": [
     "🇪🇺 17:00 Eurozone｜歐元區 HICP / CPI（8月終值）",
-    "🇹🇼 — Taiwan｜台灣央行理監事聯席會議 / 會後記者會",
-    "新聞｜聯準會升息 1 碼有什麼影響？台灣央行會跟進嗎？台股、美股、美元、黃金、房貸影響一次看 - 果仁家"
+    "🇹🇼 — Taiwan｜台灣央行理監事聯席會議 / 會後記者會"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +1.0 bps。",
-    "美元：DXY 日變動 -0.05%。",
-    "波動率：VIX 15.98。",
+    "美元：DXY 日變動 -0.29%。",
+    "波動率：VIX 15.60。",
     "曲線：2Y10Y +27.0 bps。"
   ],
   "today_date_taipei": "2026-09-17",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-17T12:04:57.009779+00:00"
+  "as_of": "2026-09-17T12:42:46.515773+00:00"
 }
