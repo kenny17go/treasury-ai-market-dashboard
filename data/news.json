@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-17T17:02:40.752910+00:00",
+  "as_of": "2026-09-17T17:34:57.655466+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -13,21 +13,21 @@
       "rank": 1
     },
     {
+      "title": "英國少發長債力撐債市仍難奏效 30年期殖利率逼近6% | 國際焦點 | 國際",
+      "summary": "英國少發長債力撐債市仍難奏效 30年期殖利率逼近6% | 國際焦點 | 國際 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82eTlGc1RTZzNlNkpLT1pSLWVQaXpzVHJHT1Ata285M2xraWtXOEVHMG5BNzRnMHpHdVhJLUlyNGZPN0hvMnRhMTFseTl2WmJsd3JTN3VXclZ1QQ?oc=5",
+      "published": "Wed, 16 Sep 2026 13:44:40 GMT",
+      "topic": "Fed / 利率",
+      "rank": 2
+    },
+    {
       "title": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5%",
       "summary": "〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5% 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90Tk9oSDdXOTc1eGdkbzVEa2NUVDRud2pmX0NwdmdlTXV2MW5qQ0x5b1pXa2RGUm1HVkpfM0tjN0VLRDFtUTB5Mldkbw?oc=5",
       "published": "Mon, 14 Sep 2026 21:25:23 GMT",
       "topic": "AI / 半導體",
-      "rank": 2
-    },
-    {
-      "title": "〈美股早盤〉國際油價與美債殖利率回落 主要指數開高 - news.cnyes.com",
-      "summary": "〈美股早盤〉國際油價與美債殖利率回落 主要指數開高 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aWEhsNWJ2V2NPUTMwcDItVVFDRk5ZMWN5TzVPVlJ2WVVtSTY4VjF1X3NlWHMwUmlfLVFPN1lwR2JGZVlKZkFpdTFROUpHU1U?oc=5",
-      "published": "Thu, 17 Sep 2026 13:39:40 GMT",
-      "topic": "Fed / 利率",
       "rank": 3
     },
     {

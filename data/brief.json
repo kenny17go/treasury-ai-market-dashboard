@@ -2,15 +2,15 @@
   "mode": "rules",
   "headline": "市場風險情緒：偏多",
   "bullets": [
-    "主要美股指數平均變動 +1.67%。",
+    "主要美股指數平均變動 +1.60%。",
     "美債10年殖利率 5.010%，日變動 +1.0 bps。",
-    "自選股強勢 INTC +10.13%；較弱 LITE -1.33%。",
+    "自選股強勢 INTC +9.88%；較弱 LITE -1.19%。",
     "2Y10Y 利差 +27.0 bps。"
   ],
-  "risk_score": 75,
+  "risk_score": 74,
   "risk_label": "偏多",
   "yesterday_top": [
-    "美股主要指數平均 +1.67%，風險情緒偏多。",
+    "美股主要指數平均 +1.60%，風險情緒偏多。",
     "10Y 美債殖利率 5.010%。",
     "DXY 日變動 -0.07%。"
   ],
@@ -20,10 +20,10 @@
   "todays_watch": [
     "利率：10Y 日變動 +1.0 bps。",
     "美元：DXY 日變動 -0.07%。",
-    "波動率：VIX 15.56。",
+    "波動率：VIX 15.62。",
     "曲線：2Y10Y +27.0 bps。"
   ],
   "today_date_taipei": "2026-09-18",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-17T17:04:23.415400+00:00"
+  "as_of": "2026-09-17T17:36:48.333853+00:00"
 }
