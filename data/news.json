@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-18T18:35:06.185545+00:00",
+  "as_of": "2026-09-18T21:20:22.312413+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -13,11 +13,11 @@
       "rank": 1
     },
     {
-      "title": "〈貴金屬盤後〉油價大漲助長升息機率 現貨黃金跌破4300美元",
-      "summary": "〈貴金屬盤後〉油價大漲助長升息機率 現貨黃金跌破4300美元 鉅亨網",
+      "title": "聯準會齊挺升息抗通膨 富達專家估Fed將升息3至4次 原因全說了",
+      "summary": "聯準會齊挺升息抗通膨 富達專家估Fed將升息3至4次 原因全說了 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5SHRCUFBHVlFZd1hyZTVEdHp1eWVMSzQwVG4tbkhNUndVbVZwVHhNNHJ6Wm9XblpHUUx6NlZtcExadmlHQ3h6VnlCMA?oc=5",
-      "published": "Tue, 15 Sep 2026 22:33:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44X3pkQmN2MFN3Ry15WXNFV0h4UWNfX0dpV01NUmpwQmFyYTBmb0diQURyai0tS1A0aWplMlZoM2lrYnZoNUJTNTljWQ?oc=5",
+      "published": "Thu, 17 Sep 2026 06:13:14 GMT",
       "topic": "Fed / 利率",
       "rank": 2
     },
@@ -40,9 +40,9 @@
       "rank": 4
     },
     {
-      "title": "日本新聞-日本專區",
-      "summary": "日本新聞-日本專區 MoneyDJ",
-      "source": "MoneyDJ",
+      "title": "日本新聞-日本專區 - moneydj.com",
+      "summary": "日本新聞-日本專區 moneydj.com",
+      "source": "moneydj.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2JOaVo5bTBSVWdzWDRBamFJWXp4U19TeFBkWGYzalczc1VDMUdaY1QzS21MT191SWk1cGwxNUFjUjBocHVYbWwxMmhoQmFxZjRjWWw1dy1qeGdERldiMTNFMXdNUnVHSmZ3d2RoUFp3ckYzUlBwN1d1NW9xT2Q4b3JYdDlMdw?oc=5",
       "published": "Wed, 16 Sep 2026 04:48:12 GMT",
       "topic": "日本",
