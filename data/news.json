@@ -1,25 +1,43 @@
 {
-  "as_of": "2026-09-18T04:55:20.235946+00:00",
+  "as_of": "2026-09-18T09:24:18.079218+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
     {
-      "title": "國際油價站上109美元！美債殖利率破5% Fed升息倒數美股三大指數全跌| 全球財經| 全球 - UDN",
-      "summary": "國際油價站上109美元！美債殖利率破5% Fed升息倒數美股三大指數全跌| 全球財經| 全球 UDN",
-      "source": "UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CdS1pNUZLbXZlTUJDY3NSSEVnSkZ1T3JoVHY2YWlsZGowUGhreU5TTXpDV3FtYl9IR2V0WDJfV1RqTTVraG9sWWVJUzBhNWpq?oc=5",
-      "published": "Tue, 15 Sep 2026 22:49:23 GMT",
+      "title": "聯準會齊挺升息抗通膨 富達專家估Fed將升息3至4次 原因全說了",
+      "summary": "聯準會齊挺升息抗通膨 富達專家估Fed將升息3至4次 原因全說了 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44X3pkQmN2MFN3Ry15WXNFV0h4UWNfX0dpV01NUmpwQmFyYTBmb0diQURyai0tS1A0aWplMlZoM2lrYnZoNUJTNTljWQ?oc=5",
+      "published": "Thu, 17 Sep 2026 06:13:14 GMT",
       "topic": "Fed / 利率",
       "rank": 1
     },
     {
-      "title": "〈美股早盤〉國際油價與美債殖利率回落 主要指數開高 - news.cnyes.com",
-      "summary": "〈美股早盤〉國際油價與美債殖利率回落 主要指數開高 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aWEhsNWJ2V2NPUTMwcDItVVFDRk5ZMWN5TzVPVlJ2WVVtSTY4VjF1X3NlWHMwUmlfLVFPN1lwR2JGZVlKZkFpdTFROUpHU1U?oc=5",
-      "published": "Thu, 17 Sep 2026 13:39:40 GMT",
-      "topic": "Fed / 利率",
+      "title": "〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2%",
+      "summary": "〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2% 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1ZDNqRVJOZV9NeEJzaEc2dFZVQXVXRnl6WVZtXzFPZDBJLVlpZTUzUWpldEt2eUFKLTE2TWRfNkpwLVdiUEthYWczZw?oc=5",
+      "published": "Thu, 17 Sep 2026 22:55:19 GMT",
+      "topic": "能源",
       "rank": 2
+    },
+    {
+      "title": "伊朗議長自創「海峽泰勒法則」 諷Fed升息也打不通荷姆茲",
+      "summary": "伊朗議長自創「海峽泰勒法則」 諷Fed升息也打不通荷姆茲 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lS3hVdk80RDBDZXdINS02TERwSFdWYXlkelo5OEFGUkNfSUpPSjJ3UEthb3Z6SmRpQ2FGTHJrb1MzanlxUDZwMEdxTQ?oc=5",
+      "published": "Wed, 16 Sep 2026 17:40:48 GMT",
+      "topic": "Fed / 利率",
+      "rank": 3
+    },
+    {
+      "title": "全球經濟指標 | 鉅亨網 - 金融行事曆",
+      "summary": "全球經濟指標 | 鉅亨網 - 金融行事曆 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
+      "published": "Fri, 18 Sep 2026 04:01:51 GMT",
+      "topic": "全球市場",
+      "rank": 4
     },
     {
       "title": "日本新聞-日本專區",
@@ -28,24 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2JOaVo5bTBSVWdzWDRBamFJWXp4U19TeFBkWGYzalczc1VDMUdaY1QzS21MT191SWk1cGwxNUFjUjBocHVYbWwxMmhoQmFxZjRjWWw1dy1qeGdERldiMTNFMXdNUnVHSmZ3d2RoUFp3ckYzUlBwN1d1NW9xT2Q4b3JYdDlMdw?oc=5",
       "published": "Wed, 16 Sep 2026 04:48:12 GMT",
       "topic": "日本",
-      "rank": 3
-    },
-    {
-      "title": "高盛、野村異口同聲：油價牽動美債 能源才是市場真正關鍵 - news.cnyes.com",
-      "summary": "高盛、野村異口同聲：油價牽動美債 能源才是市場真正關鍵 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9neXg2aDQ4R1o5MjRaeFhfemw1cjN4TzZ0anNzUzFxRVRVdTJGa2NOb1BkUWpsVy1JcnZ3N3dpSHJXdzFpUVFobW5UMEN1RWM?oc=5",
-      "published": "Wed, 16 Sep 2026 07:20:03 GMT",
-      "topic": "美債",
-      "rank": 4
-    },
-    {
-      "title": "〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2% - news.cnyes.com",
-      "summary": "〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2% news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sV2ItSkUtd0U4Y3dvaEk0ZFlJdUtYejB5dTBOb0RkbDNPdkc5ei1yTUgySG9yaUNGUmlfRjJEZ2tmd1IxVEV4MkpWRk1wZWs?oc=5",
-      "published": "Thu, 17 Sep 2026 22:57:45 GMT",
-      "topic": "能源",
       "rank": 5
     }
   ]
