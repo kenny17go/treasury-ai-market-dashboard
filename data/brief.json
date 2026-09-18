@@ -15,7 +15,7 @@
     "DXY 日變動 -0.00%。"
   ],
   "today_top": [
-    "今日暫無已確認的高重要性事件；不以未來日期事件補位。"
+    "新聞｜〈美股盤後〉美股四巫日震盪 晶片股力撐 費半升近3% 道瓊周線創半年最大跌幅"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -7.0 bps。",
@@ -25,5 +25,5 @@
   ],
   "today_date_taipei": "2026-09-19",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-18T21:22:10.433347+00:00"
+  "as_of": "2026-09-18T23:27:15.192264+00:00"
 }

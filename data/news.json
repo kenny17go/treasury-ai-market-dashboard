@@ -1,17 +1,8 @@
 {
-  "as_of": "2026-09-18T21:20:22.312413+00:00",
+  "as_of": "2026-09-18T23:25:22.973357+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
-    {
-      "title": "貝森特救美債碰壁！殖利率愈救愈高 Fed恐不願接手爛攤子",
-      "summary": "貝森特救美債碰壁！殖利率愈救愈高 Fed恐不願接手爛攤子 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lTk1rcE1GMFlGcTNDMWNXOEdIYXE1ZGVtUGFyQm5GaG84MFh1bGNJVW9OS19oWHpRUnVfcWRrcUNSWTdyQ0dLdC0wZw?oc=5",
-      "published": "Wed, 16 Sep 2026 12:30:54 GMT",
-      "topic": "Fed / 利率",
-      "rank": 1
-    },
     {
       "title": "聯準會齊挺升息抗通膨 富達專家估Fed將升息3至4次 原因全說了",
       "summary": "聯準會齊挺升息抗通膨 富達專家估Fed將升息3至4次 原因全說了 鉅亨網",
@@ -19,7 +10,25 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44X3pkQmN2MFN3Ry15WXNFV0h4UWNfX0dpV01NUmpwQmFyYTBmb0diQURyai0tS1A0aWplMlZoM2lrYnZoNUJTNTljWQ?oc=5",
       "published": "Thu, 17 Sep 2026 06:13:14 GMT",
       "topic": "Fed / 利率",
+      "rank": 1
+    },
+    {
+      "title": "貝森特救美債碰壁！殖利率愈救愈高 Fed恐不願接手爛攤子",
+      "summary": "貝森特救美債碰壁！殖利率愈救愈高 Fed恐不願接手爛攤子 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lTk1rcE1GMFlGcTNDMWNXOEdIYXE1ZGVtUGFyQm5GaG84MFh1bGNJVW9OS19oWHpRUnVfcWRrcUNSWTdyQ0dLdC0wZw?oc=5",
+      "published": "Wed, 16 Sep 2026 12:30:54 GMT",
+      "topic": "Fed / 利率",
       "rank": 2
+    },
+    {
+      "title": "〈美股盤後〉美股四巫日震盪 晶片股力撐 費半升近3% 道瓊周線創半年最大跌幅",
+      "summary": "〈美股盤後〉美股四巫日震盪 晶片股力撐 費半升近3% 道瓊周線創半年最大跌幅 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OckhObTYyTW5iRzU4dzcydkVsSTdGWVNTc0NINVBKMEZXWS1haDNONEZ6aDk5NDJCeE1JUUJCQ25BeUJmYjFOQldOcw?oc=5",
+      "published": "Fri, 18 Sep 2026 21:49:06 GMT",
+      "topic": "AI / 半導體",
+      "rank": 3
     },
     {
       "title": "CRIF警示台灣通膨恐二度上揚！房租運價及服務類價格僵固等4大威脅成長期推手",
@@ -28,21 +37,12 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55TG1EX0h3UElfU0I1eVYtQWh5bTljdVlqZ2pwbmlUd1k3NmdaWVplY2V2bDV1a1EtOUdKMjZ6M25HRmdHdzhERXF1MA?oc=5",
       "published": "Wed, 16 Sep 2026 03:17:40 GMT",
       "topic": "台灣",
-      "rank": 3
-    },
-    {
-      "title": "台北市電腦公會攜六組台灣原創遊戲團隊 前進東京電玩展拓海外市場",
-      "summary": "台北市電腦公會攜六組台灣原創遊戲團隊 前進東京電玩展拓海外市場 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zSnlZZDdvRDBnUVdVQ1lNTVEwRzRja1o3bGNuekdOd1o3RGFmQ0t4aG43Q0xHb1hUME1Ib3BpQUhDeExrTktFYXJBdw?oc=5",
-      "published": "Wed, 16 Sep 2026 04:42:47 GMT",
-      "topic": "台灣",
       "rank": 4
     },
     {
-      "title": "日本新聞-日本專區 - moneydj.com",
-      "summary": "日本新聞-日本專區 moneydj.com",
-      "source": "moneydj.com",
+      "title": "日本新聞-日本專區",
+      "summary": "日本新聞-日本專區 MoneyDJ",
+      "source": "MoneyDJ",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2JOaVo5bTBSVWdzWDRBamFJWXp4U19TeFBkWGYzalczc1VDMUdaY1QzS21MT191SWk1cGwxNUFjUjBocHVYbWwxMmhoQmFxZjRjWWw1dy1qeGdERldiMTNFMXdNUnVHSmZ3d2RoUFp3ckYzUlBwN1d1NW9xT2Q4b3JYdDlMdw?oc=5",
       "published": "Wed, 16 Sep 2026 04:48:12 GMT",
       "topic": "日本",
