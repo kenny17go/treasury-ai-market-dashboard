@@ -4,7 +4,7 @@
   "bullets": [
     "主要美股指數平均變動 +1.63%。",
     "美債10年殖利率 4.940%，日變動 -7.0 bps。",
-    "自選股強勢 UMC ADR +13.21%；較弱 MSFT +0.27%。",
+    "自選股強勢 UMC ADR +8.59%；較弱 LITE -2.81%。",
     "2Y10Y 利差 +27.0 bps。"
   ],
   "risk_score": 75,
@@ -12,19 +12,19 @@
   "yesterday_top": [
     "美股主要指數平均 +1.63%，風險情緒偏多。",
     "10Y 美債殖利率 4.940%。",
-    "DXY 日變動 -0.08%。"
+    "DXY 日變動 +0.00%。"
   ],
   "today_top": [
     "🇯🇵 — Japan｜日本銀行金融政策決定會合 / 政策聲明",
-    "新聞｜〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2%"
+    "新聞｜〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2% - news.cnyes.com"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -7.0 bps。",
-    "美元：DXY 日變動 -0.08%。",
+    "美元：DXY 日變動 +0.00%。",
     "波動率：VIX 15.44。",
     "曲線：2Y10Y +27.0 bps。"
   ],
   "today_date_taipei": "2026-09-18",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-18T01:22:39.756816+00:00"
+  "as_of": "2026-09-18T04:57:26.584177+00:00"
 }
