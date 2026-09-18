@@ -1,17 +1,8 @@
 {
-  "as_of": "2026-09-17T23:11:22.485058+00:00",
+  "as_of": "2026-09-18T00:18:51.044513+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
-    {
-      "title": "〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2%",
-      "summary": "〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2% 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1ZDNqRVJOZV9NeEJzaEc2dFZVQXVXRnl6WVZtXzFPZDBJLVlpZTUzUWpldEt2eUFKLTE2TWRfNkpwLVdiUEthYWczZw?oc=5",
-      "published": "Thu, 17 Sep 2026 22:55:19 GMT",
-      "topic": "能源",
-      "rank": 1
-    },
     {
       "title": "Fed升息反而不是最壞情境？華爾街拆解三套劇本 股債匯金這樣走",
       "summary": "Fed升息反而不是最壞情境？華爾街拆解三套劇本 股債匯金這樣走 鉅亨網",
@@ -19,16 +10,16 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ja2Y0RWJBUUhrSmxjUGRTZlJUV3kyYjFscmxaVlpuMXpzZUJpU0pIdTM1d2t6bEFFdkdKUFFaRzZ2SU9NbURQYmIyYw?oc=5",
       "published": "Tue, 15 Sep 2026 11:00:03 GMT",
       "topic": "Fed / 利率",
-      "rank": 2
+      "rank": 1
     },
     {
-      "title": "英國少發長債力撐債市仍難奏效 30年期殖利率逼近6% | 國際焦點 | 國際",
-      "summary": "英國少發長債力撐債市仍難奏效 30年期殖利率逼近6% | 國際焦點 | 國際 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82eTlGc1RTZzNlNkpLT1pSLWVQaXpzVHJHT1Ata285M2xraWtXOEVHMG5BNzRnMHpHdVhJLUlyNGZPN0hvMnRhMTFseTl2WmJsd3JTN3VXclZ1QQ?oc=5",
-      "published": "Wed, 16 Sep 2026 13:44:40 GMT",
+      "title": "國際油價站上109美元！美債殖利率破5% Fed升息倒數美股三大指數全跌| 全球財經| 全球 - UDN",
+      "summary": "國際油價站上109美元！美債殖利率破5% Fed升息倒數美股三大指數全跌| 全球財經| 全球 UDN",
+      "source": "UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CdS1pNUZLbXZlTUJDY3NSSEVnSkZ1T3JoVHY2YWlsZGowUGhreU5TTXpDV3FtYl9IR2V0WDJfV1RqTTVraG9sWWVJUzBhNWpq?oc=5",
+      "published": "Tue, 15 Sep 2026 22:49:23 GMT",
       "topic": "Fed / 利率",
-      "rank": 3
+      "rank": 2
     },
     {
       "title": "日本新聞-日本專區",
@@ -37,7 +28,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2JOaVo5bTBSVWdzWDRBamFJWXp4U19TeFBkWGYzalczc1VDMUdaY1QzS21MT191SWk1cGwxNUFjUjBocHVYbWwxMmhoQmFxZjRjWWw1dy1qeGdERldiMTNFMXdNUnVHSmZ3d2RoUFp3ckYzUlBwN1d1NW9xT2Q4b3JYdDlMdw?oc=5",
       "published": "Wed, 16 Sep 2026 04:48:12 GMT",
       "topic": "日本",
-      "rank": 4
+      "rank": 3
     },
     {
       "title": "AI「急煞車」！科技股領跌美股重挫 小摩逆勢喊進：費半標普暴跌是「黃金坑」 做空將遭反噬 - news.cnyes.com",
@@ -46,6 +37,15 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pcFJoWUdCVERWd0Y1eEdVWE1IcXQyYldUb3BVTG8xYXp4SFlDQVpMdjhoRHo1Q1FJWGwxOHBwVmpXOFI5RjFlQjdOM3plZHc?oc=5",
       "published": "Tue, 15 Sep 2026 02:20:06 GMT",
       "topic": "黃金",
+      "rank": 4
+    },
+    {
+      "title": "〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2% - news.cnyes.com",
+      "summary": "〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2% news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sV2ItSkUtd0U4Y3dvaEk0ZFlJdUtYejB5dTBOb0RkbDNPdkc5ei1yTUgySG9yaUNGUmlfRjJEZ2tmd1IxVEV4MkpWRk1wZWs?oc=5",
+      "published": "Thu, 17 Sep 2026 22:57:45 GMT",
+      "topic": "能源",
       "rank": 5
     }
   ]
