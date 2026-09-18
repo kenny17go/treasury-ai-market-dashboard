@@ -1,8 +1,17 @@
 {
-  "as_of": "2026-09-18T11:57:08.064108+00:00",
+  "as_of": "2026-09-18T15:22:56.649233+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
+    {
+      "title": "貝森特救美債碰壁！殖利率愈救愈高 Fed恐不願接手爛攤子",
+      "summary": "貝森特救美債碰壁！殖利率愈救愈高 Fed恐不願接手爛攤子 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lTk1rcE1GMFlGcTNDMWNXOEdIYXE1ZGVtUGFyQm5GaG84MFh1bGNJVW9OS19oWHpRUnVfcWRrcUNSWTdyQ0dLdC0wZw?oc=5",
+      "published": "Wed, 16 Sep 2026 12:30:54 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1
+    },
     {
       "title": "聯準會齊挺升息抗通膨 富達專家估Fed將升息3至4次 原因全說了",
       "summary": "聯準會齊挺升息抗通膨 富達專家估Fed將升息3至4次 原因全說了 鉅亨網",
@@ -10,7 +19,7 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44X3pkQmN2MFN3Ry15WXNFV0h4UWNfX0dpV01NUmpwQmFyYTBmb0diQURyai0tS1A0aWplMlZoM2lrYnZoNUJTNTljWQ?oc=5",
       "published": "Thu, 17 Sep 2026 06:13:14 GMT",
       "topic": "Fed / 利率",
-      "rank": 1
+      "rank": 2
     },
     {
       "title": "〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2%",
@@ -19,15 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1ZDNqRVJOZV9NeEJzaEc2dFZVQXVXRnl6WVZtXzFPZDBJLVlpZTUzUWpldEt2eUFKLTE2TWRfNkpwLVdiUEthYWczZw?oc=5",
       "published": "Thu, 17 Sep 2026 22:55:19 GMT",
       "topic": "能源",
-      "rank": 2
-    },
-    {
-      "title": "市場預估聯準會將升息 美股早盤漲跌互見",
-      "summary": "市場預估聯準會將升息 美股早盤漲跌互見 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56MmVFVnJtVFYtYXljcEhIQkJ0ZkVXdWNQU1RhcWJ0aFVRakZtVG9iTl9wNVJyQU1mTl9qSHczZVVuTHBRUTRZdnAxcS12ZVAxM2F3cDZUWDR6cVZ6YXZvSTlUY1VKRWtGNXpPcGFoWWJtb1YzMGp3dnJhVnp3d9IBYkFVX3lxTE45bHZEUktBV1lsNjAtZHhGeF85dkVQRl9HUThzX0NtTnduOHBEWkwzZkFXMFBCM090aUdZOFVNQ2gzZVNUYmxRS2tGXzRReWd5TFZiUnNwVUZrZzdTUDREU1NB?oc=5",
-      "published": "Wed, 16 Sep 2026 14:45:28 GMT",
-      "topic": "Fed / 利率",
       "rank": 3
     },
     {
@@ -40,12 +40,12 @@
       "rank": 4
     },
     {
-      "title": "日本新聞-日本專區",
-      "summary": "日本新聞-日本專區 MoneyDJ",
-      "source": "MoneyDJ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2JOaVo5bTBSVWdzWDRBamFJWXp4U19TeFBkWGYzalczc1VDMUdaY1QzS21MT191SWk1cGwxNUFjUjBocHVYbWwxMmhoQmFxZjRjWWw1dy1qeGdERldiMTNFMXdNUnVHSmZ3d2RoUFp3ckYzUlBwN1d1NW9xT2Q4b3JYdDlMdw?oc=5",
-      "published": "Wed, 16 Sep 2026 04:48:12 GMT",
-      "topic": "日本",
+      "title": "CRIF警示台灣通膨恐二度上揚！房租運價及服務類價格僵固等4大威脅成長期推手",
+      "summary": "CRIF警示台灣通膨恐二度上揚！房租運價及服務類價格僵固等4大威脅成長期推手 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55TG1EX0h3UElfU0I1eVYtQWh5bTljdVlqZ2pwbmlUd1k3NmdaWVplY2V2bDV1a1EtOUdKMjZ6M25HRmdHdzhERXF1MA?oc=5",
+      "published": "Wed, 16 Sep 2026 03:17:40 GMT",
+      "topic": "台灣",
       "rank": 5
     }
   ]
