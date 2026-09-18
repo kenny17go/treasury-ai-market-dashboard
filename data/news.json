@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-18T09:24:18.079218+00:00",
+  "as_of": "2026-09-18T11:57:08.064108+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -22,11 +22,11 @@
       "rank": 2
     },
     {
-      "title": "伊朗議長自創「海峽泰勒法則」 諷Fed升息也打不通荷姆茲",
-      "summary": "伊朗議長自創「海峽泰勒法則」 諷Fed升息也打不通荷姆茲 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lS3hVdk80RDBDZXdINS02TERwSFdWYXlkelo5OEFGUkNfSUpPSjJ3UEthb3Z6SmRpQ2FGTHJrb1MzanlxUDZwMEdxTQ?oc=5",
-      "published": "Wed, 16 Sep 2026 17:40:48 GMT",
+      "title": "市場預估聯準會將升息 美股早盤漲跌互見",
+      "summary": "市場預估聯準會將升息 美股早盤漲跌互見 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56MmVFVnJtVFYtYXljcEhIQkJ0ZkVXdWNQU1RhcWJ0aFVRakZtVG9iTl9wNVJyQU1mTl9qSHczZVVuTHBRUTRZdnAxcS12ZVAxM2F3cDZUWDR6cVZ6YXZvSTlUY1VKRWtGNXpPcGFoWWJtb1YzMGp3dnJhVnp3d9IBYkFVX3lxTE45bHZEUktBV1lsNjAtZHhGeF85dkVQRl9HUThzX0NtTnduOHBEWkwzZkFXMFBCM090aUdZOFVNQ2gzZVNUYmxRS2tGXzRReWd5TFZiUnNwVUZrZzdTUDREU1NB?oc=5",
+      "published": "Wed, 16 Sep 2026 14:45:28 GMT",
       "topic": "Fed / 利率",
       "rank": 3
     },
