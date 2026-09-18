@@ -12,19 +12,19 @@
   "yesterday_top": [
     "美股主要指數平均 +1.63%，風險情緒偏多。",
     "10Y 美債殖利率 4.940%。",
-    "DXY 日變動 -0.07%。"
+    "DXY 日變動 -0.08%。"
   ],
   "today_top": [
     "🇯🇵 — Japan｜日本銀行金融政策決定會合 / 政策聲明",
-    "新聞｜〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2% - news.cnyes.com"
+    "新聞｜〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2%"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -7.0 bps。",
-    "美元：DXY 日變動 -0.07%。",
+    "美元：DXY 日變動 -0.08%。",
     "波動率：VIX 15.44。",
     "曲線：2Y10Y +27.0 bps。"
   ],
   "today_date_taipei": "2026-09-18",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-18T00:21:02.861185+00:00"
+  "as_of": "2026-09-18T01:22:39.756816+00:00"
 }
