@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-18T15:22:56.649233+00:00",
+  "as_of": "2026-09-18T18:35:06.185545+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -13,31 +13,13 @@
       "rank": 1
     },
     {
-      "title": "聯準會齊挺升息抗通膨 富達專家估Fed將升息3至4次 原因全說了",
-      "summary": "聯準會齊挺升息抗通膨 富達專家估Fed將升息3至4次 原因全說了 鉅亨網",
+      "title": "〈貴金屬盤後〉油價大漲助長升息機率 現貨黃金跌破4300美元",
+      "summary": "〈貴金屬盤後〉油價大漲助長升息機率 現貨黃金跌破4300美元 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44X3pkQmN2MFN3Ry15WXNFV0h4UWNfX0dpV01NUmpwQmFyYTBmb0diQURyai0tS1A0aWplMlZoM2lrYnZoNUJTNTljWQ?oc=5",
-      "published": "Thu, 17 Sep 2026 06:13:14 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5SHRCUFBHVlFZd1hyZTVEdHp1eWVMSzQwVG4tbkhNUndVbVZwVHhNNHJ6Wm9XblpHUUx6NlZtcExadmlHQ3h6VnlCMA?oc=5",
+      "published": "Tue, 15 Sep 2026 22:33:59 GMT",
       "topic": "Fed / 利率",
       "rank": 2
-    },
-    {
-      "title": "〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2%",
-      "summary": "〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2% 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1ZDNqRVJOZV9NeEJzaEc2dFZVQXVXRnl6WVZtXzFPZDBJLVlpZTUzUWpldEt2eUFKLTE2TWRfNkpwLVdiUEthYWczZw?oc=5",
-      "published": "Thu, 17 Sep 2026 22:55:19 GMT",
-      "topic": "能源",
-      "rank": 3
-    },
-    {
-      "title": "全球經濟指標 | 鉅亨網 - 金融行事曆",
-      "summary": "全球經濟指標 | 鉅亨網 - 金融行事曆 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-      "published": "Fri, 18 Sep 2026 04:01:51 GMT",
-      "topic": "全球市場",
-      "rank": 4
     },
     {
       "title": "CRIF警示台灣通膨恐二度上揚！房租運價及服務類價格僵固等4大威脅成長期推手",
@@ -46,6 +28,24 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55TG1EX0h3UElfU0I1eVYtQWh5bTljdVlqZ2pwbmlUd1k3NmdaWVplY2V2bDV1a1EtOUdKMjZ6M25HRmdHdzhERXF1MA?oc=5",
       "published": "Wed, 16 Sep 2026 03:17:40 GMT",
       "topic": "台灣",
+      "rank": 3
+    },
+    {
+      "title": "台北市電腦公會攜六組台灣原創遊戲團隊 前進東京電玩展拓海外市場",
+      "summary": "台北市電腦公會攜六組台灣原創遊戲團隊 前進東京電玩展拓海外市場 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zSnlZZDdvRDBnUVdVQ1lNTVEwRzRja1o3bGNuekdOd1o3RGFmQ0t4aG43Q0xHb1hUME1Ib3BpQUhDeExrTktFYXJBdw?oc=5",
+      "published": "Wed, 16 Sep 2026 04:42:47 GMT",
+      "topic": "台灣",
+      "rank": 4
+    },
+    {
+      "title": "日本新聞-日本專區",
+      "summary": "日本新聞-日本專區 MoneyDJ",
+      "source": "MoneyDJ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2JOaVo5bTBSVWdzWDRBamFJWXp4U19TeFBkWGYzalczc1VDMUdaY1QzS21MT191SWk1cGwxNUFjUjBocHVYbWwxMmhoQmFxZjRjWWw1dy1qeGdERldiMTNFMXdNUnVHSmZ3d2RoUFp3ckYzUlBwN1d1NW9xT2Q4b3JYdDlMdw?oc=5",
+      "published": "Wed, 16 Sep 2026 04:48:12 GMT",
+      "topic": "日本",
       "rank": 5
     }
   ]
