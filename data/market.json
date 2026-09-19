@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-18T23:24:07.351026+00:00",
+  "as_of": "2026-09-19T01:18:49.408025+00:00",
   "status": "Auto Update",
   "source": "Yahoo Finance via yfinance / TWSE official MI_INDEX",
   "indices": [
@@ -1366,6 +1366,6 @@
     "direction_marker": "",
     "source": "Yahoo股市",
     "source_url": "https://tw.stock.yahoo.com/future/futures.html",
-    "fetched_at": "2026-09-18T23:27:15.184667+00:00"
+    "fetched_at": "2026-09-19T01:21:43.379937+00:00"
   }
 }

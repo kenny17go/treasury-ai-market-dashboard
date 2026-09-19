@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-18T23:25:22.973357+00:00",
+  "as_of": "2026-09-19T01:19:59.555197+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -22,12 +22,12 @@
       "rank": 2
     },
     {
-      "title": "〈美股盤後〉美股四巫日震盪 晶片股力撐 費半升近3% 道瓊周線創半年最大跌幅",
-      "summary": "〈美股盤後〉美股四巫日震盪 晶片股力撐 費半升近3% 道瓊周線創半年最大跌幅 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OckhObTYyTW5iRzU4dzcydkVsSTdGWVNTc0NINVBKMEZXWS1haDNONEZ6aDk5NDJCeE1JUUJCQ25BeUJmYjFOQldOcw?oc=5",
-      "published": "Fri, 18 Sep 2026 21:49:06 GMT",
-      "topic": "AI / 半導體",
+      "title": "全球央行調控通膨 美股漲跌互見",
+      "summary": "全球央行調控通膨 美股漲跌互見 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DOXdvaG02SzBGRzRHaXI3V2pOUy1YMzEwaFNOQnE3ZnJQVmt4dndaSUFiQjlKRFZJNDdaUV9Hank2NjVtYUhzc1Rpa2E2VWJvWFI3bGhVX3ptVnFM0gFiQVVfeXFMT0hNcTZiVWJjUmJEcWUzRUVtMkRiSjcwUXRraDFhWFFxRHh1NXVia2JRdko4eXVySFFjRWVBOV9kcnkwaDNPS01oem5uemdxNDR0TENzdHBBQURCV3JjUTY0MlE?oc=5",
+      "published": "Fri, 18 Sep 2026 21:21:25 GMT",
+      "topic": "美股",
       "rank": 3
     },
     {
