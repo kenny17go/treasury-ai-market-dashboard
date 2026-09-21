@@ -1,51 +1,51 @@
 {
-  "as_of": "2026-09-19T01:19:59.555197+00:00",
+  "as_of": "2026-09-21T03:53:14.287448+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
     {
-      "title": "聯準會齊挺升息抗通膨 富達專家估Fed將升息3至4次 原因全說了",
-      "summary": "聯準會齊挺升息抗通膨 富達專家估Fed將升息3至4次 原因全說了 鉅亨網",
+      "title": "股債等多類資產年底或「同步」上漲？高盛：市場升息預期過度悲觀",
+      "summary": "股債等多類資產年底或「同步」上漲？高盛：市場升息預期過度悲觀 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44X3pkQmN2MFN3Ry15WXNFV0h4UWNfX0dpV01NUmpwQmFyYTBmb0diQURyai0tS1A0aWplMlZoM2lrYnZoNUJTNTljWQ?oc=5",
-      "published": "Thu, 17 Sep 2026 06:13:14 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4ZHZfbUxYYXlNTHNIM1g4UnlBSHRfX0FDQWt5c3F3Q3Z6ZWVEdkFuVkY1ZnhIWXUtcGtYYm1xLVVKMmN4LUNyYXp6bw?oc=5",
+      "published": "Mon, 21 Sep 2026 00:20:03 GMT",
       "topic": "Fed / 利率",
       "rank": 1
     },
     {
-      "title": "貝森特救美債碰壁！殖利率愈救愈高 Fed恐不願接手爛攤子",
-      "summary": "貝森特救美債碰壁！殖利率愈救愈高 Fed恐不願接手爛攤子 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lTk1rcE1GMFlGcTNDMWNXOEdIYXE1ZGVtUGFyQm5GaG84MFh1bGNJVW9OS19oWHpRUnVfcWRrcUNSWTdyQ0dLdC0wZw?oc=5",
-      "published": "Wed, 16 Sep 2026 12:30:54 GMT",
-      "topic": "Fed / 利率",
+      "title": "全球市場觀測站／AI 基建族群 吸睛",
+      "summary": "全球市場觀測站／AI 基建族群 吸睛 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMDBjelMxS2kxWkZGaVBBLVBBeEZoSW1SV3dILWozaVhObmtlazRIRTZvN25oWUpyMkduRGpBTEphRTZxYzJjdGlOM2xQeFdhQUMwRHdrSUE2NkxxaXRya2JEX19lSEVNUVhMZ2duSTlSSGJVQUNuT3gyNGxfSVRuRtIBX0FVX3lxTE1NNW9lQ2NzZkZtZWxLNVJUSE5oUHozdER1bDA5dk42YnJxVjFZM3J4Y3BRWkpQaFNBUDNSMUliOE1NNTg2TzJuNG9za3pQV0J2Slk4eXdGUTlWZGJBN1M4?oc=5",
+      "published": "Sun, 20 Sep 2026 16:32:57 GMT",
+      "topic": "AI / 半導體",
       "rank": 2
     },
     {
-      "title": "全球央行調控通膨 美股漲跌互見",
-      "summary": "全球央行調控通膨 美股漲跌互見 經濟日報",
+      "title": "黃金 ETF 四檔放光芒",
+      "summary": "黃金 ETF 四檔放光芒 經濟日報",
       "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DOXdvaG02SzBGRzRHaXI3V2pOUy1YMzEwaFNOQnE3ZnJQVmt4dndaSUFiQjlKRFZJNDdaUV9Hank2NjVtYUhzc1Rpa2E2VWJvWFI3bGhVX3ptVnFM0gFiQVVfeXFMT0hNcTZiVWJjUmJEcWUzRUVtMkRiSjcwUXRraDFhWFFxRHh1NXVia2JRdko4eXVySFFjRWVBOV9kcnkwaDNPS01oem5uemdxNDR0TENzdHBBQURCV3JjUTY0MlE?oc=5",
-      "published": "Fri, 18 Sep 2026 21:21:25 GMT",
-      "topic": "美股",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11YkJpN3VyRUNCSUp2UW5VSHVJWDBqVHhYb2FxT0ZwR0k5bHpUY0dQZlZwN1Q0cS1OZVp1TjMzZExxOTFxYkJvaUg3T3p2cjBhZldJdWUzRXY1Z9IBX0FVX3lxTFBLSHZWTzN6M1pGV2hpSkNaa1NpZkN5aWVZdUk1dGpUbm9QWEozeVI5ZUpuSUVldHZpcVNjcExiNzZsZ1V2MkJTTjFGOF9wUEJpbl9LZnNtU0dJaDlFQXpz?oc=5",
+      "published": "Sat, 19 Sep 2026 09:00:00 GMT",
+      "topic": "黃金",
       "rank": 3
     },
     {
-      "title": "CRIF警示台灣通膨恐二度上揚！房租運價及服務類價格僵固等4大威脅成長期推手",
-      "summary": "CRIF警示台灣通膨恐二度上揚！房租運價及服務類價格僵固等4大威脅成長期推手 鉅亨網",
+      "title": "〈美股盤後〉美股四巫日震盪 晶片股力撐 費半升近3% 道瓊周線創半年最大跌幅",
+      "summary": "〈美股盤後〉美股四巫日震盪 晶片股力撐 費半升近3% 道瓊周線創半年最大跌幅 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55TG1EX0h3UElfU0I1eVYtQWh5bTljdVlqZ2pwbmlUd1k3NmdaWVplY2V2bDV1a1EtOUdKMjZ6M25HRmdHdzhERXF1MA?oc=5",
-      "published": "Wed, 16 Sep 2026 03:17:40 GMT",
-      "topic": "台灣",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OckhObTYyTW5iRzU4dzcydkVsSTdGWVNTc0NINVBKMEZXWS1haDNONEZ6aDk5NDJCeE1JUUJCQ25BeUJmYjFOQldOcw?oc=5",
+      "published": "Fri, 18 Sep 2026 21:49:06 GMT",
+      "topic": "AI / 半導體",
       "rank": 4
     },
     {
-      "title": "日本新聞-日本專區",
-      "summary": "日本新聞-日本專區 MoneyDJ",
-      "source": "MoneyDJ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2JOaVo5bTBSVWdzWDRBamFJWXp4U19TeFBkWGYzalczc1VDMUdaY1QzS21MT191SWk1cGwxNUFjUjBocHVYbWwxMmhoQmFxZjRjWWw1dy1qeGdERldiMTNFMXdNUnVHSmZ3d2RoUFp3ckYzUlBwN1d1NW9xT2Q4b3JYdDlMdw?oc=5",
-      "published": "Wed, 16 Sep 2026 04:48:12 GMT",
-      "topic": "日本",
+      "title": "〈美股早盤〉美債殖利率再逼近5%！標普500開盤震盪、本周恐收黑 - news.cnyes.com",
+      "summary": "〈美股早盤〉美債殖利率再逼近5%！標普500開盤震盪、本周恐收黑 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ra0Njbk1CYUt1TURzRnN2M3NNR3F3eFFZMVNhalVEMDlTUkw5TmlsaHUwM0RWdDlWQkxONTh6dDBXbXN1X3h1Vm02VEU3NVk?oc=5",
+      "published": "Fri, 18 Sep 2026 13:38:49 GMT",
+      "topic": "Fed / 利率",
       "rank": 5
     }
   ]
