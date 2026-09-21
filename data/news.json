@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-21T18:49:56.640236+00:00",
+  "as_of": "2026-09-21T22:21:49.291660+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -31,21 +31,21 @@
       "rank": 3
     },
     {
-      "title": "全球經濟指標 | 鉅亨網 - 金融行事曆",
-      "summary": "全球經濟指標 | 鉅亨網 - 金融行事曆 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-      "published": "Mon, 21 Sep 2026 14:02:59 GMT",
-      "topic": "全球市場",
+      "title": "全球市場觀測站／AI 基建族群 吸睛",
+      "summary": "全球市場觀測站／AI 基建族群 吸睛 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMDBjelMxS2kxWkZGaVBBLVBBeEZoSW1SV3dILWozaVhObmtlazRIRTZvN25oWUpyMkduRGpBTEphRTZxYzJjdGlOM2xQeFdhQUMwRHdrSUE2NkxxaXRya2JEX19lSEVNUVhMZ2duSTlSSGJVQUNuT3gyNGxfSVRuRtIBX0FVX3lxTE1NNW9lQ2NzZkZtZWxLNVJUSE5oUHozdER1bDA5dk42YnJxVjFZM3J4Y3BRWkpQaFNBUDNSMUliOE1NNTg2TzJuNG9za3pQV0J2Slk4eXdGUTlWZGJBN1M4?oc=5",
+      "published": "Sun, 20 Sep 2026 16:32:57 GMT",
+      "topic": "AI / 半導體",
       "rank": 4
     },
     {
-      "title": "〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2% - news.cnyes.com",
-      "summary": "〈貴金屬盤後〉美元和油價攜手下跌 黃金反彈逾2% news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sV2ItSkUtd0U4Y3dvaEk0ZFlJdUtYejB5dTBOb0RkbDNPdkc5ei1yTUgySG9yaUNGUmlfRjJEZ2tmd1IxVEV4MkpWRk1wZWs?oc=5",
-      "published": "Fri, 18 Sep 2026 23:11:42 GMT",
-      "topic": "能源",
+      "title": "延續上周漲勢 比特幣攻破8.5萬美元 但後市面臨強勁逆風",
+      "summary": "延續上周漲勢 比特幣攻破8.5萬美元 但後市面臨強勁逆風 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8za01jc25PYWhLM1NGcG11OW5YQjJ1Nmkya1ZDUnpQY2g4RmRfTWJlaTdGa1M3R0lWUncwUGtPMnlXNlY5SG9lU3NPbTA0QU1GajVEQWZqWHRjd9IBX0FVX3lxTE01VkZNY0dvSkRpSnF6ZHpsVDh6Y19pVl8teUZyYXlRTlVmc0VvR0NRZm5fcld4dV8tVFQtOURRMEQtTUlzMVkyN29uc2tWWUVUcDdwa3htMlF4akp0ZmVv?oc=5",
+      "published": "Mon, 21 Sep 2026 11:24:15 GMT",
+      "topic": "全球市場",
       "rank": 5
     }
   ]
