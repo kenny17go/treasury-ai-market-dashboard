@@ -1,17 +1,8 @@
 {
-  "as_of": "2026-09-22T12:11:18.693607+00:00",
+  "as_of": "2026-09-22T17:05:46.139574+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
-    {
-      "title": "〈貴金屬盤後〉Fed升息機率增、美元上揚 黃金下挫",
-      "summary": "〈貴金屬盤後〉Fed升息機率增、美元上揚 黃金下挫 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xbkhtakRydDRpTUhUZ1MtMzlCTzVlQ0xKaXctbXhmU2UtWUZCbVZvLVYxblMwcDFjSkJTZFgxR0g5S082U1VpTkVPYw?oc=5",
-      "published": "Mon, 21 Sep 2026 23:02:31 GMT",
-      "topic": "Fed / 利率",
-      "rank": 1
-    },
     {
       "title": "〈美股早盤〉AI與晶片股領漲、油價重挫逾3% 主要指數開高",
       "summary": "〈美股早盤〉AI與晶片股領漲、油價重挫逾3% 主要指數開高 鉅亨網",
@@ -19,6 +10,15 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iNFFmY0pSSFNELWoxcDNhNmpHeEllQ0E4TmZCbmlpZUR1ckl0bnV6LUlQb3F0b3ZSa2EtLVRxaENHS005clFMYTdKbw?oc=5",
       "published": "Mon, 21 Sep 2026 13:41:21 GMT",
       "topic": "能源",
+      "rank": 1
+    },
+    {
+      "title": "〈貴金屬盤後〉Fed升息機率增、美元上揚 黃金下挫",
+      "summary": "〈貴金屬盤後〉Fed升息機率增、美元上揚 黃金下挫 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xbkhtakRydDRpTUhUZ1MtMzlCTzVlQ0xKaXctbXhmU2UtWUZCbVZvLVYxblMwcDFjSkJTZFgxR0g5S082U1VpTkVPYw?oc=5",
+      "published": "Mon, 21 Sep 2026 23:02:31 GMT",
+      "topic": "Fed / 利率",
       "rank": 2
     },
     {
@@ -31,21 +31,21 @@
       "rank": 3
     },
     {
+      "title": "川習會聚焦AI與稀土 安聯投信：AI需求不減 亞洲半導體迎布局契機 | 基金天地 | 理財",
+      "summary": "川習會聚焦AI與稀土 安聯投信：AI需求不減 亞洲半導體迎布局契機 | 基金天地 | 理財 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJa2hCWnZMaTF3SmRsT29mVnl5UGRrZ1JOeUFYbVEwdHBsdXBwOEJiNkFKZDVMMG1UblBMeWlwQ3dzcmZNem9ZNmhDeVRJODFuZGNCVE16VG9udw?oc=5",
+      "published": "Mon, 21 Sep 2026 08:36:40 GMT",
+      "topic": "AI / 半導體",
+      "rank": 4
+    },
+    {
       "title": "全球市場觀測站／AI 基建族群 吸睛",
       "summary": "全球市場觀測站／AI 基建族群 吸睛 經濟日報",
       "source": "經濟日報",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMDBjelMxS2kxWkZGaVBBLVBBeEZoSW1SV3dILWozaVhObmtlazRIRTZvN25oWUpyMkduRGpBTEphRTZxYzJjdGlOM2xQeFdhQUMwRHdrSUE2NkxxaXRya2JEX19lSEVNUVhMZ2duSTlSSGJVQUNuT3gyNGxfSVRuRtIBX0FVX3lxTE1NNW9lQ2NzZkZtZWxLNVJUSE5oUHozdER1bDA5dk42YnJxVjFZM3J4Y3BRWkpQaFNBUDNSMUliOE1NNTg2TzJuNG9za3pQV0J2Slk4eXdGUTlWZGJBN1M4?oc=5",
       "published": "Sun, 20 Sep 2026 16:32:57 GMT",
       "topic": "AI / 半導體",
-      "rank": 4
-    },
-    {
-      "title": "延續上周漲勢 比特幣攻破8.5萬美元 但後市面臨強勁逆風",
-      "summary": "延續上周漲勢 比特幣攻破8.5萬美元 但後市面臨強勁逆風 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8za01jc25PYWhLM1NGcG11OW5YQjJ1Nmkya1ZDUnpQY2g4RmRfTWJlaTdGa1M3R0lWUncwUGtPMnlXNlY5SG9lU3NPbTA0QU1GajVEQWZqWHRjd9IBX0FVX3lxTE01VkZNY0dvSkRpSnF6ZHpsVDh6Y19pVl8teUZyYXlRTlVmc0VvR0NRZm5fcld4dV8tVFQtOURRMEQtTUlzMVkyN29uc2tWWUVUcDdwa3htMlF4akp0ZmVv?oc=5",
-      "published": "Mon, 21 Sep 2026 11:24:15 GMT",
-      "topic": "全球市場",
       "rank": 5
     }
   ]
