@@ -1,17 +1,8 @@
 {
-  "as_of": "2026-09-22T00:57:49.762530+00:00",
+  "as_of": "2026-09-22T03:50:37.848002+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
-    {
-      "title": "通膨、油價、美債殖利率齊升！台股靠基本面撑腰，郭恭克：短線留意兩大風險",
-      "summary": "通膨、油價、美債殖利率齊升！台股靠基本面撑腰，郭恭克：短線留意兩大風險 今周刊",
-      "source": "今周刊",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQek1fbWRiNFFjLVpxSHZwbFJ3NklZQ3I5dTQ0MU5sSE9tX2RzWGJKNWVHcS15WHYxWW84eWhsTGxSWXZDWk92VFhpeDJRLTVRb2lQZFRWNFF6VGgzWm04cjRxNl96cFNVeUt5TG1vS0VtUFpYeHFURXF5WjJkMUlkZQ?oc=5",
-      "published": "Mon, 21 Sep 2026 03:00:00 GMT",
-      "topic": "Fed / 利率",
-      "rank": 1
-    },
     {
       "title": "全球市場觀測站／AI 基建族群 吸睛",
       "summary": "全球市場觀測站／AI 基建族群 吸睛 經濟日報",
@@ -19,7 +10,7 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMDBjelMxS2kxWkZGaVBBLVBBeEZoSW1SV3dILWozaVhObmtlazRIRTZvN25oWUpyMkduRGpBTEphRTZxYzJjdGlOM2xQeFdhQUMwRHdrSUE2NkxxaXRya2JEX19lSEVNUVhMZ2duSTlSSGJVQUNuT3gyNGxfSVRuRtIBX0FVX3lxTE1NNW9lQ2NzZkZtZWxLNVJUSE5oUHozdER1bDA5dk42YnJxVjFZM3J4Y3BRWkpQaFNBUDNSMUliOE1NNTg2TzJuNG9za3pQV0J2Slk4eXdGUTlWZGJBN1M4?oc=5",
       "published": "Sun, 20 Sep 2026 16:32:57 GMT",
       "topic": "AI / 半導體",
-      "rank": 2
+      "rank": 1
     },
     {
       "title": "高油價+美債殖利率飆漲壓縮財政空間！IEA：全球94國出手補貼油價 - news.cnyes.com",
@@ -28,7 +19,7 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqLWdQNG9OV0poZmRzVHlvMmVrT2pmR1ctM3d2YmJYQTA1eVVySjdrUERJMklqZGZhVjRTVXhrbjJmN3J1UUFsU2VXNERJc3c?oc=5",
       "published": "Mon, 21 Sep 2026 22:41:31 GMT",
       "topic": "Fed / 利率",
-      "rank": 3
+      "rank": 2
     },
     {
       "title": "延續上周漲勢 比特幣攻破8.5萬美元 但後市面臨強勁逆風",
@@ -37,15 +28,24 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8za01jc25PYWhLM1NGcG11OW5YQjJ1Nmkya1ZDUnpQY2g4RmRfTWJlaTdGa1M3R0lWUncwUGtPMnlXNlY5SG9lU3NPbTA0QU1GajVEQWZqWHRjd9IBX0FVX3lxTE01VkZNY0dvSkRpSnF6ZHpsVDh6Y19pVl8teUZyYXlRTlVmc0VvR0NRZm5fcld4dV8tVFQtOURRMEQtTUlzMVkyN29uc2tWWUVUcDdwa3htMlF4akp0ZmVv?oc=5",
       "published": "Mon, 21 Sep 2026 11:24:15 GMT",
       "topic": "全球市場",
+      "rank": 3
+    },
+    {
+      "title": "國際油價重挫帶動半導體行情，台股爆量飆漲538點，指標股台積電強勢領軍-財經焦點情報站 - cmnews.com.tw",
+      "summary": "國際油價重挫帶動半導體行情，台股爆量飆漲538點，指標股台積電強勢領軍-財經焦點情報站 cmnews.com.tw",
+      "source": "cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTN3WjN2YW9iLTFkTngwSzZ5cHlPZjE4bXNhR2hhREMwbWFleUZsd2ExLUh0RjE2TU1BWGRpWmpyeVhXUmUwS01fUDVwNzNTVEhsQzk5b0Viek53OW9jNFkyOGpoTjg2czBtRjN1Z08xNzRZUVJpaGhkLV90RjhsWk9n?oc=5",
+      "published": "Mon, 21 Sep 2026 23:22:07 GMT",
+      "topic": "能源",
       "rank": 4
     },
     {
-      "title": "8月富蘭克林美國經濟儀表板：連續27個月亮綠燈",
-      "summary": "8月富蘭克林美國經濟儀表板：連續27個月亮綠燈 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yODZiaXh0MjdYaFpna3N0dmZUUm5VOEtoM2pLajVOZnl4clRSZXhCQ2VBTWpKUHl0UHozMjlDX3MtN1UtUDVtdTc3TzlmR3F2X21jajlRTFBaUdIBX0FVX3lxTE8yOVlFelNsNXZtSUxmZTdXNm5la21fQ2hXOG9PM044b3ZzRFNMSUVqNG5OVm1pV0doenhGRE0wMGppbGRpaVNmaUgtMGRKakF5SUN2eldqX082SHpVT1dv?oc=5",
-      "published": "Sun, 20 Sep 2026 02:39:05 GMT",
-      "topic": "全球市場",
+      "title": "美債殖利率恐引發市場風暴！「債券之王」警告：利率持續走高將放大AI與私人信貸風險 - news.cnyes.com",
+      "summary": "美債殖利率恐引發市場風暴！「債券之王」警告：利率持續走高將放大AI與私人信貸風險 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBleVhaaUpGdlJzTVE5Y2M0M3VvM3pscGNsdVJRSkMxWDkyNzBPUXRGZEMtNzJyVlVPUVl1QWNQNTlrRzlVTWxGWUZnbUtWTFk?oc=5",
+      "published": "Mon, 21 Sep 2026 13:19:07 GMT",
+      "topic": "Fed / 利率",
       "rank": 5
     }
   ]

@@ -4,7 +4,7 @@
   "bullets": [
     "主要美股指數平均變動 +2.18%。",
     "美債10年殖利率 4.960%，日變動 -5.0 bps。",
-    "自選股強勢 ARM +21.97%；較弱 SWKS -2.86%。",
+    "自選股強勢 ARM +17.23%；較弱 SNDK -1.44%。",
     "2Y10Y 利差 +20.0 bps。"
   ],
   "risk_score": 81,
@@ -12,18 +12,19 @@
   "yesterday_top": [
     "美股主要指數平均 +2.18%，風險情緒偏多。",
     "10Y 美債殖利率 4.960%。",
-    "DXY 日變動 +0.16%。"
+    "DXY 日變動 +0.12%。"
   ],
   "today_top": [
-    "新聞｜高油價+美債殖利率飆漲壓縮財政空間！IEA：全球94國出手補貼油價 - news.cnyes.com"
+    "新聞｜高油價+美債殖利率飆漲壓縮財政空間！IEA：全球94國出手補貼油價 - news.cnyes.com",
+    "新聞｜國際油價重挫帶動半導體行情，台股爆量飆漲538點，指標股台積電強勢領軍-財經焦點情報站 - cmnews.com.tw"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -5.0 bps。",
-    "美元：DXY 日變動 +0.16%。",
+    "美元：DXY 日變動 +0.12%。",
     "波動率：VIX 14.87。",
     "曲線：2Y10Y +20.0 bps。"
   ],
   "today_date_taipei": "2026-09-22",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-22T01:00:20.605847+00:00"
+  "as_of": "2026-09-22T03:52:27.870442+00:00"
 }
