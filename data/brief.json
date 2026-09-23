@@ -2,28 +2,28 @@
   "mode": "rules",
   "headline": "市場風險情緒：中性",
   "bullets": [
-    "主要美股指數平均變動 -0.68%。",
-    "美債10年殖利率 4.960%，日變動 +0.0 bps。",
-    "自選股強勢 SNDK +3.06%；較弱 COHR -6.60%。",
-    "2Y10Y 利差 +25.0 bps。"
+    "主要美股指數平均變動 -0.39%。",
+    "美債10年殖利率 5.110%，日變動 +15.0 bps。",
+    "自選股強勢 SWKS +3.07%；較弱 UMC ADR -4.19%。",
+    "2Y10Y 利差 +26.0 bps。"
   ],
-  "risk_score": 47,
+  "risk_score": 50,
   "risk_label": "中性",
   "yesterday_top": [
-    "美股主要指數平均 -0.68%，風險情緒中性。",
-    "10Y 美債殖利率 4.960%。",
-    "DXY 日變動 +0.79%。"
+    "美股主要指數平均 -0.39%，風險情緒中性。",
+    "10Y 美債殖利率 5.110%。",
+    "DXY 日變動 +0.68%。"
   ],
   "today_top": [
     "🇺🇸 20:30 United States｜U.S. International Transactions and Investment Position, 2nd Quarter 2026"
   ],
   "todays_watch": [
-    "利率：10Y 日變動 +0.0 bps。",
-    "美元：DXY 日變動 +0.79%。",
+    "利率：10Y 日變動 +15.0 bps。",
+    "美元：DXY 日變動 +0.68%。",
     "波動率：VIX 15.18。",
-    "曲線：2Y10Y +25.0 bps。"
+    "曲線：2Y10Y +26.0 bps。"
   ],
   "today_date_taipei": "2026-09-24",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-23T17:20:21.830857+00:00"
+  "as_of": "2026-09-23T20:35:30.363245+00:00"
 }

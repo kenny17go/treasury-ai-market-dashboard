@@ -1,17 +1,8 @@
 {
-  "as_of": "2026-09-23T17:18:31.709725+00:00",
+  "as_of": "2026-09-23T20:33:21.709897+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
-    {
-      "title": "油價、美債雙降！科技股再起、台股盤中改寫48,601點新高",
-      "summary": "油價、美債雙降！科技股再起、台股盤中改寫48,601點新高 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0S2o5UE5id1JILTlJSEFIUllxNXdyb3EyZl9zTkI2djI0b0w2NFQxclZqR0Uza3lDMlJvZnRSNkJtNjFUWERSb3JISGluZ245bnFHcW40RFRYUdIBX0FVX3lxTE1OTkNHSWV4a1ZCM3k1cUotYWxaQjVxbk00YUtjLU85Y0o3eTZIcW82ejE2VWlKSzRXM01TUzRoZ3FrTE5DS1ZzTGN4TkpQRUNOZUFrM3FBczBvdklZWWZB?oc=5",
-      "published": "Tue, 22 Sep 2026 03:21:03 GMT",
-      "topic": "美債",
-      "rank": 1
-    },
     {
       "title": "〈貴金屬盤後〉Fed升息機率增、美元上揚 黃金下挫",
       "summary": "〈貴金屬盤後〉Fed升息機率增、美元上揚 黃金下挫 鉅亨網",
@@ -19,7 +10,7 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xbkhtakRydDRpTUhUZ1MtMzlCTzVlQ0xKaXctbXhmU2UtWUZCbVZvLVYxblMwcDFjSkJTZFgxR0g5S082U1VpTkVPYw?oc=5",
       "published": "Mon, 21 Sep 2026 23:02:31 GMT",
       "topic": "Fed / 利率",
-      "rank": 2
+      "rank": 1
     },
     {
       "title": "〈美股早盤〉AI與晶片股領漲、油價重挫逾3% 主要指數開高",
@@ -28,7 +19,7 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iNFFmY0pSSFNELWoxcDNhNmpHeEllQ0E4TmZCbmlpZUR1ckl0bnV6LUlQb3F0b3ZSa2EtLVRxaENHS005clFMYTdKbw?oc=5",
       "published": "Mon, 21 Sep 2026 13:41:21 GMT",
       "topic": "能源",
-      "rank": 3
+      "rank": 2
     },
     {
       "title": "Q4市場延續「高利率、高波動」格局 群益看債券投資迎收益黃金期",
@@ -37,15 +28,24 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OREdoX1FvWUVia2U0RXRvOUhzdDB6MXJXVmZiYUxxQ2FKZE5NOEs3UVV1WUZMMVBWa1dEcEt3WEo3QWVwYXFyakx1SQ?oc=5",
       "published": "Mon, 21 Sep 2026 05:31:26 GMT",
       "topic": "Fed / 利率",
+      "rank": 3
+    },
+    {
+      "title": "Meta祖克伯也來了！川習會國宴美企CEO名單曝光 聚焦AI地緣爭鋒",
+      "summary": "Meta祖克伯也來了！川習會國宴美企CEO名單曝光 聚焦AI地緣爭鋒 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJWkFKYVhzR250cjY0OWRpYkNoYzVEUmVxX2JNUGF6bG96UG16ZnhYSW5Jc3pTTnVzMDBaN3VJYmFxNnNtM0NuXzVNSQ?oc=5",
+      "published": "Wed, 23 Sep 2026 02:20:03 GMT",
+      "topic": "AI / 半導體",
       "rank": 4
     },
     {
-      "title": "川習會聚焦AI與稀土 安聯投信：AI需求不減 亞洲半導體迎布局契機 | 基金天地 | 理財",
-      "summary": "川習會聚焦AI與稀土 安聯投信：AI需求不減 亞洲半導體迎布局契機 | 基金天地 | 理財 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJa2hCWnZMaTF3SmRsT29mVnl5UGRrZ1JOeUFYbVEwdHBsdXBwOEJiNkFKZDVMMG1UblBMeWlwQ3dzcmZNem9ZNmhDeVRJODFuZGNCVE16VG9udw?oc=5",
-      "published": "Mon, 21 Sep 2026 08:36:40 GMT",
-      "topic": "AI / 半導體",
+      "title": "花旗點名三大市場醞釀「空單回補」",
+      "summary": "花旗點名三大市場醞釀「空單回補」 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qZndxcUVBaHJSOHdIcGxGOVVCWmN6SS1veUxYYWRBUEJBdnRFdUctTmdFbkliVGVJOGhQNG5RVWVMUWQ2TnlHdTdURQ?oc=5",
+      "published": "Wed, 23 Sep 2026 05:10:03 GMT",
+      "topic": "全球市場",
       "rank": 5
     }
   ]
