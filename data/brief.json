@@ -12,18 +12,18 @@
   "yesterday_top": [
     "美股主要指數平均 +2.75%，風險情緒偏多。",
     "10Y 美債殖利率 4.960%。",
-    "DXY 日變動 +0.34%。"
+    "DXY 日變動 +0.46%。"
   ],
   "today_top": [
-    "新聞｜花旗點名三大市場醞釀「空單回補」"
+    "新聞｜半導體族群強、川習會倒數 國泰費城半導體經理人解析秋節後行情"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +0.0 bps。",
-    "美元：DXY 日變動 +0.34%。",
-    "波動率：VIX 14.13。",
+    "美元：DXY 日變動 +0.46%。",
+    "波動率：VIX 14.31。",
     "曲線：2Y10Y +25.0 bps。"
   ],
   "today_date_taipei": "2026-09-23",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-23T08:54:00.976484+00:00"
+  "as_of": "2026-09-23T12:25:17.886068+00:00"
 }
