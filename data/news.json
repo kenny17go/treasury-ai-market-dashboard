@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-23T03:48:05.246462+00:00",
+  "as_of": "2026-09-23T08:52:19.198001+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -31,21 +31,21 @@
       "rank": 3
     },
     {
-      "title": "全球市場觀測站／AI 基建族群 吸睛",
-      "summary": "全球市場觀測站／AI 基建族群 吸睛 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMDBjelMxS2kxWkZGaVBBLVBBeEZoSW1SV3dILWozaVhObmtlazRIRTZvN25oWUpyMkduRGpBTEphRTZxYzJjdGlOM2xQeFdhQUMwRHdrSUE2NkxxaXRya2JEX19lSEVNUVhMZ2duSTlSSGJVQUNuT3gyNGxfSVRuRtIBX0FVX3lxTE1NNW9lQ2NzZkZtZWxLNVJUSE5oUHozdER1bDA5dk42YnJxVjFZM3J4Y3BRWkpQaFNBUDNSMUliOE1NNTg2TzJuNG9za3pQV0J2Slk4eXdGUTlWZGJBN1M4?oc=5",
-      "published": "Sun, 20 Sep 2026 16:32:57 GMT",
-      "topic": "AI / 半導體",
-      "rank": 4
-    },
-    {
       "title": "川習會聚焦AI與稀土 安聯投信：AI需求不減 亞洲半導體迎布局契機 | 基金天地 | 理財",
       "summary": "川習會聚焦AI與稀土 安聯投信：AI需求不減 亞洲半導體迎布局契機 | 基金天地 | 理財 經濟日報",
       "source": "經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJa2hCWnZMaTF3SmRsT29mVnl5UGRrZ1JOeUFYbVEwdHBsdXBwOEJiNkFKZDVMMG1UblBMeWlwQ3dzcmZNem9ZNmhDeVRJODFuZGNCVE16VG9udw?oc=5",
       "published": "Mon, 21 Sep 2026 08:36:40 GMT",
       "topic": "AI / 半導體",
+      "rank": 4
+    },
+    {
+      "title": "花旗點名三大市場醞釀「空單回補」",
+      "summary": "花旗點名三大市場醞釀「空單回補」 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qZndxcUVBaHJSOHdIcGxGOVVCWmN6SS1veUxYYWRBUEJBdnRFdUctTmdFbkliVGVJOGhQNG5RVWVMUWQ2TnlHdTdURQ?oc=5",
+      "published": "Wed, 23 Sep 2026 05:10:03 GMT",
+      "topic": "全球市場",
       "rank": 5
     }
   ]
