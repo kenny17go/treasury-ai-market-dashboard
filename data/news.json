@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-23T12:23:31.306946+00:00",
+  "as_of": "2026-09-23T17:18:31.709725+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -40,11 +40,11 @@
       "rank": 4
     },
     {
-      "title": "半導體族群強、川習會倒數 國泰費城半導體經理人解析秋節後行情",
-      "summary": "半導體族群強、川習會倒數 國泰費城半導體經理人解析秋節後行情 經濟日報",
+      "title": "川習會聚焦AI與稀土 安聯投信：AI需求不減 亞洲半導體迎布局契機 | 基金天地 | 理財",
+      "summary": "川習會聚焦AI與稀土 安聯投信：AI需求不減 亞洲半導體迎布局契機 | 基金天地 | 理財 經濟日報",
       "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlRll6Q0RrWlJZY2RHQUtGYkVJQXpnZEM3cENOVDVLTWNOcldmOFRZOHR1RWZOOXMzU25PNnp5RFlQb0NvdkpXdXl0eEZUMFhENGtGUzNwc1Y4OXNPUjNQT2RVeDNSRTVHakJhTVBncXR4S2ZNeGVaMWtpaHXSAV9BVV95cUxQR0xCUzB6UHluTlh4azc3dnZ5ZUp2WUZHTDJSaDJpMmN2c1l0eEpJbG9yRlNoWlZIUnhHbS1NMF9xdGxlam4talE4MWwtYXgxcDQwd1pFWFJabFgzUi1fRQ?oc=5",
-      "published": "Wed, 23 Sep 2026 00:52:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJa2hCWnZMaTF3SmRsT29mVnl5UGRrZ1JOeUFYbVEwdHBsdXBwOEJiNkFKZDVMMG1UblBMeWlwQ3dzcmZNem9ZNmhDeVRJODFuZGNCVE16VG9udw?oc=5",
+      "published": "Mon, 21 Sep 2026 08:36:40 GMT",
       "topic": "AI / 半導體",
       "rank": 5
     }
