@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-24T12:23:29.605786+00:00",
+  "as_of": "2026-09-24T17:23:56.504808+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -13,21 +13,21 @@
       "rank": 1
     },
     {
-      "title": "〈貴金屬盤後〉Fed官員接連放鷹 黃金挫逾1%逼近一周最低",
-      "summary": "〈貴金屬盤後〉Fed官員接連放鷹 黃金挫逾1%逼近一周最低 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vNnVkSkI5dkZtY1hnbTdESXpQNzBqNmpOalFVYUJuVS0wVWM1WUw1clA5X1FlVWd0bFFjSFQwVktZRUF3eC1EYV9pTQ?oc=5",
-      "published": "Wed, 23 Sep 2026 22:52:40 GMT",
+      "title": "財經青紅燈》聯準會與台灣央行",
+      "summary": "財經青紅燈》聯準會與台灣央行 自由財經",
+      "source": "自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZ3pQMjNvVkJxbzlpcTcyam5rVGtaM3FYZGNqZEZ2cXNKOHNicGlCQkVPaG1YU1lsZjZfbTk5Z2g2VjFBTTBlaUtvX0R6QzlIRE1zaVp30gFbQVVfeXFMTUtVV2lHMldTV0M2dnVaM0Z1WkJXcnpYQU9Yc2MxR0htZFN1TWlDQUhFaWZuNXJUWmZ6N0ZGV2tEWHZlbWJQRUV4QXJFUTlkTkF0cE4tU0hxbVRWOA?oc=5",
+      "published": "Tue, 22 Sep 2026 21:30:00 GMT",
       "topic": "Fed / 利率",
       "rank": 2
     },
     {
-      "title": "〈美股早盤〉AI與晶片股領漲、油價重挫逾3% 主要指數開高",
-      "summary": "〈美股早盤〉AI與晶片股領漲、油價重挫逾3% 主要指數開高 鉅亨網",
+      "title": "今年來中國黃金進口額接近1,600億美元 衝上歷史新高",
+      "summary": "今年來中國黃金進口額接近1,600億美元 衝上歷史新高 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iNFFmY0pSSFNELWoxcDNhNmpHeEllQ0E4TmZCbmlpZUR1ckl0bnV6LUlQb3F0b3ZSa2EtLVRxaENHS005clFMYTdKbw?oc=5",
-      "published": "Mon, 21 Sep 2026 13:41:21 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoemlBOEJIN2I2SWkzWG1teFU3Vi1SWnBDSC1DY05BaUVnZ2tXbjV1V0R2TWswODVGRmNzRGJlWHRIb2p4Rkk2OXBtMA?oc=5",
+      "published": "Thu, 24 Sep 2026 13:35:33 GMT",
+      "topic": "黃金",
       "rank": 3
     },
     {

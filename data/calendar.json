@@ -1,23 +1,11 @@
 {
-  "as_of": "2026-09-24T12:25:16.485351+00:00",
+  "as_of": "2026-09-24T17:26:12.654945+00:00",
   "status": "ok",
   "source": "BEA + Federal Reserve + 中央銀行（台灣） + Bank of Japan + European Central Bank + Eurostat",
   "source_mode": "Official global central banks + official statistics + market-calendar enrichment",
   "window_days": 60,
   "cost_note": "央行動態以 Fed、台灣央行、BOJ、ECB 官方日程為優先；重要數據以 BLS、BEA、Eurostat 及鉅亨／M平方等來源補強。",
   "items": [
-    {
-      "date": "2026-09-24",
-      "time": "20:30",
-      "title": "U.S. International Transactions and Investment Position, 2nd Quarter 2026",
-      "country": "United States",
-      "flag": "🇺🇸",
-      "importance": 3,
-      "actual": "",
-      "forecast": "",
-      "previous": "",
-      "source": "BEA"
-    },
     {
       "date": "2026-09-30",
       "time": "20:30",
