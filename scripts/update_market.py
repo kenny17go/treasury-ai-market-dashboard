@@ -595,13 +595,33 @@ def update_news():
         topic_counts[topic] = topic_counts.get(topic,0) + 1
         if len(selected) >= 5:
             break
+    asset_map = {
+        'Fed / 利率':['UST','USD','Equity'],'美債':['UST','USD','Equity'],
+        '能源':['WTI / Brent','Inflation','Equity'],'黃金':['Gold','USD','UST'],
+        'AI / 半導體':['SOX','Nasdaq','TSM / NVDA'],'日本':['JPY','Nikkei','UST'],
+        '中國':['CNH','China Equity','Commodities'],'台灣':['TAIEX','TWD','TSM'],
+        '美股':['S&P 500','Nasdaq','UST'],'全球市場':['Global Equity','USD','UST']
+    }
     rows = []
     for rank, x in enumerate(selected, 1):
         item = {k:v for k,v in x.items() if k not in ('score','provider')}
         item['rank'] = rank
         item['summary'] = (x.get('summary') or '').strip() or f"主要焦點：{x['title']}。"
+        src = min(25, round(source_score(x.get('source','')) / 4))
+        imp = min(35, round(impact_score(x.get('title',''), x.get('summary','')) * 35 / 120))
+        rec = max(8, 20 - (rank-1)*2)
+        diversity = 10 if x.get('topic') != '全球市場' else 6
+        readability = 10 if re.search(r'[\\u4e00-\\u9fff]', x.get('title','')) else 6
+        item['importance_score'] = min(100, src + imp + rec + diversity + readability)
+        item['related_assets'] = asset_map.get(x.get('topic','全球市場'), asset_map['全球市場'])
+        reasons = []
+        if imp >= 20: reasons.append('高市場影響主題')
+        if src >= 20: reasons.append('高品質財經來源')
+        if rec >= 16: reasons.append('時效性高')
+        if diversity >= 10: reasons.append('具明確資產關聯')
+        item['why_selected'] = '、'.join(reasons[:3]) or '依來源品質、時效與市場關聯排序'
         rows.append(item)
-    save('news.json', {'as_of':datetime.now(timezone.utc).isoformat(),'source':' + '.join(sorted(providers)) if providers else 'news feeds unavailable','strategy':'Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories','items':rows})
+    save('news.json', {'as_of':datetime.now(timezone.utc).isoformat(),'source':' + '.join(sorted(providers)) if providers else 'news feeds unavailable','strategy':'Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required','engine':'Market Importance Engine V1','items':rows})
 
 
 # ---------- Economic calendar ----------
