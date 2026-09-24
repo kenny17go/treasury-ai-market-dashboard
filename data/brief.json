@@ -12,18 +12,20 @@
   "yesterday_top": [
     "美股主要指數平均 -0.39%，風險情緒中性。",
     "10Y 美債殖利率 5.110%。",
-    "DXY 日變動 +0.68%。"
+    "DXY 日變動 +0.69%。"
   ],
   "today_top": [
-    "🇺🇸 20:30 United States｜U.S. International Transactions and Investment Position, 2nd Quarter 2026"
+    "🇺🇸 20:30 United States｜U.S. International Transactions and Investment Position, 2nd Quarter 2026",
+    "新聞｜〈貴金屬盤後〉Fed官員接連放鷹 黃金挫逾1%逼近一周最低",
+    "新聞｜伊朗提議重開荷姆茲海峽 美方拒絕"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +15.0 bps。",
-    "美元：DXY 日變動 +0.68%。",
+    "美元：DXY 日變動 +0.69%。",
     "波動率：VIX 15.18。",
     "曲線：2Y10Y +26.0 bps。"
   ],
   "today_date_taipei": "2026-09-24",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-23T23:18:48.810592+00:00"
+  "as_of": "2026-09-24T03:41:52.552624+00:00"
 }

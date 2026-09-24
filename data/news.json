@@ -1,8 +1,26 @@
 {
-  "as_of": "2026-09-23T23:16:46.142020+00:00",
+  "as_of": "2026-09-24T03:40:03.372694+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
+    {
+      "title": "〈貴金屬盤後〉Fed官員接連放鷹 黃金挫逾1%逼近一周最低",
+      "summary": "〈貴金屬盤後〉Fed官員接連放鷹 黃金挫逾1%逼近一周最低 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vNnVkSkI5dkZtY1hnbTdESXpQNzBqNmpOalFVYUJuVS0wVWM1WUw1clA5X1FlVWd0bFFjSFQwVktZRUF3eC1EYV9pTQ?oc=5",
+      "published": "Wed, 23 Sep 2026 22:52:40 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1
+    },
+    {
+      "title": "〈美股早盤〉AI與晶片股領漲、油價重挫逾3% 主要指數開高",
+      "summary": "〈美股早盤〉AI與晶片股領漲、油價重挫逾3% 主要指數開高 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iNFFmY0pSSFNELWoxcDNhNmpHeEllQ0E4TmZCbmlpZUR1ckl0bnV6LUlQb3F0b3ZSa2EtLVRxaENHS005clFMYTdKbw?oc=5",
+      "published": "Mon, 21 Sep 2026 13:41:21 GMT",
+      "topic": "能源",
+      "rank": 2
+    },
     {
       "title": "財經青紅燈》聯準會與台灣央行",
       "summary": "財經青紅燈》聯準會與台灣央行 自由財經",
@@ -10,41 +28,23 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZ3pQMjNvVkJxbzlpcTcyam5rVGtaM3FYZGNqZEZ2cXNKOHNicGlCQkVPaG1YU1lsZjZfbTk5Z2g2VjFBTTBlaUtvX0R6QzlIRE1zaVp30gFbQVVfeXFMTUtVV2lHMldTV0M2dnVaM0Z1WkJXcnpYQU9Yc2MxR0htZFN1TWlDQUhFaWZuNXJUWmZ6N0ZGV2tEWHZlbWJQRUV4QXJFUTlkTkF0cE4tU0hxbVRWOA?oc=5",
       "published": "Tue, 22 Sep 2026 21:30:00 GMT",
       "topic": "Fed / 利率",
-      "rank": 1
-    },
-    {
-      "title": "Fed升息油價高檔怎麼投？富蘭克林喊Q4偏多 AI續當主角、黃金可配1成 - news.cnyes.com",
-      "summary": "Fed升息油價高檔怎麼投？富蘭克林喊Q4偏多 AI續當主角、黃金可配1成 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Penl0X1YycXpTRE05ZVBsUlk1ZjFPX2JoZkk1dFhJNnkyanZYa3JobExWTXlZVEczdGxpNUJBNmNYV3h4YWdJWUJ6VWhBeDQ?oc=5",
-      "published": "Wed, 23 Sep 2026 12:13:59 GMT",
-      "topic": "Fed / 利率",
-      "rank": 2
-    },
-    {
-      "title": "川習會聚焦AI與稀土 安聯投信：AI需求不減 亞洲半導體迎布局契機 | 基金天地 | 理財",
-      "summary": "川習會聚焦AI與稀土 安聯投信：AI需求不減 亞洲半導體迎布局契機 | 基金天地 | 理財 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJa2hCWnZMaTF3SmRsT29mVnl5UGRrZ1JOeUFYbVEwdHBsdXBwOEJiNkFKZDVMMG1UblBMeWlwQ3dzcmZNem9ZNmhDeVRJODFuZGNCVE16VG9udw?oc=5",
-      "published": "Mon, 21 Sep 2026 08:36:40 GMT",
-      "topic": "AI / 半導體",
       "rank": 3
     },
     {
-      "title": "專家看投資 喊多元配置",
-      "summary": "專家看投資 喊多元配置 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jU0JrMjk5Z3M0Y2c1dzBNYi16TnFDR2lHRkx6TDNMbG1lcEpkelN3em84bVUwWWUybTZFTWx6VGphMngwNmJVcnJ1Q01EN0tUWHI3clI0T0RyeXNFRkVHUU1Za2JrNjd3SmVmNDFhaEwtdUZMVVBnMFdTVXFYQdIBX0FVX3lxTFBUa1lLZDliQmpTc2tIbHVLcHNvb0REUDkydFVVanQtZmVlTVVuckhfSU5WUXVKWHotS09qSElWdF9YRmo3RW1kQ3ZTcWcxNFp5d2hXZ1JyNi1sYWhvT0Yw?oc=5",
-      "published": "Tue, 22 Sep 2026 16:43:02 GMT",
+      "title": "花旗點名三大市場醞釀「空單回補」",
+      "summary": "花旗點名三大市場醞釀「空單回補」 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qZndxcUVBaHJSOHdIcGxGOVVCWmN6SS1veUxYYWRBUEJBdnRFdUctTmdFbkliVGVJOGhQNG5RVWVMUWQ2TnlHdTdURQ?oc=5",
+      "published": "Wed, 23 Sep 2026 05:10:03 GMT",
       "topic": "全球市場",
       "rank": 4
     },
     {
-      "title": "延續上周漲勢 比特幣攻破8.5萬美元 但後市面臨強勁逆風",
-      "summary": "延續上周漲勢 比特幣攻破8.5萬美元 但後市面臨強勁逆風 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8za01jc25PYWhLM1NGcG11OW5YQjJ1Nmkya1ZDUnpQY2g4RmRfTWJlaTdGa1M3R0lWUncwUGtPMnlXNlY5SG9lU3NPbTA0QU1GajVEQWZqWHRjd9IBX0FVX3lxTE01VkZNY0dvSkRpSnF6ZHpsVDh6Y19pVl8teUZyYXlRTlVmc0VvR0NRZm5fcld4dV8tVFQtOURRMEQtTUlzMVkyN29uc2tWWUVUcDdwa3htMlF4akp0ZmVv?oc=5",
-      "published": "Mon, 21 Sep 2026 11:24:15 GMT",
+      "title": "伊朗提議重開荷姆茲海峽 美方拒絕",
+      "summary": "伊朗提議重開荷姆茲海峽 美方拒絕 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jcTZWeG9lRnI0b2dXM2lsOXJzTjN6b2ZGTGlIZk9WWTc0WG15c2lvX29DNVg0UHlFWWdjNjhtMXB2Z0s1U0wtZ2FFUQ?oc=5",
+      "published": "Wed, 23 Sep 2026 22:10:22 GMT",
       "topic": "全球市場",
       "rank": 5
     }
