@@ -15,7 +15,7 @@
 <link rel="stylesheet" href="assets/v141.css?v=1494" />
 <link rel="stylesheet" href="assets/v143.css?v=1494" />
 <link rel="stylesheet" href="assets/v144.css?v=1494" />
-<link rel="stylesheet" href="assets/v147.css?v=1494" />
+<link rel="stylesheet" href="assets/v147.css?v=1495" />
 </head>
 <body>
 <header class="topbar"><div class="brand-wrap"><img class="brand-icon" src="apple-touch-icon.png" alt="市場一頁通 icon" /><div class="brand-copy"><div class="brand">市場一頁通 <span>測試版</span></div><div class="subline"><span id="reportDate">資料載入中…</span><span class="dot">•</span><span id="marketStatus">Auto Update</span><span class="dot">•</span><span id="dataFreshness" class="freshness">Checking</span></div></div></div><div class="top-actions"><button id="refreshBtn" class="pill ghost" type="button">重新整理</button><div class="pill">TREASURY · TAIPEI</div></div></header>
@@ -28,12 +28,12 @@
 <section class="brief-grid"><article class="panel"><div class="panel-title-row"><h2>昨日 3 件事</h2><span class="tag">Recap</span></div><div id="yesterdayTop" class="brief-list"></div></article><article class="panel"><div class="panel-title-row"><h2>今日 3 件事</h2><span class="tag">Today</span></div><div id="todayTop" class="brief-list"></div></article></section>
 <section class="section-head watchlist-head"><div><h2>自訂 Watchlist</h2><p>直接在這台裝置編輯顯示標的，設定儲存在瀏覽器。</p></div><div class="watchlist-actions"><span id="stockUpdated" class="muted"></span><button id="editWatchlistBtn" class="small-btn" type="button">編輯 Watchlist</button></div></section><section id="stockGrid" class="stock-grid"></section>
 <section class="lower-grid"><article class="panel ai-panel"><div class="panel-title-row"><h2>AI Morning View</h2><span id="aiBadge" class="tag">Rules</span></div><div id="aiView" class="ai-view"></div></article><article class="panel"><div class="panel-title-row"><h2>市場溫度</h2><span class="tag">Risk</span></div><div id="riskMeter" class="risk-meter"></div></article></section>
-<section class="news-calendar-layout"><article class="panel news-panel"><div class="panel-title-row"><h2>新聞重點</h2><span class="tag">Top 5</span></div><p class="source-note">不強制分類；依財經來源品質、時效性、市場影響度與去重排序，選出 5 個最重要市場焦點。</p><div id="news" class="news-summary-grid"></div></article><article class="panel calendar-panel"><div class="panel-title-row"><h2>近期數據 / 央行動態</h2><span id="calendarSourceBadge" class="tag">Global · Official + Multi-source</span></div><div id="calendarCostNote" class="source-note"></div><div id="calendar" class="calendar-list"></div></article></section>
-<footer><div>資料為資訊展示用途，可能延遲或缺漏；非投資建議。</div><div>台灣加權指數盤中改用 TWSE MIS 官方即時資訊；盤前保留前一交易日收盤。成交金額與漲跌家數僅在取得可驗證的盤中資料時切換，否則保留前一交易日完整收盤並明確標示。</div><div>台指期近月報價取自 Yahoo股市；日盤、夜盤及最近日/夜盤收盤狀態依台北交易時段判定，休市日以交易所公告為準。</div><div>美債殖利率主要取自 U.S. Treasury 官方 Daily Treasury Par Yield Curve；Cbonds 可作交叉參考。</div><div>經濟行事曆：Fed、台灣央行、BOJ、ECB 官方日程＋BLS／BEA／Eurostat 重要數據；鉅亨網／財經M平方補強。</div><div class="version">市場一頁通 · 測試版 · V1.4.13</div></footer>
+<section class="news-calendar-layout"><article class="panel news-panel"><div class="panel-title-row"><h2>Market Brief｜市場焦點</h2><span class="tag">Top 5 · Rules</span></div><p class="source-note">非 AI 規則引擎：依來源品質、時效性、市場影響度、主題分散與去重，選出真正值得注意的 5 個市場事件。</p><div id="news" class="news-summary-grid"></div></article><article class="panel calendar-panel"><div class="panel-title-row"><h2>近期數據 / 央行動態</h2><span id="calendarSourceBadge" class="tag">Global · Official + Multi-source</span></div><div id="calendarCostNote" class="source-note"></div><div id="calendar" class="calendar-list"></div></article></section>
+<footer><div>資料為資訊展示用途，可能延遲或缺漏；非投資建議。</div><div>台灣加權指數盤中改用 TWSE MIS 官方即時資訊；盤前保留前一交易日收盤。成交金額與漲跌家數僅在取得可驗證的盤中資料時切換，否則保留前一交易日完整收盤並明確標示。</div><div>台指期近月報價取自 Yahoo股市；日盤、夜盤及最近日/夜盤收盤狀態依台北交易時段判定，休市日以交易所公告為準。</div><div>美債殖利率主要取自 U.S. Treasury 官方 Daily Treasury Par Yield Curve；Cbonds 可作交叉參考。</div><div>經濟行事曆：Fed、台灣央行、BOJ、ECB 官方日程＋BLS／BEA／Eurostat 重要數據；鉅亨網／財經M平方補強。</div><div class="version">市場一頁通 · 測試版 · V1.4.14</div></footer>
 </main>
 <div id="watchlistModal" class="modal" aria-hidden="true"><div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="watchlistTitle"><div class="modal-head"><div><h2 id="watchlistTitle">編輯 Watchlist</h2><p>勾選要顯示的標的。此設定只儲存在目前瀏覽器。</p></div><button id="closeWatchlistBtn" class="modal-close" type="button" aria-label="關閉">×</button></div><input id="watchlistSearch" class="modal-search" type="search" placeholder="搜尋代號，例如 NVDA / TSM…" aria-label="搜尋 Watchlist" /><div id="watchlistChoices" class="watchlist-choices"></div><div class="modal-actions"><button id="resetWatchlistBtn" class="small-btn ghostish" type="button">恢復預設</button><button id="saveWatchlistBtn" class="small-btn" type="button">儲存</button></div></div></div>
-<script src="assets/app.js?v=1494" defer></script>
-<script src="assets/v147.js?v=1494" defer></script>
+<script src="assets/app.js?v=1495" defer></script>
+<script src="assets/v147.js?v=1495" defer></script>
 <script src="assets/taiwan-session.js?v=1494" defer></script>
 <script src="assets/auto-refresh.js?v=1494" defer></script>
 </body></html>
