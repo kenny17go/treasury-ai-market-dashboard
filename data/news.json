@@ -1,8 +1,17 @@
 {
-  "as_of": "2026-09-24T08:46:19.437920+00:00",
+  "as_of": "2026-09-24T12:23:29.605786+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
+    {
+      "title": "〈美股盤後〉股債雙殺！美債殖利率飆至19年高點 那指、費半跌逾1%",
+      "summary": "〈美股盤後〉股債雙殺！美債殖利率飆至19年高點 那指、費半跌逾1% 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CenQ3T2c3b25Nd015RmptUkpQc1M2b0VYaU9OLUEzTkQ5clZGdHZndEJ3Q3hDSUhUVk1pb0pDQUUtTHZmekR1a2lpdw?oc=5",
+      "published": "Wed, 23 Sep 2026 21:44:26 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1
+    },
     {
       "title": "〈貴金屬盤後〉Fed官員接連放鷹 黃金挫逾1%逼近一周最低",
       "summary": "〈貴金屬盤後〉Fed官員接連放鷹 黃金挫逾1%逼近一周最低 鉅亨網",
@@ -10,7 +19,7 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vNnVkSkI5dkZtY1hnbTdESXpQNzBqNmpOalFVYUJuVS0wVWM1WUw1clA5X1FlVWd0bFFjSFQwVktZRUF3eC1EYV9pTQ?oc=5",
       "published": "Wed, 23 Sep 2026 22:52:40 GMT",
       "topic": "Fed / 利率",
-      "rank": 1
+      "rank": 2
     },
     {
       "title": "〈美股早盤〉AI與晶片股領漲、油價重挫逾3% 主要指數開高",
@@ -19,15 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iNFFmY0pSSFNELWoxcDNhNmpHeEllQ0E4TmZCbmlpZUR1ckl0bnV6LUlQb3F0b3ZSa2EtLVRxaENHS005clFMYTdKbw?oc=5",
       "published": "Mon, 21 Sep 2026 13:41:21 GMT",
       "topic": "能源",
-      "rank": 2
-    },
-    {
-      "title": "Fed升息油價高檔怎麼投？富蘭克林喊Q4偏多 AI續當主角、黃金可配1成 - tw.stock.yahoo.com",
-      "summary": "Fed升息油價高檔怎麼投？富蘭克林喊Q4偏多 AI續當主角、黃金可配1成 tw.stock.yahoo.com",
-      "source": "tw.stock.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPNnVvckZzSlEwR3lwanhYczJQMnR2VEFnRFIyTG4wSVRBRzdVQ2JfMlFtS2YxQUgxU2FBV0xPckpwZF9JTDdYZ21OVEVUdlJSTEdsS24yMU1GZGRmdlByQ3lCVkZSUUV5UC1oRXppUUU0QnVqdWpDdmU1a0Ntd1dRYmhzYml3czlPSHYtVldueHZaR0l1eURWMWFWazN2alR1d0N1VVY2a0puaTZUbkgyQkhNWWtxNldRRG9RbWpzZU9RN2dRR1lhYkhzMlYyM2ttb0xsWE45N0E4VC1lVWVBNk1lcm1pNEpkaEF5ekJIQy1WakFOemd0MXRQODRNUFNiVGRkTkpQS0dXMFpBRnVTU2NiVml0ZVYyS0ZmTmNGcVU5cHFCQWhIY1F0SVVDa1BYd3d6LU9JRnY5dmNoSk9NelRfaHZuWUxZMVBpUmdZdmVoemFSU29WV3RxNUcybDBnZXRhM2I3ak82d2kwR2Y5WGUwYVlySXFvSkh0SE4xcUhBbVZXQTZib2JBanA1cUt3NVV2bWtR?oc=5",
-      "published": "Wed, 23 Sep 2026 12:13:59 GMT",
-      "topic": "Fed / 利率",
       "rank": 3
     },
     {
@@ -40,12 +40,12 @@
       "rank": 4
     },
     {
-      "title": "花旗點名三大市場醞釀「空單回補」",
-      "summary": "花旗點名三大市場醞釀「空單回補」 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qZndxcUVBaHJSOHdIcGxGOVVCWmN6SS1veUxYYWRBUEJBdnRFdUctTmdFbkliVGVJOGhQNG5RVWVMUWQ2TnlHdTdURQ?oc=5",
-      "published": "Wed, 23 Sep 2026 05:10:03 GMT",
-      "topic": "全球市場",
+      "title": "AI行情再起股匯齊揚！新台幣連4紅收31.708元",
+      "summary": "AI行情再起股匯齊揚！新台幣連4紅收31.708元 自由財經",
+      "source": "自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YQXhkR1Y2SEJfb1RqU1BNZ1hIdE03Y0V0N1VHdnVsSmlrQ3pwWjNZUUtHWk1jT0dOeDJEYUZ0c0VyaUZVdGRqbHFXUnlkSFBYbi1MSUJLalh3SzBObmlB0gFkQVVfeXFMT2E4RnU5VFZWcUVicUZweTgwMHZISjRFcUFOQzVJMnNzVm9wemZVaUpVc2pYZGp2ZWo0S0cycllZYlpHaDJBVnRCaHlBQjNkM2F0RGZPTmhFRF84aVJpRWlNOC1Edw?oc=5",
+      "published": "Tue, 22 Sep 2026 11:15:56 GMT",
+      "topic": "AI / 半導體",
       "rank": 5
     }
   ]
