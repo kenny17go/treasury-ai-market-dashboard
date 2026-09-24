@@ -7,25 +7,25 @@
     "自選股強勢 SWKS +3.07%；較弱 UMC ADR -4.19%。",
     "2Y10Y 利差 +26.0 bps。"
   ],
-  "risk_score": 50,
+  "risk_score": 45,
   "risk_label": "中性",
   "yesterday_top": [
     "美股主要指數平均 -0.39%，風險情緒中性。",
     "10Y 美債殖利率 5.110%。",
-    "DXY 日變動 +0.69%。"
+    "DXY 日變動 +0.01%。"
   ],
   "today_top": [
     "🇺🇸 20:30 United States｜U.S. International Transactions and Investment Position, 2nd Quarter 2026",
     "新聞｜〈貴金屬盤後〉Fed官員接連放鷹 黃金挫逾1%逼近一周最低",
-    "新聞｜伊朗提議重開荷姆茲海峽 美方拒絕"
+    "新聞｜Arm警告：AI推理每天產生百億Token 記憶體正成為邊緣運算最大瓶頸"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +15.0 bps。",
-    "美元：DXY 日變動 +0.69%。",
-    "波動率：VIX 15.18。",
+    "美元：DXY 日變動 +0.01%。",
+    "波動率：VIX 16.31。",
     "曲線：2Y10Y +26.0 bps。"
   ],
   "today_date_taipei": "2026-09-24",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-24T03:41:52.552624+00:00"
+  "as_of": "2026-09-24T08:48:29.103197+00:00"
 }

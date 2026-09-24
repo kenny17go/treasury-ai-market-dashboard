@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-24T03:40:03.372694+00:00",
+  "as_of": "2026-09-24T08:46:19.437920+00:00",
   "source": "Google News RSS",
   "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
   "items": [
@@ -22,13 +22,22 @@
       "rank": 2
     },
     {
-      "title": "財經青紅燈》聯準會與台灣央行",
-      "summary": "財經青紅燈》聯準會與台灣央行 自由財經",
-      "source": "自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZ3pQMjNvVkJxbzlpcTcyam5rVGtaM3FYZGNqZEZ2cXNKOHNicGlCQkVPaG1YU1lsZjZfbTk5Z2g2VjFBTTBlaUtvX0R6QzlIRE1zaVp30gFbQVVfeXFMTUtVV2lHMldTV0M2dnVaM0Z1WkJXcnpYQU9Yc2MxR0htZFN1TWlDQUhFaWZuNXJUWmZ6N0ZGV2tEWHZlbWJQRUV4QXJFUTlkTkF0cE4tU0hxbVRWOA?oc=5",
-      "published": "Tue, 22 Sep 2026 21:30:00 GMT",
+      "title": "Fed升息油價高檔怎麼投？富蘭克林喊Q4偏多 AI續當主角、黃金可配1成 - tw.stock.yahoo.com",
+      "summary": "Fed升息油價高檔怎麼投？富蘭克林喊Q4偏多 AI續當主角、黃金可配1成 tw.stock.yahoo.com",
+      "source": "tw.stock.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPNnVvckZzSlEwR3lwanhYczJQMnR2VEFnRFIyTG4wSVRBRzdVQ2JfMlFtS2YxQUgxU2FBV0xPckpwZF9JTDdYZ21OVEVUdlJSTEdsS24yMU1GZGRmdlByQ3lCVkZSUUV5UC1oRXppUUU0QnVqdWpDdmU1a0Ntd1dRYmhzYml3czlPSHYtVldueHZaR0l1eURWMWFWazN2alR1d0N1VVY2a0puaTZUbkgyQkhNWWtxNldRRG9RbWpzZU9RN2dRR1lhYkhzMlYyM2ttb0xsWE45N0E4VC1lVWVBNk1lcm1pNEpkaEF5ekJIQy1WakFOemd0MXRQODRNUFNiVGRkTkpQS0dXMFpBRnVTU2NiVml0ZVYyS0ZmTmNGcVU5cHFCQWhIY1F0SVVDa1BYd3d6LU9JRnY5dmNoSk9NelRfaHZuWUxZMVBpUmdZdmVoemFSU29WV3RxNUcybDBnZXRhM2I3ak82d2kwR2Y5WGUwYVlySXFvSkh0SE4xcUhBbVZXQTZib2JBanA1cUt3NVV2bWtR?oc=5",
+      "published": "Wed, 23 Sep 2026 12:13:59 GMT",
       "topic": "Fed / 利率",
       "rank": 3
+    },
+    {
+      "title": "Arm警告：AI推理每天產生百億Token 記憶體正成為邊緣運算最大瓶頸",
+      "summary": "Arm警告：AI推理每天產生百億Token 記憶體正成為邊緣運算最大瓶頸 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yU0ZrN3pfaHhpQlNYN1ZEOHQ1WkZvVWRnTW81dkhOVzJaeUJaZWJrR21SVDdrdlNpX0xXYm1Lemh5SUtrazRTeWhuTQ?oc=5",
+      "published": "Thu, 24 Sep 2026 08:10:07 GMT",
+      "topic": "AI / 半導體",
+      "rank": 4
     },
     {
       "title": "花旗點名三大市場醞釀「空單回補」",
@@ -36,15 +45,6 @@
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qZndxcUVBaHJSOHdIcGxGOVVCWmN6SS1veUxYYWRBUEJBdnRFdUctTmdFbkliVGVJOGhQNG5RVWVMUWQ2TnlHdTdURQ?oc=5",
       "published": "Wed, 23 Sep 2026 05:10:03 GMT",
-      "topic": "全球市場",
-      "rank": 4
-    },
-    {
-      "title": "伊朗提議重開荷姆茲海峽 美方拒絕",
-      "summary": "伊朗提議重開荷姆茲海峽 美方拒絕 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jcTZWeG9lRnI0b2dXM2lsOXJzTjN6b2ZGTGlIZk9WWTc0WG15c2lvX29DNVg0UHlFWWdjNjhtMXB2Z0s1U0wtZ2FFUQ?oc=5",
-      "published": "Wed, 23 Sep 2026 22:10:22 GMT",
       "topic": "全球市場",
       "rank": 5
     }
