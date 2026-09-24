@@ -138,7 +138,9 @@ renderNews = function(n){
   if(!box) return;
   box.innerHTML=rows.length?rows.map((x,i)=>{
     const paragraph=(x.summary&&x.summary.trim())||x.title||'';
-    return `<article class="news-summary-card top-news-card"><div class="news-theme">重點 ${i+1}${x.topic?' · '+esc(x.topic):''}</div><a href="${safeUrl(x.url)}" target="_blank" rel="noopener noreferrer"><b>${esc(x.title||'')}</b></a><p>${esc(paragraph)}</p><small>${esc(x.source||'財經新聞')} ${x.published?'· '+esc(x.published):''}</small></article>`;
+    const score=x.importance_score==null?'—':Math.round(Number(x.importance_score));
+    const assets=(x.related_assets||[]).slice(0,3).map(a=>`<span class="news-cat">${esc(a)}</span>`).join('');
+    return `<article class="news-summary-card top-news-card"><div class="news-theme">市場焦點 ${i+1}${x.topic?' · '+esc(x.topic):''}<span class="news-score">Impact ${score}</span></div><a href="${safeUrl(x.url)}" target="_blank" rel="noopener noreferrer"><b>${esc(x.title||'')}</b></a><p>${esc(paragraph)}</p><div class="news-impact-row"><strong>關聯市場</strong>${assets}</div><div class="news-why"><strong>入選原因</strong> ${esc(x.why_selected||'依來源品質、時效與市場影響度排序')}</div><small>${esc(x.source||'財經新聞')} ${x.published?'· '+esc(x.published):''}</small></article>`;
   }).join(''):'<div class="empty">目前沒有取得可用的重點市場新聞。</div>';
 };
 
