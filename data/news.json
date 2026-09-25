@@ -1,9 +1,25 @@
 {
-  "as_of": "2026-09-25T09:30:00.637388+00:00",
+  "as_of": "2026-09-25T12:23:43.429727+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
+    {
+      "title": "〈美股盤後〉股債雙殺！美債殖利率飆至19年高點 那指、費半跌逾1%",
+      "summary": "〈美股盤後〉股債雙殺！美債殖利率飆至19年高點 那指、費半跌逾1% 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CenQ3T2c3b25Nd015RmptUkpQc1M2b0VYaU9OLUEzTkQ5clZGdHZndEJ3Q3hDSUhUVk1pb0pDQUUtTHZmekR1a2lpdw?oc=5",
+      "published": "Wed, 23 Sep 2026 21:44:26 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1,
+      "importance_score": 92,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
     {
       "title": "財經青紅燈》聯準會與台灣央行",
       "summary": "財經青紅燈》聯準會與台灣央行 自由財經",
@@ -11,8 +27,8 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZ3pQMjNvVkJxbzlpcTcyam5rVGtaM3FYZGNqZEZ2cXNKOHNicGlCQkVPaG1YU1lsZjZfbTk5Z2g2VjFBTTBlaUtvX0R6QzlIRE1zaVp30gFbQVVfeXFMTUtVV2lHMldTV0M2dnVaM0Z1WkJXcnpYQU9Yc2MxR0htZFN1TWlDQUhFaWZuNXJUWmZ6N0ZGV2tEWHZlbWJQRUV4QXJFUTlkTkF0cE4tU0hxbVRWOA?oc=5",
       "published": "Tue, 22 Sep 2026 21:30:00 GMT",
       "topic": "Fed / 利率",
-      "rank": 1,
-      "importance_score": 75,
+      "rank": 2,
+      "importance_score": 73,
       "related_assets": [
         "UST",
         "USD",
@@ -27,30 +43,14 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DQjZ0NGMxenJnQndMOXFPRkE0dndlYXVMUFNkTkVfZENZbWhJUUl1UGVsZko2Z0RWdW1DeEZCWEtHdWI1czVsTjVTSQ?oc=5",
       "published": "Fri, 25 Sep 2026 06:10:03 GMT",
       "topic": "美股",
-      "rank": 2,
-      "importance_score": 64,
+      "rank": 3,
+      "importance_score": 62,
       "related_assets": [
         "S&P 500",
         "Nasdaq",
         "UST"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "Fed升息油價高檔怎麼投？富蘭克林喊Q4偏多 AI續當主角、黃金可配1成 - news.cnyes.com",
-      "summary": "Fed升息油價高檔怎麼投？富蘭克林喊Q4偏多 AI續當主角、黃金可配1成 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Penl0X1YycXpTRE05ZVBsUlk1ZjFPX2JoZkk1dFhJNnkyanZYa3JobExWTXlZVEczdGxpNUJBNmNYV3h4YWdJWUJ6VWhBeDQ?oc=5",
-      "published": "Wed, 23 Sep 2026 12:13:59 GMT",
-      "topic": "Fed / 利率",
-      "rank": 3,
-      "importance_score": 71,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、時效性高、具明確資產關聯"
     },
     {
       "title": "AI、機器人啟動中國工業5.0！大摩：未來10年估增投12兆美元資本支出",
@@ -69,11 +69,11 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "花旗點名三大市場醞釀「空單回補」",
-      "summary": "花旗點名三大市場醞釀「空單回補」 鉅亨網",
+      "title": "伊朗否認與美就「分階段」重開海峽進行談判！威脅將戰事擴大至印度洋地區、油市震盪",
+      "summary": "伊朗否認與美就「分階段」重開海峽進行談判！威脅將戰事擴大至印度洋地區、油市震盪 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qZndxcUVBaHJSOHdIcGxGOVVCWmN6SS1veUxYYWRBUEJBdnRFdUctTmdFbkliVGVJOGhQNG5RVWVMUWQ2TnlHdTdURQ?oc=5",
-      "published": "Wed, 23 Sep 2026 05:10:03 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HU0F3M3k1dVZaSFlMNTd4TDJ5bzlsZk95UVVWUTF1bkFSU2RtS3BPTUNwSExUMHVJUngzS0tRQVJud2NMY18wU2gyZw?oc=5",
+      "published": "Fri, 25 Sep 2026 04:20:03 GMT",
       "topic": "全球市場",
       "rank": 5,
       "importance_score": 49,
