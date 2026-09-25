@@ -1,7 +1,8 @@
 {
-  "as_of": "2026-09-24T23:37:37.756039+00:00",
+  "as_of": "2026-09-24T23:58:51.313487+00:00",
   "source": "Google News RSS",
-  "strategy": "Top 5 market stories; source quality + recency + market impact + deduplication; no forced categories",
+  "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
+  "engine": "Market Importance Engine V1",
   "items": [
     {
       "title": "〈美股盤後〉股債雙殺！美債殖利率飆至19年高點 那指、費半跌逾1%",
@@ -10,16 +11,30 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CenQ3T2c3b25Nd015RmptUkpQc1M2b0VYaU9OLUEzTkQ5clZGdHZndEJ3Q3hDSUhUVk1pb0pDQUUtTHZmekR1a2lpdw?oc=5",
       "published": "Wed, 23 Sep 2026 21:44:26 GMT",
       "topic": "Fed / 利率",
-      "rank": 1
+      "rank": 1,
+      "importance_score": 92,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "財經青紅燈》聯準會與台灣央行",
-      "summary": "財經青紅燈》聯準會與台灣央行 自由財經",
-      "source": "自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZ3pQMjNvVkJxbzlpcTcyam5rVGtaM3FYZGNqZEZ2cXNKOHNicGlCQkVPaG1YU1lsZjZfbTk5Z2g2VjFBTTBlaUtvX0R6QzlIRE1zaVp30gFbQVVfeXFMTUtVV2lHMldTV0M2dnVaM0Z1WkJXcnpYQU9Yc2MxR0htZFN1TWlDQUhFaWZuNXJUWmZ6N0ZGV2tEWHZlbWJQRUV4QXJFUTlkTkF0cE4tU0hxbVRWOA?oc=5",
-      "published": "Tue, 22 Sep 2026 21:30:00 GMT",
+      "title": "〈貴金屬盤後〉Fed官員接連放鷹 黃金挫逾1%逼近一周最低",
+      "summary": "〈貴金屬盤後〉Fed官員接連放鷹 黃金挫逾1%逼近一周最低 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vNnVkSkI5dkZtY1hnbTdESXpQNzBqNmpOalFVYUJuVS0wVWM1WUw1clA5X1FlVWd0bFFjSFQwVktZRUF3eC1EYV9pTQ?oc=5",
+      "published": "Wed, 23 Sep 2026 22:52:40 GMT",
       "topic": "Fed / 利率",
-      "rank": 2
+      "rank": 2,
+      "importance_score": 78,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
       "title": "今年來中國黃金進口額接近1,600億美元 衝上歷史新高",
@@ -28,7 +43,14 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoemlBOEJIN2I2SWkzWG1teFU3Vi1SWnBDSC1DY05BaUVnZ2tXbjV1V0R2TWswODVGRmNzRGJlWHRIb2p4Rkk2OXBtMA?oc=5",
       "published": "Thu, 24 Sep 2026 13:35:33 GMT",
       "topic": "黃金",
-      "rank": 3
+      "rank": 3,
+      "importance_score": 73,
+      "related_assets": [
+        "Gold",
+        "USD",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
       "title": "Arm警告：AI推理每天產生百億Token 記憶體正成為邊緣運算最大瓶頸",
@@ -37,16 +59,30 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yU0ZrN3pfaHhpQlNYN1ZEOHQ1WkZvVWRnTW81dkhOVzJaeUJaZWJrR21SVDdrdlNpX0xXYm1Lemh5SUtrazRTeWhuTQ?oc=5",
       "published": "Thu, 24 Sep 2026 08:10:07 GMT",
       "topic": "AI / 半導體",
-      "rank": 4
+      "rank": 4,
+      "importance_score": 64,
+      "related_assets": [
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "AI行情再起股匯齊揚！新台幣連4紅收31.708元",
-      "summary": "AI行情再起股匯齊揚！新台幣連4紅收31.708元 自由財經",
-      "source": "自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YQXhkR1Y2SEJfb1RqU1BNZ1hIdE03Y0V0N1VHdnVsSmlrQ3pwWjNZUUtHWk1jT0dOeDJEYUZ0c0VyaUZVdGRqbHFXUnlkSFBYbi1MSUJLalh3SzBObmlB0gFkQVVfeXFMT2E4RnU5VFZWcUVicUZweTgwMHZISjRFcUFOQzVJMnNzVm9wemZVaUpVc2pYZGp2ZWo0S0cycllZYlpHaDJBVnRCaHlBQjNkM2F0RGZPTmhFRF84aVJpRWlNOC1Edw?oc=5",
-      "published": "Tue, 22 Sep 2026 11:15:56 GMT",
-      "topic": "AI / 半導體",
-      "rank": 5
+      "title": "花旗點名三大市場醞釀「空單回補」",
+      "summary": "花旗點名三大市場醞釀「空單回補」 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qZndxcUVBaHJSOHdIcGxGOVVCWmN6SS1veUxYYWRBUEJBdnRFdUctTmdFbkliVGVJOGhQNG5RVWVMUWQ2TnlHdTdURQ?oc=5",
+      "published": "Wed, 23 Sep 2026 05:10:03 GMT",
+      "topic": "全球市場",
+      "rank": 5,
+      "importance_score": 49,
+      "related_assets": [
+        "Global Equity",
+        "USD",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源"
     }
   ]
 }
