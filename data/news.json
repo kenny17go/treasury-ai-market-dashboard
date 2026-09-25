@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-25T20:35:23.348151+00:00",
+  "as_of": "2026-09-25T23:41:11.633322+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,11 +21,11 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "財經青紅燈》聯準會與台灣央行",
-      "summary": "財經青紅燈》聯準會與台灣央行 自由財經",
-      "source": "自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZ3pQMjNvVkJxbzlpcTcyam5rVGtaM3FYZGNqZEZ2cXNKOHNicGlCQkVPaG1YU1lsZjZfbTk5Z2g2VjFBTTBlaUtvX0R6QzlIRE1zaVp30gFbQVVfeXFMTUtVV2lHMldTV0M2dnVaM0Z1WkJXcnpYQU9Yc2MxR0htZFN1TWlDQUhFaWZuNXJUWmZ6N0ZGV2tEWHZlbWJQRUV4QXJFUTlkTkF0cE4tU0hxbVRWOA?oc=5",
-      "published": "Tue, 22 Sep 2026 21:30:00 GMT",
+      "title": "Fed升息油價高檔怎麼投？富蘭克林喊Q4偏多 AI續當主角、黃金可配1成 - news.cnyes.com",
+      "summary": "Fed升息油價高檔怎麼投？富蘭克林喊Q4偏多 AI續當主角、黃金可配1成 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Penl0X1YycXpTRE05ZVBsUlk1ZjFPX2JoZkk1dFhJNnkyanZYa3JobExWTXlZVEczdGxpNUJBNmNYV3h4YWdJWUJ6VWhBeDQ?oc=5",
+      "published": "Wed, 23 Sep 2026 12:13:59 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
       "importance_score": 73,
@@ -34,7 +34,7 @@
         "USD",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高市場影響主題、時效性高、具明確資產關聯"
     },
     {
       "title": "債市連環爆擊 美股恐迎大修正？",
