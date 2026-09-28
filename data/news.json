@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-09-28T14:37:54.125366+00:00",
+  "as_of": "2026-09-28T20:54:14.373786+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "中東地緣升溫、Fed升息1碼 看好台股AI長線題材",
-      "summary": "中東地緣升溫、Fed升息1碼 看好台股AI長線題材 自由財經",
-      "source": "自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1peTBUdGhyMVNRU1gzVHFVeVFlRGtjdHJaaHJSamRrUGt4NFJWV1RUSlg1emNubnY2ajJ1YVlCTVNBcHB4akJUaDdTYjZ6WlBQUjNzaWFwVVFFQTdsTHpN0gFkQVVfeXFMUEhMblRIdUpmLXlkZm9MSV9lbjF0VjQzbDFCemdOWkJvOThKYmROYURjc1B3aW85U0RjcjBlYVBaQWlhTWpJejFsZ2ZaUnFCMFNfb0ZqNGpwaENTZEk3c1dNSEd2ZQ?oc=5",
-      "published": "Sun, 27 Sep 2026 02:40:00 GMT",
+      "title": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點",
+      "summary": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYMk5RTXhaMXJldngydGR5U1AybnludE1MMjVJRHVtQTZISklGa0Rza19ibkNKc29zaXA0bmo3QXNYb0RDRFgydmxkRQ?oc=5",
+      "published": "Mon, 28 Sep 2026 13:43:58 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 90,
+      "importance_score": 100,
       "related_assets": [
         "UST",
         "USD",
@@ -21,68 +21,68 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點 - news.cnyes.com",
-      "summary": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWVThSd19TMVN4MkpZQUlyLVBqQ1VNcUVGUVhoWHhjNHRtdUQtUWRRMjY2N1pfTmpBMloxTG1IMk4zVHV5aXB5MHQwZ01wQXM?oc=5",
-      "published": "Mon, 28 Sep 2026 13:43:58 GMT",
+      "title": "中東地緣升溫、Fed升息1碼 看好台股AI長線題材",
+      "summary": "中東地緣升溫、Fed升息1碼 看好台股AI長線題材 自由財經",
+      "source": "自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1peTBUdGhyMVNRU1gzVHFVeVFlRGtjdHJaaHJSamRrUGt4NFJWV1RUSlg1emNubnY2ajJ1YVlCTVNBcHB4akJUaDdTYjZ6WlBQUjNzaWFwVVFFQTdsTHpN0gFkQVVfeXFMUEhMblRIdUpmLXlkZm9MSV9lbjF0VjQzbDFCemdOWkJvOThKYmROYURjc1B3aW85U0RjcjBlYVBaQWlhTWpJejFsZ2ZaUnFCMFNfb0ZqNGpwaENTZEk3c1dNSEd2ZQ?oc=5",
+      "published": "Sun, 27 Sep 2026 02:40:00 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 73,
+      "importance_score": 88,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高市場影響主題、時效性高、具明確資產關聯"
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈能源盤後〉美伊探索停戰路徑 油價回落逾2% Brent站回104美元 - cnyes.com",
-      "summary": "〈能源盤後〉美伊探索停戰路徑 油價回落逾2% Brent站回104美元 cnyes.com",
-      "source": "cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNUWhVSFBjeFlaTjhpTmxoaF95OExhdmxoMTU5Wkg1M0ltRnVsVkJ0TUhmX21VczAwLUoyejVQTU0xRGhueldEaUhPWQ?oc=5",
-      "published": "Fri, 25 Sep 2026 21:20:40 GMT",
+      "title": "七天內重開荷姆茲海峽？川普拒絕伊朗提案 油價跳漲4%",
+      "summary": "七天內重開荷姆茲海峽？川普拒絕伊朗提案 油價跳漲4% 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xSXdZREhGZmJvbUs5cmJ0UWhEZmRBbmYyazJXQ19EZnhGVGtjRThmeEl0ZkpuV1hVY1B5ay1tdFRGSHlJTWJRMi1Ebw?oc=5",
+      "published": "Mon, 28 Sep 2026 11:20:06 GMT",
       "topic": "能源",
       "rank": 3,
-      "importance_score": 52,
+      "importance_score": 69,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
-      "why_selected": "時效性高、具明確資產關聯"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈財經週報-台股看盤〉AI供應鏈長線仍具優勢 須留意短期波動風險 - 自由時報",
-      "summary": "〈財經週報-台股看盤〉AI供應鏈長線仍具優勢 須留意短期波動風險 自由時報",
-      "source": "自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85RmRfRVkxdGZoQWpOcDc5LVBRUnpHR2pXX2xVOGJhbDZXMjdKaml2RU5yN1MwckxBMkFqWUJRajVyWHB3c1hvRnB0UUpON0tOWjdmRGY2Yw?oc=5",
-      "published": "Mon, 28 Sep 2026 00:16:29 GMT",
-      "topic": "AI / 半導體",
-      "rank": 4,
-      "importance_score": 44,
-      "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
-      ],
-      "why_selected": "具明確資產關聯"
-    },
-    {
-      "title": "油價跌、油輪運價卻飆逾300%！大型原油運輸船租金突破50萬美元 - news.cnyes.com",
-      "summary": "油價跌、油輪運價卻飆逾300%！大型原油運輸船租金突破50萬美元 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JZFlQaFdKRWRWbFBTRlVHVXJXNGNwZ1MyTmZkT3hnQllGMFNFcmNfdTcteWhkWUNQTmFFQ3dQVTEwa0RTRGRLeUFISzNtdm8?oc=5",
-      "published": "Sun, 27 Sep 2026 13:00:02 GMT",
+      "title": "國際油價漲勢急煞車！美伊談判傳進展 川普願有條件鬆綁制裁",
+      "summary": "國際油價漲勢急煞車！美伊談判傳進展 川普願有條件鬆綁制裁 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wWVY5dC1fUWhXcXdNSzREanZ5Q3VrcEhfSE0zQWtjWGV4dy1jU2JWYUJIUS1nM3hfbmhCUXVDUmRhWHhWZnFpdzhnUQ?oc=5",
+      "published": "Mon, 28 Sep 2026 18:01:45 GMT",
       "topic": "能源",
-      "rank": 5,
-      "importance_score": 48,
+      "rank": 4,
+      "importance_score": 63,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
-      "why_selected": "具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "川習會表面風光、實質僵局 外媒點評：送給中國的華麗大禮",
+      "summary": "川習會表面風光、實質僵局 外媒點評：送給中國的華麗大禮 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycFNKci14ZXBsZ01tQ1phUzB5RW82QkQ2dnl4RjY5UGZrcVJDeVVPbDczdE1MTTN2dGNRTGNLMTF3ejlVSWlvaEh1NA?oc=5",
+      "published": "Mon, 28 Sep 2026 20:50:10 GMT",
+      "topic": "中國",
+      "rank": 5,
+      "importance_score": 58,
+      "related_assets": [
+        "CNH",
+        "China Equity",
+        "Commodities"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
     }
   ]
 }
