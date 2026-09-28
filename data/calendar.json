@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-25T23:43:31.869844+00:00",
+  "as_of": "2026-09-28T11:04:44.824228+00:00",
   "status": "ok",
   "source": "BEA + Federal Reserve + 中央銀行（台灣） + Bank of Japan + European Central Bank + Eurostat",
   "source_mode": "Official global central banks + official statistics + market-calendar enrichment",
@@ -166,6 +166,30 @@
       "date": "2026-11-20",
       "time": "21:30",
       "title": "Activities of U.S. Multinational Enterprises, 2024",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "BEA"
+    },
+    {
+      "date": "2026-11-25",
+      "time": "21:30",
+      "title": "GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "BEA"
+    },
+    {
+      "date": "2026-11-25",
+      "time": "21:30",
+      "title": "Personal Income and Outlays, October 2026",
       "country": "United States",
       "flag": "🇺🇸",
       "importance": 3,

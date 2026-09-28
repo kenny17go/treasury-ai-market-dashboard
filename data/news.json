@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-09-25T23:41:11.633322+00:00",
+  "as_of": "2026-09-28T11:02:38.404199+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "〈美股盤後〉股債雙殺！美債殖利率飆至19年高點 那指、費半跌逾1%",
-      "summary": "〈美股盤後〉股債雙殺！美債殖利率飆至19年高點 那指、費半跌逾1% 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CenQ3T2c3b25Nd015RmptUkpQc1M2b0VYaU9OLUEzTkQ5clZGdHZndEJ3Q3hDSUhUVk1pb0pDQUUtTHZmekR1a2lpdw?oc=5",
-      "published": "Wed, 23 Sep 2026 21:44:26 GMT",
+      "title": "中東地緣升溫、Fed升息1碼 看好台股AI長線題材",
+      "summary": "中東地緣升溫、Fed升息1碼 看好台股AI長線題材 自由財經",
+      "source": "自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1peTBUdGhyMVNRU1gzVHFVeVFlRGtjdHJaaHJSamRrUGt4NFJWV1RUSlg1emNubnY2ajJ1YVlCTVNBcHB4akJUaDdTYjZ6WlBQUjNzaWFwVVFFQTdsTHpN0gFkQVVfeXFMUEhMblRIdUpmLXlkZm9MSV9lbjF0VjQzbDFCemdOWkJvOThKYmROYURjc1B3aW85U0RjcjBlYVBaQWlhTWpJejFsZ2ZaUnFCMFNfb0ZqNGpwaENTZEk3c1dNSEd2ZQ?oc=5",
+      "published": "Sun, 27 Sep 2026 02:40:00 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 92,
+      "importance_score": 90,
       "related_assets": [
         "UST",
         "USD",
@@ -21,59 +21,59 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "Fed升息油價高檔怎麼投？富蘭克林喊Q4偏多 AI續當主角、黃金可配1成 - news.cnyes.com",
-      "summary": "Fed升息油價高檔怎麼投？富蘭克林喊Q4偏多 AI續當主角、黃金可配1成 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Penl0X1YycXpTRE05ZVBsUlk1ZjFPX2JoZkk1dFhJNnkyanZYa3JobExWTXlZVEczdGxpNUJBNmNYV3h4YWdJWUJ6VWhBeDQ?oc=5",
-      "published": "Wed, 23 Sep 2026 12:13:59 GMT",
+      "title": "債券拋售潮重現！川普拒伊朗方案：10年期殖利率逼近5.2%、油價漲破106美元",
+      "summary": "債券拋售潮重現！川普拒伊朗方案：10年期殖利率逼近5.2%、油價漲破106美元 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51dnhvclNqRjdZM1l4ZmNTVWkxbEJWRk5iNXZzUVg3ZGt6ckp4c1hnNHQ5dmM5dUFuaUFoMUpYZHdNelFFX3Z3bG1zNA?oc=5",
+      "published": "Mon, 28 Sep 2026 04:00:23 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 73,
+      "importance_score": 85,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高市場影響主題、時效性高、具明確資產關聯"
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "債市連環爆擊 美股恐迎大修正？",
-      "summary": "債市連環爆擊 美股恐迎大修正？ 鉅亨網",
+      "title": "〈能源盤後〉美伊探索停戰路徑 油價回落逾2% Brent站回104美元",
+      "summary": "〈能源盤後〉美伊探索停戰路徑 油價回落逾2% Brent站回104美元 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DQjZ0NGMxenJnQndMOXFPRkE0dndlYXVMUFNkTkVfZENZbWhJUUl1UGVsZko2Z0RWdW1DeEZCWEtHdWI1czVsTjVTSQ?oc=5",
-      "published": "Fri, 25 Sep 2026 06:10:03 GMT",
-      "topic": "美股",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNUWhVSFBjeFlaTjhpTmxoaF95OExhdmxoMTU5Wkg1M0ltRnVsVkJ0TUhmX21VczAwLUoyejVQTU0xRGhueldEaUhPWQ?oc=5",
+      "published": "Fri, 25 Sep 2026 21:20:40 GMT",
+      "topic": "能源",
       "rank": 3,
-      "importance_score": 62,
+      "importance_score": 77,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "美銀警告美股恐迎一波猛烈拋售！「兩大訊號」值得警惕",
+      "summary": "美銀警告美股恐迎一波猛烈拋售！「兩大訊號」值得警惕 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51c3FmTHhkTzFEOG5ia1lTTDVYMnFSc1dpbEVVUnlITkpnWEIyQ1BiNjhQTUh6LTA1UTk2RWNHVGpHcW9kbkpaSG9qYw?oc=5",
+      "published": "Sun, 27 Sep 2026 00:10:04 GMT",
+      "topic": "美股",
+      "rank": 4,
+      "importance_score": 60,
       "related_assets": [
         "S&P 500",
         "Nasdaq",
         "UST"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "AI、機器人啟動中國工業5.0！大摩：未來10年估增投12兆美元資本支出",
-      "summary": "AI、機器人啟動中國工業5.0！大摩：未來10年估增投12兆美元資本支出 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKRnhlWFVZYXhFMjE0eW50VmQ1WnpmYUZYQ0w1NnR4YUVpQmVkbER2eEd5M3R0dEw0d29wWjlsN3V4b3RtTkVseUZmMA?oc=5",
-      "published": "Fri, 25 Sep 2026 01:30:06 GMT",
-      "topic": "AI / 半導體",
-      "rank": 4,
-      "importance_score": 69,
-      "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
-      ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "川普政府評估「柴油出口禁令」！將如何影響油市與美國？",
-      "summary": "川普政府評估「柴油出口禁令」！將如何影響油市與美國？ 鉅亨網",
+      "title": "川普表態：非常認真考慮美國柴油出口禁令",
+      "summary": "川普表態：非常認真考慮美國柴油出口禁令 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96dWlaSVNWcVJZNWs2T0RDRUhteURrZEZDMHJDRHdOeGRqWjBBVFNVRXNRa2RDLVlqZFpWWlRMbDB4cWJKSDBJZThqVQ?oc=5",
-      "published": "Fri, 25 Sep 2026 05:10:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYT3Y4MmFSTExqZnF2eFM3dEVlVzRaZERJY3hSbjZHRWVhNzVKSzFIdEszN1FaSk5RTlZ1djJvSXViZDVRZGFGQUtVMA?oc=5",
+      "published": "Mon, 28 Sep 2026 02:35:01 GMT",
       "topic": "全球市場",
       "rank": 5,
       "importance_score": 49,
