@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-28T11:02:38.404199+00:00",
+  "as_of": "2026-09-28T14:37:54.125366+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,68 +21,68 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "債券拋售潮重現！川普拒伊朗方案：10年期殖利率逼近5.2%、油價漲破106美元",
-      "summary": "債券拋售潮重現！川普拒伊朗方案：10年期殖利率逼近5.2%、油價漲破106美元 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51dnhvclNqRjdZM1l4ZmNTVWkxbEJWRk5iNXZzUVg3ZGt6ckp4c1hnNHQ5dmM5dUFuaUFoMUpYZHdNelFFX3Z3bG1zNA?oc=5",
-      "published": "Mon, 28 Sep 2026 04:00:23 GMT",
+      "title": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點 - news.cnyes.com",
+      "summary": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWVThSd19TMVN4MkpZQUlyLVBqQ1VNcUVGUVhoWHhjNHRtdUQtUWRRMjY2N1pfTmpBMloxTG1IMk4zVHV5aXB5MHQwZ01wQXM?oc=5",
+      "published": "Mon, 28 Sep 2026 13:43:58 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 85,
+      "importance_score": 73,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+      "why_selected": "高市場影響主題、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈能源盤後〉美伊探索停戰路徑 油價回落逾2% Brent站回104美元",
-      "summary": "〈能源盤後〉美伊探索停戰路徑 油價回落逾2% Brent站回104美元 鉅亨網",
-      "source": "鉅亨網",
+      "title": "〈能源盤後〉美伊探索停戰路徑 油價回落逾2% Brent站回104美元 - cnyes.com",
+      "summary": "〈能源盤後〉美伊探索停戰路徑 油價回落逾2% Brent站回104美元 cnyes.com",
+      "source": "cnyes.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNUWhVSFBjeFlaTjhpTmxoaF95OExhdmxoMTU5Wkg1M0ltRnVsVkJ0TUhmX21VczAwLUoyejVQTU0xRGhueldEaUhPWQ?oc=5",
       "published": "Fri, 25 Sep 2026 21:20:40 GMT",
       "topic": "能源",
       "rank": 3,
-      "importance_score": 77,
+      "importance_score": 52,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "時效性高、具明確資產關聯"
     },
     {
-      "title": "美銀警告美股恐迎一波猛烈拋售！「兩大訊號」值得警惕",
-      "summary": "美銀警告美股恐迎一波猛烈拋售！「兩大訊號」值得警惕 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51c3FmTHhkTzFEOG5ia1lTTDVYMnFSc1dpbEVVUnlITkpnWEIyQ1BiNjhQTUh6LTA1UTk2RWNHVGpHcW9kbkpaSG9qYw?oc=5",
-      "published": "Sun, 27 Sep 2026 00:10:04 GMT",
-      "topic": "美股",
+      "title": "〈財經週報-台股看盤〉AI供應鏈長線仍具優勢 須留意短期波動風險 - 自由時報",
+      "summary": "〈財經週報-台股看盤〉AI供應鏈長線仍具優勢 須留意短期波動風險 自由時報",
+      "source": "自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85RmRfRVkxdGZoQWpOcDc5LVBRUnpHR2pXX2xVOGJhbDZXMjdKaml2RU5yN1MwckxBMkFqWUJRajVyWHB3c1hvRnB0UUpON0tOWjdmRGY2Yw?oc=5",
+      "published": "Mon, 28 Sep 2026 00:16:29 GMT",
+      "topic": "AI / 半導體",
       "rank": 4,
-      "importance_score": 60,
+      "importance_score": 44,
       "related_assets": [
-        "S&P 500",
+        "SOX",
         "Nasdaq",
-        "UST"
+        "TSM / NVDA"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "具明確資產關聯"
     },
     {
-      "title": "川普表態：非常認真考慮美國柴油出口禁令",
-      "summary": "川普表態：非常認真考慮美國柴油出口禁令 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYT3Y4MmFSTExqZnF2eFM3dEVlVzRaZERJY3hSbjZHRWVhNzVKSzFIdEszN1FaSk5RTlZ1djJvSXViZDVRZGFGQUtVMA?oc=5",
-      "published": "Mon, 28 Sep 2026 02:35:01 GMT",
-      "topic": "全球市場",
+      "title": "油價跌、油輪運價卻飆逾300%！大型原油運輸船租金突破50萬美元 - news.cnyes.com",
+      "summary": "油價跌、油輪運價卻飆逾300%！大型原油運輸船租金突破50萬美元 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JZFlQaFdKRWRWbFBTRlVHVXJXNGNwZ1MyTmZkT3hnQllGMFNFcmNfdTcteWhkWUNQTmFFQ3dQVTEwa0RTRGRLeUFISzNtdm8?oc=5",
+      "published": "Sun, 27 Sep 2026 13:00:02 GMT",
+      "topic": "能源",
       "rank": 5,
-      "importance_score": 49,
+      "importance_score": 48,
       "related_assets": [
-        "Global Equity",
-        "USD",
-        "UST"
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
-      "why_selected": "高品質財經來源"
+      "why_selected": "具明確資產關聯"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-25T23:43:33.305106+00:00",
+  "as_of": "2026-09-28T14:39:35.003245+00:00",
   "source": "TAIFEX 三大法人-區分各期貨契約",
   "source_url": "https://www.taifex.com.tw/cht/3/futContractsDateExcel",
   "status": "ok",
@@ -13,7 +13,5 @@
     "oi_net_contracts": -77031,
     "trade_long_contracts": 36223,
     "trade_short_contracts": 37132
-  },
-  "fallback_at": "2026-09-28T11:04:51.980831+00:00",
-  "fallback_reason": "latest source unavailable; preserving last good data"
+  }
 }
