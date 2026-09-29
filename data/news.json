@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-29T00:41:03.371404+00:00",
+  "as_of": "2026-09-29T04:46:49.847863+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
+      "title": "美債遭遇歷史性拋售 為何賣壓持續加劇？",
+      "summary": "美債遭遇歷史性拋售 為何賣壓持續加劇？ 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GdmkzX1NtX1BxU1VsWHNHbS00MFVIcDhNS0l5aHlZSWVLWWxiWW0xYmRFZVhpRUY3b3Q3UlAwRFpaNUZWWTRkeWo5OA?oc=5",
+      "published": "Mon, 28 Sep 2026 22:11:40 GMT",
+      "topic": "美債",
+      "rank": 4,
+      "importance_score": 63,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
       "title": "國際油價漲勢急煞車！美伊談判傳進展 川普願有條件鬆綁制裁",
       "summary": "國際油價漲勢急煞車！美伊談判傳進展 川普願有條件鬆綁制裁 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wWVY5dC1fUWhXcXdNSzREanZ5Q3VrcEhfSE0zQWtjWGV4dy1jU2JWYUJIUS1nM3hfbmhCUXVDUmRhWHhWZnFpdzhnUQ?oc=5",
       "published": "Mon, 28 Sep 2026 18:01:45 GMT",
       "topic": "能源",
-      "rank": 4,
-      "importance_score": 63,
+      "rank": 5,
+      "importance_score": 61,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "科技七雄估值降至10年低點 小摩看好止血回升、但難再主導美股",
-      "summary": "科技七雄估值降至10年低點 小摩看好止血回升、但難再主導美股 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jY01mVXBVRWpHQm12MFNzNjlIR08xS2FQZmpPUDJKeUpiWkYzS2g4dHR2aXdGS1plMjFZQ0U1enpZeHBBTXlkZnlGcw?oc=5",
-      "published": "Mon, 28 Sep 2026 23:22:55 GMT",
-      "topic": "美股",
-      "rank": 5,
-      "importance_score": 62,
-      "related_assets": [
-        "S&P 500",
-        "Nasdaq",
-        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
