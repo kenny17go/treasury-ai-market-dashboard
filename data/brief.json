@@ -2,30 +2,29 @@
   "mode": "rules",
   "headline": "市場風險情緒：中性",
   "bullets": [
-    "主要美股指數平均變動 -0.98%。",
+    "主要美股指數平均變動 +0.31%。",
     "美債10年殖利率 5.240%，日變動 +7.0 bps。",
-    "自選股強勢 NVDA +1.69%；較弱 ARM -8.72%。",
+    "自選股強勢 LITE +5.51%；較弱 AAPL -2.06%。",
     "2Y10Y 利差 +32.0 bps。"
   ],
-  "risk_score": 43,
+  "risk_score": 54,
   "risk_label": "中性",
   "yesterday_top": [
-    "美股主要指數平均 -0.98%，風險情緒中性。",
+    "美股主要指數平均 +0.31%，風險情緒中性。",
     "10Y 美債殖利率 5.240%。",
-    "DXY 日變動 +0.14%。"
+    "DXY 日變動 +0.20%。"
   ],
   "today_top": [
-    "新聞｜通膨、油價及美債殖利率齊升 美、台、韓 AI 金三角逆勢力抗 | 總經趨勢 | 要聞",
-    "新聞｜美伊外交談判陷僵局 中東原油出口回升難壓油價漲勢",
-    "新聞｜美債遭遇歷史性拋售 為何賣壓持續加劇？"
+    "🇺🇸 20:30 United States｜GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 2nd Quarter 2026; State PCE, 2025",
+    "🇺🇸 20:30 United States｜Personal Income and Outlays, August 2026"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +7.0 bps。",
-    "美元：DXY 日變動 +0.14%。",
-    "波動率：VIX 15.83。",
+    "美元：DXY 日變動 +0.20%。",
+    "波動率：VIX 16.19。",
     "曲線：2Y10Y +32.0 bps。"
   ],
-  "today_date_taipei": "2026-09-29",
+  "today_date_taipei": "2026-09-30",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-29T13:31:42.436309+00:00"
+  "as_of": "2026-09-29T18:50:23.972519+00:00"
 }
