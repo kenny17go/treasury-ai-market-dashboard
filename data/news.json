@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-09-30T10:43:30.475280+00:00",
+  "as_of": "2026-09-30T13:06:41.708137+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "通膨、油價及美債殖利率齊升 美、台、韓 AI 金三角逆勢力抗 | 總經趨勢 | 要聞",
-      "summary": "通膨、油價及美債殖利率齊升 美、台、韓 AI 金三角逆勢力抗 | 總經趨勢 | 要聞 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ESUpYTmNKVFlJa3JBb0QwdWNNdk9VOXhZZzQ3VTA4aWhLWC1VV1l3dmlQVXhQY3pwT3oxMFQ4VTlkaFh3UHBnd29yY1c1aTNzTE55Rmg5VkdHWlE?oc=5",
-      "published": "Tue, 29 Sep 2026 06:08:12 GMT",
+      "title": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點",
+      "summary": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYMk5RTXhaMXJldngydGR5U1AybnludE1MMjVJRHVtQTZISklGa0Rza19ibkNKc29zaXA0bmo3QXNYb0RDRFgydmxkRQ?oc=5",
+      "published": "Mon, 28 Sep 2026 13:43:58 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 99,
+      "importance_score": 100,
       "related_assets": [
         "UST",
         "USD",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點",
-      "summary": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點 鉅亨網",
+      "title": "債券拋售潮重現！川普拒伊朗方案：10年期殖利率逼近5.2%、油價漲破106美元",
+      "summary": "債券拋售潮重現！川普拒伊朗方案：10年期殖利率逼近5.2%、油價漲破106美元 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYMk5RTXhaMXJldngydGR5U1AybnludE1MMjVJRHVtQTZISklGa0Rza19ibkNKc29zaXA0bmo3QXNYb0RDRFgydmxkRQ?oc=5",
-      "published": "Mon, 28 Sep 2026 13:43:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51dnhvclNqRjdZM1l4ZmNTVWkxbEJWRk5iNXZzUVg3ZGt6ckp4c1hnNHQ5dmM5dUFuaUFoMUpYZHdNelFFX3Z3bG1zNA?oc=5",
+      "published": "Mon, 28 Sep 2026 04:00:23 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 98,
+      "importance_score": 85,
       "related_assets": [
         "UST",
         "USD",
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
+      "title": "美債遭遇歷史性拋售 為何賣壓持續加劇？",
+      "summary": "美債遭遇歷史性拋售 為何賣壓持續加劇？ 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GdmkzX1NtX1BxU1VsWHNHbS00MFVIcDhNS0l5aHlZSWVLWWxiWW0xYmRFZVhpRUY3b3Q3UlAwRFpaNUZWWTRkeWo5OA?oc=5",
+      "published": "Mon, 28 Sep 2026 22:11:40 GMT",
+      "topic": "美債",
+      "rank": 4,
+      "importance_score": 63,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
       "title": "七天內重開荷姆茲海峽？川普拒絕伊朗提案 油價跳漲4%",
       "summary": "七天內重開荷姆茲海峽？川普拒絕伊朗提案 油價跳漲4% 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xSXdZREhGZmJvbUs5cmJ0UWhEZmRBbmYyazJXQ19EZnhGVGtjRThmeEl0ZkpuV1hVY1B5ay1tdFRGSHlJTWJRMi1Ebw?oc=5",
       "published": "Mon, 28 Sep 2026 11:20:06 GMT",
       "topic": "能源",
-      "rank": 4,
-      "importance_score": 67,
+      "rank": 5,
+      "importance_score": 65,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "〈貴金屬盤後〉金價從七周低點反彈 仍低於100日均線",
-      "summary": "〈貴金屬盤後〉金價從七周低點反彈 仍低於100日均線 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83eV9Mb0pXTGJHRE5URzkwRjJqQTBzNmtFdUlGYkE5aGpfVklHcUZ2NlQ0Q1lrUFJIR1hpajFlekloV2IyR3l1OGJNaw?oc=5",
-      "published": "Tue, 29 Sep 2026 23:01:54 GMT",
-      "topic": "黃金",
-      "rank": 5,
-      "importance_score": 57,
-      "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }

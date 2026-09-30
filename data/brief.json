@@ -7,25 +7,23 @@
     "自選股強勢 LITE +5.61%；較弱 AAPL -2.60%。",
     "2Y10Y 利差 +37.0 bps。"
   ],
-  "risk_score": 53,
+  "risk_score": 58,
   "risk_label": "中性",
   "yesterday_top": [
     "美股主要指數平均 +0.21%，風險情緒中性。",
     "10Y 美債殖利率 5.260%。",
-    "DXY 日變動 -0.16%。"
+    "DXY 日變動 -0.25%。"
   ],
   "today_top": [
-    "🇺🇸 20:30 United States｜GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 2nd Quarter 2026; State PCE, 2025",
-    "🇺🇸 20:30 United States｜Personal Income and Outlays, August 2026",
     "新聞｜AI交易大退潮！韓股Q3暴跌18.8% 但今年來累漲60%仍勝標普2.3%漲幅"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +2.0 bps。",
-    "美元：DXY 日變動 -0.16%。",
-    "波動率：VIX 16.03。",
+    "美元：DXY 日變動 -0.25%。",
+    "波動率：VIX 15.85。",
     "曲線：2Y10Y +37.0 bps。"
   ],
   "today_date_taipei": "2026-09-30",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-09-30T10:45:21.419749+00:00"
+  "as_of": "2026-09-30T13:08:47.701621+00:00"
 }
