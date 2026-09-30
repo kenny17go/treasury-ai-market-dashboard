@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-30T18:30:30.157306+00:00",
+  "as_of": "2026-09-30T22:29:27.448054+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,33 +53,33 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "AI交易大退潮！韓股Q3暴跌18.8% 但今年來累漲60%仍勝標普2.3%漲幅",
-      "summary": "AI交易大退潮！韓股Q3暴跌18.8% 但今年來累漲60%仍勝標普2.3%漲幅 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DZzdEVXZOYXA1YU8tVVk1Z0hmR3NmV3JBVGJ2UnotNnlWRkVYYVA3b1hGT0E0WjJoVTdoSTFaM2dYZ1JtT01jWDZsNA?oc=5",
-      "published": "Wed, 30 Sep 2026 08:20:03 GMT",
-      "topic": "AI / 半導體",
-      "rank": 4,
-      "importance_score": 69,
-      "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
       "title": "美債遭遇歷史性拋售 為何賣壓持續加劇？",
       "summary": "美債遭遇歷史性拋售 為何賣壓持續加劇？ 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GdmkzX1NtX1BxU1VsWHNHbS00MFVIcDhNS0l5aHlZSWVLWWxiWW0xYmRFZVhpRUY3b3Q3UlAwRFpaNUZWWTRkeWo5OA?oc=5",
       "published": "Mon, 28 Sep 2026 22:11:40 GMT",
       "topic": "美債",
-      "rank": 5,
-      "importance_score": 61,
+      "rank": 4,
+      "importance_score": 63,
       "related_assets": [
         "UST",
         "USD",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "國際油價漲勢急煞車！美伊談判傳進展 川普願有條件鬆綁制裁",
+      "summary": "國際油價漲勢急煞車！美伊談判傳進展 川普願有條件鬆綁制裁 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wWVY5dC1fUWhXcXdNSzREanZ5Q3VrcEhfSE0zQWtjWGV4dy1jU2JWYUJIUS1nM3hfbmhCUXVDUmRhWHhWZnFpdzhnUQ?oc=5",
+      "published": "Mon, 28 Sep 2026 18:01:45 GMT",
+      "topic": "能源",
+      "rank": 5,
+      "importance_score": 61,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
