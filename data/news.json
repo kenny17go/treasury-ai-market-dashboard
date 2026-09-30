@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-30T01:41:43.324192+00:00",
+  "as_of": "2026-09-30T04:32:46.185835+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,34 +37,34 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "七天內重開荷姆茲海峽？川普拒絕伊朗提案 油價跳漲4%",
-      "summary": "七天內重開荷姆茲海峽？川普拒絕伊朗提案 油價跳漲4% 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xSXdZREhGZmJvbUs5cmJ0UWhEZmRBbmYyazJXQ19EZnhGVGtjRThmeEl0ZkpuV1hVY1B5ay1tdFRGSHlJTWJRMi1Ebw?oc=5",
-      "published": "Mon, 28 Sep 2026 11:20:06 GMT",
-      "topic": "能源",
-      "rank": 3,
-      "importance_score": 69,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
       "title": "〈貴金屬盤後〉金價從七周低點反彈 仍低於100日均線",
       "summary": "〈貴金屬盤後〉金價從七周低點反彈 仍低於100日均線 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83eV9Mb0pXTGJHRE5URzkwRjJqQTBzNmtFdUlGYkE5aGpfVklHcUZ2NlQ0Q1lrUFJIR1hpajFlekloV2IyR3l1OGJNaw?oc=5",
       "published": "Tue, 29 Sep 2026 23:01:54 GMT",
       "topic": "黃金",
-      "rank": 4,
-      "importance_score": 59,
+      "rank": 3,
+      "importance_score": 61,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "七天內重開荷姆茲海峽？川普拒絕伊朗提案 油價跳漲4%",
+      "summary": "七天內重開荷姆茲海峽？川普拒絕伊朗提案 油價跳漲4% 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xSXdZREhGZmJvbUs5cmJ0UWhEZmRBbmYyazJXQ19EZnhGVGtjRThmeEl0ZkpuV1hVY1B5ay1tdFRGSHlJTWJRMi1Ebw?oc=5",
+      "published": "Mon, 28 Sep 2026 11:20:06 GMT",
+      "topic": "能源",
+      "rank": 4,
+      "importance_score": 67,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
