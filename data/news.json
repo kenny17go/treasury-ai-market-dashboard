@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-29T22:44:42.655322+00:00",
+  "as_of": "2026-09-30T01:41:43.324192+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,36 +53,36 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
+      "title": "〈貴金屬盤後〉金價從七周低點反彈 仍低於100日均線",
+      "summary": "〈貴金屬盤後〉金價從七周低點反彈 仍低於100日均線 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83eV9Mb0pXTGJHRE5URzkwRjJqQTBzNmtFdUlGYkE5aGpfVklHcUZ2NlQ0Q1lrUFJIR1hpajFlekloV2IyR3l1OGJNaw?oc=5",
+      "published": "Tue, 29 Sep 2026 23:01:54 GMT",
+      "topic": "黃金",
+      "rank": 4,
+      "importance_score": 59,
+      "related_assets": [
+        "Gold",
+        "USD",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
       "title": "國際油價漲勢急煞車！美伊談判傳進展 川普願有條件鬆綁制裁",
       "summary": "國際油價漲勢急煞車！美伊談判傳進展 川普願有條件鬆綁制裁 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wWVY5dC1fUWhXcXdNSzREanZ5Q3VrcEhfSE0zQWtjWGV4dy1jU2JWYUJIUS1nM3hfbmhCUXVDUmRhWHhWZnFpdzhnUQ?oc=5",
       "published": "Mon, 28 Sep 2026 18:01:45 GMT",
       "topic": "能源",
-      "rank": 4,
-      "importance_score": 63,
+      "rank": 5,
+      "importance_score": 61,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "全球經濟指標 | 鉅亨網 - 金融行事曆",
-      "summary": "全球經濟指標 | 鉅亨網 - 金融行事曆 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-      "published": "Tue, 29 Sep 2026 12:40:33 GMT",
-      "topic": "全球市場",
-      "rank": 5,
-      "importance_score": 49,
-      "related_assets": [
-        "Global Equity",
-        "USD",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源"
     }
   ]
 }
