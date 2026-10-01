@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-01T04:43:28.036081+00:00",
+  "as_of": "2026-10-01T11:13:33.899176+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,68 +21,68 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點",
-      "summary": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點 鉅亨網",
-      "source": "鉅亨網",
+      "title": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點 - cnyes.com",
+      "summary": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點 cnyes.com",
+      "source": "cnyes.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYMk5RTXhaMXJldngydGR5U1AybnludE1MMjVJRHVtQTZISklGa0Rza19ibkNKc29zaXA0bmo3QXNYb0RDRFgydmxkRQ?oc=5",
       "published": "Mon, 28 Sep 2026 13:43:58 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 98,
+      "importance_score": 73,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+      "why_selected": "高市場影響主題、時效性高、具明確資產關聯"
     },
     {
-      "title": "美伊外交談判陷僵局 中東原油出口回升難壓油價漲勢",
-      "summary": "美伊外交談判陷僵局 中東原油出口回升難壓油價漲勢 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11STVfR1IyanVLSEltWGhmLXFJSENhMVRoWU42SEZLQWs5REIwMVFPdG1lLXNmbXJhWEthc256c2h2OVlZVE9RTWFpOA?oc=5",
-      "published": "Tue, 29 Sep 2026 10:20:03 GMT",
+      "title": "【財經縱覽】：美伊談判獲進展？WTI原油巨震、黃金重挫近4%，美股全線下挫 - mitrade.com",
+      "summary": "【財經縱覽】：美伊談判獲進展？WTI原油巨震、黃金重挫近4%，美股全線下挫 mitrade.com",
+      "source": "mitrade.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xY2Y5ZTNJYWMtT3RsR1ZnY0pFZ2xFRklXcXVvVEVQcU82V092RWwzS3l3bDhRYlZRNmJqSlJzbVRLVi1XaWhaSzgyUk51YUFkQ001X2FxQ1JOb0MxaUdlYm9BLUwxMkNXZzFJMkpLcVJlZ29HV1lJeTBsQjR3aE0?oc=5",
+      "published": "Tue, 29 Sep 2026 00:52:58 GMT",
       "topic": "能源",
       "rank": 3,
-      "importance_score": 73,
+      "importance_score": 63,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高市場影響主題、時效性高、具明確資產關聯"
     },
     {
-      "title": "黃金理應通膨飆升時避險 為何現在卻失靈？",
-      "summary": "黃金理應通膨飆升時避險 為何現在卻失靈？ 鉅亨網",
-      "source": "鉅亨網",
+      "title": "全球債市創數年最差月份 歐美股市9月走跌油價走揚 - finance.ftvnews.com.tw",
+      "summary": "全球債市創數年最差月份 歐美股市9月走跌油價走揚 finance.ftvnews.com.tw",
+      "source": "finance.ftvnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zTjJnaWxkRGNFY2tTanFqdi12UzRua0tUQU4xSzA2dE9VZjRCYmdJVExGdE5rQ25LQVVGc3dNWU1iRzV3RThHRjR2YTMwQ2x4OUphT0ZZaTJ4X0s1cXROZk4taTRmQQ?oc=5",
+      "published": "Wed, 30 Sep 2026 22:14:27 GMT",
+      "topic": "能源",
+      "rank": 4,
+      "importance_score": 47,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "具明確資產關聯"
+    },
+    {
+      "title": "黃金理應通膨飆升時避險 為何現在卻失靈？ - cnyes.com",
+      "summary": "黃金理應通膨飆升時避險 為何現在卻失靈？ cnyes.com",
+      "source": "cnyes.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KZEY4Wkd0S0VmTGhZZ0tKTUQzM3NNT3ZOOUw0STZ4cXZ2Mlc0SkFhcUswa01LMWlYNHk0TGY3LVhyTGV6ODlzZVJmWQ?oc=5",
       "published": "Thu, 01 Oct 2026 02:30:05 GMT",
       "topic": "黃金",
-      "rank": 4,
-      "importance_score": 61,
+      "rank": 5,
+      "importance_score": 38,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "七天內重開荷姆茲海峽？川普拒絕伊朗提案 油價跳漲4%",
-      "summary": "七天內重開荷姆茲海峽？川普拒絕伊朗提案 油價跳漲4% 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xSXdZREhGZmJvbUs5cmJ0UWhEZmRBbmYyazJXQ19EZnhGVGtjRThmeEl0ZkpuV1hVY1B5ay1tdFRGSHlJTWJRMi1Ebw?oc=5",
-      "published": "Mon, 28 Sep 2026 11:20:06 GMT",
-      "topic": "能源",
-      "rank": 5,
-      "importance_score": 65,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "具明確資產關聯"
     }
   ]
 }

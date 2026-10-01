@@ -12,18 +12,19 @@
   "yesterday_top": [
     "美股主要指數平均 -0.20%，風險情緒中性。",
     "10Y 美債殖利率 5.290%。",
-    "DXY 日變動 +0.17%。"
+    "DXY 日變動 +0.32%。"
   ],
   "today_top": [
-    "新聞｜黃金理應通膨飆升時避險 為何現在卻失靈？"
+    "新聞｜全球債市創數年最差月份 歐美股市9月走跌油價走揚 - finance.ftvnews.com.tw",
+    "新聞｜黃金理應通膨飆升時避險 為何現在卻失靈？ - cnyes.com"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +3.0 bps。",
-    "美元：DXY 日變動 +0.17%。",
-    "波動率：VIX 16.34。",
+    "美元：DXY 日變動 +0.32%。",
+    "波動率：VIX 16.26。",
     "曲線：2Y10Y +41.0 bps。"
   ],
   "today_date_taipei": "2026-10-01",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-10-01T04:45:19.200557+00:00"
+  "as_of": "2026-10-01T11:15:50.347950+00:00"
 }
