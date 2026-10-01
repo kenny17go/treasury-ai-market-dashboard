@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-01T01:25:22.527895+00:00",
+  "as_of": "2026-10-01T04:43:28.036081+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
+      "title": "黃金理應通膨飆升時避險 為何現在卻失靈？",
+      "summary": "黃金理應通膨飆升時避險 為何現在卻失靈？ 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KZEY4Wkd0S0VmTGhZZ0tKTUQzM3NNT3ZOOUw0STZ4cXZ2Mlc0SkFhcUswa01LMWlYNHk0TGY3LVhyTGV6ODlzZVJmWQ?oc=5",
+      "published": "Thu, 01 Oct 2026 02:30:05 GMT",
+      "topic": "黃金",
+      "rank": 4,
+      "importance_score": 61,
+      "related_assets": [
+        "Gold",
+        "USD",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
       "title": "七天內重開荷姆茲海峽？川普拒絕伊朗提案 油價跳漲4%",
       "summary": "七天內重開荷姆茲海峽？川普拒絕伊朗提案 油價跳漲4% 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xSXdZREhGZmJvbUs5cmJ0UWhEZmRBbmYyazJXQ19EZnhGVGtjRThmeEl0ZkpuV1hVY1B5ay1tdFRGSHlJTWJRMi1Ebw?oc=5",
       "published": "Mon, 28 Sep 2026 11:20:06 GMT",
       "topic": "能源",
-      "rank": 4,
-      "importance_score": 67,
+      "rank": 5,
+      "importance_score": 65,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "AI交易大退潮！韓股Q3暴跌18.8% 但今年來累漲60%仍勝標普2.3%漲幅",
-      "summary": "AI交易大退潮！韓股Q3暴跌18.8% 但今年來累漲60%仍勝標普2.3%漲幅 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DZzdEVXZOYXA1YU8tVVk1Z0hmR3NmV3JBVGJ2UnotNnlWRkVYYVA3b1hGT0E0WjJoVTdoSTFaM2dYZ1JtT01jWDZsNA?oc=5",
-      "published": "Wed, 30 Sep 2026 08:20:03 GMT",
-      "topic": "AI / 半導體",
-      "rank": 5,
-      "importance_score": 67,
-      "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
