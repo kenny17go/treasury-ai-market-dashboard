@@ -2,29 +2,28 @@
   "mode": "rules",
   "headline": "市場風險情緒：中性",
   "bullets": [
-    "主要美股指數平均變動 +0.16%。",
+    "主要美股指數平均變動 +0.52%。",
     "美債10年殖利率 5.290%，日變動 +3.0 bps。",
-    "自選股強勢 LITE +4.64%；較弱 MU -1.89%。",
+    "自選股強勢 COHR +11.06%；較弱 SWKS -2.87%。",
     "2Y10Y 利差 +41.0 bps。"
   ],
-  "risk_score": 52,
+  "risk_score": 56,
   "risk_label": "中性",
   "yesterday_top": [
-    "美股主要指數平均 +0.16%，風險情緒中性。",
+    "美股主要指數平均 +0.52%，風險情緒中性。",
     "10Y 美債殖利率 5.290%。",
-    "DXY 日變動 +0.29%。"
+    "DXY 日變動 +0.63%。"
   ],
   "today_top": [
-    "新聞｜油價破百與升息雙殺！債券、郵輪、貴金屬淪Q3最大輸家 贏家竟有比特幣和科技股",
-    "新聞｜黃金理應通膨飆升時避險 為何現在卻失靈？"
+    "🇪🇺 17:00 Eurozone｜歐元區 HICP / CPI（9月初值）"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +3.0 bps。",
-    "美元：DXY 日變動 +0.29%。",
-    "波動率：VIX 16.78。",
+    "美元：DXY 日變動 +0.63%。",
+    "波動率：VIX 16.34。",
     "曲線：2Y10Y +41.0 bps。"
   ],
-  "today_date_taipei": "2026-10-01",
+  "today_date_taipei": "2026-10-02",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-10-01T14:01:58.751215+00:00"
+  "as_of": "2026-10-01T19:18:54.602366+00:00"
 }

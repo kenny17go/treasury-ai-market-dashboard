@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-01T14:00:15.266245+00:00",
+  "as_of": "2026-10-01T19:17:04.129730+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,34 +21,34 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "油價破百與升息雙殺！債券、郵輪、貴金屬淪Q3最大輸家 贏家竟有比特幣和科技股",
-      "summary": "油價破百與升息雙殺！債券、郵輪、貴金屬淪Q3最大輸家 贏家竟有比特幣和科技股 鉅亨網",
+      "title": "美債殖利率衝5.34%！這波債市賣壓為何停不下來？",
+      "summary": "美債殖利率衝5.34%！這波債市賣壓為何停不下來？ 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNVGhKUHhQOHk1VDRLTEF5RkMweFA1Sk5JZUEyTjZRVXBCbFl5Wk5RSnhOQ1BMdEp1Zi1lZ2NqWnY2RnBoTjc5NFdzcw?oc=5",
-      "published": "Thu, 01 Oct 2026 06:00:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PU2tDVzNNc1Y5RndaR2l2NzRNc1hvaDM5WFJGeDFVaWtLZXk3cDlDSVlZbU1CakpiU3N2S0JJX1N1allRLThMdDlncw?oc=5",
+      "published": "Thu, 01 Oct 2026 15:30:05 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 78,
+      "importance_score": 85,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "美伊外交談判陷僵局 中東原油出口回升難壓油價漲勢",
-      "summary": "美伊外交談判陷僵局 中東原油出口回升難壓油價漲勢 鉅亨網",
+      "title": "黃金理應通膨飆升時避險 為何現在卻失靈？",
+      "summary": "黃金理應通膨飆升時避險 為何現在卻失靈？ 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11STVfR1IyanVLSEltWGhmLXFJSENhMVRoWU42SEZLQWs5REIwMVFPdG1lLXNmbXJhWEthc256c2h2OVlZVE9RTWFpOA?oc=5",
-      "published": "Tue, 29 Sep 2026 10:20:03 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KZEY4Wkd0S0VmTGhZZ0tKTUQzM3NNT3ZOOUw0STZ4cXZ2Mlc0SkFhcUswa01LMWlYNHk0TGY3LVhyTGV6ODlzZVJmWQ?oc=5",
+      "published": "Thu, 01 Oct 2026 02:30:05 GMT",
+      "topic": "黃金",
       "rank": 3,
-      "importance_score": 73,
+      "importance_score": 63,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "黃金理應通膨飆升時避險 為何現在卻失靈？",
-      "summary": "黃金理應通膨飆升時避險 為何現在卻失靈？ 鉅亨網",
+      "title": "美債遭遇歷史性拋售 為何賣壓持續加劇？",
+      "summary": "美債遭遇歷史性拋售 為何賣壓持續加劇？ 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KZEY4Wkd0S0VmTGhZZ0tKTUQzM3NNT3ZOOUw0STZ4cXZ2Mlc0SkFhcUswa01LMWlYNHk0TGY3LVhyTGV6ODlzZVJmWQ?oc=5",
-      "published": "Thu, 01 Oct 2026 02:30:05 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GdmkzX1NtX1BxU1VsWHNHbS00MFVIcDhNS0l5aHlZSWVLWWxiWW0xYmRFZVhpRUY3b3Q3UlAwRFpaNUZWWTRkeWo5OA?oc=5",
+      "published": "Mon, 28 Sep 2026 22:11:40 GMT",
+      "topic": "美債",
       "rank": 5,
-      "importance_score": 59,
+      "importance_score": 61,
       "related_assets": [
-        "Gold",
+        "UST",
         "USD",
-        "UST"
+        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
