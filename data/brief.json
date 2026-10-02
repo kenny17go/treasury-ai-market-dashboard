@@ -15,7 +15,8 @@
     "DXY 日變動 +0.58%。"
   ],
   "today_top": [
-    "🇪🇺 17:00 Eurozone｜歐元區 HICP / CPI（9月初值）"
+    "🇪🇺 17:00 Eurozone｜歐元區 HICP / CPI（9月初值）",
+    "新聞｜Fed蘿根：至少應再升息2碼 並需連番升息來抵銷去年秋季降息"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -5.0 bps。",
@@ -25,5 +26,5 @@
   ],
   "today_date_taipei": "2026-10-02",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-10-01T23:19:03.301561+00:00"
+  "as_of": "2026-10-02T02:23:25.833060+00:00"
 }
