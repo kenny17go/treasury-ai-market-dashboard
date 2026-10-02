@@ -1,88 +1,88 @@
 {
-  "as_of": "2026-10-02T13:18:02.341341+00:00",
+  "as_of": "2026-10-02T18:34:03.837712+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "Fed蘿根：至少應再升息2碼 並需連番升息來抵銷去年秋季降息",
-      "summary": "Fed蘿根：至少應再升息2碼 並需連番升息來抵銷去年秋季降息 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MdndZVkZSS1hVZXdoSUtVcUhmdF9WaGxPVUo2dkhIUkw0ZUF6N1NJT0N2YThvaWFtbFB2QWpWa0xDSUV2TmdGdW44bw?oc=5",
-      "published": "Thu, 01 Oct 2026 23:50:41 GMT",
+      "title": "油價衝高與升息警報壓頂！9月海外基金蒸發1.94% 專家看好AI與台股逆勢挺立 - news.cnyes.com",
+      "summary": "油價衝高與升息警報壓頂！9月海外基金蒸發1.94% 專家看好AI與台股逆勢挺立 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXaHpWcURTNTRscHdTRmFQQzRLZnA2djlZeE80R3ROOFZmN2tFMlRuLUFkOWpqMUhFRVdLRENfbFRXaGt5RDlDT1FvWlR5SzQ?oc=5",
+      "published": "Wed, 30 Sep 2026 06:41:36 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 87,
+      "importance_score": 66,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+      "why_selected": "高市場影響主題、時效性高、具明確資產關聯"
     },
     {
-      "title": "油價破百與升息雙殺！債券、郵輪、貴金屬淪Q3最大輸家 贏家竟有比特幣和科技股",
-      "summary": "油價破百與升息雙殺！債券、郵輪、貴金屬淪Q3最大輸家 贏家竟有比特幣和科技股 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNVGhKUHhQOHk1VDRLTEF5RkMweFA1Sk5JZUEyTjZRVXBCbFl5Wk5RSnhOQ1BMdEp1Zi1lZ2NqWnY2RnBoTjc5NFdzcw?oc=5",
-      "published": "Thu, 01 Oct 2026 06:00:05 GMT",
+      "title": "美債殖利率衝5.34%！這波債市賣壓為何停不下來？ - news.cnyes.com",
+      "summary": "美債殖利率衝5.34%！這波債市賣壓為何停不下來？ news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lVHVobVptaHlUSXhBendCaWdaWTJYOTRYdGxtbkVZb2tyR0JMdGZMRUtyTGNPbW5tZl9wbXNCejNKUjI2NHVSYWZmelppRjg?oc=5",
+      "published": "Thu, 01 Oct 2026 15:30:05 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 78,
+      "importance_score": 60,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高市場影響主題、時效性高、具明確資產關聯"
     },
     {
-      "title": "黃金理應通膨飆升時避險 為何現在卻失靈？",
-      "summary": "黃金理應通膨飆升時避險 為何現在卻失靈？ 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KZEY4Wkd0S0VmTGhZZ0tKTUQzM3NNT3ZOOUw0STZ4cXZ2Mlc0SkFhcUswa01LMWlYNHk0TGY3LVhyTGV6ODlzZVJmWQ?oc=5",
-      "published": "Thu, 01 Oct 2026 02:30:05 GMT",
-      "topic": "黃金",
+      "title": "油輪重返荷姆茲難救通膨！布蘭特油價破百 煉油瓶頸加劇美債拋售潮 - news.cnyes.com",
+      "summary": "油輪重返荷姆茲難救通膨！布蘭特油價破百 煉油瓶頸加劇美債拋售潮 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpc2FwVjUwV0xhVkRXdld3ZDdMdm1XdVRrLURvd2F4RTY0VkJLOXA5WjltQmsxLUlDSkUwVDV6eUt1WU5JM1pxdVRxU09laW8?oc=5",
+      "published": "Fri, 02 Oct 2026 16:09:04 GMT",
+      "topic": "美債",
       "rank": 3,
-      "importance_score": 63,
+      "importance_score": 52,
       "related_assets": [
-        "Gold",
+        "UST",
         "USD",
-        "UST"
+        "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "時效性高、具明確資產關聯"
     },
     {
-      "title": "〈貴金屬盤後〉金價從七周低點反彈 仍低於100日均線",
-      "summary": "〈貴金屬盤後〉金價從七周低點反彈 仍低於100日均線 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83eV9Mb0pXTGJHRE5URzkwRjJqQTBzNmtFdUlGYkE5aGpfVklHcUZ2NlQ0Q1lrUFJIR1hpajFlekloV2IyR3l1OGJNaw?oc=5",
-      "published": "Tue, 29 Sep 2026 23:01:54 GMT",
-      "topic": "黃金",
+      "title": "美元油價雙高壓力仍在 AI科技股蓄勢回溫 - 世界新聞網",
+      "summary": "美元油價雙高壓力仍在 AI科技股蓄勢回溫 世界新聞網",
+      "source": "世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FdWxiV0FuR3ExSUNRYlV2RWI4bl9ZNVY1VmZ1aWE0X3ZLalVxRkZ6MmdSc2dYS09BRDF1U2VrbEt1aFp0M081bXhsYVY0dkk3UVVISXlkbl9meDhMd0ZSUTln0gFnQVVfeXFMT2ZlMzRkUTdtT01nanBDMVpQaHBiY041a25ubDVVOFdEUzdvdGh5bFZaUXN0ZTFQSmFkUFY5U0xvQ1A2d0tvWXVQakRlX21tNnZGSjZuYUlWblJEMHVCa3pTQjlEMDRUNA?oc=5",
+      "published": "Wed, 30 Sep 2026 10:10:35 GMT",
+      "topic": "能源",
       "rank": 4,
-      "importance_score": 59,
+      "importance_score": 47,
       "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "具明確資產關聯"
     },
     {
-      "title": "美伊戰爭還沒完！川普稱期中選舉後可能加強轟炸伊朗",
-      "summary": "美伊戰爭還沒完！川普稱期中選舉後可能加強轟炸伊朗 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTOVBjU2lYc0FVN0dyRWhQLWl3TGd2MloyVlBnOHpsTnV4aGo1bWF0bW1LbTQ0RnFvb0pyeHVvUXlrOXVhNTJvZFNYcw?oc=5",
-      "published": "Thu, 01 Oct 2026 12:30:05 GMT",
-      "topic": "全球市場",
+      "title": "〈能源盤後〉美伊談判卡關 燃料市場吃緊 油價再漲1% Brent月漲14% - news.cnyes.com",
+      "summary": "〈能源盤後〉美伊談判卡關 燃料市場吃緊 油價再漲1% Brent月漲14% news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81UjFKTlJzbHFCTVd6S2FNZHZhWHd3OGI5WVBnWnl0SGdLRU9pQ3JTbTBOY2JLRnB1SjJpVmtIdEJTQmRSSTVBWklGSzZIT0k?oc=5",
+      "published": "Wed, 30 Sep 2026 21:10:48 GMT",
+      "topic": "能源",
       "rank": 5,
-      "importance_score": 49,
+      "importance_score": 48,
       "related_assets": [
-        "Global Equity",
-        "USD",
-        "UST"
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
-      "why_selected": "高品質財經來源"
+      "why_selected": "具明確資產關聯"
     }
   ]
 }

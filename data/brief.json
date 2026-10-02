@@ -1,30 +1,29 @@
 {
   "mode": "rules",
-  "headline": "市場風險情緒：中性",
+  "headline": "市場風險情緒：偏多",
   "bullets": [
-    "主要美股指數平均變動 +0.48%。",
+    "主要美股指數平均變動 +1.16%。",
     "美債10年殖利率 5.240%，日變動 -5.0 bps。",
-    "自選股強勢 COHR +10.94%；較弱 SWKS -2.73%。",
+    "自選股強勢 ASX ADR +5.80%；較弱 SNDK -3.55%。",
     "2Y10Y 利差 +46.0 bps。"
   ],
-  "risk_score": 61,
-  "risk_label": "中性",
+  "risk_score": 69,
+  "risk_label": "偏多",
   "yesterday_top": [
-    "美股主要指數平均 +0.48%，風險情緒中性。",
+    "美股主要指數平均 +1.16%，風險情緒偏多。",
     "10Y 美債殖利率 5.240%。",
-    "DXY 日變動 -0.24%。"
+    "DXY 日變動 -0.16%。"
   ],
   "today_top": [
-    "🇪🇺 17:00 Eurozone｜歐元區 HICP / CPI（9月初值）",
-    "新聞｜Fed蘿根：至少應再升息2碼 並需連番升息來抵銷去年秋季降息"
+    "新聞｜油輪重返荷姆茲難救通膨！布蘭特油價破百 煉油瓶頸加劇美債拋售潮 - news.cnyes.com"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -5.0 bps。",
-    "美元：DXY 日變動 -0.24%。",
-    "波動率：VIX 15.54。",
+    "美元：DXY 日變動 -0.16%。",
+    "波動率：VIX 15.61。",
     "曲線：2Y10Y +46.0 bps。"
   ],
-  "today_date_taipei": "2026-10-02",
+  "today_date_taipei": "2026-10-03",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-10-02T13:19:56.866711+00:00"
+  "as_of": "2026-10-02T18:36:02.227141+00:00"
 }
