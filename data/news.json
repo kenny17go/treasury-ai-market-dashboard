@@ -1,88 +1,88 @@
 {
-  "as_of": "2026-10-02T04:35:12.207493+00:00",
+  "as_of": "2026-10-02T10:43:50.895964+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "通膨、油價及美債殖利率齊升 美、台、韓 AI 金三角逆勢力抗 | 總經趨勢 | 要聞",
-      "summary": "通膨、油價及美債殖利率齊升 美、台、韓 AI 金三角逆勢力抗 | 總經趨勢 | 要聞 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ESUpYTmNKVFlJa3JBb0QwdWNNdk9VOXhZZzQ3VTA4aWhLWC1VV1l3dmlQVXhQY3pwT3oxMFQ4VTlkaFh3UHBnd29yY1c1aTNzTE55Rmg5VkdHWlE?oc=5",
-      "published": "Tue, 29 Sep 2026 06:08:12 GMT",
+      "title": "〈貴金屬盤後〉黃金小漲 Fed升息預期降溫但美債殖利率仍高 - news.cnyes.com",
+      "summary": "〈貴金屬盤後〉黃金小漲 Fed升息預期降溫但美債殖利率仍高 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pVVUtVk5hV0l3d3haS0h3ejRCR1BDTFZNdlVRV3VtZzVBYmladllNNUhlLVg3VDM5bW90emlzcUFDYkotNVc4RVZiU29YOGM?oc=5",
+      "published": "Thu, 01 Oct 2026 22:47:00 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 99,
+      "importance_score": 75,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+      "why_selected": "高市場影響主題、時效性高、具明確資產關聯"
     },
     {
-      "title": "Fed蘿根：至少應再升息2碼 並需連番升息來抵銷去年秋季降息",
-      "summary": "Fed蘿根：至少應再升息2碼 並需連番升息來抵銷去年秋季降息 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MdndZVkZSS1hVZXdoSUtVcUhmdF9WaGxPVUo2dkhIUkw0ZUF6N1NJT0N2YThvaWFtbFB2QWpWa0xDSUV2TmdGdW44bw?oc=5",
-      "published": "Thu, 01 Oct 2026 23:50:41 GMT",
+      "title": "油價漲、Fed恐再升息！美債遭拋售 30年期公債殖利率創24年新高 - news.cnyes.com",
+      "summary": "油價漲、Fed恐再升息！美債遭拋售 30年期公債殖利率創24年新高 news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rY01jaEpEVTZyUlEwZWJRRXhPMGJTZEFrbm9NcnNSZm05V0N6bi1MdlViSXRLc0dSNHktT2RrNmtwVmxTaFNZbzMzQkNuZUE?oc=5",
+      "published": "Tue, 29 Sep 2026 15:50:03 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 85,
+      "importance_score": 73,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+      "why_selected": "高市場影響主題、時效性高、具明確資產關聯"
     },
     {
-      "title": "黃金理應通膨飆升時避險 為何現在卻失靈？",
-      "summary": "黃金理應通膨飆升時避險 為何現在卻失靈？ 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KZEY4Wkd0S0VmTGhZZ0tKTUQzM3NNT3ZOOUw0STZ4cXZ2Mlc0SkFhcUswa01LMWlYNHk0TGY3LVhyTGV6ODlzZVJmWQ?oc=5",
-      "published": "Thu, 01 Oct 2026 02:30:05 GMT",
-      "topic": "黃金",
+      "title": "美元油價雙高壓力仍在 AI科技股蓄勢回溫 - 世界新聞網",
+      "summary": "美元油價雙高壓力仍在 AI科技股蓄勢回溫 世界新聞網",
+      "source": "世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FdWxiV0FuR3ExSUNRYlV2RWI4bl9ZNVY1VmZ1aWE0X3ZLalVxRkZ6MmdSc2dYS09BRDF1U2VrbEt1aFp0M081bXhsYVY0dkk3UVVISXlkbl9meDhMd0ZSUTln0gFnQVVfeXFMT2ZlMzRkUTdtT01nanBDMVpQaHBiY041a25ubDVVOFdEUzdvdGh5bFZaUXN0ZTFQSmFkUFY5U0xvQ1A2d0tvWXVQakRlX21tNnZGSjZuYUlWblJEMHVCa3pTQjlEMDRUNA?oc=5",
+      "published": "Wed, 30 Sep 2026 10:10:35 GMT",
+      "topic": "能源",
       "rank": 3,
-      "importance_score": 63,
+      "importance_score": 49,
       "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "時效性高、具明確資產關聯"
     },
     {
-      "title": "AI交易大退潮！韓股Q3暴跌18.8% 但今年來累漲60%仍勝標普2.3%漲幅",
-      "summary": "AI交易大退潮！韓股Q3暴跌18.8% 但今年來累漲60%仍勝標普2.3%漲幅 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DZzdEVXZOYXA1YU8tVVk1Z0hmR3NmV3JBVGJ2UnotNnlWRkVYYVA3b1hGT0E0WjJoVTdoSTFaM2dYZ1JtT01jWDZsNA?oc=5",
-      "published": "Wed, 30 Sep 2026 08:20:03 GMT",
-      "topic": "AI / 半導體",
+      "title": "〈能源盤後〉美伊談判卡關 燃料市場吃緊 油價再漲1% Brent月漲14% - news.cnyes.com",
+      "summary": "〈能源盤後〉美伊談判卡關 燃料市場吃緊 油價再漲1% Brent月漲14% news.cnyes.com",
+      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81UjFKTlJzbHFCTVd6S2FNZHZhWHd3OGI5WVBnWnl0SGdLRU9pQ3JTbTBOY2JLRnB1SjJpVmtIdEJTQmRSSTVBWklGSzZIT0k?oc=5",
+      "published": "Wed, 30 Sep 2026 21:10:48 GMT",
+      "topic": "能源",
       "rank": 4,
-      "importance_score": 69,
+      "importance_score": 50,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "具明確資產關聯"
+    },
+    {
+      "title": "群益看Q4市場有三大趨勢 聚焦AI獲利與通膨拉鋸 - Yahoo 財經",
+      "summary": "群益看Q4市場有三大趨勢 聚焦AI獲利與通膨拉鋸 Yahoo 財經",
+      "source": "Yahoo 財經",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPVUlwalF3aWY0dG9GRUhVb05vNlJ0b1JzdTZIdDJsWHFoZnlEYnZLUUFjUE1QWVExLXBpNmsyYTh6aC05U21hcTlmWEtKN0JDNTdSM0tpazJOMFJBZFZOOUczVGhFNEtBY3pDR25lX3ItVGR1U2Zma0lfZ0U5YVNqblQ1LXRkY0dTU2NsTDVjanJaUnE4QnA4bHNFMDIyWlozZlhFbUZoUTJjeVVXWEtLcDU5LXZhU2wtM0lST2VlaWt3NVRENXZGd1B6UnZ5cG95c2pOYTk5VnJYRG81YmMzSHlfRndpYldMQkh2d1huZWttRDRieTF6UFBKOUVZMlgwVkhBUVM2elc1U3dHUjRWdlhLM3hiS0NRUkNPRkVOLWlwdkRGN3FGRWZaQkZLT0RDbElJc3NpNFI0a2xiMWRRS0Y4MlVuMlJ1?oc=5",
+      "published": "Fri, 02 Oct 2026 03:03:13 GMT",
+      "topic": "AI / 半導體",
+      "rank": 5,
+      "importance_score": 37,
       "related_assets": [
         "SOX",
         "Nasdaq",
         "TSM / NVDA"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "〈貴金屬盤後〉金價從七周低點反彈 仍低於100日均線",
-      "summary": "〈貴金屬盤後〉金價從七周低點反彈 仍低於100日均線 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83eV9Mb0pXTGJHRE5URzkwRjJqQTBzNmtFdUlGYkE5aGpfVklHcUZ2NlQ0Q1lrUFJIR1hpajFlekloV2IyR3l1OGJNaw?oc=5",
-      "published": "Tue, 29 Sep 2026 23:01:54 GMT",
-      "topic": "黃金",
-      "rank": 5,
-      "importance_score": 57,
-      "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "具明確資產關聯"
     }
   ]
 }
