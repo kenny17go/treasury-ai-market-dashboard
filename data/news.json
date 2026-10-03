@@ -1,34 +1,18 @@
 {
-  "as_of": "2026-10-02T22:39:20.366941+00:00",
+  "as_of": "2026-10-03T01:31:20.652364+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "油價破百與升息雙殺！債券、郵輪、貴金屬淪Q3最大輸家 贏家竟有比特幣和科技股",
-      "summary": "油價破百與升息雙殺！債券、郵輪、貴金屬淪Q3最大輸家 贏家竟有比特幣和科技股 鉅亨網",
+      "title": "美債賣壓續湧！10年期殖利率衝上5.34% 創24年以來最高",
+      "summary": "美債賣壓續湧！10年期殖利率衝上5.34% 創24年以來最高 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNVGhKUHhQOHk1VDRLTEF5RkMweFA1Sk5JZUEyTjZRVXBCbFl5Wk5RSnhOQ1BMdEp1Zi1lZ2NqWnY2RnBoTjc5NFdzcw?oc=5",
-      "published": "Thu, 01 Oct 2026 06:00:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6bjRHNFpMcjZSWldiWXg1M3hOb0RLVkw1MFN6aWRTYW85OXRjT3JuYTR1M0dTWnAwbUVYZExEc3Bab1YxbWRkd3ZXTQ?oc=5",
+      "published": "Thu, 01 Oct 2026 08:50:03 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 80,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "〈美股盤後〉非農爆冷！降息預期激勵美股收紅 那指周線喜提連三紅",
-      "summary": "〈美股盤後〉非農爆冷！降息預期激勵美股收紅 那指周線喜提連三紅 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93WktyQU5qQkItSk93MG9teHduY3NJNzd2WFM2Nk9SSzJtRnplVk16Y3UwY1dyU0Jwc2hqWVN5amFzQkZUY3pFRzlfNA?oc=5",
-      "published": "Fri, 02 Oct 2026 21:31:20 GMT",
-      "topic": "Fed / 利率",
-      "rank": 2,
-      "importance_score": 79,
+      "importance_score": 87,
       "related_assets": [
         "UST",
         "USD",
@@ -37,20 +21,52 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "油輪重返荷姆茲難救通膨！布蘭特油價破百 煉油瓶頸加劇美債拋售潮",
+      "summary": "油輪重返荷姆茲難救通膨！布蘭特油價破百 煉油瓶頸加劇美債拋售潮 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IUHlKSmV1OTQwc2ZqNHdjWTRMYTlrLVBSVVdwZTZrV0kxa01aYkViR0pxWVBEZVJmOVBqSFZpb0tLQUhfWDd4TTZxUQ?oc=5",
+      "published": "Fri, 02 Oct 2026 16:57:39 GMT",
+      "topic": "美債",
+      "rank": 2,
+      "importance_score": 75,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "油價破百與升息雙殺！債券、郵輪、貴金屬淪Q3最大輸家 贏家竟有比特幣和科技股",
+      "summary": "油價破百與升息雙殺！債券、郵輪、貴金屬淪Q3最大輸家 贏家竟有比特幣和科技股 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNVGhKUHhQOHk1VDRLTEF5RkMweFA1Sk5JZUEyTjZRVXBCbFl5Wk5RSnhOQ1BMdEp1Zi1lZ2NqWnY2RnBoTjc5NFdzcw?oc=5",
+      "published": "Thu, 01 Oct 2026 06:00:05 GMT",
+      "topic": "Fed / 利率",
+      "rank": 3,
+      "importance_score": 76,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
       "title": "〈能源盤後〉G7宣布釋放1億桶油品儲備 油價承壓小跌 但市場仍盯中東供應",
       "summary": "〈能源盤後〉G7宣布釋放1億桶油品儲備 油價承壓小跌 但市場仍盯中東供應 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43cEU3OWF3ekNhaFFveGp3WGQybl9obm5lN2h3Tld0NjZsd2lpVXRCNlhYbXlTN3VNeDZ2UnhtUHY2a1p1LVVZdEw5Zw?oc=5",
       "published": "Fri, 02 Oct 2026 21:22:33 GMT",
       "topic": "能源",
-      "rank": 3,
-      "importance_score": 69,
+      "rank": 4,
+      "importance_score": 67,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
       "title": "金屬行情還沒完！高盛：白銀、銅、鉑金恐再迎劇烈價格震盪",
@@ -59,30 +75,14 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGZEtEbVAwYVpYV1llbHlHRm1MODN0VWIyVlpVckdoVnZONDhOTUlQNFJyTnd6SWNJUFV6SVQ2SmdISkF6Zlg1TDkxbw?oc=5",
       "published": "Thu, 01 Oct 2026 00:10:05 GMT",
       "topic": "黃金",
-      "rank": 4,
-      "importance_score": 55,
+      "rank": 5,
+      "importance_score": 53,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "美伊戰爭還沒完！川普稱期中選舉後可能加強轟炸伊朗",
-      "summary": "美伊戰爭還沒完！川普稱期中選舉後可能加強轟炸伊朗 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTOVBjU2lYc0FVN0dyRWhQLWl3TGd2MloyVlBnOHpsTnV4aGo1bWF0bW1LbTQ0RnFvb0pyeHVvUXlrOXVhNTJvZFNYcw?oc=5",
-      "published": "Thu, 01 Oct 2026 12:30:05 GMT",
-      "topic": "全球市場",
-      "rank": 5,
-      "importance_score": 49,
-      "related_assets": [
-        "Global Equity",
-        "USD",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源"
     }
   ]
 }

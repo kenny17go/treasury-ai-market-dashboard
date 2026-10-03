@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-02T22:38:31.442954+00:00",
+  "as_of": "2026-10-03T01:30:31.364695+00:00",
   "status": "Auto Update",
   "source": "Yahoo Finance via yfinance / TWSE official MI_INDEX",
   "indices": [
@@ -817,8 +817,8 @@
       "name": "USD/JPY",
       "decimals": 3,
       "price": 157.8300018310547,
-      "change": 0.272003173828125,
-      "change_pct": 0.17263685509224974,
+      "change": -0.0970001220703125,
+      "change_pct": -0.061420859555798776,
       "spark": [
         158.06100463867188,
         158.0919952392578,
@@ -1107,8 +1107,8 @@
       "name": "USD/HKD",
       "decimals": 4,
       "price": 7.84630012512207,
-      "change": 0.00010013580322265625,
-      "change_pct": 0.0012762331237920605,
+      "change": -9.965896606445312e-05,
+      "change_pct": -0.0012701234809186432,
       "spark": [
         7.8460001945495605,
         7.846089839935303,
@@ -1372,6 +1372,6 @@
     "direction_marker": "",
     "source": "Yahoo股市",
     "source_url": "https://tw.stock.yahoo.com/future/futures.html",
-    "fetched_at": "2026-10-02T22:41:36.475617+00:00"
+    "fetched_at": "2026-10-03T01:33:10.347682+00:00"
   }
 }
