@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-05T11:51:15.089281+00:00",
+  "as_of": "2026-10-05T15:22:25.397518+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,20 +37,36 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
+      "title": "衝破70K大關！日經225狂飆逾1700點 美股期、黃金、白銀、比特幣全面拉升",
+      "summary": "衝破70K大關！日經225狂飆逾1700點 美股期、黃金、白銀、比特幣全面拉升 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oWHpSbDR0cjdkblFIQi1GeHN1bGdDbmJweUMyTm1FNHpVdnp5R244QlppYTZ5bExkeDZZRXhYOGNqdU5fM255TUlOVQ?oc=5",
+      "published": "Mon, 05 Oct 2026 03:10:05 GMT",
+      "topic": "黃金",
+      "rank": 3,
+      "importance_score": 73,
+      "related_assets": [
+        "Gold",
+        "USD",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
       "title": "美股震盪美債走高免驚！野村提解方：靠「成長+基建+債券」3箭齊發",
       "summary": "美股震盪美債走高免驚！野村提解方：靠「成長+基建+債券」3箭齊發 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2bV9YYXlzak0tZHduLUFiNGxoNUdfT1UyZ1lBY2VCLUVPSmdJYjNCZFhGUjRkNXl6eUFYWXdydW5BcklSZXZ4ZUhGbw?oc=5",
       "published": "Sun, 04 Oct 2026 04:50:03 GMT",
       "topic": "美債",
-      "rank": 3,
-      "importance_score": 74,
+      "rank": 4,
+      "importance_score": 72,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
       "title": "科技主導全球市場週期！a16z：86%創投資金流向AI、半導體與電力基建成投資焦點",
@@ -59,28 +75,12 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82dWMxMnkzS2lqX3puaU15VzJHQzFMQzQtNldDVjZOSmV1aS12X2xkeGpockxrc1ZDb3gzM3N2QmdBY1llMWJRZlpBVQ?oc=5",
       "published": "Sun, 04 Oct 2026 10:10:04 GMT",
       "topic": "AI / 半導體",
-      "rank": 4,
-      "importance_score": 70,
+      "rank": 5,
+      "importance_score": 68,
       "related_assets": [
         "SOX",
         "Nasdaq",
         "TSM / NVDA"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "外資提款亞股 上周台股遭賣超2.25億美金 10月反彈資金回流",
-      "summary": "外資提款亞股 上周台股遭賣超2.25億美金 10月反彈資金回流 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tWlV1MnlzTlhEMGVETjFPbkt0UWhIcUMxSTF3alUwSHkyTDhsczBxZHpoNnZqREh4cFNjQVhEM2plMnpsMHRQdS1kMA?oc=5",
-      "published": "Mon, 05 Oct 2026 07:05:24 GMT",
-      "topic": "台灣",
-      "rank": 5,
-      "importance_score": 62,
-      "related_assets": [
-        "TAIEX",
-        "TWD",
-        "TSM"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
