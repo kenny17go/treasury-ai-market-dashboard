@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-03T01:33:05.874251+00:00",
+  "as_of": "2026-10-05T04:40:10.078831+00:00",
   "status": "ok",
   "source": "BEA + Federal Reserve + 中央銀行（台灣） + Bank of Japan + European Central Bank + Eurostat",
   "source_mode": "Official global central banks + official statistics + market-calendar enrichment",
@@ -154,6 +154,18 @@
       "date": "2026-11-25",
       "time": "21:30",
       "title": "Personal Income and Outlays, October 2026",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "BEA"
+    },
+    {
+      "date": "2026-12-02",
+      "time": "21:30",
+      "title": "GDP by County and Personal Income by County, 2025",
       "country": "United States",
       "flag": "🇺🇸",
       "importance": 3,
