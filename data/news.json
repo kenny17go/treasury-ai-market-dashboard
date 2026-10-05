@@ -1,22 +1,38 @@
 {
-  "as_of": "2026-10-05T04:38:01.394482+00:00",
+  "as_of": "2026-10-05T11:51:15.089281+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "衝破70K大關！日經225狂飆逾1700點 美股期、黃金、白銀、比特幣全面拉升",
-      "summary": "衝破70K大關！日經225狂飆逾1700點 美股期、黃金、白銀、比特幣全面拉升 鉅亨網",
+      "title": "貝森特出面打強心劑！美債殖利率飆升「反映全球趨勢」、AI泡沫「不用太擔心」",
+      "summary": "貝森特出面打強心劑！美債殖利率飆升「反映全球趨勢」、AI泡沫「不用太擔心」 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oWHpSbDR0cjdkblFIQi1GeHN1bGdDbmJweUMyTm1FNHpVdnp5R244QlppYTZ5bExkeDZZRXhYOGNqdU5fM255TUlOVQ?oc=5",
-      "published": "Mon, 05 Oct 2026 03:10:05 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pNTlycmlrby1XeGN6TEVwLVZuVzFiSFlabzFhd19rMWZyVTJRQ3YyX2xSM0VPR1NFM3NNaUJ6WTNLWW4xSUFLeDB6MA?oc=5",
+      "published": "Sun, 04 Oct 2026 07:10:05 GMT",
+      "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 77,
+      "importance_score": 92,
       "related_assets": [
-        "Gold",
+        "UST",
         "USD",
-        "UST"
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
+    {
+      "title": "中東原油出口量超過戰前水準 油價下跌 但油輪遭襲擊事件增加",
+      "summary": "中東原油出口量超過戰前水準 油價下跌 但油輪遭襲擊事件增加 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GQUFVd3N3ZzdtMDc5d3luT2xKZVFFbVk0b3Mwb1g4bzRSV1l3aUVwcksxZFduMks0c21valV4VE9SMUZKYzFCT0FFaw?oc=5",
+      "published": "Mon, 05 Oct 2026 07:10:02 GMT",
+      "topic": "能源",
+      "rank": 2,
+      "importance_score": 75,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
@@ -27,8 +43,8 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2bV9YYXlzak0tZHduLUFiNGxoNUdfT1UyZ1lBY2VCLUVPSmdJYjNCZFhGUjRkNXl6eUFYWXdydW5BcklSZXZ4ZUhGbw?oc=5",
       "published": "Sun, 04 Oct 2026 04:50:03 GMT",
       "topic": "美債",
-      "rank": 2,
-      "importance_score": 76,
+      "rank": 3,
+      "importance_score": 74,
       "related_assets": [
         "UST",
         "USD",
@@ -43,44 +59,28 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82dWMxMnkzS2lqX3puaU15VzJHQzFMQzQtNldDVjZOSmV1aS12X2xkeGpockxrc1ZDb3gzM3N2QmdBY1llMWJRZlpBVQ?oc=5",
       "published": "Sun, 04 Oct 2026 10:10:04 GMT",
       "topic": "AI / 半導體",
-      "rank": 3,
-      "importance_score": 72,
+      "rank": 4,
+      "importance_score": 70,
       "related_assets": [
         "SOX",
         "Nasdaq",
         "TSM / NVDA"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "美銀警告高油價成第4季頭號威脅 金價恐探3750美元",
-      "summary": "美銀警告高油價成第4季頭號威脅 金價恐探3750美元 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tVUhmSURUM0d5cWUtX08xUkNGYnJjYWZTb0dybVRHSVltZzZyY1BUNWY3Sm85YWYwNmdLQ3FMaDRhYzRnSmVtVWxVVQ?oc=5",
-      "published": "Fri, 02 Oct 2026 05:30:06 GMT",
-      "topic": "能源",
-      "rank": 4,
-      "importance_score": 67,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈財經週報-國際展望〉全球景氣韌性延續 AI投資與企業獲利支撐風險資產表現",
-      "summary": "〈財經週報-國際展望〉全球景氣韌性延續 AI投資與企業獲利支撐風險資產表現 自由財經",
-      "source": "自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15aW5mTlJDN1ZaX3JRRmpYSmR5bV9vb0JGLW5fenE1Z0JZZDRTSUt6YlFLRGpHVWtib3RmNWEtQmwzWUxKbm9WblRDT3FjMEJhdncxR3EwS0JQR1nSAVtBVV95cUxNeWluZk5SQzdWWl9yUUZqWEpkeW1fb29CRi1uX3pxNWdCWWQ0U0lLemJRS0RqR1VrYm90ZjVhLUJsM1lMSm5vVm5UQ09xYzBCYXZ3MUdxMEtCUEdZ?oc=5",
-      "published": "Sun, 04 Oct 2026 21:30:00 GMT",
-      "topic": "AI / 半導體",
+      "title": "外資提款亞股 上周台股遭賣超2.25億美金 10月反彈資金回流",
+      "summary": "外資提款亞股 上周台股遭賣超2.25億美金 10月反彈資金回流 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tWlV1MnlzTlhEMGVETjFPbkt0UWhIcUMxSTF3alUwSHkyTDhsczBxZHpoNnZqREh4cFNjQVhEM2plMnpsMHRQdS1kMA?oc=5",
+      "published": "Mon, 05 Oct 2026 07:05:24 GMT",
+      "topic": "台灣",
       "rank": 5,
-      "importance_score": 61,
+      "importance_score": 62,
       "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
+        "TAIEX",
+        "TWD",
+        "TSM"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
