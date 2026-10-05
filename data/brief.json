@@ -2,30 +2,30 @@
   "mode": "rules",
   "headline": "市場風險情緒：中性",
   "bullets": [
-    "主要美股指數平均變動 +0.17%。",
-    "美債10年殖利率 5.280%，日變動 +4.0 bps。",
-    "自選股強勢 META +2.41%；較弱 UMC ADR -10.64%。",
-    "2Y10Y 利差 +45.0 bps。"
+    "主要美股指數平均變動 +0.54%。",
+    "美債10年殖利率 5.310%，日變動 +3.0 bps。",
+    "自選股強勢 TSM ADR +2.78%；較弱 UMC ADR -8.76%。",
+    "2Y10Y 利差 +47.0 bps。"
   ],
-  "risk_score": 57,
+  "risk_score": 61,
   "risk_label": "中性",
   "yesterday_top": [
-    "美股主要指數平均 +0.17%，風險情緒中性。",
-    "10Y 美債殖利率 5.280%。",
-    "DXY 日變動 +0.23%。"
+    "美股主要指數平均 +0.54%，風險情緒中性。",
+    "10Y 美債殖利率 5.310%。",
+    "DXY 日變動 +0.19%。"
   ],
   "today_top": [
-    "🇪🇺 17:00 Eurozone｜歐元區工業生產者物價 PPI",
-    "新聞｜中東原油出口量超過戰前水準 油價下跌 但油輪遭襲擊事件增加",
-    "新聞｜衝破70K大關！日經225狂飆逾1700點 美股期、黃金、白銀、比特幣全面拉升"
+    "🇺🇸 20:30 United States｜U.S. International Trade in Goods and Services, August 2026",
+    "🇺🇸 22:00 United States｜Services Supplied Through Affiliates, 2024",
+    "新聞｜黃金被低估了！德銀：超賣且低配 2027年環境將更佳"
   ],
   "todays_watch": [
-    "利率：10Y 日變動 +4.0 bps。",
-    "美元：DXY 日變動 +0.23%。",
-    "波動率：VIX 15.55。",
-    "曲線：2Y10Y +45.0 bps。"
+    "利率：10Y 日變動 +3.0 bps。",
+    "美元：DXY 日變動 +0.19%。",
+    "波動率：VIX 15.52。",
+    "曲線：2Y10Y +47.0 bps。"
   ],
-  "today_date_taipei": "2026-10-05",
+  "today_date_taipei": "2026-10-06",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-10-05T15:24:15.785663+00:00"
+  "as_of": "2026-10-05T22:08:30.615913+00:00"
 }

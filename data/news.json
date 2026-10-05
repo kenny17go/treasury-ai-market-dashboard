@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-05T15:22:25.397518+00:00",
+  "as_of": "2026-10-05T22:06:36.684217+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "科技主導全球市場週期！a16z：86%創投資金流向AI、半導體與電力基建成投資焦點",
-      "summary": "科技主導全球市場週期！a16z：86%創投資金流向AI、半導體與電力基建成投資焦點 鉅亨網",
+      "title": "黃金被低估了！德銀：超賣且低配 2027年環境將更佳",
+      "summary": "黃金被低估了！德銀：超賣且低配 2027年環境將更佳 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82dWMxMnkzS2lqX3puaU15VzJHQzFMQzQtNldDVjZOSmV1aS12X2xkeGpockxrc1ZDb3gzM3N2QmdBY1llMWJRZlpBVQ?oc=5",
-      "published": "Sun, 04 Oct 2026 10:10:04 GMT",
-      "topic": "AI / 半導體",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15Snp5SU9kbk02NHVOdnZfX2VQRklNVWtuc2VQWkpQNWJBVGp5Z2VNRXBGUmxkT1djTTU3R2RmWXhRcWdxT3lJbUtNaw?oc=5",
+      "published": "Mon, 05 Oct 2026 19:21:05 GMT",
+      "topic": "黃金",
       "rank": 5,
-      "importance_score": 68,
+      "importance_score": 63,
       "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }

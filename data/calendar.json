@@ -1,23 +1,11 @@
 {
-  "as_of": "2026-10-05T15:24:11.548658+00:00",
+  "as_of": "2026-10-05T22:08:25.564488+00:00",
   "status": "ok",
   "source": "BEA + Federal Reserve + 中央銀行（台灣） + Bank of Japan + European Central Bank + Eurostat",
   "source_mode": "Official global central banks + official statistics + market-calendar enrichment",
   "window_days": 60,
   "cost_note": "央行動態以 Fed、台灣央行、BOJ、ECB 官方日程為優先；重要數據以 BLS、BEA、Eurostat 及鉅亨／M平方等來源補強。",
   "items": [
-    {
-      "date": "2026-10-05",
-      "time": "17:00",
-      "title": "歐元區工業生產者物價 PPI",
-      "country": "Eurozone",
-      "flag": "🇪🇺",
-      "importance": 2,
-      "actual": "",
-      "forecast": "",
-      "previous": "",
-      "source": "Eurostat"
-    },
     {
       "date": "2026-10-06",
       "time": "20:30",
