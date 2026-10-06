@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-06T02:22:18.251494+00:00",
+  "as_of": "2026-10-06T05:23:41.307978+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,50 +37,50 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "中東原油出口量超過戰前水準 油價下跌 但油輪遭襲擊事件增加",
-      "summary": "中東原油出口量超過戰前水準 油價下跌 但油輪遭襲擊事件增加 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GQUFVd3N3ZzdtMDc5d3luT2xKZVFFbVk0b3Mwb1g4bzRSV1l3aUVwcksxZFduMks0c21valV4VE9SMUZKYzFCT0FFaw?oc=5",
-      "published": "Mon, 05 Oct 2026 07:10:02 GMT",
-      "topic": "能源",
-      "rank": 3,
-      "importance_score": 73,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
       "title": "美股震盪美債走高免驚！野村提解方：靠「成長+基建+債券」3箭齊發",
       "summary": "美股震盪美債走高免驚！野村提解方：靠「成長+基建+債券」3箭齊發 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2bV9YYXlzak0tZHduLUFiNGxoNUdfT1UyZ1lBY2VCLUVPSmdJYjNCZFhGUjRkNXl6eUFYWXdydW5BcklSZXZ4ZUhGbw?oc=5",
       "published": "Sun, 04 Oct 2026 04:50:03 GMT",
       "topic": "美債",
-      "rank": 4,
-      "importance_score": 72,
+      "rank": 3,
+      "importance_score": 74,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "美國AI反攻中國開放模型！Reflection AI背靠輝達 推首款模型Beam 迎戰DeepSeek、Kimi",
+      "summary": "美國AI反攻中國開放模型！Reflection AI背靠輝達 推首款模型Beam 迎戰DeepSeek、Kimi 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MbEt1a3MxZkFCMDY5bTlFV1BURTlYUkJNNkF4YWJoYWpLUWxrNUl0ZVlxNDNuNXV0SV9hNjhuWC1lbjdtR3ZacjdIYw?oc=5",
+      "published": "Mon, 05 Oct 2026 22:39:27 GMT",
+      "topic": "AI / 半導體",
+      "rank": 4,
+      "importance_score": 69,
+      "related_assets": [
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
+      ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "衝破70K大關！日經225狂飆逾1700點 美股期、黃金、白銀、比特幣全面拉升",
-      "summary": "衝破70K大關！日經225狂飆逾1700點 美股期、黃金、白銀、比特幣全面拉升 鉅亨網",
+      "title": "沙烏地阿美降價搶客！亞洲原油折價創六年最大 全球庫存卻告急",
+      "summary": "沙烏地阿美降價搶客！亞洲原油折價創六年最大 全球庫存卻告急 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oWHpSbDR0cjdkblFIQi1GeHN1bGdDbmJweUMyTm1FNHpVdnp5R244QlppYTZ5bExkeDZZRXhYOGNqdU5fM255TUlOVQ?oc=5",
-      "published": "Mon, 05 Oct 2026 03:10:05 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83R1E3Z0J1ejF4UGwwYWp4Z19WYlNXZ3I1WE5uYmtpZEp6VGVxSXUxQUNQUERQaEQxREI4ckQ5Wll2azYxUldVNW5Pbw?oc=5",
+      "published": "Mon, 05 Oct 2026 17:03:06 GMT",
+      "topic": "能源",
       "rank": 5,
-      "importance_score": 69,
+      "importance_score": 61,
       "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
