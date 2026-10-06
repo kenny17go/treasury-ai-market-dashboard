@@ -12,20 +12,20 @@
   "yesterday_top": [
     "美股主要指數平均 +0.54%，風險情緒中性。",
     "10Y 美債殖利率 5.310%。",
-    "DXY 日變動 +0.19%。"
+    "DXY 日變動 +0.23%。"
   ],
   "today_top": [
     "🇺🇸 20:30 United States｜U.S. International Trade in Goods and Services, August 2026",
     "🇺🇸 22:00 United States｜Services Supplied Through Affiliates, 2024",
-    "新聞｜黃金被低估了！德銀：超賣且低配 2027年環境將更佳"
+    "新聞｜〈美股盤後〉無視美債賣壓 AI概念股狂歡 那指締歷史新高紀錄"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +3.0 bps。",
-    "美元：DXY 日變動 +0.19%。",
+    "美元：DXY 日變動 +0.23%。",
     "波動率：VIX 15.52。",
     "曲線：2Y10Y +47.0 bps。"
   ],
   "today_date_taipei": "2026-10-06",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-10-05T22:08:30.615913+00:00"
+  "as_of": "2026-10-06T02:24:47.575333+00:00"
 }
