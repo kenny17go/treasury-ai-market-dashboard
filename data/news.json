@@ -1,9 +1,73 @@
 {
-  "as_of": "2026-10-06T12:09:58.953140+00:00",
+  "as_of": "2026-10-06T13:43:44.307827+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
+    {
+      "title": "貝森特出面打強心劑！美債殖利率飆升「反映全球趨勢」、AI泡沫「不用太擔心」",
+      "summary": "貝森特出面打強心劑！美債殖利率飆升「反映全球趨勢」、AI泡沫「不用太擔心」 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pNTlycmlrby1XeGN6TEVwLVZuVzFiSFlabzFhd19rMWZyVTJRQ3YyX2xSM0VPR1NFM3NNaUJ6WTNLWW4xSUFLeDB6MA?oc=5",
+      "published": "Sun, 04 Oct 2026 07:10:05 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1,
+      "importance_score": 92,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
+    {
+      "title": "美股震盪美債走高免驚！野村提解方：靠「成長+基建+債券」3箭齊發",
+      "summary": "美股震盪美債走高免驚！野村提解方：靠「成長+基建+債券」3箭齊發 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2bV9YYXlzak0tZHduLUFiNGxoNUdfT1UyZ1lBY2VCLUVPSmdJYjNCZFhGUjRkNXl6eUFYWXdydW5BcklSZXZ4ZUhGbw?oc=5",
+      "published": "Sun, 04 Oct 2026 04:50:03 GMT",
+      "topic": "美債",
+      "rank": 2,
+      "importance_score": 76,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "沙烏地阿美降價搶客！亞洲原油折價創六年最大 全球庫存卻告急",
+      "summary": "沙烏地阿美降價搶客！亞洲原油折價創六年最大 全球庫存卻告急 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83R1E3Z0J1ejF4UGwwYWp4Z19WYlNXZ3I1WE5uYmtpZEp6VGVxSXUxQUNQUERQaEQxREI4ckQ5Wll2azYxUldVNW5Pbw?oc=5",
+      "published": "Mon, 05 Oct 2026 17:03:06 GMT",
+      "topic": "能源",
+      "rank": 3,
+      "importance_score": 65,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "通膨大甩鍋！貝森特：美國「黃金時代」沒到 全怪伊朗",
+      "summary": "通膨大甩鍋！貝森特：美國「黃金時代」沒到 全怪伊朗 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YSW52dXkyNWRNX3pOYURzdmV4Z1RfXzQtVlIxMmllbEZLbUp1NUd3VWw2bzF2d1lmRGhBdjhNVjZKamVEUS0zWFBaMA?oc=5",
+      "published": "Mon, 05 Oct 2026 06:50:03 GMT",
+      "topic": "黃金",
+      "rank": 4,
+      "importance_score": 61,
+      "related_assets": [
+        "Gold",
+        "USD",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
     {
       "title": "〈財經週報-國際展望〉全球景氣韌性延續 AI投資與企業獲利支撐風險資產表現",
       "summary": "〈財經週報-國際展望〉全球景氣韌性延續 AI投資與企業獲利支撐風險資產表現 自由財經",
@@ -11,78 +75,14 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15aW5mTlJDN1ZaX3JRRmpYSmR5bV9vb0JGLW5fenE1Z0JZZDRTSUt6YlFLRGpHVWtib3RmNWEtQmwzWUxKbm9WblRDT3FjMEJhdncxR3EwS0JQR1nSAVtBVV95cUxNeWluZk5SQzdWWl9yUUZqWEpkeW1fb29CRi1uX3pxNWdCWWQ0U0lLemJRS0RqR1VrYm90ZjVhLUJsM1lMSm5vVm5UQ09xYzBCYXZ3MUdxMEtCUEdZ?oc=5",
       "published": "Sun, 04 Oct 2026 21:30:00 GMT",
       "topic": "AI / 半導體",
-      "rank": 1,
-      "importance_score": 69,
+      "rank": 5,
+      "importance_score": 61,
       "related_assets": [
         "SOX",
         "Nasdaq",
         "TSM / NVDA"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "美債殖利率飆破5.3%仍不怕！Edward Jones執行長看好美股：AI與經濟成長撐多頭 - news.cnyes.com",
-      "summary": "美債殖利率飆破5.3%仍不怕！Edward Jones執行長看好美股：AI與經濟成長撐多頭 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9raUhXVkFZSzZhWDVJTUktVVdTSDNDaDMzY0hIZmxTbnV4M21WcXhIdlJmWG9VeFhGS2RPRHNrREp5Q0xXekd2R3AwYmFQbU0?oc=5",
-      "published": "Sun, 04 Oct 2026 13:10:05 GMT",
-      "topic": "Fed / 利率",
-      "rank": 2,
-      "importance_score": 70,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "〈貴金屬盤後〉美元和美債殖利率雙重壓力 黃金遊走平盤 - news.cnyes.com",
-      "summary": "〈貴金屬盤後〉美元和美債殖利率雙重壓力 黃金遊走平盤 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpRUk3QWNyZElqaTVFMFNJcDFFMUpJRGo4NTV0SW5JXzg3Nld2UGU2ZnVMYlJINmxDLVIxQ0ROV1htYUlWYzNodFo4QXF1TFk?oc=5",
-      "published": "Tue, 06 Oct 2026 02:35:11 GMT",
-      "topic": "Fed / 利率",
-      "rank": 3,
-      "importance_score": 64,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "〈美股盤後〉無視美債賣壓 AI概念股狂歡 那指締歷史新高紀錄 - news.cnyes.com",
-      "summary": "〈美股盤後〉無視美債賣壓 AI概念股狂歡 那指締歷史新高紀錄 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xOWdHRWd4T2ZVOWRJOXRUVXQ1eFlTbk1VbWpfYXFaU245Y3Jhb0JoT2VRYkVyMVNsdHNETlRhcjJHRDNGcDF2UDJuUC0zcVk?oc=5",
-      "published": "Tue, 06 Oct 2026 03:44:14 GMT",
-      "topic": "美債",
-      "rank": 4,
-      "importance_score": 53,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "具明確資產關聯"
-    },
-    {
-      "title": "〈能源盤後〉中東原油供應回溫＋G7釋儲 油價跌逾1%回落近2美元 但每桶仍站百美元 - news.cnyes.com",
-      "summary": "〈能源盤後〉中東原油供應回溫＋G7釋儲 油價跌逾1%回落近2美元 但每桶仍站百美元 news.cnyes.com",
-      "source": "news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Pa05hRjRxb1l2X1NJbzhETEZabzR0Ync5Y0h0UnV1YkpiRHN4UHNxXzlxMVF4R1NGQWlBUGFQaXVEQ19kZ0Nyek1oaks5RVk?oc=5",
-      "published": "Tue, 06 Oct 2026 06:44:39 GMT",
-      "topic": "能源",
-      "rank": 5,
-      "importance_score": 48,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     }
   ]
 }
