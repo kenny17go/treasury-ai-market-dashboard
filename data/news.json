@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-10-06T19:10:58.501589+00:00",
+  "as_of": "2026-10-06T23:09:18.288844+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "美債殖利率飆破5.3%仍不怕！Edward Jones執行長看好美股：AI與經濟成長撐多頭",
-      "summary": "美債殖利率飆破5.3%仍不怕！Edward Jones執行長看好美股：AI與經濟成長撐多頭 鉅亨網",
+      "title": "〈貴金屬盤後〉美債殖利率升勢暫停、美元疲軟 黃金攀漲",
+      "summary": "〈貴金屬盤後〉美債殖利率升勢暫停、美元疲軟 黃金攀漲 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9raUhXVkFZSzZhWDVJTUktVVdTSDNDaDMzY0hIZmxTbnV4M21WcXhIdlJmWG9VeFhGS2RPRHNrREp5Q0xXekd2R3AwYmFQbU0?oc=5",
-      "published": "Sun, 04 Oct 2026 13:10:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ybzZoeXhYdXBNUzRZQVh2Q0VicldRcl9IQkNueU9uOVo2Mlp1amdZZHNoMHY1eGtJcTJISjNIYl80elJTTlAtejA1Q1ZNVVU?oc=5",
+      "published": "Tue, 06 Oct 2026 22:35:19 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 97,
+      "importance_score": 89,
       "related_assets": [
         "UST",
         "USD",
@@ -21,17 +21,33 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈貴金屬盤後〉美元和美債殖利率雙重壓力 黃金遊走平盤",
-      "summary": "〈貴金屬盤後〉美元和美債殖利率雙重壓力 黃金遊走平盤 鉅亨網",
+      "title": "非農爆冷也救不了！美元、美債殖利率持續施壓金價 4000美元大關保衛戰本周開始？",
+      "summary": "非農爆冷也救不了！美元、美債殖利率持續施壓金價 4000美元大關保衛戰本周開始？ 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpRUk3QWNyZElqaTVFMFNJcDFFMUpJRGo4NTV0SW5JXzg3Nld2UGU2ZnVMYlJINmxDLVIxQ0ROV1htYUlWYzNodFo4QXF1TFk?oc=5",
-      "published": "Tue, 06 Oct 2026 02:35:11 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9paHlkbHZMaWtMV0NmblJwWFRzWldjTDJkY2ZubHZSamg0cnhBT2hUblFKZlhZaXhiRmdUdWw3WUdvUUdYQ0wyOXNycjJmWGc?oc=5",
+      "published": "Mon, 05 Oct 2026 04:30:06 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 87,
+      "importance_score": 93,
       "related_assets": [
         "UST",
         "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
+    {
+      "title": "〈美股早盤〉AI熱潮與油價降溫聯手助攻！主要指數開高 標普500刷新盤中紀錄",
+      "summary": "〈美股早盤〉AI熱潮與油價降溫聯手助攻！主要指數開高 標普500刷新盤中紀錄 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9saGdFTU5uZHY1a05ibmtUSzFzLU50dDdVVTZDancyQzM4cmpEUE0zbVMzbG5LTzZ5RkJzX2k4Y0RVbVRKT1BLQ2hUaw?oc=5",
+      "published": "Tue, 06 Oct 2026 13:42:37 GMT",
+      "topic": "能源",
+      "rank": 3,
+      "importance_score": 84,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
         "Equity"
       ],
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
@@ -43,43 +59,27 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xOWdHRWd4T2ZVOWRJOXRUVXQ1eFlTbk1VbWpfYXFaU245Y3Jhb0JoT2VRYkVyMVNsdHNETlRhcjJHRDNGcDF2UDJuUC0zcVk?oc=5",
       "published": "Tue, 06 Oct 2026 03:44:14 GMT",
       "topic": "美債",
-      "rank": 3,
-      "importance_score": 80,
+      "rank": 4,
+      "importance_score": 78,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈美股早盤〉AI熱潮與油價降溫聯手助攻！主要指數開高 標普500刷新盤中紀錄",
-      "summary": "〈美股早盤〉AI熱潮與油價降溫聯手助攻！主要指數開高 標普500刷新盤中紀錄 鉅亨網",
+      "title": "美股震盪美債走高免驚！野村提解方：靠「成長+基建+債券」3箭齊發",
+      "summary": "美股震盪美債走高免驚！野村提解方：靠「成長+基建+債券」3箭齊發 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9saGdFTU5uZHY1a05ibmtUSzFzLU50dDdVVTZDancyQzM4cmpEUE0zbVMzbG5LTzZ5RkJzX2k4Y0RVbVRKT1BLQ2hUaw?oc=5",
-      "published": "Tue, 06 Oct 2026 13:42:37 GMT",
-      "topic": "能源",
-      "rank": 4,
-      "importance_score": 82,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "〈能源盤後〉中東原油供應回溫＋G7釋儲 油價跌逾1%回落近2美元 但每桶仍站百美元",
-      "summary": "〈能源盤後〉中東原油供應回溫＋G7釋儲 油價跌逾1%回落近2美元 但每桶仍站百美元 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Pa05hRjRxb1l2X1NJbzhETEZabzR0Ync5Y0h0UnV1YkpiRHN4UHNxXzlxMVF4R1NGQWlBUGFQaXVEQ19kZ0Nyek1oaks5RVk?oc=5",
-      "published": "Tue, 06 Oct 2026 06:44:39 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2bV9YYXlzak0tZHduLUFiNGxoNUdfT1UyZ1lBY2VCLUVPSmdJYjNCZFhGUjRkNXl6eUFYWXdydW5BcklSZXZ4ZUhGbw?oc=5",
+      "published": "Sun, 04 Oct 2026 04:50:03 GMT",
+      "topic": "美債",
       "rank": 5,
-      "importance_score": 73,
+      "importance_score": 70,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
+        "UST",
+        "USD",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
