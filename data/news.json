@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-10-07T11:27:40.190038+00:00",
+  "as_of": "2026-10-07T14:02:24.955648+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "〈貴金屬盤後〉美債殖利率升勢暫停、美元疲軟 黃金攀漲",
-      "summary": "〈貴金屬盤後〉美債殖利率升勢暫停、美元疲軟 黃金攀漲 鉅亨網",
+      "title": "美股期指持穩，油價與美債殖利率同步走高，漲勢更集中大型科技股",
+      "summary": "美股期指持穩，油價與美債殖利率同步走高，漲勢更集中大型科技股 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ybzZoeXhYdXBNUzRZQVh2Q0VicldRcl9IQkNueU9uOVo2Mlp1amdZZHNoMHY1eGtJcTJISjNIYl80elJTTlAtejA1Q1ZNVVU?oc=5",
-      "published": "Tue, 06 Oct 2026 22:35:19 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OUXVMYnpVMkdvYkRxLUtMN3ptMTVsQ3VUNDdadXFCZERZdVFhYjYzY3ljRWxWRHRybjl6QkVlajJtbC1fSjNuTWpLWEtqVjg?oc=5",
+      "published": "Wed, 07 Oct 2026 09:30:06 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 89,
+      "importance_score": 96,
       "related_assets": [
         "UST",
         "USD",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "非農爆冷也救不了！美元、美債殖利率持續施壓金價 4000美元大關保衛戰本周開始？",
-      "summary": "非農爆冷也救不了！美元、美債殖利率持續施壓金價 4000美元大關保衛戰本周開始？ 鉅亨網",
+      "title": "〈貴金屬盤後〉美債殖利率升勢暫停、美元疲軟 黃金攀漲",
+      "summary": "〈貴金屬盤後〉美債殖利率升勢暫停、美元疲軟 黃金攀漲 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9paHlkbHZMaWtMV0NmblJwWFRzWldjTDJkY2ZubHZSamg0cnhBT2hUblFKZlhZaXhiRmdUdWw3WUdvUUdYQ0wyOXNycjJmWGc?oc=5",
-      "published": "Mon, 05 Oct 2026 04:30:06 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ybzZoeXhYdXBNUzRZQVh2Q0VicldRcl9IQkNueU9uOVo2Mlp1amdZZHNoMHY1eGtJcTJISjNIYl80elJTTlAtejA1Q1ZNVVU?oc=5",
+      "published": "Tue, 06 Oct 2026 22:35:19 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 93,
+      "importance_score": 87,
       "related_assets": [
         "UST",
         "USD",
@@ -53,30 +53,30 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈渣打投資展望〉AI加持 渣打看Q4企業獲利續旺 台股獲評亞股最強",
-      "summary": "〈渣打投資展望〉AI加持 渣打看Q4企業獲利續旺 台股獲評亞股最強 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uZTRpc254YUd1aHdVODlNRExGOFZ3dVBIZ2RpeGU2OUhqdk80WE10Q1dnVjB2LVViYThYaVVoU2lxVmFMVWg5WUJQV0l0WVk?oc=5",
-      "published": "Wed, 07 Oct 2026 07:49:36 GMT",
-      "topic": "AI / 半導體",
-      "rank": 4,
-      "importance_score": 69,
-      "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
       "title": "衝破70K大關！日經225狂飆逾1700點 美股期、黃金、白銀、比特幣全面拉升",
       "summary": "衝破70K大關！日經225狂飆逾1700點 美股期、黃金、白銀、比特幣全面拉升 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDRVdXYU5NOWZyVk5PcGx6TlhyWEtPazZXYzBUY1hidUgyZUh2RzBtNHB1MWRXTUIyck9pb3ZPR0hzU0paVk82ckVYS1VNUlU?oc=5",
       "published": "Mon, 05 Oct 2026 03:10:05 GMT",
       "topic": "黃金",
+      "rank": 4,
+      "importance_score": 71,
+      "related_assets": [
+        "Gold",
+        "USD",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "黃金被低估了！德銀：超賣且低配 2027年環境將更佳",
+      "summary": "黃金被低估了！德銀：超賣且低配 2027年環境將更佳 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Fa2VTSjdSME83RWlpeFlRN0lNOXJkd3NRUHNCcFhVcWozcExTVFpmT0xHTHc1N0JsM2NEdjJCV0lUTW9ycHoxS0NkSU5xbzA?oc=5",
+      "published": "Tue, 06 Oct 2026 00:14:45 GMT",
+      "topic": "黃金",
       "rank": 5,
-      "importance_score": 69,
+      "importance_score": 63,
       "related_assets": [
         "Gold",
         "USD",
