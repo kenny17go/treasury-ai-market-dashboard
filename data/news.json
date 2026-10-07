@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-07T04:52:04.368337+00:00",
+  "as_of": "2026-10-07T11:27:40.190038+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,34 +37,34 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈美股早盤〉AI熱潮與油價降溫聯手助攻！主要指數開高 標普500刷新盤中紀錄",
-      "summary": "〈美股早盤〉AI熱潮與油價降溫聯手助攻！主要指數開高 標普500刷新盤中紀錄 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9saGdFTU5uZHY1a05ibmtUSzFzLU50dDdVVTZDancyQzM4cmpEUE0zbVMzbG5LTzZ5RkJzX2k4Y0RVbVRKT1BLQ2hUaw?oc=5",
-      "published": "Tue, 06 Oct 2026 13:42:37 GMT",
-      "topic": "能源",
-      "rank": 3,
-      "importance_score": 84,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
-    },
-    {
       "title": "〈美股盤後〉無視美債賣壓 AI概念股狂歡 那指締歷史新高紀錄",
       "summary": "〈美股盤後〉無視美債賣壓 AI概念股狂歡 那指締歷史新高紀錄 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xOWdHRWd4T2ZVOWRJOXRUVXQ1eFlTbk1VbWpfYXFaU245Y3Jhb0JoT2VRYkVyMVNsdHNETlRhcjJHRDNGcDF2UDJuUC0zcVk?oc=5",
       "published": "Tue, 06 Oct 2026 03:44:14 GMT",
       "topic": "美債",
-      "rank": 4,
-      "importance_score": 78,
+      "rank": 3,
+      "importance_score": 80,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "〈渣打投資展望〉AI加持 渣打看Q4企業獲利續旺 台股獲評亞股最強",
+      "summary": "〈渣打投資展望〉AI加持 渣打看Q4企業獲利續旺 台股獲評亞股最強 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uZTRpc254YUd1aHdVODlNRExGOFZ3dVBIZ2RpeGU2OUhqdk80WE10Q1dnVjB2LVViYThYaVVoU2lxVmFMVWg5WUJQV0l0WVk?oc=5",
+      "published": "Wed, 07 Oct 2026 07:49:36 GMT",
+      "topic": "AI / 半導體",
+      "rank": 4,
+      "importance_score": 69,
+      "related_assets": [
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
