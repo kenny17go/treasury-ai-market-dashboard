@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-06T23:09:18.288844+00:00",
+  "as_of": "2026-10-07T02:30:49.312460+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "美股震盪美債走高免驚！野村提解方：靠「成長+基建+債券」3箭齊發",
-      "summary": "美股震盪美債走高免驚！野村提解方：靠「成長+基建+債券」3箭齊發 鉅亨網",
+      "title": "衝破70K大關！日經225狂飆逾1700點 美股期、黃金、白銀、比特幣全面拉升",
+      "summary": "衝破70K大關！日經225狂飆逾1700點 美股期、黃金、白銀、比特幣全面拉升 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2bV9YYXlzak0tZHduLUFiNGxoNUdfT1UyZ1lBY2VCLUVPSmdJYjNCZFhGUjRkNXl6eUFYWXdydW5BcklSZXZ4ZUhGbw?oc=5",
-      "published": "Sun, 04 Oct 2026 04:50:03 GMT",
-      "topic": "美債",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDRVdXYU5NOWZyVk5PcGx6TlhyWEtPazZXYzBUY1hidUgyZUh2RzBtNHB1MWRXTUIyck9pb3ZPR0hzU0paVk82ckVYS1VNUlU?oc=5",
+      "published": "Mon, 05 Oct 2026 03:10:05 GMT",
+      "topic": "黃金",
       "rank": 5,
-      "importance_score": 70,
+      "importance_score": 69,
       "related_assets": [
-        "UST",
+        "Gold",
         "USD",
-        "Equity"
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }

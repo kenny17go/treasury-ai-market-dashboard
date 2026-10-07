@@ -3,27 +3,27 @@
   "headline": "市場風險情緒：中性",
   "bullets": [
     "主要美股指數平均變動 +0.48%。",
-    "美債10年殖利率 5.310%，日變動 +3.0 bps。",
+    "美債10年殖利率 5.270%，日變動 -4.0 bps。",
     "自選股強勢 MRVL +5.88%；較弱 INTC -3.21%。",
-    "2Y10Y 利差 +47.0 bps。"
+    "2Y10Y 利差 +48.0 bps。"
   ],
   "risk_score": 61,
   "risk_label": "中性",
   "yesterday_top": [
     "美股主要指數平均 +0.48%，風險情緒中性。",
-    "10Y 美債殖利率 5.310%。",
-    "DXY 日變動 -0.32%。"
+    "10Y 美債殖利率 5.270%。",
+    "DXY 日變動 -0.12%。"
   ],
   "today_top": [
     "新聞｜〈貴金屬盤後〉美債殖利率升勢暫停、美元疲軟 黃金攀漲"
   ],
   "todays_watch": [
-    "利率：10Y 日變動 +3.0 bps。",
-    "美元：DXY 日變動 -0.32%。",
+    "利率：10Y 日變動 -4.0 bps。",
+    "美元：DXY 日變動 -0.12%。",
     "波動率：VIX 15.01。",
-    "曲線：2Y10Y +47.0 bps。"
+    "曲線：2Y10Y +48.0 bps。"
   ],
   "today_date_taipei": "2026-10-07",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-10-06T23:11:15.783076+00:00"
+  "as_of": "2026-10-07T02:33:08.416099+00:00"
 }
