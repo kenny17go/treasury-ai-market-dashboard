@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-08T05:02:48.049230+00:00",
+  "as_of": "2026-10-08T11:59:11.690732+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,17 +37,17 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈能源盤後〉IEA加速釋油、柴油優先 油價震盪收低 Brent守住100美元",
-      "summary": "〈能源盤後〉IEA加速釋油、柴油優先 油價震盪收低 Brent守住100美元 鉅亨網",
+      "title": "〈美股盤後〉無視美債賣壓 AI概念股狂歡 那指締歷史新高紀錄",
+      "summary": "〈美股盤後〉無視美債賣壓 AI概念股狂歡 那指締歷史新高紀錄 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tYmtXdVNNM0F6TXVSa1Q3ci1hZVl6a1o4ZGEwWnFZeDhPaWxiaC1CWjBldjlNd1VfR0J5b0pLSzFPRUg3dXlhSWw5TUFwWWM?oc=5",
-      "published": "Wed, 07 Oct 2026 21:17:14 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xOWdHRWd4T2ZVOWRJOXRUVXQ1eFlTbk1VbWpfYXFaU245Y3Jhb0JoT2VRYkVyMVNsdHNETlRhcjJHRDNGcDF2UDJuUC0zcVk?oc=5",
+      "published": "Tue, 06 Oct 2026 03:44:14 GMT",
+      "topic": "美債",
       "rank": 3,
-      "importance_score": 77,
+      "importance_score": 80,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
+        "UST",
+        "USD",
         "Equity"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈美股盤後〉無視美債賣壓 AI概念股狂歡 那指締歷史新高紀錄",
-      "summary": "〈美股盤後〉無視美債賣壓 AI概念股狂歡 那指締歷史新高紀錄 鉅亨網",
+      "title": "〈渣打投資展望〉AI加持 渣打看Q4企業獲利續旺 台股獲評亞股最強",
+      "summary": "〈渣打投資展望〉AI加持 渣打看Q4企業獲利續旺 台股獲評亞股最強 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xOWdHRWd4T2ZVOWRJOXRUVXQ1eFlTbk1VbWpfYXFaU245Y3Jhb0JoT2VRYkVyMVNsdHNETlRhcjJHRDNGcDF2UDJuUC0zcVk?oc=5",
-      "published": "Tue, 06 Oct 2026 03:44:14 GMT",
-      "topic": "美債",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uZTRpc254YUd1aHdVODlNRExGOFZ3dVBIZ2RpeGU2OUhqdk80WE10Q1dnVjB2LVViYThYaVVoU2lxVmFMVWg5WUJQV0l0WVk?oc=5",
+      "published": "Wed, 07 Oct 2026 07:49:36 GMT",
+      "topic": "AI / 半導體",
       "rank": 5,
-      "importance_score": 76,
+      "importance_score": 67,
       "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
