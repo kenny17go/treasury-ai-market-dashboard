@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-08T14:08:55.611166+00:00",
+  "as_of": "2026-10-08T20:01:49.377227+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -69,14 +69,14 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈渣打投資展望〉AI加持 渣打看Q4企業獲利續旺 台股獲評亞股最強",
-      "summary": "〈渣打投資展望〉AI加持 渣打看Q4企業獲利續旺 台股獲評亞股最強 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uZTRpc254YUd1aHdVODlNRExGOFZ3dVBIZ2RpeGU2OUhqdk80WE10Q1dnVjB2LVViYThYaVVoU2lxVmFMVWg5WUJQV0l0WVk?oc=5",
-      "published": "Wed, 07 Oct 2026 07:49:36 GMT",
+      "title": "策略師預計 AI 泡沫未來兩年將破裂 標普500指數料現2008年來最嚴重大跌 | 美股動態 | 國際",
+      "summary": "策略師預計 AI 泡沫未來兩年將破裂 標普500指數料現2008年來最嚴重大跌 | 美股動態 | 國際 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lanItSFo3dnhkeGpoM3RHS1lmVGZrcHQ0Y21qaFY1dG1mcFpNVVlUckltY1lLLUo2bTJ4UkpzSkJ3WmdKcUxWZUhTeTdqbVpKZEVWSjlHUkRtemJD?oc=5",
+      "published": "Thu, 08 Oct 2026 12:28:17 GMT",
       "topic": "AI / 半導體",
       "rank": 5,
-      "importance_score": 67,
+      "importance_score": 71,
       "related_assets": [
         "SOX",
         "Nasdaq",
