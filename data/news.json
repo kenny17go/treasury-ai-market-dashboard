@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-07T20:02:38.594969+00:00",
+  "as_of": "2026-10-08T00:18:07.041471+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "非農爆冷也救不了！美元、美債殖利率持續施壓金價 4000美元大關保衛戰本周開始？",
-      "summary": "非農爆冷也救不了！美元、美債殖利率持續施壓金價 4000美元大關保衛戰本周開始？ 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9paHlkbHZMaWtMV0NmblJwWFRzWldjTDJkY2ZubHZSamg0cnhBT2hUblFKZlhZaXhiRmdUdWw3WUdvUUdYQ0wyOXNycjJmWGc?oc=5",
-      "published": "Mon, 05 Oct 2026 04:30:06 GMT",
+      "title": "美股收盤／美債殖利率衝24年高點 標普500和那斯達克自歷史新高回落 | 美股動態 | 國際",
+      "summary": "美股收盤／美債殖利率衝24年高點 標普500和那斯達克自歷史新高回落 | 美股動態 | 國際 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RTllpRTMxUXFwOTVBT0lQeXVoUUFERzN3cTAxZUJUaUtOcjZoUmRWVnJsUEVqR2lia2tMcDR2X0JfRW5zazlmM2lJWURMMkgyc2JTUnVxeEY2VGtM?oc=5",
+      "published": "Wed, 07 Oct 2026 22:40:01 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 93,
+      "importance_score": 94,
       "related_assets": [
         "UST",
         "USD",
@@ -37,11 +37,11 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈能源盤後〉中東原油供應回溫＋G7釋儲 油價跌逾1%回落近2美元 但每桶仍站百美元",
-      "summary": "〈能源盤後〉中東原油供應回溫＋G7釋儲 油價跌逾1%回落近2美元 但每桶仍站百美元 鉅亨網",
+      "title": "〈能源盤後〉IEA加速釋油、柴油優先 油價震盪收低 Brent守住100美元",
+      "summary": "〈能源盤後〉IEA加速釋油、柴油優先 油價震盪收低 Brent守住100美元 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Pa05hRjRxb1l2X1NJbzhETEZabzR0Ync5Y0h0UnV1YkpiRHN4UHNxXzlxMVF4R1NGQWlBUGFQaXVEQ19kZ0Nyek1oaks5RVk?oc=5",
-      "published": "Tue, 06 Oct 2026 06:44:39 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tYmtXdVNNM0F6TXVSa1Q3ci1hZVl6a1o4ZGEwWnFZeDhPaWxiaC1CWjBldjlNd1VfR0J5b0pLSzFPRUg3dXlhSWw5TUFwWWM?oc=5",
+      "published": "Wed, 07 Oct 2026 21:16:22 GMT",
       "topic": "能源",
       "rank": 3,
       "importance_score": 77,
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
+      "title": "〈能源盤後〉中東原油供應回溫＋G7釋儲 油價跌逾1%回落近2美元 但每桶仍站百美元",
+      "summary": "〈能源盤後〉中東原油供應回溫＋G7釋儲 油價跌逾1%回落近2美元 但每桶仍站百美元 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Pa05hRjRxb1l2X1NJbzhETEZabzR0Ync5Y0h0UnV1YkpiRHN4UHNxXzlxMVF4R1NGQWlBUGFQaXVEQ19kZ0Nyek1oaks5RVk?oc=5",
+      "published": "Tue, 06 Oct 2026 06:44:39 GMT",
+      "topic": "能源",
+      "rank": 4,
+      "importance_score": 75,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
       "title": "〈美股盤後〉無視美債賣壓 AI概念股狂歡 那指締歷史新高紀錄",
       "summary": "〈美股盤後〉無視美債賣壓 AI概念股狂歡 那指締歷史新高紀錄 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xOWdHRWd4T2ZVOWRJOXRUVXQ1eFlTbk1VbWpfYXFaU245Y3Jhb0JoT2VRYkVyMVNsdHNETlRhcjJHRDNGcDF2UDJuUC0zcVk?oc=5",
       "published": "Tue, 06 Oct 2026 03:44:14 GMT",
       "topic": "美債",
-      "rank": 4,
-      "importance_score": 78,
+      "rank": 5,
+      "importance_score": 76,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "台股大漲66%後防高檔震盪 聯博建議3招卡位4大「AI應用」",
-      "summary": "台股大漲66%後防高檔震盪 聯博建議3招卡位4大「AI應用」 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40TUVpTTJneU9GOXNjN0gtZEh5eG5nbFBOSVh1MlRLMHlySFlTWVQ2cjJiUHN6MlFJYlBfQnpSZ3lNRU9Va2Y3UkQ3eVhtYm8?oc=5",
-      "published": "Wed, 07 Oct 2026 03:57:51 GMT",
-      "topic": "AI / 半導體",
-      "rank": 5,
-      "importance_score": 67,
-      "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
