@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-08T00:18:07.041471+00:00",
+  "as_of": "2026-10-08T05:02:48.049230+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,11 +21,11 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "美股收盤／美債殖利率衝24年高點 標普500和那斯達克自歷史新高回落 | 美股動態 | 國際",
-      "summary": "美股收盤／美債殖利率衝24年高點 標普500和那斯達克自歷史新高回落 | 美股動態 | 國際 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RTllpRTMxUXFwOTVBT0lQeXVoUUFERzN3cTAxZUJUaUtOcjZoUmRWVnJsUEVqR2lia2tMcDR2X0JfRW5zazlmM2lJWURMMkgyc2JTUnVxeEY2VGtM?oc=5",
-      "published": "Wed, 07 Oct 2026 22:40:01 GMT",
+      "title": "美股期指持穩，油價與美債殖利率同步走高，漲勢更集中大型科技股",
+      "summary": "美股期指持穩，油價與美債殖利率同步走高，漲勢更集中大型科技股 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OUXVMYnpVMkdvYkRxLUtMN3ptMTVsQ3VUNDdadXFCZERZdVFhYjYzY3ljRWxWRHRybjl6QkVlajJtbC1fSjNuTWpLWEtqVjg?oc=5",
+      "published": "Wed, 07 Oct 2026 09:30:06 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
       "importance_score": 94,
@@ -41,7 +41,7 @@
       "summary": "〈能源盤後〉IEA加速釋油、柴油優先 油價震盪收低 Brent守住100美元 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tYmtXdVNNM0F6TXVSa1Q3ci1hZVl6a1o4ZGEwWnFZeDhPaWxiaC1CWjBldjlNd1VfR0J5b0pLSzFPRUg3dXlhSWw5TUFwWWM?oc=5",
-      "published": "Wed, 07 Oct 2026 21:16:22 GMT",
+      "published": "Wed, 07 Oct 2026 21:17:14 GMT",
       "topic": "能源",
       "rank": 3,
       "importance_score": 77,
