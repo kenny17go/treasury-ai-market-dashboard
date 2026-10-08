@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-08T11:59:11.690732+00:00",
+  "as_of": "2026-10-08T14:08:55.611166+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,33 +37,33 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "〈美股早盤〉AI熱潮與油價降溫聯手助攻！主要指數開高 標普500刷新盤中紀錄",
+      "summary": "〈美股早盤〉AI熱潮與油價降溫聯手助攻！主要指數開高 標普500刷新盤中紀錄 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9saGdFTU5uZHY1a05ibmtUSzFzLU50dDdVVTZDancyQzM4cmpEUE0zbVMzbG5LTzZ5RkJzX2k4Y0RVbVRKT1BLQ2hUaw?oc=5",
+      "published": "Tue, 06 Oct 2026 13:42:37 GMT",
+      "topic": "能源",
+      "rank": 3,
+      "importance_score": 84,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
+    {
       "title": "〈美股盤後〉無視美債賣壓 AI概念股狂歡 那指締歷史新高紀錄",
       "summary": "〈美股盤後〉無視美債賣壓 AI概念股狂歡 那指締歷史新高紀錄 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xOWdHRWd4T2ZVOWRJOXRUVXQ1eFlTbk1VbWpfYXFaU245Y3Jhb0JoT2VRYkVyMVNsdHNETlRhcjJHRDNGcDF2UDJuUC0zcVk?oc=5",
       "published": "Tue, 06 Oct 2026 03:44:14 GMT",
       "topic": "美債",
-      "rank": 3,
-      "importance_score": 80,
+      "rank": 4,
+      "importance_score": 78,
       "related_assets": [
         "UST",
         "USD",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "〈能源盤後〉中東原油供應回溫＋G7釋儲 油價跌逾1%回落近2美元 但每桶仍站百美元",
-      "summary": "〈能源盤後〉中東原油供應回溫＋G7釋儲 油價跌逾1%回落近2美元 但每桶仍站百美元 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Pa05hRjRxb1l2X1NJbzhETEZabzR0Ync5Y0h0UnV1YkpiRHN4UHNxXzlxMVF4R1NGQWlBUGFQaXVEQ19kZ0Nyek1oaks5RVk?oc=5",
-      "published": "Tue, 06 Oct 2026 06:44:39 GMT",
-      "topic": "能源",
-      "rank": 4,
-      "importance_score": 75,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
