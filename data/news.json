@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-09T19:08:10.001042+00:00",
+  "as_of": "2026-10-09T23:22:38.886310+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,14 +37,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈美股早盤〉油價降溫、AI買盤回籠！晶片股領軍 主要指數開高",
-      "summary": "〈美股早盤〉油價降溫、AI買盤回籠！晶片股領軍 主要指數開高 鉅亨網",
+      "title": "〈能源盤後〉IEA出手！加速釋庫1億桶 油價暫降溫 Brent跌破101美元",
+      "summary": "〈能源盤後〉IEA出手！加速釋庫1億桶 油價暫降溫 Brent跌破101美元 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ndGlaQzhzMVhnbjUwaFZNbkRFNl9STUE0czc2Z0dtT0U5OUxicDU1b0JBUE9XVUNlT1dNSmJVTU40UW91Qkc2Znl4Z01oNmc?oc=5",
-      "published": "Fri, 09 Oct 2026 13:41:03 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBac1dvdE0zcUtpd2tiNXhEZXdZZE1mSjUwX2d0UzBRYkpqWEk5cUtnVlc3VUZha0FxZGpzTmZWVUFzWFNXakVDb2ozOA?oc=5",
+      "published": "Thu, 08 Oct 2026 21:45:04 GMT",
       "topic": "能源",
       "rank": 3,
-      "importance_score": 80,
+      "importance_score": 77,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "美股收盤／AI 獲利成長期待加油價下跌 輝達、台積電ADR、那斯達克同創新高",
-      "summary": "美股收盤／AI 獲利成長期待加油價下跌 輝達、台積電ADR、那斯達克同創新高 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2UlpKblJGYjFucTBNeXQtRV8zT05BWEVRTHFUaVMyaFdWa1JLa2U1bXJ1QUQyNXl3eDdNM3A3OXlyZlpUNmMwT2l6LTJsWEc0Q3ZEMllyY0NrX3lG0gFiQVVfeXFMUG1WdkJqNWhwSkwzNVUweWt0MnpuTEtIUGo2eDQ1UmNNTWg0MUMwZnJpS200RTRXMmRGSnVYcm5LLWhDY2VIVEhtdE5HZGpEVFliZ1ZaQmtvQmtOQURrQnRXVFE?oc=5",
-      "published": "Wed, 07 Oct 2026 09:00:00 GMT",
-      "topic": "能源",
+      "title": "〈美股盤後〉川普稱普丁同意向全球投放柴油 標普逼近歷史高點 三大指數周線收紅",
+      "summary": "〈美股盤後〉川普稱普丁同意向全球投放柴油 標普逼近歷史高點 三大指數周線收紅 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91TUdPNXNYbFFBR0xKUDJlUXJHM0tzTEZUZ1ZuaTBicVVDZGJGRzBiRHBqckQ4SHR1a2o2ZjJoSDNId2REd3FjY3hXU1o4cWc?oc=5",
+      "published": "Fri, 09 Oct 2026 22:07:30 GMT",
+      "topic": "美股",
       "rank": 4,
-      "importance_score": 83,
+      "importance_score": 65,
+      "related_assets": [
+        "S&P 500",
+        "Nasdaq",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "〈能源盤後〉IEA加速釋油、柴油優先 油價震盪收低 Brent守住100美元",
+      "summary": "〈能源盤後〉IEA加速釋油、柴油優先 油價震盪收低 Brent守住100美元 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tYmtXdVNNM0F6TXVSa1Q3ci1hZVl6a1o4ZGEwWnFZeDhPaWxiaC1CWjBldjlNd1VfR0J5b0pLSzFPRUg3dXlhSWw5TUFwWWM?oc=5",
+      "published": "Wed, 07 Oct 2026 21:17:14 GMT",
+      "topic": "能源",
+      "rank": 5,
+      "importance_score": 73,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
-      ],
-      "why_selected": "高市場影響主題、高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "趁金價回落加碼 中國央行連續23個月增持黃金 創3年最大單月增幅",
-      "summary": "趁金價回落加碼 中國央行連續23個月增持黃金 創3年最大單月增幅 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zTTVoUlZKUXRzeFRpRlB0RXRwcVNTdEYwUTJsRlhjNE00cmJKbXpzMVZadkNQd3NuVVh4dWFXXzR1a1VqRkVSdEdxUmJQbGM?oc=5",
-      "published": "Thu, 08 Oct 2026 09:30:03 GMT",
-      "topic": "黃金",
-      "rank": 5,
-      "importance_score": 75,
-      "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
