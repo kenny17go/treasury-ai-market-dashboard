@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-08T20:01:49.377227+00:00",
+  "as_of": "2026-10-09T00:31:10.334366+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,14 +37,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈美股早盤〉AI熱潮與油價降溫聯手助攻！主要指數開高 標普500刷新盤中紀錄",
-      "summary": "〈美股早盤〉AI熱潮與油價降溫聯手助攻！主要指數開高 標普500刷新盤中紀錄 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9saGdFTU5uZHY1a05ibmtUSzFzLU50dDdVVTZDancyQzM4cmpEUE0zbVMzbG5LTzZ5RkJzX2k4Y0RVbVRKT1BLQ2hUaw?oc=5",
-      "published": "Tue, 06 Oct 2026 13:42:37 GMT",
+      "title": "美股收盤／AI 獲利成長期待加油價下跌 輝達、台積電ADR、那斯達克同創新高",
+      "summary": "美股收盤／AI 獲利成長期待加油價下跌 輝達、台積電ADR、那斯達克同創新高 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2UlpKblJGYjFucTBNeXQtRV8zT05BWEVRTHFUaVMyaFdWa1JLa2U1bXJ1QUQyNXl3eDdNM3A3OXlyZlpUNmMwT2l6LTJsWEc0Q3ZEMllyY0NrX3lG0gFiQVVfeXFMUG1WdkJqNWhwSkwzNVUweWt0MnpuTEtIUGo2eDQ1UmNNTWg0MUMwZnJpS200RTRXMmRGSnVYcm5LLWhDY2VIVEhtdE5HZGpEVFliZ1ZaQmtvQmtOQURrQnRXVFE?oc=5",
+      "published": "Wed, 07 Oct 2026 09:00:00 GMT",
       "topic": "能源",
       "rank": 3,
-      "importance_score": 84,
+      "importance_score": 85,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "策略師預計 AI 泡沫未來兩年將破裂 標普500指數料現2008年來最嚴重大跌 | 美股動態 | 國際",
-      "summary": "策略師預計 AI 泡沫未來兩年將破裂 標普500指數料現2008年來最嚴重大跌 | 美股動態 | 國際 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lanItSFo3dnhkeGpoM3RHS1lmVGZrcHQ0Y21qaFY1dG1mcFpNVVlUckltY1lLLUo2bTJ4UkpzSkJ3WmdKcUxWZUhTeTdqbVpKZEVWSjlHUkRtemJD?oc=5",
-      "published": "Thu, 08 Oct 2026 12:28:17 GMT",
-      "topic": "AI / 半導體",
+      "title": "〈能源盤後〉IEA加速釋油、柴油優先 油價震盪收低 Brent守住100美元",
+      "summary": "〈能源盤後〉IEA加速釋油、柴油優先 油價震盪收低 Brent守住100美元 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tYmtXdVNNM0F6TXVSa1Q3ci1hZVl6a1o4ZGEwWnFZeDhPaWxiaC1CWjBldjlNd1VfR0J5b0pLSzFPRUg3dXlhSWw5TUFwWWM?oc=5",
+      "published": "Wed, 07 Oct 2026 21:17:14 GMT",
+      "topic": "能源",
       "rank": 5,
-      "importance_score": 71,
+      "importance_score": 73,
       "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
