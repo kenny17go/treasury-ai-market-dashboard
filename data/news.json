@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-12T16:14:08.496789+00:00",
+  "as_of": "2026-10-12T23:06:29.584891+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "本週操盤筆記：美CPI牽動升息預期！美股財報季開跑、台積電法說和ASML接力登場",
-      "summary": "本週操盤筆記：美CPI牽動升息預期！美股財報季開跑、台積電法說和ASML接力登場 鉅亨網",
+      "title": "全球債市拋售反而減輕升息壓力？公債殖利率飆升、8大經濟體升息預期降溫",
+      "summary": "全球債市拋售反而減輕升息壓力？公債殖利率飆升、8大經濟體升息預期降溫 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01QTZHWkllaDBrMEZEdldpQ25tQU9YTDk0NFRqT2tDRlpVRDYyMnhMektVNDY0b05na0steDFfYmxVQmRRcFRweEtoNA?oc=5",
-      "published": "Sun, 11 Oct 2026 13:30:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yY3JlMVdJNjZQTGdkUHhxMEstVkhzanZkWmVlMGxkMWdvN0M0Ym10ek1rc2V2QmtRSDM4eFJoem9PZUFtSFFrd0pjZw?oc=5",
+      "published": "Mon, 12 Oct 2026 07:20:03 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 90,
+      "importance_score": 83,
       "related_assets": [
         "UST",
         "USD",
@@ -37,11 +37,11 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "中國原油進口回溫？96艘超級油輪將抵港、創2月底以來新高",
-      "summary": "中國原油進口回溫？96艘超級油輪將抵港、創2月底以來新高 鉅亨網",
+      "title": "美股期指漲跌互見！油價站穩100美元，銀行財報與通膨數據成市場焦點",
+      "summary": "美股期指漲跌互見！油價站穩100美元，銀行財報與通膨數據成市場焦點 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93em1WcW4tV09acnFSYUVsWWdpUVRwREdGVjBVby1icmdYbXJ4MVR6dXh5NHRLMXcwMzBLVFFobFJJdVpSaHJjbWRSYlNQRGc?oc=5",
-      "published": "Sun, 11 Oct 2026 03:47:17 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vS0NWNk8wbTdlSEJzQy1SaEtSQzhDaFc5SjdtTURtTmoycWpmdmoyOGVCY0tkaV9uWXhSeEZWY3JvUUlxa3VROGVwa1FOZzg?oc=5",
+      "published": "Mon, 12 Oct 2026 11:00:29 GMT",
       "topic": "能源",
       "rank": 3,
       "importance_score": 74,
@@ -53,14 +53,14 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "油價恐飆每桶200美元？全球石油庫存告急、高盛：風險溢價逼近「歷史最高」",
-      "summary": "油價恐飆每桶200美元？全球石油庫存告急、高盛：風險溢價逼近「歷史最高」 鉅亨網",
+      "title": "中國原油進口回溫？96艘超級油輪將抵港、創2月底以來新高",
+      "summary": "中國原油進口回溫？96艘超級油輪將抵港、創2月底以來新高 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lbGFNT2VxOHVoQ2xEbzNIVTlSend6eWlrOXpUa0VhWGlDUVJwRWM5QU1MLVhKSW5JS0ZMbUtXT1FsQUc5Y1BfUnZuYw?oc=5",
-      "published": "Mon, 12 Oct 2026 13:10:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93em1WcW4tV09acnFSYUVsWWdpUVRwREdGVjBVby1icmdYbXJ4MVR6dXh5NHRLMXcwMzBLVFFobFJJdVpSaHJjbWRSYlNQRGc?oc=5",
+      "published": "Sun, 11 Oct 2026 03:47:17 GMT",
       "topic": "能源",
       "rank": 4,
-      "importance_score": 67,
+      "importance_score": 72,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "【台股五萬點沒了？】台指期狂殺1,263點！台積電法說能逆轉勝？",
-      "summary": "【台股五萬點沒了？】台指期狂殺1,263點！台積電法說能逆轉勝？ 鉅亨網",
+      "title": "年底還能再漲一波？標普500企業獲利估增25% 全球股市等財報拿出真本事",
+      "summary": "年底還能再漲一波？標普500企業獲利估增25% 全球股市等財報拿出真本事 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xZF9sWEFLNUtQeE40OGt6R1BmV29jOHpRSWNyWEp1WlNaV2NHTlVSZUQtd3F1TnlFNFN1MDdxYnNzalo4R3hKODREcmxIZzg?oc=5",
-      "published": "Mon, 12 Oct 2026 00:38:44 GMT",
-      "topic": "AI / 半導體",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtU25yWjhPcDRvRVhGczh6cF9Wb1B5WDI4VEhrTzU0OUpCYU5tZFBscWxtZmxuMGVpZGx2QmFBdG1SWU9DOFdiOWluNA?oc=5",
+      "published": "Mon, 12 Oct 2026 12:30:34 GMT",
+      "topic": "美股",
       "rank": 5,
-      "importance_score": 69,
+      "importance_score": 62,
       "related_assets": [
-        "SOX",
+        "S&P 500",
         "Nasdaq",
-        "TSM / NVDA"
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
