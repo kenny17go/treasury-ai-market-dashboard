@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-10-10T02:28:29.278876+00:00",
+  "as_of": "2026-10-12T04:52:22.112518+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低 台積電ADR跌近2%",
-      "summary": "〈美股早盤〉油價與美債殖利率攀升 主要指數開低 台積電ADR跌近2% 鉅亨網",
+      "title": "美債殖利率難壓！黃金長期看漲情緒升溫 專家：指1年後必破「這一價位」",
+      "summary": "美債殖利率難壓！黃金長期看漲情緒升溫 專家：指1年後必破「這一價位」 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42QXhGem4yMkZzZkZYTElVQl9Ea3JRZmZwbTBtZ2NfZmhtbXo4cUhEVzlNODVKNnBGNEZBMHBJZmhSc3EwMkdKdi1Uaw?oc=5",
-      "published": "Wed, 07 Oct 2026 13:40:17 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fLVE4Y29LSkNnZHdvSXJSR3M0RXg1cEM4bTNBUWd5WVhpVmRBVHpFYlp3dWxnWWhWOHY0cDUtZ0dHeVZDeEhjZktROA?oc=5",
+      "published": "Mon, 12 Oct 2026 00:00:03 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 100,
+      "importance_score": 93,
       "related_assets": [
         "UST",
         "USD",
@@ -21,17 +21,33 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "美股期指持穩，油價與美債殖利率同步走高，漲勢更集中大型科技股",
-      "summary": "美股期指持穩，油價與美債殖利率同步走高，漲勢更集中大型科技股 鉅亨網",
+      "title": "本週操盤筆記：美CPI牽動升息預期！美股財報季開跑、台積電法說和ASML接力登場",
+      "summary": "本週操盤筆記：美CPI牽動升息預期！美股財報季開跑、台積電法說和ASML接力登場 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OUXVMYnpVMkdvYkRxLUtMN3ptMTVsQ3VUNDdadXFCZERZdVFhYjYzY3ljRWxWRHRybjl6QkVlajJtbC1fSjNuTWpLWEtqVjg?oc=5",
-      "published": "Wed, 07 Oct 2026 09:30:06 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01QTZHWkllaDBrMEZEdldpQ25tQU9YTDk0NFRqT2tDRlpVRDYyMnhMektVNDY0b05na0steDFfYmxVQmRRcFRweEtoNA?oc=5",
+      "published": "Sun, 11 Oct 2026 13:30:05 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 94,
+      "importance_score": 90,
       "related_assets": [
         "UST",
         "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
+    {
+      "title": "〈能源盤後〉颶風逼近 美國海上原油產量逾七成停擺 推升油價 Brent站上104美元",
+      "summary": "〈能源盤後〉颶風逼近 美國海上原油產量逾七成停擺 推升油價 Brent站上104美元 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JRXhSbVZESGZWQ1gzSzluczQtWTk0d2Nob0xhVmZRTzFVSkJOTGc5NjJvQ1Z3WU9obUhQS1dJT3hZMEZQSnJ6ekk2Yw?oc=5",
+      "published": "Fri, 09 Oct 2026 21:11:17 GMT",
+      "topic": "能源",
+      "rank": 3,
+      "importance_score": 85,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
         "Equity"
       ],
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
@@ -43,24 +59,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ndGlaQzhzMVhnbjUwaFZNbkRFNl9STUE0czc2Z0dtT0U5OUxicDU1b0JBUE9XVUNlT1dNSmJVTU40UW91Qkc2Znl4Z01oNmc?oc=5",
       "published": "Fri, 09 Oct 2026 13:41:03 GMT",
       "topic": "能源",
-      "rank": 3,
-      "importance_score": 80,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "〈能源盤後〉IEA出手！加速釋庫1億桶 油價暫降溫 Brent跌破101美元",
-      "summary": "〈能源盤後〉IEA出手！加速釋庫1億桶 油價暫降溫 Brent跌破101美元 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBac1dvdE0zcUtpd2tiNXhEZXdZZE1mSjUwX2d0UzBRYkpqWEk5cUtnVlc3VUZha0FxZGpzTmZWVUFzWFNXakVDb2ozOA?oc=5",
-      "published": "Thu, 08 Oct 2026 21:45:04 GMT",
-      "topic": "能源",
       "rank": 4,
-      "importance_score": 75,
+      "importance_score": 78,
       "related_assets": [
         "WTI / Brent",
         "Inflation",

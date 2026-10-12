@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-10T02:30:17.909003+00:00",
+  "as_of": "2026-10-12T04:54:32.846486+00:00",
   "status": "ok",
   "source": "BEA + Federal Reserve + 中央銀行（台灣） + Bank of Japan + European Central Bank + Eurostat",
   "source_mode": "Official global central banks + official statistics + market-calendar enrichment",
@@ -142,6 +142,30 @@
       "date": "2026-12-08",
       "time": "21:30",
       "title": "U.S. International Trade in Goods and Services, October 2026",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "BEA"
+    },
+    {
+      "date": "2026-12-10",
+      "time": "03:00",
+      "title": "FOMC 利率決議 / 記者會",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "Federal Reserve"
+    },
+    {
+      "date": "2026-12-10",
+      "time": "21:30",
+      "title": "Real Personal Consumption Expenditures by State and Real Personal Income by State, 2025",
       "country": "United States",
       "flag": "🇺🇸",
       "importance": 3,
