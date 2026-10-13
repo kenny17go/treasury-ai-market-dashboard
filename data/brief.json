@@ -12,7 +12,7 @@
   "yesterday_top": [
     "美股主要指數平均 -0.69%，風險情緒中性。",
     "10Y 美債殖利率 5.240%。",
-    "DXY 日變動 +0.21%。"
+    "DXY 日變動 -0.16%。"
   ],
   "today_top": [
     "新聞｜黃金最壞時刻已過？瑞銀：美債殖利率回落將讓黃金復甦",
@@ -21,11 +21,11 @@
   ],
   "todays_watch": [
     "利率：10Y 日變動 +2.0 bps。",
-    "美元：DXY 日變動 +0.21%。",
+    "美元：DXY 日變動 -0.16%。",
     "波動率：VIX 15.21。",
     "曲線：2Y10Y +44.0 bps。"
   ],
   "today_date_taipei": "2026-10-13",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-10-13T03:43:51.681046+00:00"
+  "as_of": "2026-10-13T05:57:34.178048+00:00"
 }
