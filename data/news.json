@@ -1,25 +1,9 @@
 {
-  "as_of": "2026-10-13T05:55:47.226354+00:00",
+  "as_of": "2026-10-13T13:39:08.749753+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
-    {
-      "title": "黃金最壞時刻已過？瑞銀：美債殖利率回落將讓黃金復甦",
-      "summary": "黃金最壞時刻已過？瑞銀：美債殖利率回落將讓黃金復甦 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrM01fZ2ItY0xEYTRpYkxuMXNaWThfVXdPaWlEbHF1SndZeWgwVzR4a09FUmg0VFVYTkdZTXF1N3BCcHBRZF9pOVBHX25lV2M?oc=5",
-      "published": "Mon, 12 Oct 2026 23:47:49 GMT",
-      "topic": "Fed / 利率",
-      "rank": 1,
-      "importance_score": 89,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
-    },
     {
       "title": "美債殖利率難壓！黃金長期看漲情緒升溫 專家：指1年後必破「這一價位」",
       "summary": "美債殖利率難壓！黃金長期看漲情緒升溫 專家：指1年後必破「這一價位」 鉅亨網",
@@ -27,8 +11,8 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fLVE4Y29LSkNnZHdvSXJSR3M0RXg1cEM4bTNBUWd5WVhpVmRBVHpFYlp3dWxnWWhWOHY0cDUtZ0dHeVZDeEhjZktROA?oc=5",
       "published": "Mon, 12 Oct 2026 00:00:03 GMT",
       "topic": "Fed / 利率",
-      "rank": 2,
-      "importance_score": 91,
+      "rank": 1,
+      "importance_score": 93,
       "related_assets": [
         "UST",
         "USD",
@@ -37,20 +21,20 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "全球最大資管吹起債市號角！貝萊德六年來首次看多短天期美債 下調美股評等",
-      "summary": "全球最大資管吹起債市號角！貝萊德六年來首次看多短天期美債 下調美股評等 鉅亨網",
+      "title": "黃金最壞時刻已過？瑞銀：美債殖利率回落將讓黃金復甦",
+      "summary": "黃金最壞時刻已過？瑞銀：美債殖利率回落將讓黃金復甦 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEakNDRE9rcEt0SzhENnpHLXZZYkMxWDhURUw5LTJZS1p6YkF3Q241bG5rWndqWWtyRnhhLTN6bjQzeExGRHoxQ25aYS1nVzg?oc=5",
-      "published": "Tue, 13 Oct 2026 02:30:05 GMT",
-      "topic": "美債",
-      "rank": 3,
-      "importance_score": 70,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrM01fZ2ItY0xEYTRpYkxuMXNaWThfVXdPaWlEbHF1SndZeWgwVzR4a09FUmg0VFVYTkdZTXF1N3BCcHBRZF9pOVBHX25lV2M?oc=5",
+      "published": "Tue, 13 Oct 2026 08:04:10 GMT",
+      "topic": "Fed / 利率",
+      "rank": 2,
+      "importance_score": 87,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
       "title": "油價與美國選情連動！預測市場顯示民主黨橫掃兩院機率達65%、美股恐下跌",
@@ -58,6 +42,22 @@
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nLTlUaFp2aEliV2JYeW94WFFIYVhRN3FEdEFDX08weEVzWkZfNDk3MHZqT2hZeExfZngzNjQ1TUZ0SnVPR2U1WDM0NA?oc=5",
       "published": "Mon, 12 Oct 2026 23:09:54 GMT",
+      "topic": "能源",
+      "rank": 3,
+      "importance_score": 74,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "美股期指漲跌互見！油價站穩100美元，銀行財報與通膨數據成市場焦點",
+      "summary": "美股期指漲跌互見！油價站穩100美元，銀行財報與通膨數據成市場焦點 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vS0NWNk8wbTdlSEJzQy1SaEtSQzhDaFc5SjdtTURtTmoycWpmdmoyOGVCY0tkaV9uWXhSeEZWY3JvUUlxa3VROGVwa1FOZzg?oc=5",
+      "published": "Mon, 12 Oct 2026 11:00:29 GMT",
       "topic": "能源",
       "rank": 4,
       "importance_score": 72,
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "美股期指漲跌互見！油價站穩100美元，銀行財報與通膨數據成市場焦點",
-      "summary": "美股期指漲跌互見！油價站穩100美元，銀行財報與通膨數據成市場焦點 鉅亨網",
+      "title": "AI「錢荒」來了？美股AI拋售潮外溢 韓股早盤挫7%熔斷、日股跌超3% 鎧陜崩逾13%",
+      "summary": "AI「錢荒」來了？美股AI拋售潮外溢 韓股早盤挫7%熔斷、日股跌超3% 鎧陜崩逾13% 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vS0NWNk8wbTdlSEJzQy1SaEtSQzhDaFc5SjdtTURtTmoycWpmdmoyOGVCY0tkaV9uWXhSeEZWY3JvUUlxa3VROGVwa1FOZzg?oc=5",
-      "published": "Mon, 12 Oct 2026 11:00:29 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wczhJT2JIZWtLcDdldGhyQVhzZklDR19OSzRIbVo3eEZCNWtuaFBCRERzWU9DY0poVzd2UGF3MjhBdUZOMDZuN29vNA?oc=5",
+      "published": "Tue, 13 Oct 2026 04:35:15 GMT",
+      "topic": "AI / 半導體",
       "rank": 5,
-      "importance_score": 70,
+      "importance_score": 67,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
