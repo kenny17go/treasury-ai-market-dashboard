@@ -1,9 +1,25 @@
 {
-  "as_of": "2026-10-12T23:06:29.584891+00:00",
+  "as_of": "2026-10-13T03:42:00.905358+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
+    {
+      "title": "黃金最壞時刻已過？瑞銀：美債殖利率回落將讓黃金復甦",
+      "summary": "黃金最壞時刻已過？瑞銀：美債殖利率回落將讓黃金復甦 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrM01fZ2ItY0xEYTRpYkxuMXNaWThfVXdPaWlEbHF1SndZeWgwVzR4a09FUmg0VFVYTkdZTXF1N3BCcHBRZF9pOVBHX25lV2M?oc=5",
+      "published": "Mon, 12 Oct 2026 23:47:49 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1,
+      "importance_score": 89,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
     {
       "title": "美債殖利率難壓！黃金長期看漲情緒升溫 專家：指1年後必破「這一價位」",
       "summary": "美債殖利率難壓！黃金長期看漲情緒升溫 專家：指1年後必破「這一價位」 鉅亨網",
@@ -11,24 +27,8 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fLVE4Y29LSkNnZHdvSXJSR3M0RXg1cEM4bTNBUWd5WVhpVmRBVHpFYlp3dWxnWWhWOHY0cDUtZ0dHeVZDeEhjZktROA?oc=5",
       "published": "Mon, 12 Oct 2026 00:00:03 GMT",
       "topic": "Fed / 利率",
-      "rank": 1,
-      "importance_score": 93,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
-    },
-    {
-      "title": "全球債市拋售反而減輕升息壓力？公債殖利率飆升、8大經濟體升息預期降溫",
-      "summary": "全球債市拋售反而減輕升息壓力？公債殖利率飆升、8大經濟體升息預期降溫 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yY3JlMVdJNjZQTGdkUHhxMEstVkhzanZkWmVlMGxkMWdvN0M0Ym10ek1rc2V2QmtRSDM4eFJoem9PZUFtSFFrd0pjZw?oc=5",
-      "published": "Mon, 12 Oct 2026 07:20:03 GMT",
-      "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 83,
+      "importance_score": 91,
       "related_assets": [
         "UST",
         "USD",
@@ -37,27 +37,27 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "美股期指漲跌互見！油價站穩100美元，銀行財報與通膨數據成市場焦點",
-      "summary": "美股期指漲跌互見！油價站穩100美元，銀行財報與通膨數據成市場焦點 鉅亨網",
+      "title": "全球最大資管吹起債市號角！貝萊德六年來首次看多短天期美債 下調美股評等",
+      "summary": "全球最大資管吹起債市號角！貝萊德六年來首次看多短天期美債 下調美股評等 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vS0NWNk8wbTdlSEJzQy1SaEtSQzhDaFc5SjdtTURtTmoycWpmdmoyOGVCY0tkaV9uWXhSeEZWY3JvUUlxa3VROGVwa1FOZzg?oc=5",
-      "published": "Mon, 12 Oct 2026 11:00:29 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEakNDRE9rcEt0SzhENnpHLXZZYkMxWDhURUw5LTJZS1p6YkF3Q241bG5rWndqWWtyRnhhLTN6bjQzeExGRHoxQ25aYS1nVzg?oc=5",
+      "published": "Tue, 13 Oct 2026 02:30:05 GMT",
+      "topic": "美債",
       "rank": 3,
-      "importance_score": 74,
+      "importance_score": 70,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
+        "UST",
+        "USD",
         "Equity"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "中國原油進口回溫？96艘超級油輪將抵港、創2月底以來新高",
-      "summary": "中國原油進口回溫？96艘超級油輪將抵港、創2月底以來新高 鉅亨網",
+      "title": "油價與美國選情連動！預測市場顯示民主黨橫掃兩院機率達65%、美股恐下跌",
+      "summary": "油價與美國選情連動！預測市場顯示民主黨橫掃兩院機率達65%、美股恐下跌 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93em1WcW4tV09acnFSYUVsWWdpUVRwREdGVjBVby1icmdYbXJ4MVR6dXh5NHRLMXcwMzBLVFFobFJJdVpSaHJjbWRSYlNQRGc?oc=5",
-      "published": "Sun, 11 Oct 2026 03:47:17 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nLTlUaFp2aEliV2JYeW94WFFIYVhRN3FEdEFDX08weEVzWkZfNDk3MHZqT2hZeExfZngzNjQ1TUZ0SnVPR2U1WDM0NA?oc=5",
+      "published": "Mon, 12 Oct 2026 23:09:54 GMT",
       "topic": "能源",
       "rank": 4,
       "importance_score": 72,
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "年底還能再漲一波？標普500企業獲利估增25% 全球股市等財報拿出真本事",
-      "summary": "年底還能再漲一波？標普500企業獲利估增25% 全球股市等財報拿出真本事 鉅亨網",
+      "title": "美股期指漲跌互見！油價站穩100美元，銀行財報與通膨數據成市場焦點",
+      "summary": "美股期指漲跌互見！油價站穩100美元，銀行財報與通膨數據成市場焦點 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtU25yWjhPcDRvRVhGczh6cF9Wb1B5WDI4VEhrTzU0OUpCYU5tZFBscWxtZmxuMGVpZGx2QmFBdG1SWU9DOFdiOWluNA?oc=5",
-      "published": "Mon, 12 Oct 2026 12:30:34 GMT",
-      "topic": "美股",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vS0NWNk8wbTdlSEJzQy1SaEtSQzhDaFc5SjdtTURtTmoycWpmdmoyOGVCY0tkaV9uWXhSeEZWY3JvUUlxa3VROGVwa1FOZzg?oc=5",
+      "published": "Mon, 12 Oct 2026 11:00:29 GMT",
+      "topic": "能源",
       "rank": 5,
-      "importance_score": 62,
+      "importance_score": 70,
       "related_assets": [
-        "S&P 500",
-        "Nasdaq",
-        "UST"
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
