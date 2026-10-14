@@ -12,18 +12,18 @@
   "yesterday_top": [
     "美股主要指數平均 -0.19%，風險情緒中性。",
     "10Y 美債殖利率 5.210%。",
-    "DXY 日變動 -0.45%。"
+    "DXY 日變動 +0.04%。"
   ],
   "today_top": [
     "新聞｜〈貴金屬盤後〉金價走低 投資人觀望CPI報告和華許演說"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -3.0 bps。",
-    "美元：DXY 日變動 -0.45%。",
-    "波動率：VIX 15.27。",
+    "美元：DXY 日變動 +0.04%。",
+    "波動率：VIX 15.19。",
     "曲線：2Y10Y +42.0 bps。"
   ],
   "today_date_taipei": "2026-10-14",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-10-14T04:00:30.323912+00:00"
+  "as_of": "2026-10-14T09:28:05.934389+00:00"
 }
