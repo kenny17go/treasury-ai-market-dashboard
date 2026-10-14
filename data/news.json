@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-14T09:26:16.064242+00:00",
+  "as_of": "2026-10-14T12:32:12.221807+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈貴金屬盤後〉金價走低 投資人觀望CPI報告和華許演說",
-      "summary": "〈貴金屬盤後〉金價走低 投資人觀望CPI報告和華許演說 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yNUxKWDV2bldTb0RhaHJSWUhHNXFRRHgzWDZOeHZRVmMxbGxKckYtSUlObDlsN2J6QUFmT2dXNElWd1lwaHUwcGhkTzBGcFE?oc=5",
-      "published": "Tue, 13 Oct 2026 22:42:44 GMT",
-      "topic": "黃金",
-      "rank": 4,
-      "importance_score": 67,
-      "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
       "title": "全球最大資管吹起債市號角！貝萊德六年來首次看多短天期美債 下調美股評等",
       "summary": "全球最大資管吹起債市號角！貝萊德六年來首次看多短天期美債 下調美股評等 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEakNDRE9rcEt0SzhENnpHLXZZYkMxWDhURUw5LTJZS1p6YkF3Q241bG5rWndqWWtyRnhhLTN6bjQzeExGRHoxQ25aYS1nVzg?oc=5",
       "published": "Tue, 13 Oct 2026 02:30:05 GMT",
       "topic": "美債",
-      "rank": 5,
-      "importance_score": 66,
+      "rank": 4,
+      "importance_score": 68,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "〈貴金屬盤後〉金價走低 投資人觀望CPI報告和華許演說",
+      "summary": "〈貴金屬盤後〉金價走低 投資人觀望CPI報告和華許演說 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yNUxKWDV2bldTb0RhaHJSWUhHNXFRRHgzWDZOeHZRVmMxbGxKckYtSUlObDlsN2J6QUFmT2dXNElWd1lwaHUwcGhkTzBGcFE?oc=5",
+      "published": "Tue, 13 Oct 2026 22:42:44 GMT",
+      "topic": "黃金",
+      "rank": 5,
+      "importance_score": 65,
+      "related_assets": [
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
