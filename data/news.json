@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-14T12:32:12.221807+00:00",
+  "as_of": "2026-10-14T17:40:22.901989+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,18 +53,18 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "全球最大資管吹起債市號角！貝萊德六年來首次看多短天期美債 下調美股評等",
-      "summary": "全球最大資管吹起債市號角！貝萊德六年來首次看多短天期美債 下調美股評等 鉅亨網",
+      "title": "美國9月CPI年升3.7%略高預期 美股指數期貨短線走跌",
+      "summary": "美國9月CPI年升3.7%略高預期 美股指數期貨短線走跌 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEakNDRE9rcEt0SzhENnpHLXZZYkMxWDhURUw5LTJZS1p6YkF3Q241bG5rWndqWWtyRnhhLTN6bjQzeExGRHoxQ25aYS1nVzg?oc=5",
-      "published": "Tue, 13 Oct 2026 02:30:05 GMT",
-      "topic": "美債",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lZHQ3WUFmTndlbGRoT3I4Vy10ZmR1eGlacGxyM1BETXBXNkUtajlFdUg3R0dSSERKdVNvWlIzREE0RjdwamYtaWVpbw?oc=5",
+      "published": "Wed, 14 Oct 2026 12:36:20 GMT",
+      "topic": "美股",
       "rank": 4,
-      "importance_score": 68,
+      "importance_score": 72,
       "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
+        "S&P 500",
+        "Nasdaq",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
