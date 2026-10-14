@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-13T23:47:26.740718+00:00",
+  "as_of": "2026-10-14T03:58:40.054311+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,18 +53,18 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈美股盤後〉美光跌3.9%拖累費半、那指 油價走高、銀行財報季登場",
-      "summary": "〈美股盤後〉美光跌3.9%拖累費半、那指 油價走高、銀行財報季登場 鉅亨網",
+      "title": "〈貴金屬盤後〉金價走低 投資人觀望CPI報告和華許演說",
+      "summary": "〈貴金屬盤後〉金價走低 投資人觀望CPI報告和華許演說 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94LTNTbVg2YmlteUpyLVUyV0tCVDdJRnBLSFJBbFR3aHFNaUZ6M051NU14YURjRFJwTTBzbl9pTUJ3V3JuS3RWaExCZw?oc=5",
-      "published": "Mon, 12 Oct 2026 21:53:17 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yNUxKWDV2bldTb0RhaHJSWUhHNXFRRHgzWDZOeHZRVmMxbGxKckYtSUlObDlsN2J6QUFmT2dXNElWd1lwaHUwcGhkTzBGcFE?oc=5",
+      "published": "Tue, 13 Oct 2026 22:42:44 GMT",
+      "topic": "黃金",
       "rank": 4,
-      "importance_score": 72,
+      "importance_score": 67,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
