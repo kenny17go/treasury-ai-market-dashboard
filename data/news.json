@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-15T08:36:56.626099+00:00",
+  "as_of": "2026-10-15T12:13:52.047498+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -8,8 +8,8 @@
       "title": "黃金最壞時刻已過？瑞銀：美債殖利率回落將讓黃金復甦",
       "summary": "黃金最壞時刻已過？瑞銀：美債殖利率回落將讓黃金復甦 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IYjBHbUVNWlJDVlk0YmxrTDdjY2QtUks0MUhqenp0Z2loemkwU0VLVHRaTGk2dUdGX0hsZFZEUW1BTTVsOTNCUjdNWQ?oc=5",
-      "published": "Mon, 12 Oct 2026 23:47:26 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrM01fZ2ItY0xEYTRpYkxuMXNaWThfVXdPaWlEbHF1SndZeWgwVzR4a09FUmg0VFVYTkdZTXF1N3BCcHBRZF9pOVBHX25lV2M?oc=5",
+      "published": "Tue, 13 Oct 2026 08:04:10 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
       "importance_score": 89,
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈貴金屬盤後〉美CPI火熱、Fed升息機率提高 金價連三黑",
-      "summary": "〈貴金屬盤後〉美CPI火熱、Fed升息機率提高 金價連三黑 鉅亨網",
+      "title": "美債殖利率高檔震盪 金融股可低接?",
+      "summary": "美債殖利率高檔震盪 金融股可低接? 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NalNkdmQtT0c0MkFfRUxBX1pHVjFza2duZmU0VEZyeklrOXNrdVFPQk9FSWVyVWpYM0VWSWNmS3N4SHY5bFlNYVYzVWY4QU0?oc=5",
-      "published": "Thu, 15 Oct 2026 01:53:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ybVI4bl9kSFlPY2NkbHMxbEw1cWJyaHh5NFc1ZHR0Z3h0M3pibFR2ODFJZ1YwZkVPSFdUbjFLRXVMVEpBaHZ2djYtNDU2RjA?oc=5",
+      "published": "Wed, 14 Oct 2026 07:08:23 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 86,
+      "importance_score": 85,
       "related_assets": [
         "UST",
         "USD",
@@ -37,34 +37,34 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "美國9月CPI年升3.7%略高預期 美股指數期貨短線走跌",
-      "summary": "美國9月CPI年升3.7%略高預期 美股指數期貨短線走跌 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lZHQ3WUFmTndlbGRoT3I4Vy10ZmR1eGlacGxyM1BETXBXNkUtajlFdUg3R0dSSERKdVNvWlIzREE0RjdwamYtaWVpbw?oc=5",
-      "published": "Wed, 14 Oct 2026 12:36:20 GMT",
-      "topic": "美股",
-      "rank": 3,
-      "importance_score": 74,
-      "related_assets": [
-        "S&P 500",
-        "Nasdaq",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
       "title": "中國記憶體技術追趕引發AI晶片股拋售亞股創兩個多月低點，資金轉向美債避險",
       "summary": "中國記憶體技術追趕引發AI晶片股拋售亞股創兩個多月低點，資金轉向美債避險 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMSTN5RGN4QUxEREYyZDRkcnNMVXpZTm85OTZkTkdWYUhaYkJXM0JmZG50aklnQTFQU2d3M2tVaEN0Ynoyc1M4NnJYYTZjMnM?oc=5",
       "published": "Tue, 13 Oct 2026 06:30:06 GMT",
       "topic": "美債",
-      "rank": 4,
-      "importance_score": 78,
+      "rank": 3,
+      "importance_score": 80,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "美國9月CPI年升3.7%略高預期 美股指數期貨短線走跌",
+      "summary": "美國9月CPI年升3.7%略高預期 美股指數期貨短線走跌 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lZHQ3WUFmTndlbGRoT3I4Vy10ZmR1eGlacGxyM1BETXBXNkUtajlFdUg3R0dSSERKdVNvWlIzREE0RjdwamYtaWVpbw?oc=5",
+      "published": "Wed, 14 Oct 2026 12:36:20 GMT",
+      "topic": "美股",
+      "rank": 4,
+      "importance_score": 72,
+      "related_assets": [
+        "S&P 500",
+        "Nasdaq",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
