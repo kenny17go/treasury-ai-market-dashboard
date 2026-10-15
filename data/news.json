@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-14T21:03:10.464712+00:00",
+  "as_of": "2026-10-15T00:00:17.814998+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,20 +37,36 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "美國9月CPI年升3.7%略高預期 美股指數期貨短線走跌",
+      "summary": "美國9月CPI年升3.7%略高預期 美股指數期貨短線走跌 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lZHQ3WUFmTndlbGRoT3I4Vy10ZmR1eGlacGxyM1BETXBXNkUtajlFdUg3R0dSSERKdVNvWlIzREE0RjdwamYtaWVpbw?oc=5",
+      "published": "Wed, 14 Oct 2026 12:36:20 GMT",
+      "topic": "美股",
+      "rank": 3,
+      "importance_score": 74,
+      "related_assets": [
+        "S&P 500",
+        "Nasdaq",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
       "title": "油價與美國選情連動！預測市場顯示民主黨橫掃兩院機率達65%、美股恐下跌",
       "summary": "油價與美國選情連動！預測市場顯示民主黨橫掃兩院機率達65%、美股恐下跌 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nLTlUaFp2aEliV2JYeW94WFFIYVhRN3FEdEFDX08weEVzWkZfNDk3MHZqT2hZeExfZngzNjQ1TUZ0SnVPR2U1WDM0NA?oc=5",
       "published": "Mon, 12 Oct 2026 23:09:54 GMT",
       "topic": "能源",
-      "rank": 3,
-      "importance_score": 74,
+      "rank": 4,
+      "importance_score": 72,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
       "title": "中國記憶體技術追趕引發AI晶片股拋售亞股創兩個多月低點，資金轉向美債避險",
@@ -59,28 +75,12 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMSTN5RGN4QUxEREYyZDRkcnNMVXpZTm85OTZkTkdWYUhaYkJXM0JmZG50aklnQTFQU2d3M2tVaEN0Ynoyc1M4NnJYYTZjMnM?oc=5",
       "published": "Tue, 13 Oct 2026 06:30:06 GMT",
       "topic": "美債",
-      "rank": 4,
-      "importance_score": 78,
+      "rank": 5,
+      "importance_score": 76,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "全球央行購金第4大戶轉賣方 年底前黃金儲存占比降至75%",
-      "summary": "全球央行購金第4大戶轉賣方 年底前黃金儲存占比降至75% 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15ME9HckJCVWlLaVZQX25TcGZlVUdnbURXUGQzNVFpOThWYlFEaE5wU3QyQUJxQUpoT1FuWUVENnZXd1hFUDFreWhHTnlMaXM?oc=5",
-      "published": "Tue, 13 Oct 2026 01:20:03 GMT",
-      "topic": "黃金",
-      "rank": 5,
-      "importance_score": 69,
-      "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
