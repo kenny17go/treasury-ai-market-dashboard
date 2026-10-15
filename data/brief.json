@@ -1,29 +1,29 @@
 {
   "mode": "rules",
-  "headline": "市場風險情緒：偏空",
+  "headline": "市場風險情緒：中性",
   "bullets": [
-    "主要美股指數平均變動 -1.82%。",
+    "主要美股指數平均變動 -0.40%。",
     "美債10年殖利率 5.190%，日變動 -2.0 bps。",
-    "自選股強勢 AAPL +0.52%；較弱 DELL -11.34%。",
+    "自選股強勢 QCOM +1.78%；較弱 DELL -8.59%。",
     "2Y10Y 利差 +37.0 bps。"
   ],
-  "risk_score": 28,
-  "risk_label": "偏空",
+  "risk_score": 45,
+  "risk_label": "中性",
   "yesterday_top": [
-    "美股主要指數平均 -1.82%，風險情緒偏空。",
+    "美股主要指數平均 -0.40%，風險情緒中性。",
     "10Y 美債殖利率 5.190%。",
-    "DXY 日變動 -0.43%。"
+    "DXY 日變動 -0.44%。"
   ],
   "today_top": [
     "今日暫無已確認的高重要性事件；不以未來日期事件補位。"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -2.0 bps。",
-    "美元：DXY 日變動 -0.43%。",
-    "波動率：VIX 17.46。",
+    "美元：DXY 日變動 -0.44%。",
+    "波動率：VIX 16.86。",
     "曲線：2Y10Y +37.0 bps。"
   ],
-  "today_date_taipei": "2026-10-15",
+  "today_date_taipei": "2026-10-16",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-10-15T12:15:37.928407+00:00"
+  "as_of": "2026-10-15T17:15:19.940700+00:00"
 }

@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-15T12:13:52.047498+00:00",
+  "as_of": "2026-10-15T17:12:55.089477+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -69,14 +69,14 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "油價與美國選情連動！預測市場顯示民主黨橫掃兩院機率達65%、美股恐下跌",
-      "summary": "油價與美國選情連動！預測市場顯示民主黨橫掃兩院機率達65%、美股恐下跌 鉅亨網",
+      "title": "〈能源盤後〉沙烏地阿美遭襲、伊朗改變攻船戰術! Brent站上106美元",
+      "summary": "〈能源盤後〉沙烏地阿美遭襲、伊朗改變攻船戰術! Brent站上106美元 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nLTlUaFp2aEliV2JYeW94WFFIYVhRN3FEdEFDX08weEVzWkZfNDk3MHZqT2hZeExfZngzNjQ1TUZ0SnVPR2U1WDM0NA?oc=5",
-      "published": "Mon, 12 Oct 2026 23:09:54 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GOWJOVTRpNDJ0S0F4TFdsck4wQWR1S3h4eGVSS3FqaWRQUkVUY2txQ04wR3ZITGhlODFFWnpscmFMZWJ5aDZPbmUzYw?oc=5",
+      "published": "Wed, 14 Oct 2026 21:59:57 GMT",
       "topic": "能源",
       "rank": 5,
-      "importance_score": 70,
+      "importance_score": 65,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
