@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-15T00:00:17.814998+00:00",
+  "as_of": "2026-10-15T03:40:16.108748+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "美債殖利率高檔震盪 金融股可低接?",
-      "summary": "美債殖利率高檔震盪 金融股可低接? 鉅亨網",
+      "title": "〈貴金屬盤後〉美CPI火熱、Fed升息機率提高 金價連三黑",
+      "summary": "〈貴金屬盤後〉美CPI火熱、Fed升息機率提高 金價連三黑 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ybVI4bl9kSFlPY2NkbHMxbEw1cWJyaHh5NFc1ZHR0Z3h0M3pibFR2ODFJZ1YwZkVPSFdUbjFLRXVMVEpBaHZ2djYtNDU2RjA?oc=5",
-      "published": "Wed, 14 Oct 2026 07:08:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NalNkdmQtT0c0MkFfRUxBX1pHVjFza2duZmU0VEZyeklrOXNrdVFPQk9FSWVyVWpYM0VWSWNmS3N4SHY5bFlNYVYzVWY4QU0?oc=5",
+      "published": "Thu, 15 Oct 2026 01:53:05 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 85,
+      "importance_score": 86,
       "related_assets": [
         "UST",
         "USD",
@@ -53,33 +53,33 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "油價與美國選情連動！預測市場顯示民主黨橫掃兩院機率達65%、美股恐下跌",
-      "summary": "油價與美國選情連動！預測市場顯示民主黨橫掃兩院機率達65%、美股恐下跌 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nLTlUaFp2aEliV2JYeW94WFFIYVhRN3FEdEFDX08weEVzWkZfNDk3MHZqT2hZeExfZngzNjQ1TUZ0SnVPR2U1WDM0NA?oc=5",
-      "published": "Mon, 12 Oct 2026 23:09:54 GMT",
-      "topic": "能源",
-      "rank": 4,
-      "importance_score": 72,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
       "title": "中國記憶體技術追趕引發AI晶片股拋售亞股創兩個多月低點，資金轉向美債避險",
       "summary": "中國記憶體技術追趕引發AI晶片股拋售亞股創兩個多月低點，資金轉向美債避險 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMSTN5RGN4QUxEREYyZDRkcnNMVXpZTm85OTZkTkdWYUhaYkJXM0JmZG50aklnQTFQU2d3M2tVaEN0Ynoyc1M4NnJYYTZjMnM?oc=5",
       "published": "Tue, 13 Oct 2026 06:30:06 GMT",
       "topic": "美債",
-      "rank": 5,
-      "importance_score": 76,
+      "rank": 4,
+      "importance_score": 78,
       "related_assets": [
         "UST",
         "USD",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "油價與美國選情連動！預測市場顯示民主黨橫掃兩院機率達65%、美股恐下跌",
+      "summary": "油價與美國選情連動！預測市場顯示民主黨橫掃兩院機率達65%、美股恐下跌 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nLTlUaFp2aEliV2JYeW94WFFIYVhRN3FEdEFDX08weEVzWkZfNDk3MHZqT2hZeExfZngzNjQ1TUZ0SnVPR2U1WDM0NA?oc=5",
+      "published": "Mon, 12 Oct 2026 23:09:54 GMT",
+      "topic": "能源",
+      "rank": 5,
+      "importance_score": 70,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
