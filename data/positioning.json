@@ -1,17 +1,17 @@
 {
-  "as_of": "2026-10-16T03:39:12.188025+00:00",
+  "as_of": "2026-10-16T08:32:42.939454+00:00",
   "source": "TAIFEX 三大法人-區分各期貨契約",
   "source_url": "https://www.taifex.com.tw/cht/3/futContractsDateExcel",
   "status": "ok",
   "tx_foreign": {
     "product": "臺股期貨",
     "identity": "外資",
-    "date": "2026/10/15",
-    "trade_net_contracts": -9837,
-    "oi_long_contracts": 9171,
-    "oi_short_contracts": 106753,
-    "oi_net_contracts": -97582,
-    "trade_long_contracts": 67510,
-    "trade_short_contracts": 77347
+    "date": "2026/10/16",
+    "trade_net_contracts": 3841,
+    "oi_long_contracts": 9812,
+    "oi_short_contracts": 103487,
+    "oi_net_contracts": -93675,
+    "trade_long_contracts": 67924,
+    "trade_short_contracts": 64083
   }
 }
