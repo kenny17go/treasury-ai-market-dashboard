@@ -1,9 +1,25 @@
 {
-  "as_of": "2026-10-16T08:30:56.089705+00:00",
+  "as_of": "2026-10-16T11:59:18.209265+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
+    {
+      "title": "〈貴金屬盤後〉美CPI火熱、Fed升息機率提高 金價連三黑",
+      "summary": "〈貴金屬盤後〉美CPI火熱、Fed升息機率提高 金價連三黑 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NalNkdmQtT0c0MkFfRUxBX1pHVjFza2duZmU0VEZyeklrOXNrdVFPQk9FSWVyVWpYM0VWSWNmS3N4SHY5bFlNYVYzVWY4QU0?oc=5",
+      "published": "Thu, 15 Oct 2026 01:53:05 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1,
+      "importance_score": 88,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
     {
       "title": "〈貴金屬盤後〉美元和美債殖利率下滑 金價反彈",
       "summary": "〈貴金屬盤後〉美元和美債殖利率下滑 金價反彈 鉅亨網",
@@ -11,8 +27,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hWC1fRXR4T2NrUTVqbzRqTk9lY2o1RjhwNEN4djAtNHBPSUdUSEs4QWpzWnRDc1ZXT3ZGbFVuRE15aTZ1am45X1l5T0NiQ1k?oc=5",
       "published": "Thu, 15 Oct 2026 23:04:56 GMT",
       "topic": "Fed / 利率",
-      "rank": 1,
-      "importance_score": 83,
+      "rank": 2,
+      "importance_score": 81,
       "related_assets": [
         "UST",
         "USD",
@@ -27,8 +43,8 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lZHQ3WUFmTndlbGRoT3I4Vy10ZmR1eGlacGxyM1BETXBXNkUtajlFdUg3R0dSSERKdVNvWlIzREE0RjdwamYtaWVpbw?oc=5",
       "published": "Wed, 14 Oct 2026 12:36:20 GMT",
       "topic": "美股",
-      "rank": 2,
-      "importance_score": 76,
+      "rank": 3,
+      "importance_score": 74,
       "related_assets": [
         "S&P 500",
         "Nasdaq",
@@ -43,24 +59,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPcC1ENmdaNE1GZk5iQWc2NUpaRG8xVDBvcGdYQjVlalBRY3R3ZlRVdXl2Sl9iUzB6LWl0c2JJamlfQXM5VlJDRHNOWUlZdE0?oc=5",
       "published": "Thu, 15 Oct 2026 03:08:36 GMT",
       "topic": "AI / 半導體",
-      "rank": 3,
-      "importance_score": 71,
-      "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "IMF最壞情境示警！全球經濟成長上修至3.1%，AI投資若急凍、2028年GDP恐比預期少1.1%",
-      "summary": "IMF最壞情境示警！全球經濟成長上修至3.1%，AI投資若急凍、2028年GDP恐比預期少1.1% 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KZ0lGUWdsaXpNc1lrdWo0ZlpRdHhBZGtsY0VxY2F5WU5jWDVxMlZXUWFvQnJ0WjQ0SmFPdUpWRlN0aWJ0RzN6OFJDejBjTGs?oc=5",
-      "published": "Tue, 13 Oct 2026 12:30:09 GMT",
-      "topic": "AI / 半導體",
       "rank": 4,
-      "importance_score": 70,
+      "importance_score": 69,
       "related_assets": [
         "SOX",
         "Nasdaq",
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈能源盤後〉沙烏地阿美遭襲、伊朗改變攻船戰術! Brent站上106美元",
-      "summary": "〈能源盤後〉沙烏地阿美遭襲、伊朗改變攻船戰術! Brent站上106美元 鉅亨網",
+      "title": "IMF最壞情境示警！全球經濟成長上修至3.1%，AI投資若急凍、2028年GDP恐比預期少1.1%",
+      "summary": "IMF最壞情境示警！全球經濟成長上修至3.1%，AI投資若急凍、2028年GDP恐比預期少1.1% 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GOWJOVTRpNDJ0S0F4TFdsck4wQWR1S3h4eGVSS3FqaWRQUkVUY2txQ04wR3ZITGhlODFFWnpscmFMZWJ5aDZPbmUzYw?oc=5",
-      "published": "Wed, 14 Oct 2026 21:59:57 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KZ0lGUWdsaXpNc1lrdWo0ZlpRdHhBZGtsY0VxY2F5WU5jWDVxMlZXUWFvQnJ0WjQ0SmFPdUpWRlN0aWJ0RzN6OFJDejBjTGs?oc=5",
+      "published": "Tue, 13 Oct 2026 12:30:09 GMT",
+      "topic": "AI / 半導體",
       "rank": 5,
-      "importance_score": 65,
+      "importance_score": 68,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
