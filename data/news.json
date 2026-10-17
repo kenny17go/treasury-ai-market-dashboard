@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-16T22:09:53.903332+00:00",
+  "as_of": "2026-10-17T00:37:42.143103+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,20 +37,36 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "野村投信最新台股看法--【台股操盤人筆記】AI平台放量，營收成長動能延續",
+      "summary": "野村投信最新台股看法--【台股操盤人筆記】AI平台放量，營收成長動能延續 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPcC1ENmdaNE1GZk5iQWc2NUpaRG8xVDBvcGdYQjVlalBRY3R3ZlRVdXl2Sl9iUzB6LWl0c2JJamlfQXM5VlJDRHNOWUlZdE0?oc=5",
+      "published": "Thu, 15 Oct 2026 03:08:36 GMT",
+      "topic": "AI / 半導體",
+      "rank": 3,
+      "importance_score": 71,
+      "related_assets": [
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
       "title": "〈能源盤後〉沙烏地阿美遭襲、伊朗改變攻船戰術! Brent站上106美元",
       "summary": "〈能源盤後〉沙烏地阿美遭襲、伊朗改變攻船戰術! Brent站上106美元 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GOWJOVTRpNDJ0S0F4TFdsck4wQWR1S3h4eGVSS3FqaWRQUkVUY2txQ04wR3ZITGhlODFFWnpscmFMZWJ5aDZPbmUzYw?oc=5",
       "published": "Wed, 14 Oct 2026 21:59:57 GMT",
       "topic": "能源",
-      "rank": 3,
-      "importance_score": 69,
+      "rank": 4,
+      "importance_score": 67,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
       "title": "法盛投資管理：AI熱潮席捲亞洲 投資人期待高報酬卻面臨風險落差",
@@ -59,28 +75,12 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JT05LU1BkcDQ2Wk1QSGZ3NnNoMVMzTUl2UHRaZnpUTjMzd2d0T0psTmt1X0IyMHpET3ozSWpNcWVhUXl3d0U1RUg5cw?oc=5",
       "published": "Wed, 14 Oct 2026 13:52:17 GMT",
       "topic": "AI / 半導體",
-      "rank": 4,
-      "importance_score": 64,
+      "rank": 5,
+      "importance_score": 62,
       "related_assets": [
         "SOX",
         "Nasdaq",
         "TSM / NVDA"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "川普稱「很快」將拍板伊朗問題！批胡塞武裝手段惡劣、擬請土耳其助沙國、中國回應中俄援伊",
-      "summary": "川普稱「很快」將拍板伊朗問題！批胡塞武裝手段惡劣、擬請土耳其助沙國、中國回應中俄援伊 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8waFRiWnhXU1o4aHNsZGRwMk4tOXRrMk1wOTVfRm9WVUhUTXdpWndKMG5ycS0yNDhYRTZIalg4cEtDWTdKV3FHVW1tZ05fOXc?oc=5",
-      "published": "Wed, 14 Oct 2026 00:18:06 GMT",
-      "topic": "中國",
-      "rank": 5,
-      "importance_score": 58,
-      "related_assets": [
-        "CNH",
-        "China Equity",
-        "Commodities"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
