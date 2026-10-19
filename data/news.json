@@ -1,34 +1,18 @@
 {
-  "as_of": "2026-10-19T20:02:19.269439+00:00",
+  "as_of": "2026-10-19T23:50:35.231391+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "〈貴金屬盤後〉美元和美債殖利率下滑 金價反彈",
-      "summary": "〈貴金屬盤後〉美元和美債殖利率下滑 金價反彈 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hWC1fRXR4T2NrUTVqbzRqTk9lY2o1RjhwNEN4djAtNHBPSUdUSEs4QWpzWnRDc1ZXT3ZGbFVuRE15aTZ1am45X1l5T0NiQ1k?oc=5",
-      "published": "Fri, 16 Oct 2026 22:59:38 GMT",
-      "topic": "Fed / 利率",
-      "rank": 1,
-      "importance_score": 83,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
-    },
-    {
       "title": "〈貴金屬盤後〉評估Fed升息訊號 金價周線收黑",
       "summary": "〈貴金屬盤後〉評估Fed升息訊號 金價周線收黑 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hQU1sMG0wcDdEZG1MR2I0X0w4ZnNGaHBUMUZFdXZIdTJweHJnY2VFakdyRnJkd3RnVU0zcTZZdFFCY2FLM1YzUzRwaw?oc=5",
-      "published": "Fri, 16 Oct 2026 22:53:28 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sbDU3cUw2TGstQi1rd25wNl9zUzY3UG5nTy1SdFI2bDQxQkNTX3o4UjNKT1NrbUJIWTJVS2Y5czlxemdCTDI5VE9CQUhoNEE?oc=5",
+      "published": "Sat, 17 Oct 2026 05:19:07 GMT",
       "topic": "Fed / 利率",
-      "rank": 2,
-      "importance_score": 78,
+      "rank": 1,
+      "importance_score": 80,
       "related_assets": [
         "UST",
         "USD",
@@ -37,36 +21,20 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈能源盤後〉油價周線連二漲 布蘭特原油登上110美元五個月首見",
-      "summary": "〈能源盤後〉油價周線連二漲 布蘭特原油登上110美元五個月首見 鉅亨網",
+      "title": "美銀：美股逢低買進仍太早 先等Fed與期中選舉落幕",
+      "summary": "美銀：美股逢低買進仍太早 先等Fed與期中選舉落幕 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nZk9CeWF5NzhCeXFXRGVSQWlSV0NCa1R6NjBHT3gtdkJOdTBKaXlQM2tDWkJPQTdiVmhJS1U3RGo0YnlDOVNBb21FZHZRNjQ?oc=5",
-      "published": "Fri, 16 Oct 2026 23:03:51 GMT",
-      "topic": "能源",
-      "rank": 3,
-      "importance_score": 77,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tdmFXaHY0R0ZQYmI3cnl5VG44d0NfVVFzSm41TnlVT0tyTjMwMFUtYXJTNEo3cG81Sm9ZLVRVTDBMSEVHNUJJOS12NEpyX1E?oc=5",
+      "published": "Sat, 17 Oct 2026 05:20:02 GMT",
+      "topic": "Fed / 利率",
+      "rank": 2,
+      "importance_score": 76,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
+        "UST",
+        "USD",
         "Equity"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "比黃金跌更兇！白銀自高點腰斬 全球經濟放緩警訊浮現",
-      "summary": "比黃金跌更兇！白銀自高點腰斬 全球經濟放緩警訊浮現 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ieXhGN1dWTFhGYmNubFQxREdKVFhzVHVBZ3hTOUJDVTJRQjNkVVlkVFRwMW5iTjJiVEItU3dicHVnZ1RTMHBiWFVGUEtGOGc?oc=5",
-      "published": "Mon, 19 Oct 2026 03:55:42 GMT",
-      "topic": "黃金",
-      "rank": 4,
-      "importance_score": 61,
-      "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
       "title": "AI交易平倉潮重創全球避險基金 亞洲基金首當其衝",
@@ -75,14 +43,46 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oeksteFFiVHFIajhlRGNHbmJmU2pZdUd0bGM1RFgtUm1HaEJiYW9pVTc2VVM5OTFUa19DaWlscV9fOVYwaFMzMnQ1Zw?oc=5",
       "published": "Sat, 17 Oct 2026 10:00:04 GMT",
       "topic": "AI / 半導體",
-      "rank": 5,
-      "importance_score": 62,
+      "rank": 3,
+      "importance_score": 66,
       "related_assets": [
         "SOX",
         "Nasdaq",
         "TSM / NVDA"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "〈財經週報-國際展望〉全球經濟仍具韌性 市場將回歸基本面表現",
+      "summary": "〈財經週報-國際展望〉全球經濟仍具韌性 市場將回歸基本面表現 自由財經",
+      "source": "自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53dTlKSnl5TklfbG9zbFQtNDhMVGZtSm9zSEtGbFlNcnFIckNKWUIySDY0OGFsbmdkMUp3X250LVlZZ09kZk94UGI3RzRXNlA5SEdhX19B0gFbQVVfeXFMTXBtSnU0UDNkLUhJa09QVnQ2WlM5VFJKZ2JmeG4wbUVKY0lKMHhOclhEY2Fta0p6TmhkU3dZejJEdjNFWjhFMkVfcFIzNEliNzd3VGVuNGV0amQxUQ?oc=5",
+      "published": "Sun, 18 Oct 2026 21:30:00 GMT",
+      "topic": "全球市場",
+      "rank": 4,
+      "importance_score": 50,
+      "related_assets": [
+        "Global Equity",
+        "USD",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源"
+    },
+    {
+      "title": "〈財經週報-看盤焦點〉美伊戰爭短期衝擊台股表現 長期仍回歸產業基本面 - 自由時報",
+      "summary": "〈財經週報-看盤焦點〉美伊戰爭短期衝擊台股表現 長期仍回歸產業基本面 自由時報",
+      "source": "自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85elNuZWFod3Z5dE9HVlpsUTVUbjU0VFNJNUVQYXdSRGdvS2RsSW5STndUbzF2NFF2enJYRTRnU25PVDBOMmluZlRvb0RoQnlraDNXZW9TaWg?oc=5",
+      "published": "Sun, 18 Oct 2026 06:19:06 GMT",
+      "topic": "台灣",
+      "rank": 5,
+      "importance_score": 33,
+      "related_assets": [
+        "TAIEX",
+        "TWD",
+        "TSM"
+      ],
+      "why_selected": "具明確資產關聯"
     }
   ]
 }
