@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-17T00:37:42.143103+00:00",
+  "as_of": "2026-10-19T03:43:51.891671+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -9,7 +9,7 @@
       "summary": "〈貴金屬盤後〉美元和美債殖利率下滑 金價反彈 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hWC1fRXR4T2NrUTVqbzRqTk9lY2o1RjhwNEN4djAtNHBPSUdUSEs4QWpzWnRDc1ZXT3ZGbFVuRE15aTZ1am45X1l5T0NiQ1k?oc=5",
-      "published": "Thu, 15 Oct 2026 23:04:56 GMT",
+      "published": "Fri, 16 Oct 2026 22:59:38 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
       "importance_score": 83,
@@ -21,30 +21,30 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈貴金屬盤後〉美CPI火熱、Fed升息機率提高 金價連三黑",
-      "summary": "〈貴金屬盤後〉美CPI火熱、Fed升息機率提高 金價連三黑 鉅亨網",
+      "title": "〈貴金屬盤後〉評估Fed升息訊號 金價周線收黑",
+      "summary": "〈貴金屬盤後〉評估Fed升息訊號 金價周線收黑 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NalNkdmQtT0c0MkFfRUxBX1pHVjFza2duZmU0VEZyeklrOXNrdVFPQk9FSWVyVWpYM0VWSWNmS3N4SHY5bFlNYVYzVWY4QU0?oc=5",
-      "published": "Thu, 15 Oct 2026 01:53:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hQU1sMG0wcDdEZG1MR2I0X0w4ZnNGaHBUMUZFdXZIdTJweHJnY2VFakdyRnJkd3RnVU0zcTZZdFFCY2FLM1YzUzRwaw?oc=5",
+      "published": "Fri, 16 Oct 2026 22:53:28 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 86,
+      "importance_score": 78,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "野村投信最新台股看法--【台股操盤人筆記】AI平台放量，營收成長動能延續",
-      "summary": "野村投信最新台股看法--【台股操盤人筆記】AI平台放量，營收成長動能延續 鉅亨網",
+      "title": "美股繁榮是假象？AI泡沫疑慮升溫 標普500恐面臨30%修正",
+      "summary": "美股繁榮是假象？AI泡沫疑慮升溫 標普500恐面臨30%修正 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPcC1ENmdaNE1GZk5iQWc2NUpaRG8xVDBvcGdYQjVlalBRY3R3ZlRVdXl2Sl9iUzB6LWl0c2JJamlfQXM5VlJDRHNOWUlZdE0?oc=5",
-      "published": "Thu, 15 Oct 2026 03:08:36 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GREdKdWhGX0lqcDBTOVRnMXROQmlUYmhkNmhUS2tCdTdHeTNPUlNQbE5RcWFNR25tc1Y0WFNGUjVqbzJ0UURmOUtaMTFWcDg?oc=5",
+      "published": "Sun, 18 Oct 2026 02:00:05 GMT",
       "topic": "AI / 半導體",
       "rank": 3,
-      "importance_score": 71,
+      "importance_score": 76,
       "related_assets": [
         "SOX",
         "Nasdaq",
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈能源盤後〉沙烏地阿美遭襲、伊朗改變攻船戰術! Brent站上106美元",
-      "summary": "〈能源盤後〉沙烏地阿美遭襲、伊朗改變攻船戰術! Brent站上106美元 鉅亨網",
+      "title": "AI股重挫、美債重拾避險光環 大舉押空投資人恐措手不及",
+      "summary": "AI股重挫、美債重拾避險光環 大舉押空投資人恐措手不及 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GOWJOVTRpNDJ0S0F4TFdsck4wQWR1S3h4eGVSS3FqaWRQUkVUY2txQ04wR3ZITGhlODFFWnpscmFMZWJ5aDZPbmUzYw?oc=5",
-      "published": "Wed, 14 Oct 2026 21:59:57 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OVDY1VXllYVR4U1hJaFVZQ2NVb20yVERBdFQxT3RCVzNwX0NITnNLSlk0MmlFVXc4QnA2YUZPeFJHU0NCalhubmg3cw?oc=5",
+      "published": "Sun, 18 Oct 2026 22:32:41 GMT",
+      "topic": "美債",
       "rank": 4,
-      "importance_score": 67,
+      "importance_score": 72,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
+        "UST",
+        "USD",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "法盛投資管理：AI熱潮席捲亞洲 投資人期待高報酬卻面臨風險落差",
-      "summary": "法盛投資管理：AI熱潮席捲亞洲 投資人期待高報酬卻面臨風險落差 鉅亨網",
+      "title": "油價通膨難降？PIMCO：全球經濟6至12個月內維持韌性 但要注意3大風險",
+      "summary": "油價通膨難降？PIMCO：全球經濟6至12個月內維持韌性 但要注意3大風險 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JT05LU1BkcDQ2Wk1QSGZ3NnNoMVMzTUl2UHRaZnpUTjMzd2d0T0psTmt1X0IyMHpET3ozSWpNcWVhUXl3d0U1RUg5cw?oc=5",
-      "published": "Wed, 14 Oct 2026 13:52:17 GMT",
-      "topic": "AI / 半導體",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IOUtnNlNOY2I2eFR6OFVId0hzc0R6V2hINEV2SFhvckRkcUdmT3JUTldlck8wSElBbWN3QUxLY1c0UmpnWDFremtZS0JRTWs?oc=5",
+      "published": "Fri, 16 Oct 2026 12:47:13 GMT",
+      "topic": "能源",
       "rank": 5,
-      "importance_score": 62,
+      "importance_score": 65,
       "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
