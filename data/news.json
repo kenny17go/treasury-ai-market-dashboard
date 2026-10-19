@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-19T14:07:48.820613+00:00",
+  "as_of": "2026-10-19T20:02:19.269439+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "AI股重挫、美債重拾避險光環 大舉押空投資人恐措手不及",
-      "summary": "AI股重挫、美債重拾避險光環 大舉押空投資人恐措手不及 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OVDY1VXllYVR4U1hJaFVZQ2NVb20yVERBdFQxT3RCVzNwX0NITnNLSlk0MmlFVXc4QnA2YUZPeFJHU0NCalhubmg3cw?oc=5",
-      "published": "Sun, 18 Oct 2026 22:32:41 GMT",
-      "topic": "美債",
-      "rank": 4,
-      "importance_score": 72,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
       "title": "比黃金跌更兇！白銀自高點腰斬 全球經濟放緩警訊浮現",
       "summary": "比黃金跌更兇！白銀自高點腰斬 全球經濟放緩警訊浮現 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ieXhGN1dWTFhGYmNubFQxREdKVFhzVHVBZ3hTOUJDVTJRQjNkVVlkVFRwMW5iTjJiVEItU3dicHVnZ1RTMHBiWFVGUEtGOGc?oc=5",
       "published": "Mon, 19 Oct 2026 03:55:42 GMT",
       "topic": "黃金",
-      "rank": 5,
-      "importance_score": 59,
+      "rank": 4,
+      "importance_score": 61,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "AI交易平倉潮重創全球避險基金 亞洲基金首當其衝",
+      "summary": "AI交易平倉潮重創全球避險基金 亞洲基金首當其衝 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oeksteFFiVHFIajhlRGNHbmJmU2pZdUd0bGM1RFgtUm1HaEJiYW9pVTc2VVM5OTFUa19DaWlscV9fOVYwaFMzMnQ1Zw?oc=5",
+      "published": "Sat, 17 Oct 2026 10:00:04 GMT",
+      "topic": "AI / 半導體",
+      "rank": 5,
+      "importance_score": 62,
+      "related_assets": [
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
