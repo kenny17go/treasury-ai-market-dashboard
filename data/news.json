@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-19T03:43:51.891671+00:00",
+  "as_of": "2026-10-19T09:20:21.592762+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,33 +53,33 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
+      "title": "〈能源盤後〉油價周線連二漲 布蘭特原油登上110美元五個月首見",
+      "summary": "〈能源盤後〉油價周線連二漲 布蘭特原油登上110美元五個月首見 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nZk9CeWF5NzhCeXFXRGVSQWlSV0NCa1R6NjBHT3gtdkJOdTBKaXlQM2tDWkJPQTdiVmhJS1U3RGo0YnlDOVNBb21FZHZRNjQ?oc=5",
+      "published": "Fri, 16 Oct 2026 23:03:51 GMT",
+      "topic": "能源",
+      "rank": 4,
+      "importance_score": 75,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
       "title": "AI股重挫、美債重拾避險光環 大舉押空投資人恐措手不及",
       "summary": "AI股重挫、美債重拾避險光環 大舉押空投資人恐措手不及 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OVDY1VXllYVR4U1hJaFVZQ2NVb20yVERBdFQxT3RCVzNwX0NITnNLSlk0MmlFVXc4QnA2YUZPeFJHU0NCalhubmg3cw?oc=5",
       "published": "Sun, 18 Oct 2026 22:32:41 GMT",
       "topic": "美債",
-      "rank": 4,
-      "importance_score": 72,
+      "rank": 5,
+      "importance_score": 70,
       "related_assets": [
         "UST",
         "USD",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "油價通膨難降？PIMCO：全球經濟6至12個月內維持韌性 但要注意3大風險",
-      "summary": "油價通膨難降？PIMCO：全球經濟6至12個月內維持韌性 但要注意3大風險 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IOUtnNlNOY2I2eFR6OFVId0hzc0R6V2hINEV2SFhvckRkcUdmT3JUTldlck8wSElBbWN3QUxLY1c0UmpnWDFremtZS0JRTWs?oc=5",
-      "published": "Fri, 16 Oct 2026 12:47:13 GMT",
-      "topic": "能源",
-      "rank": 5,
-      "importance_score": 65,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
