@@ -1,9 +1,25 @@
 {
-  "as_of": "2026-10-20T03:54:52.968998+00:00",
+  "as_of": "2026-10-20T09:07:13.870478+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
+    {
+      "title": "美股兩大力量死鬥！美債殖利率狂飆 AI股賺翻也難漲",
+      "summary": "美股兩大力量死鬥！美債殖利率狂飆 AI股賺翻也難漲 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2RlJUWVB5REhYS3ZkWFhRTkg0cm1tQUJtdVhzR0l5Ml9oTE50a3IyVVdQS1JXRFE4UTZvZEhYRUVCRmZhRGJuN01ZUXcyOUk?oc=5",
+      "published": "Mon, 19 Oct 2026 16:03:49 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1,
+      "importance_score": 97,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
     {
       "title": "〈貴金屬盤後〉美元和美債殖利率挺升 金價下滑",
       "summary": "〈貴金屬盤後〉美元和美債殖利率挺升 金價下滑 鉅亨網",
@@ -11,8 +27,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56WnBTbDJmMGJiQW1yekIxN0ZZUDFtdHh2dGlnZ3A1SjVaTmNZR1VxaFd5cE0yWTlNeUFmblBsZkZ5V1hCRlc3V2MxYXlyRzQ?oc=5",
       "published": "Mon, 19 Oct 2026 22:54:27 GMT",
       "topic": "Fed / 利率",
-      "rank": 1,
-      "importance_score": 83,
+      "rank": 2,
+      "importance_score": 81,
       "related_assets": [
         "UST",
         "USD",
@@ -27,8 +43,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GREdKdWhGX0lqcDBTOVRnMXROQmlUYmhkNmhUS2tCdTdHeTNPUlNQbE5RcWFNR25tc1Y0WFNGUjVqbzJ0UURmOUtaMTFWcDg?oc=5",
       "published": "Sun, 18 Oct 2026 02:00:05 GMT",
       "topic": "AI / 半導體",
-      "rank": 2,
-      "importance_score": 78,
+      "rank": 3,
+      "importance_score": 76,
       "related_assets": [
         "SOX",
         "Nasdaq",
@@ -37,34 +53,18 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈貴金屬盤後〉評估Fed升息訊號 金價周線收黑",
-      "summary": "〈貴金屬盤後〉評估Fed升息訊號 金價周線收黑 鉅亨網",
+      "title": "比黃金跌更兇！白銀自高點腰斬 全球經濟放緩警訊浮現",
+      "summary": "比黃金跌更兇！白銀自高點腰斬 全球經濟放緩警訊浮現 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sbDU3cUw2TGstQi1rd25wNl9zUzY3UG5nTy1SdFI2bDQxQkNTX3o4UjNKT1NrbUJIWTJVS2Y5czlxemdCTDI5VE9CQUhoNEE?oc=5",
-      "published": "Sat, 17 Oct 2026 05:19:07 GMT",
-      "topic": "Fed / 利率",
-      "rank": 3,
-      "importance_score": 76,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "〈能源盤後〉胡塞組織再襲沙國能源設施 川普豁免俄羅斯部分能源制裁 油價漲跌互見",
-      "summary": "〈能源盤後〉胡塞組織再襲沙國能源設施 川普豁免俄羅斯部分能源制裁 油價漲跌互見 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sMzVKTzd1ejQtZUNPWG13VWdEaHhjeTVaX0ZzY1RlOTg2aVh6NUxDMkJ6N3NEUzhENHRWeWJGdTVyaHAyX3NZSjRyMFJCeG8?oc=5",
-      "published": "Mon, 19 Oct 2026 21:30:38 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ieXhGN1dWTFhGYmNubFQxREdKVFhzVHVBZ3hTOUJDVTJRQjNkVVlkVFRwMW5iTjJiVEItU3dicHVnZ1RTMHBiWFVGUEtGOGc?oc=5",
+      "published": "Mon, 19 Oct 2026 03:55:42 GMT",
+      "topic": "黃金",
       "rank": 4,
-      "importance_score": 63,
+      "importance_score": 61,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
