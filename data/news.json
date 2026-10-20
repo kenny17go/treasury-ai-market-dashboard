@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-10-20T20:44:44.398753+00:00",
+  "as_of": "2026-10-20T23:31:35.415807+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "美股兩大力量死鬥！美債殖利率狂飆 AI股賺翻也難漲",
-      "summary": "美股兩大力量死鬥！美債殖利率狂飆 AI股賺翻也難漲 鉅亨網",
+      "title": "花旗：油價不跌 美債殖利率就不會見頂",
+      "summary": "花旗：油價不跌 美債殖利率就不會見頂 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2RlJUWVB5REhYS3ZkWFhRTkg0cm1tQUJtdVhzR0l5Ml9oTE50a3IyVVdQS1JXRFE4UTZvZEhYRUVCRmZhRGJuN01ZUXcyOUk?oc=5",
-      "published": "Mon, 19 Oct 2026 16:03:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56ekpqZHA0T0hoX1NvNFRRTE5zaWlSYm5DTUpaZ1dqamxFUWZibG5nWUgzUGhHMnJuYWpEVmowSTRPVExXUmhpNVJpZFNvdFE?oc=5",
+      "published": "Tue, 20 Oct 2026 10:20:02 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 97,
+      "importance_score": 91,
       "related_assets": [
         "UST",
         "USD",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "花旗：油價不跌 美債殖利率就不會見頂",
-      "summary": "花旗：油價不跌 美債殖利率就不會見頂 鉅亨網",
+      "title": "〈貴金屬盤後〉美元和美債殖利率挺升 金價下滑",
+      "summary": "〈貴金屬盤後〉美元和美債殖利率挺升 金價下滑 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56ekpqZHA0T0hoX1NvNFRRTE5zaWlSYm5DTUpaZ1dqamxFUWZibG5nWUgzUGhHMnJuYWpEVmowSTRPVExXUmhpNVJpZFNvdFE?oc=5",
-      "published": "Tue, 20 Oct 2026 10:20:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56WnBTbDJmMGJiQW1yekIxN0ZZUDFtdHh2dGlnZ3A1SjVaTmNZR1VxaFd5cE0yWTlNeUFmblBsZkZ5V1hCRlc3V2MxYXlyRzQ?oc=5",
+      "published": "Mon, 19 Oct 2026 22:54:27 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 89,
+      "importance_score": 81,
       "related_assets": [
         "UST",
         "USD",
