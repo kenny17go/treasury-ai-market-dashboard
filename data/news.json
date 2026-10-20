@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-20T09:07:13.870478+00:00",
+  "as_of": "2026-10-20T12:21:59.900121+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈貴金屬盤後〉美元和美債殖利率挺升 金價下滑",
-      "summary": "〈貴金屬盤後〉美元和美債殖利率挺升 金價下滑 鉅亨網",
+      "title": "花旗：油價不跌 美債殖利率就不會見頂",
+      "summary": "花旗：油價不跌 美債殖利率就不會見頂 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56WnBTbDJmMGJiQW1yekIxN0ZZUDFtdHh2dGlnZ3A1SjVaTmNZR1VxaFd5cE0yWTlNeUFmblBsZkZ5V1hCRlc3V2MxYXlyRzQ?oc=5",
-      "published": "Mon, 19 Oct 2026 22:54:27 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56ekpqZHA0T0hoX1NvNFRRTE5zaWlSYm5DTUpaZ1dqamxFUWZibG5nWUgzUGhHMnJuYWpEVmowSTRPVExXUmhpNVJpZFNvdFE?oc=5",
+      "published": "Tue, 20 Oct 2026 10:20:02 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 81,
+      "importance_score": 89,
       "related_assets": [
         "UST",
         "USD",
@@ -69,20 +69,20 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "AI交易平倉潮重創全球避險基金 亞洲基金首當其衝",
-      "summary": "AI交易平倉潮重創全球避險基金 亞洲基金首當其衝 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oeksteFFiVHFIajhlRGNHbmJmU2pZdUd0bGM1RFgtUm1HaEJiYW9pVTc2VVM5OTFUa19DaWlscV9fOVYwaFMzMnQ1Zw?oc=5",
-      "published": "Sat, 17 Oct 2026 10:00:04 GMT",
-      "topic": "AI / 半導體",
+      "title": "〈財經週報-國際展望〉全球經濟仍具韌性 市場將回歸基本面表現",
+      "summary": "〈財經週報-國際展望〉全球經濟仍具韌性 市場將回歸基本面表現 自由財經",
+      "source": "自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53dTlKSnl5TklfbG9zbFQtNDhMVGZtSm9zSEtGbFlNcnFIckNKWUIySDY0OGFsbmdkMUp3X250LVlZZ09kZk94UGI3RzRXNlA5SEdhX19B0gFbQVVfeXFMTXBtSnU0UDNkLUhJa09QVnQ2WlM5VFJKZ2JmeG4wbUVKY0lKMHhOclhEY2Fta0p6TmhkU3dZejJEdjNFWjhFMkVfcFIzNEliNzd3VGVuNGV0amQxUQ?oc=5",
+      "published": "Sun, 18 Oct 2026 21:30:00 GMT",
+      "topic": "全球市場",
       "rank": 5,
-      "importance_score": 62,
+      "importance_score": 48,
       "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
+        "Global Equity",
+        "USD",
+        "UST"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "高品質財經來源"
     }
   ]
 }
