@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-20T17:23:52.807194+00:00",
+  "as_of": "2026-10-20T20:44:44.398753+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "掌握AI與去美元化雙引擎 貝萊德重磅推出黃金與世界礦業ETF",
-      "summary": "掌握AI與去美元化雙引擎 貝萊德重磅推出黃金與世界礦業ETF 鉅亨網",
+      "title": "〈星展經濟展望〉看好台灣AI供應鏈護城河 估全年GDP年增率達11.6%",
+      "summary": "〈星展經濟展望〉看好台灣AI供應鏈護城河 估全年GDP年增率達11.6% 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2bUoyN255U1lma0hTR3ItWDJiWFJOZWtQQ19LdVctM0RaS3AtR1N1aVdPNWVTWWQzejd2LTVDOHpwQTFFdkVZS1Q2QzJNRE0?oc=5",
-      "published": "Tue, 20 Oct 2026 06:31:07 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xV0N2UDBGanplMkpMQWllbjlfWVlwandzS0hoenU0MGNCOWh2Wk5GN1FBWThNX1Y5b3NjYWJqNUxvRF9pTFI4eVZCV3JWSUU?oc=5",
+      "published": "Tue, 20 Oct 2026 07:32:20 GMT",
+      "topic": "AI / 半導體",
       "rank": 5,
-      "importance_score": 69,
+      "importance_score": 68,
       "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
