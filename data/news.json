@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-20T12:21:59.900121+00:00",
+  "as_of": "2026-10-20T17:23:52.807194+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,52 +37,52 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "〈美股早盤〉反彈又卡關！AI疑慮重燃、油價回升再添壓 主要指數開低",
+      "summary": "〈美股早盤〉反彈又卡關！AI疑慮重燃、油價回升再添壓 主要指數開低 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jT2JJUi04TGg3MVJWZ2x0YVNhaDhYWmQ2M0xHYW15VnFoTFFzUm5rZ2FpX3FKaXRnUnFfNENJYUNXZUV5MTlDZjJEdU93bms?oc=5",
+      "published": "Tue, 20 Oct 2026 13:38:04 GMT",
+      "topic": "能源",
+      "rank": 3,
+      "importance_score": 80,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
       "title": "美股繁榮是假象？AI泡沫疑慮升溫 標普500恐面臨30%修正",
       "summary": "美股繁榮是假象？AI泡沫疑慮升溫 標普500恐面臨30%修正 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GREdKdWhGX0lqcDBTOVRnMXROQmlUYmhkNmhUS2tCdTdHeTNPUlNQbE5RcWFNR25tc1Y0WFNGUjVqbzJ0UURmOUtaMTFWcDg?oc=5",
       "published": "Sun, 18 Oct 2026 02:00:05 GMT",
       "topic": "AI / 半導體",
-      "rank": 3,
-      "importance_score": 76,
+      "rank": 4,
+      "importance_score": 74,
       "related_assets": [
         "SOX",
         "Nasdaq",
         "TSM / NVDA"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "比黃金跌更兇！白銀自高點腰斬 全球經濟放緩警訊浮現",
-      "summary": "比黃金跌更兇！白銀自高點腰斬 全球經濟放緩警訊浮現 鉅亨網",
+      "title": "掌握AI與去美元化雙引擎 貝萊德重磅推出黃金與世界礦業ETF",
+      "summary": "掌握AI與去美元化雙引擎 貝萊德重磅推出黃金與世界礦業ETF 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ieXhGN1dWTFhGYmNubFQxREdKVFhzVHVBZ3hTOUJDVTJRQjNkVVlkVFRwMW5iTjJiVEItU3dicHVnZ1RTMHBiWFVGUEtGOGc?oc=5",
-      "published": "Mon, 19 Oct 2026 03:55:42 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2bUoyN255U1lma0hTR3ItWDJiWFJOZWtQQ19LdVctM0RaS3AtR1N1aVdPNWVTWWQzejd2LTVDOHpwQTFFdkVZS1Q2QzJNRE0?oc=5",
+      "published": "Tue, 20 Oct 2026 06:31:07 GMT",
       "topic": "黃金",
-      "rank": 4,
-      "importance_score": 61,
+      "rank": 5,
+      "importance_score": 69,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "〈財經週報-國際展望〉全球經濟仍具韌性 市場將回歸基本面表現",
-      "summary": "〈財經週報-國際展望〉全球經濟仍具韌性 市場將回歸基本面表現 自由財經",
-      "source": "自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53dTlKSnl5TklfbG9zbFQtNDhMVGZtSm9zSEtGbFlNcnFIckNKWUIySDY0OGFsbmdkMUp3X250LVlZZ09kZk94UGI3RzRXNlA5SEdhX19B0gFbQVVfeXFMTXBtSnU0UDNkLUhJa09QVnQ2WlM5VFJKZ2JmeG4wbUVKY0lKMHhOclhEY2Fta0p6TmhkU3dZejJEdjNFWjhFMkVfcFIzNEliNzd3VGVuNGV0amQxUQ?oc=5",
-      "published": "Sun, 18 Oct 2026 21:30:00 GMT",
-      "topic": "全球市場",
-      "rank": 5,
-      "importance_score": 48,
-      "related_assets": [
-        "Global Equity",
-        "USD",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源"
     }
   ]
 }
