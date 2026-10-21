@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-10-21T12:31:43.863152+00:00",
+  "as_of": "2026-10-21T17:44:45.637754+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "花旗：油價不跌 美債殖利率就不會見頂",
-      "summary": "花旗：油價不跌 美債殖利率就不會見頂 鉅亨網",
+      "title": "美債殖利率回檔或衝高？摩根許長泰剖析4大推升主因 估Fed最快12月升息",
+      "summary": "美債殖利率回檔或衝高？摩根許長泰剖析4大推升主因 估Fed最快12月升息 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56ekpqZHA0T0hoX1NvNFRRTE5zaWlSYm5DTUpaZ1dqamxFUWZibG5nWUgzUGhHMnJuYWpEVmowSTRPVExXUmhpNVJpZFNvdFE?oc=5",
-      "published": "Tue, 20 Oct 2026 10:20:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xdHZ5TzVNVTFHZjJDZnZzbWx0c21LV2xBUHoyRlVGT0lBZGNacXdWMWNodGlLZGR3TUFLME00LVNzMFNpVDcwVGZhV3pLU0U?oc=5",
+      "published": "Wed, 21 Oct 2026 13:24:40 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 91,
+      "importance_score": 100,
       "related_assets": [
         "UST",
         "USD",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈貴金屬盤後〉美元和美債殖利率挺升 金價下滑",
-      "summary": "〈貴金屬盤後〉美元和美債殖利率挺升 金價下滑 鉅亨網",
+      "title": "花旗：油價不跌 美債殖利率就不會見頂",
+      "summary": "花旗：油價不跌 美債殖利率就不會見頂 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56WnBTbDJmMGJiQW1yekIxN0ZZUDFtdHh2dGlnZ3A1SjVaTmNZR1VxaFd5cE0yWTlNeUFmblBsZkZ5V1hCRlc3V2MxYXlyRzQ?oc=5",
-      "published": "Mon, 19 Oct 2026 22:54:27 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fenJOZDQxU3cycHhkVG56Y1hNWVg0Z1E1bVF0b3ZhMzd5cXgwVXd4TnJxcGpPX0l5UkVOaklRLXVJTGttSnJlME9FNA?oc=5",
+      "published": "Tue, 20 Oct 2026 10:20:02 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 81,
+      "importance_score": 89,
       "related_assets": [
         "UST",
         "USD",
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "Bitget UEX 全景交易所：一站式探索加密、股票、黃金、外匯等優質資產",
-      "summary": "Bitget UEX 全景交易所：一站式探索加密、股票、黃金、外匯等優質資產 鉅亨網",
+      "title": "〈美股早盤〉SpaceX與美超微業績提振AI類股 主要指數開高",
+      "summary": "〈美股早盤〉SpaceX與美超微業績提振AI類股 主要指數開高 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81XzdOS2NLMzA0Y0JXZV9Lc0RRUWstbE1QQTRBYVZEbWxZRVVrVXd5MnBUNmk2eUFMdHQ5WWdTX3ZySTJFeU1kRGtiWQ?oc=5",
-      "published": "Wed, 21 Oct 2026 06:56:06 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZYXFTbFlmekVrUy11UV9XN09pd0c0eUpLRjZsX2h5MldXbVZ3bXJTekFqRnA2dG5DdUt2aThSYW9QWWN5ZGNvb3FaSmp6WkU?oc=5",
+      "published": "Wed, 21 Oct 2026 13:38:35 GMT",
+      "topic": "AI / 半導體",
       "rank": 5,
-      "importance_score": 63,
+      "importance_score": 67,
       "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
