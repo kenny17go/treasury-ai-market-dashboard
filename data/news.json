@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-21T08:55:38.624725+00:00",
+  "as_of": "2026-10-21T12:31:43.863152+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "搶攻台日韓AI股黃金期 野村第一檔韓股主動ETF與亞洲傘狀基金11/3募集",
-      "summary": "搶攻台日韓AI股黃金期 野村第一檔韓股主動ETF與亞洲傘狀基金11/3募集 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82bnd0OEpXbnVqUlhMazVfcGVRbzFoWFJQbjNnc2JvTFl3eEJVRzVwbHZzVDZPSERQakYySF9BWGU2N0RzbWNLN1JaeUQ3STA?oc=5",
-      "published": "Mon, 19 Oct 2026 11:51:59 GMT",
-      "topic": "黃金",
+      "title": "美股期指反彈 油價自110美元高檔回跌 本周指望科技財報救大盤",
+      "summary": "美股期指反彈 油價自110美元高檔回跌 本周指望科技財報救大盤 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02aEJCZ0t4MHlwZ284TUdUa29PMm11RmFxRDBzUEN3dC1SNXhjbTFUQ2dZb2tLZVlJUUhaejdYd2V0TWtKRkJQbXFuRjlqU1VoaUFpSkZ1VnNRYUF10gFiQVVfeXFMUGszNExBaGlaR1BoMFd3cGdxVHNlVENiNXg3dnNiRnVPUGs4Yi1lSW1OX0stVVlMWWVfMGp5clNwVzFTSTVPZm5ORzUxSkUxUnlNbnNfb1h6Ynp1ZlJVdkd3aVE?oc=5",
+      "published": "Sun, 18 Oct 2026 23:16:01 GMT",
+      "topic": "能源",
       "rank": 4,
       "importance_score": 71,
-      "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "美股逆轉秀！企業財報助攻、國際油價跳水 道瓊盤中一度飆逾700點",
-      "summary": "美股逆轉秀！企業財報助攻、國際油價跳水 道瓊盤中一度飆逾700點 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XbWh6ZlhPMjViZzU5bkgxZS05TGtmQTdfSDJvMnhFcnoyTmZMWThZM0R1b2ROZUhrQTdjR1NwMzhFVUNiSDBneXVsb3d1MGc?oc=5",
-      "published": "Tue, 20 Oct 2026 15:20:05 GMT",
-      "topic": "能源",
-      "rank": 5,
-      "importance_score": 70,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "Bitget UEX 全景交易所：一站式探索加密、股票、黃金、外匯等優質資產",
+      "summary": "Bitget UEX 全景交易所：一站式探索加密、股票、黃金、外匯等優質資產 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81XzdOS2NLMzA0Y0JXZV9Lc0RRUWstbE1QQTRBYVZEbWxZRVVrVXd5MnBUNmk2eUFMdHQ5WWdTX3ZySTJFeU1kRGtiWQ?oc=5",
+      "published": "Wed, 21 Oct 2026 06:56:06 GMT",
+      "topic": "黃金",
+      "rank": 5,
+      "importance_score": 63,
+      "related_assets": [
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
