@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-22T08:58:02.617538+00:00",
+  "as_of": "2026-10-22T12:35:24.287544+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,14 +53,14 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "搶攻台日韓AI股黃金期 野村第一檔韓股主動ETF與亞洲傘狀基金11/3募集",
-      "summary": "搶攻台日韓AI股黃金期 野村第一檔韓股主動ETF與亞洲傘狀基金11/3募集 鉅亨網",
+      "title": "全球政府赤字難解 貝萊德看黃金的好日子還在後頭",
+      "summary": "全球政府赤字難解 貝萊德看黃金的好日子還在後頭 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82bnd0OEpXbnVqUlhMazVfcGVRbzFoWFJQbjNnc2JvTFl3eEJVRzVwbHZzVDZPSERQakYySF9BWGU2N0RzbWNLN1JaeUQ3STA?oc=5",
-      "published": "Mon, 19 Oct 2026 11:51:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NLThuX19BdkJ0RTdVcHY2c2k5SlZyR0k4SlR3UkhGRklla3UtbEpPNFQ4WjlJYnN2U19qckdFZzRtNlBVUU5XY3ljOXE4OFU?oc=5",
+      "published": "Thu, 22 Oct 2026 09:10:04 GMT",
       "topic": "黃金",
       "rank": 4,
-      "importance_score": 71,
+      "importance_score": 61,
       "related_assets": [
         "Gold",
         "USD",
@@ -69,17 +69,17 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "人工智慧疑慮再起 資金湧入美債、日元與瑞郎避險",
-      "summary": "人工智慧疑慮再起 資金湧入美債、日元與瑞郎避險 鉅亨網",
+      "title": "〈能源盤後〉伊朗與巴基斯坦討論斡旋 但美伊衝突陰影未散 油價自5個月高點拉回仍守百美元",
+      "summary": "〈能源盤後〉伊朗與巴基斯坦討論斡旋 但美伊衝突陰影未散 油價自5個月高點拉回仍守百美元 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94LURkOF80LXFtZTdQM3BUa3lrUVVUZDRNTmFFS3JYRkRHeDBnTV92RzhUMXdYNGVhb1pKdUZXTEh2SEdRLWpnWlktQzdDNjg?oc=5",
-      "published": "Thu, 22 Oct 2026 06:40:05 GMT",
-      "topic": "美債",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IN3g3ZU5tempuYmljcExGU0pZVjgzZmxIZGdYOHRqZHdVaS0way0yOWF6Vm5qY3VoY0paMEdiX3dLTHBaa0s2a3g3RQ?oc=5",
+      "published": "Tue, 20 Oct 2026 21:40:54 GMT",
+      "topic": "能源",
       "rank": 5,
-      "importance_score": 61,
+      "importance_score": 65,
       "related_assets": [
-        "UST",
-        "USD",
+        "WTI / Brent",
+        "Inflation",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
