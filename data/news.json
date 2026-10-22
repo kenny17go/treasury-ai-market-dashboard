@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-22T03:44:22.829374+00:00",
+  "as_of": "2026-10-22T08:58:02.617538+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -24,7 +24,7 @@
       "title": "花旗：油價不跌 美債殖利率就不會見頂",
       "summary": "花旗：油價不跌 美債殖利率就不會見頂 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fenJOZDQxU3cycHhkVG56Y1hNWVg0Z1E1bVF0b3ZhMzd5cXgwVXd4TnJxcGpPX0l5UkVOaklRLXVJTGttSnJlME9FNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56ekpqZHA0T0hoX1NvNFRRTE5zaWlSYm5DTUpaZ1dqamxFUWZibG5nWUgzUGhHMnJuYWpEVmowSTRPVExXUmhpNVJpZFNvdFE?oc=5",
       "published": "Tue, 20 Oct 2026 10:20:02 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
@@ -69,17 +69,17 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈能源盤後〉中東衝突升溫 美國庫存下降 俄烏和平談判 國際油價收盤漲跌互見",
-      "summary": "〈能源盤後〉中東衝突升溫 美國庫存下降 俄烏和平談判 國際油價收盤漲跌互見 鉅亨網",
+      "title": "人工智慧疑慮再起 資金湧入美債、日元與瑞郎避險",
+      "summary": "人工智慧疑慮再起 資金湧入美債、日元與瑞郎避險 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYUjZhN0tva052ZV9RNmt3OTFFQ3QtbFY2eGhWbG9zQlRYTXBjNWFlNV9sLWR4S1pYa1J5RDNvM0w1ZlFxNVFMYXhTWQ?oc=5",
-      "published": "Wed, 21 Oct 2026 21:31:15 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94LURkOF80LXFtZTdQM3BUa3lrUVVUZDRNTmFFS3JYRkRHeDBnTV92RzhUMXdYNGVhb1pKdUZXTEh2SEdRLWpnWlktQzdDNjg?oc=5",
+      "published": "Thu, 22 Oct 2026 06:40:05 GMT",
+      "topic": "美債",
       "rank": 5,
       "importance_score": 61,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
+        "UST",
+        "USD",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
