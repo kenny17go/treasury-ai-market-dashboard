@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-21T23:51:30.912927+00:00",
+  "as_of": "2026-10-22T03:44:22.829374+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,18 +53,18 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈美股早盤〉SpaceX與美超微業績提振AI類股 主要指數開高",
-      "summary": "〈美股早盤〉SpaceX與美超微業績提振AI類股 主要指數開高 鉅亨網",
+      "title": "搶攻台日韓AI股黃金期 野村第一檔韓股主動ETF與亞洲傘狀基金11/3募集",
+      "summary": "搶攻台日韓AI股黃金期 野村第一檔韓股主動ETF與亞洲傘狀基金11/3募集 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZYXFTbFlmekVrUy11UV9XN09pd0c0eUpLRjZsX2h5MldXbVZ3bXJTekFqRnA2dG5DdUt2aThSYW9QWWN5ZGNvb3FaSmp6WkU?oc=5",
-      "published": "Wed, 21 Oct 2026 13:38:35 GMT",
-      "topic": "AI / 半導體",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82bnd0OEpXbnVqUlhMazVfcGVRbzFoWFJQbjNnc2JvTFl3eEJVRzVwbHZzVDZPSERQakYySF9BWGU2N0RzbWNLN1JaeUQ3STA?oc=5",
+      "published": "Mon, 19 Oct 2026 11:51:59 GMT",
+      "topic": "黃金",
       "rank": 4,
-      "importance_score": 69,
+      "importance_score": 71,
       "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
