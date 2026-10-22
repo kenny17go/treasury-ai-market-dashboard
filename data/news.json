@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-10-22T17:42:37.966118+00:00",
+  "as_of": "2026-10-22T20:55:27.768291+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "美債殖利率回檔或衝高？摩根許長泰剖析4大推升主因 估Fed最快12月升息",
-      "summary": "美債殖利率回檔或衝高？摩根許長泰剖析4大推升主因 估Fed最快12月升息 鉅亨網",
+      "title": "花旗：油價不跌 美債殖利率就不會見頂",
+      "summary": "花旗：油價不跌 美債殖利率就不會見頂 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xdHZ5TzVNVTFHZjJDZnZzbWx0c21LV2xBUHoyRlVGT0lBZGNacXdWMWNodGlLZGR3TUFLME00LVNzMFNpVDcwVGZhV3pLU0U?oc=5",
-      "published": "Wed, 21 Oct 2026 13:24:40 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56ekpqZHA0T0hoX1NvNFRRTE5zaWlSYm5DTUpaZ1dqamxFUWZibG5nWUgzUGhHMnJuYWpEVmowSTRPVExXUmhpNVJpZFNvdFE?oc=5",
+      "published": "Tue, 20 Oct 2026 10:20:02 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 100,
+      "importance_score": 91,
       "related_assets": [
         "UST",
         "USD",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "花旗：油價不跌 美債殖利率就不會見頂",
-      "summary": "花旗：油價不跌 美債殖利率就不會見頂 鉅亨網",
+      "title": "〈貴金屬盤後〉金價從近一周低點反彈 殖利率下降和Fed決議受矚",
+      "summary": "〈貴金屬盤後〉金價從近一周低點反彈 殖利率下降和Fed決議受矚 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56ekpqZHA0T0hoX1NvNFRRTE5zaWlSYm5DTUpaZ1dqamxFUWZibG5nWUgzUGhHMnJuYWpEVmowSTRPVExXUmhpNVJpZFNvdFE?oc=5",
-      "published": "Tue, 20 Oct 2026 10:20:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XQ2hDVk5KcVBmTFhaTU55bHNraXFuRGdSbG9EWTJpZ3JHUkJPUzM4cTNDeVpTZXZsamtoOGljZFVEZzlUcDFTUk40Yw?oc=5",
+      "published": "Wed, 21 Oct 2026 22:38:21 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 89,
+      "importance_score": 85,
       "related_assets": [
         "UST",
         "USD",
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
+      "title": "美股逆轉秀！企業財報助攻、國際油價跳水 道瓊盤中一度飆逾700點",
+      "summary": "美股逆轉秀！企業財報助攻、國際油價跳水 道瓊盤中一度飆逾700點 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XbWh6ZlhPMjViZzU5bkgxZS05TGtmQTdfSDJvMnhFcnoyTmZMWThZM0R1b2ROZUhrQTdjR1NwMzhFVUNiSDBneXVsb3d1MGc?oc=5",
+      "published": "Tue, 20 Oct 2026 15:20:05 GMT",
+      "topic": "能源",
+      "rank": 4,
+      "importance_score": 72,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
       "title": "人工智慧疑慮再起 資金湧入美債、日元與瑞郎避險",
       "summary": "人工智慧疑慮再起 資金湧入美債、日元與瑞郎避險 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94LURkOF80LXFtZTdQM3BUa3lrUVVUZDRNTmFFS3JYRkRHeDBnTV92RzhUMXdYNGVhb1pKdUZXTEh2SEdRLWpnWlktQzdDNjg?oc=5",
       "published": "Thu, 22 Oct 2026 06:40:05 GMT",
       "topic": "美債",
-      "rank": 4,
-      "importance_score": 63,
+      "rank": 5,
+      "importance_score": 61,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "全球政府赤字難解 貝萊德看黃金的好日子還在後頭",
-      "summary": "全球政府赤字難解 貝萊德看黃金的好日子還在後頭 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NLThuX19BdkJ0RTdVcHY2c2k5SlZyR0k4SlR3UkhGRklla3UtbEpPNFQ4WjlJYnN2U19qckdFZzRtNlBVUU5XY3ljOXE4OFU?oc=5",
-      "published": "Thu, 22 Oct 2026 09:10:04 GMT",
-      "topic": "黃金",
-      "rank": 5,
-      "importance_score": 59,
-      "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
