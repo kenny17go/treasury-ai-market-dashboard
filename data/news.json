@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-23T08:52:47.739761+00:00",
+  "as_of": "2026-10-23T12:14:29.144525+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "花旗：油價不跌 美債殖利率就不會見頂",
-      "summary": "花旗：油價不跌 美債殖利率就不會見頂 鉅亨網",
+      "title": "AI疑慮與戰火風險升溫！資金轉抱美債 10年期殖利率跌破5%",
+      "summary": "AI疑慮與戰火風險升溫！資金轉抱美債 10年期殖利率跌破5% 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56ekpqZHA0T0hoX1NvNFRRTE5zaWlSYm5DTUpaZ1dqamxFUWZibG5nWUgzUGhHMnJuYWpEVmowSTRPVExXUmhpNVJpZFNvdFE?oc=5",
-      "published": "Tue, 20 Oct 2026 10:20:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tWW9LZmxJdEhwUlA5Wk8tTEgtSGo4d1ZXWlZEUURmcUpVaDRwRlZTeXp0eTRXS1BjZW9idVVSM2FrM1hGVkRkTTdUZTd4MHM?oc=5",
+      "published": "Thu, 22 Oct 2026 16:32:28 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 89,
+      "importance_score": 90,
       "related_assets": [
         "UST",
         "USD",
@@ -53,14 +53,14 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈能源盤後〉沙國能源設施遇襲、阿美要求員工撤離 Brent原油飆4%創5個月新高",
-      "summary": "〈能源盤後〉沙國能源設施遇襲、阿美要求員工撤離 Brent原油飆4%創5個月新高 鉅亨網",
+      "title": "美股逆轉秀！企業財報助攻、國際油價跳水 道瓊盤中一度飆逾700點",
+      "summary": "美股逆轉秀！企業財報助攻、國際油價跳水 道瓊盤中一度飆逾700點 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uMkp6ZkZaLUR4dVlXS0RzcGZUX2ZZd3BTbHo5QmI2WjNXamxKcXkwbHYxY2ItczBNWFVKOXd1bkQyUXhRSWE5N0t0Wmd2Q2M?oc=5",
-      "published": "Fri, 23 Oct 2026 01:46:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XbWh6ZlhPMjViZzU5bkgxZS05TGtmQTdfSDJvMnhFcnoyTmZMWThZM0R1b2ROZUhrQTdjR1NwMzhFVUNiSDBneXVsb3d1MGc?oc=5",
+      "published": "Tue, 20 Oct 2026 15:20:05 GMT",
       "topic": "能源",
       "rank": 4,
-      "importance_score": 75,
+      "importance_score": 72,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
