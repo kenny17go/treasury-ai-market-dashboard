@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-23T12:14:29.144525+00:00",
+  "as_of": "2026-10-23T17:20:12.397030+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "AI疑慮與戰火風險升溫！資金轉抱美債 10年期殖利率跌破5%",
-      "summary": "AI疑慮與戰火風險升溫！資金轉抱美債 10年期殖利率跌破5% 鉅亨網",
+      "title": "〈貴金屬盤後〉金價從近一周低點反彈 殖利率下降和Fed決議受矚",
+      "summary": "〈貴金屬盤後〉金價從近一周低點反彈 殖利率下降和Fed決議受矚 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tWW9LZmxJdEhwUlA5Wk8tTEgtSGo4d1ZXWlZEUURmcUpVaDRwRlZTeXp0eTRXS1BjZW9idVVSM2FrM1hGVkRkTTdUZTd4MHM?oc=5",
-      "published": "Thu, 22 Oct 2026 16:32:28 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XQ2hDVk5KcVBmTFhaTU55bHNraXFuRGdSbG9EWTJpZ3JHUkJPUzM4cTNDeVpTZXZsamtoOGljZFVEZzlUcDFTUk40Yw?oc=5",
+      "published": "Wed, 21 Oct 2026 22:38:21 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 90,
+      "importance_score": 85,
       "related_assets": [
         "UST",
         "USD",
@@ -37,14 +37,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈美股早盤〉反彈又卡關！AI疑慮重燃、油價回升再添壓 主要指數開低",
-      "summary": "〈美股早盤〉反彈又卡關！AI疑慮重燃、油價回升再添壓 主要指數開低 鉅亨網",
+      "title": "〈貴金屬盤後〉金價跌到逾兩個月低點 油價漲勢再度引發通膨焦慮",
+      "summary": "〈貴金屬盤後〉金價跌到逾兩個月低點 油價漲勢再度引發通膨焦慮 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BTzRVVmNQYmZNQ0k3MXd6a1RLa0hOUm1OVHVybWlRYndlRmFTX0JIbTJ3SUJQRDBWdzNZZk1lYkM0LVZVRTdENWVWcw?oc=5",
-      "published": "Tue, 20 Oct 2026 13:38:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtVFdheTN2MUNqRi1aTFltWjJRSURlUjRpM1NLbDRiMjEzVXhXTlNVZ0tnamdWMHplS0xiOWlZRUozZkFCX0Fvblh3M3lBWWs?oc=5",
+      "published": "Fri, 23 Oct 2026 11:24:36 GMT",
       "topic": "能源",
       "rank": 3,
-      "importance_score": 80,
+      "importance_score": 65,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
@@ -53,33 +53,33 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "美股逆轉秀！企業財報助攻、國際油價跳水 道瓊盤中一度飆逾700點",
-      "summary": "美股逆轉秀！企業財報助攻、國際油價跳水 道瓊盤中一度飆逾700點 鉅亨網",
+      "title": "橋水中國減碼黃金、審慎樂觀看多陸股",
+      "summary": "橋水中國減碼黃金、審慎樂觀看多陸股 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XbWh6ZlhPMjViZzU5bkgxZS05TGtmQTdfSDJvMnhFcnoyTmZMWThZM0R1b2ROZUhrQTdjR1NwMzhFVUNiSDBneXVsb3d1MGc?oc=5",
-      "published": "Tue, 20 Oct 2026 15:20:05 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10NnM2b09zcmZwVUEwc0g2RGZTNDJ0WDdJdndXN185QXlnNXJrY0N2RUFpTXZUUmRhSmZHSy1Vdm9LQTV6STlzOWVVX2RRNXc?oc=5",
+      "published": "Fri, 23 Oct 2026 14:10:03 GMT",
+      "topic": "黃金",
       "rank": 4,
-      "importance_score": 72,
+      "importance_score": 67,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "人工智慧疑慮再起 資金湧入美債、日元與瑞郎避險",
-      "summary": "人工智慧疑慮再起 資金湧入美債、日元與瑞郎避險 鉅亨網",
+      "title": "中東原油期貨雖漲 現貨價格已在走跌 油商對如何將油運出海峽已更加熟練",
+      "summary": "中東原油期貨雖漲 現貨價格已在走跌 油商對如何將油運出海峽已更加熟練 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94LURkOF80LXFtZTdQM3BUa3lrUVVUZDRNTmFFS3JYRkRHeDBnTV92RzhUMXdYNGVhb1pKdUZXTEh2SEdRLWpnWlktQzdDNjg?oc=5",
-      "published": "Thu, 22 Oct 2026 06:40:05 GMT",
-      "topic": "美債",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VWTVLeUxNUXViZl9DeDF3Mm9udlk1NE9UdlcwYlhLcEFQVTRoVHNCWUl5YUkzam1VdFVMc29jTEprMDhoY1I2dUhxOElDWUE?oc=5",
+      "published": "Fri, 23 Oct 2026 10:30:04 GMT",
+      "topic": "能源",
       "rank": 5,
       "importance_score": 61,
       "related_assets": [
-        "UST",
-        "USD",
+        "WTI / Brent",
+        "Inflation",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
