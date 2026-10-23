@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-23T17:20:12.397030+00:00",
+  "as_of": "2026-10-23T20:33:18.678996+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,11 +21,11 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈貴金屬盤後〉金價從近一周低點反彈 殖利率下降和Fed決議受矚",
-      "summary": "〈貴金屬盤後〉金價從近一周低點反彈 殖利率下降和Fed決議受矚 鉅亨網",
+      "title": "「像極了矽谷銀行那天！」 科技股血崩資金瘋搶美債 十年期殖利率摔破5% 黑天鵝序幕？",
+      "summary": "「像極了矽谷銀行那天！」 科技股血崩資金瘋搶美債 十年期殖利率摔破5% 黑天鵝序幕？ 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XQ2hDVk5KcVBmTFhaTU55bHNraXFuRGdSbG9EWTJpZ3JHUkJPUzM4cTNDeVpTZXZsamtoOGljZFVEZzlUcDFTUk40Yw?oc=5",
-      "published": "Wed, 21 Oct 2026 22:38:21 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ocFljMmo3YUtmOEh6MnVnaGdMQUstbnNQWXh1NVZOOUYyYTNKZWZhS2gzVm9rRnJ0V2hOUDRkZWh0Vm5hOHRaejNCMDRibGc?oc=5",
+      "published": "Fri, 23 Oct 2026 03:00:02 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
       "importance_score": 85,
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "中東原油期貨雖漲 現貨價格已在走跌 油商對如何將油運出海峽已更加熟練",
-      "summary": "中東原油期貨雖漲 現貨價格已在走跌 油商對如何將油運出海峽已更加熟練 鉅亨網",
+      "title": "黃金也被賣來救急 匯豐解析金價失守4000美元背後壓力",
+      "summary": "黃金也被賣來救急 匯豐解析金價失守4000美元背後壓力 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VWTVLeUxNUXViZl9DeDF3Mm9udlk1NE9UdlcwYlhLcEFQVTRoVHNCWUl5YUkzam1VdFVMc29jTEprMDhoY1I2dUhxOElDWUE?oc=5",
-      "published": "Fri, 23 Oct 2026 10:30:04 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wbkQwVGRpUGtqazdORGlMaTJ4bkFId0FEVV9lb1dDZXQ0ZXhkQU1MQUtGdjhoVnc1bUpYWnFkX1A3bDNvUllsVzU2NA?oc=5",
+      "published": "Fri, 23 Oct 2026 10:10:03 GMT",
+      "topic": "黃金",
       "rank": 5,
-      "importance_score": 61,
+      "importance_score": 63,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
