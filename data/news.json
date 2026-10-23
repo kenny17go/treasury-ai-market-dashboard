@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-22T23:44:05.464218+00:00",
+  "as_of": "2026-10-23T08:52:47.739761+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -57,7 +57,7 @@
       "summary": "〈能源盤後〉沙國能源設施遇襲、阿美要求員工撤離 Brent原油飆4%創5個月新高 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uMkp6ZkZaLUR4dVlXS0RzcGZUX2ZZd3BTbHo5QmI2WjNXamxKcXkwbHYxY2ItczBNWFVKOXd1bkQyUXhRSWE5N0t0Wmd2Q2M?oc=5",
-      "published": "Thu, 22 Oct 2026 21:53:33 GMT",
+      "published": "Fri, 23 Oct 2026 01:46:24 GMT",
       "topic": "能源",
       "rank": 4,
       "importance_score": 75,
