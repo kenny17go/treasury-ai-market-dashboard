@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-10-26T13:41:00.056914+00:00",
+  "as_of": "2026-10-26T19:37:58.037516+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫",
-      "summary": "Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫 鉅亨網",
+      "title": "美債殖利率回落！Fed暫停升息理由受考驗 華許如何說服市場？",
+      "summary": "美債殖利率回落！Fed暫停升息理由受考驗 華許如何說服市場？ 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uc3dDY3ZPZ1FUWmlhbGNhT19aaGdua3hSanZjb2EwRDVXbVo5YmVzSUdyNFAwQ3RhTWdRSGhWY0dJeVpNRGt3ZzNNVQ?oc=5",
-      "published": "Sun, 25 Oct 2026 22:30:01 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zRFpod2JRZHotYmFEcXdYSm51cFhiZk9ONVNzSmlvallJOTlnQUlvbmVJRkZMSWIxdnNMZENQZU5lMW5sekxQNlhBb1RrVHc?oc=5",
+      "published": "Mon, 26 Oct 2026 19:00:39 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
       "importance_score": 100,
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "美債殖利率急跌、企業信用風險飆升！前Fed顧問：美國恐已陷衰退！",
-      "summary": "美債殖利率急跌、企業信用風險飆升！前Fed顧問：美國恐已陷衰退！ 鉅亨網",
+      "title": "Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫",
+      "summary": "Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9haWludkZGR2xyVlhmNk5tcHN5QkNqTEotY1B2MkQwRVF2V0h1akZoMjhpbTAyUjBLei01OC1nZkp1OXFSeDJJTENRZXAtMG8?oc=5",
-      "published": "Sat, 24 Oct 2026 00:50:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uc3dDY3ZPZ1FUWmlhbGNhT19aaGdua3hSanZjb2EwRDVXbVo5YmVzSUdyNFAwQ3RhTWdRSGhWY0dJeVpNRGt3ZzNNVQ?oc=5",
+      "published": "Sun, 25 Oct 2026 22:30:01 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 93,
+      "importance_score": 98,
       "related_assets": [
         "UST",
         "USD",
@@ -37,50 +37,50 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "亞股觀望央行與財報周 油價回落近2%",
+      "summary": "亞股觀望央行與財報周 油價回落近2% 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GblBHSjUwNDFPMmFVVWdIV0FENk42UU40bjlFRmNxb2ZfeVYzSGhKVXEzVHpOSkdoQkdHYS1lQWZwODUwc0VNTEJ6VDJRT0k?oc=5",
+      "published": "Mon, 26 Oct 2026 07:00:14 GMT",
+      "topic": "能源",
+      "rank": 3,
+      "importance_score": 75,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
       "title": "AI跌倒、美債吃飽？全球資金爭奪戰 市場用錢投票",
       "summary": "AI跌倒、美債吃飽？全球資金爭奪戰 市場用錢投票 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OUldUd0VVOERmZDNhbzdsOU9UeVJwM0p2aE45WnZaV3Z3OFp3dWtxMFFTQklLOWdRTExZdDlaSEw4aHhtb3JzajM2dw?oc=5",
       "published": "Sun, 25 Oct 2026 22:49:50 GMT",
       "topic": "美債",
-      "rank": 3,
-      "importance_score": 74,
+      "rank": 4,
+      "importance_score": 72,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "〈美股早盤〉 美油價格突破100美元 重燃市場憂心 主要指數下挫",
-      "summary": "〈美股早盤〉 美油價格突破100美元 重燃市場憂心 主要指數下挫 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FclhwU0pHR0VBMS1ZcEtSM0pCRzJkTzk1dDFiQ1Ftb1dJQnpSMzZicU1aTDhpVVBsYUYweFVyY2FEcWRkaFd2X2RQb2ZhbDg?oc=5",
-      "published": "Fri, 23 Oct 2026 13:46:27 GMT",
-      "topic": "能源",
-      "rank": 4,
-      "importance_score": 72,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "油價突然下跌！伊朗將與沙國、土耳其、巴基斯坦會談 川普保留攻伊選項",
-      "summary": "油價突然下跌！伊朗將與沙國、土耳其、巴基斯坦會談 川普保留攻伊選項 鉅亨網",
+      "title": "多家機構示警美股風險！貝萊德降至中性、AI仍獲看好、美銀警告估值偏高",
+      "summary": "多家機構示警美股風險！貝萊德降至中性、AI仍獲看好、美銀警告估值偏高 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZaG1wRW5TN2VSdW5WUjNod2dzWGZTZnR3MElNWHVIVlE4QXJpTFhyMko5b1JvODd1ZVNOSW5ZYzF0WWI5bWFjV09mRQ?oc=5",
-      "published": "Mon, 26 Oct 2026 11:12:33 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xWnBKeXVnMlFrcHhBUFl3S1Y3eU5pTnVsVnBxSnhCWHcxLTFUNUFyMFpUTzhZR1RVcFBOakU3bktOamFBendHcHhhdzYzMHc?oc=5",
+      "published": "Mon, 26 Oct 2026 14:10:04 GMT",
+      "topic": "AI / 半導體",
       "rank": 5,
-      "importance_score": 61,
+      "importance_score": 67,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
