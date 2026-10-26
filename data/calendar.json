@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-23T23:39:21.330318+00:00",
+  "as_of": "2026-10-26T09:26:09.784876+00:00",
   "status": "ok",
   "source": "BEA + Federal Reserve + 中央銀行（台灣） + Bank of Japan + European Central Bank + Eurostat",
   "source_mode": "Official global central banks + official statistics + market-calendar enrichment",
@@ -233,6 +233,30 @@
       "forecast": "",
       "previous": "",
       "source": "Bank of Japan 官方年度日程"
+    },
+    {
+      "date": "2026-12-23",
+      "time": "21:30",
+      "title": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 3rd Quarter 2026",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "BEA"
+    },
+    {
+      "date": "2026-12-23",
+      "time": "21:30",
+      "title": "Personal Income and Outlays, November 2026",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "importance": 3,
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "source": "BEA"
     }
   ]
 }

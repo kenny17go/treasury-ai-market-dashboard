@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-10-23T23:37:31.629256+00:00",
+  "as_of": "2026-10-26T09:24:03.318981+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "〈貴金屬盤後〉金價摜破4000美元、本周重挫4% 油價漲勢鞏固Fed升息預期",
-      "summary": "〈貴金屬盤後〉金價摜破4000美元、本周重挫4% 油價漲勢鞏固Fed升息預期 鉅亨網",
+      "title": "Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫",
+      "summary": "Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Nc1hHUFlVa3IxVFBjYUxETVlSdjhOdnhQNVVfME5Sc2JfMGQwTF9EZUtIam5PR1dsOHBWdVozQzRBbHhKenhjRzhWbFNNMUk?oc=5",
-      "published": "Fri, 23 Oct 2026 23:00:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uc3dDY3ZPZ1FUWmlhbGNhT19aaGdua3hSanZjb2EwRDVXbVo5YmVzSUdyNFAwQ3RhTWdRSGhWY0dJeVpNRGt3ZzNNVQ?oc=5",
+      "published": "Sun, 25 Oct 2026 22:30:01 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 88,
+      "importance_score": 100,
       "related_assets": [
         "UST",
         "USD",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈貴金屬盤後〉金價從近一周低點反彈 殖利率下降和Fed決議受矚",
-      "summary": "〈貴金屬盤後〉金價從近一周低點反彈 殖利率下降和Fed決議受矚 鉅亨網",
+      "title": "美債殖利率急跌、企業信用風險飆升！前Fed顧問：美國恐已陷衰退！",
+      "summary": "美債殖利率急跌、企業信用風險飆升！前Fed顧問：美國恐已陷衰退！ 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XQ2hDVk5KcVBmTFhaTU55bHNraXFuRGdSbG9EWTJpZ3JHUkJPUzM4cTNDeVpTZXZsamtoOGljZFVEZzlUcDFTUk40Yw?oc=5",
-      "published": "Wed, 21 Oct 2026 22:38:21 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9haWludkZGR2xyVlhmNk5tcHN5QkNqTEotY1B2MkQwRVF2V0h1akZoMjhpbTAyUjBLei01OC1nZkp1OXFSeDJJTENRZXAtMG8?oc=5",
+      "published": "Sat, 24 Oct 2026 00:50:02 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 85,
+      "importance_score": 93,
       "related_assets": [
         "UST",
         "USD",
@@ -37,14 +37,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈美股早盤〉AI疑慮未散油價又漲！Meta與特斯拉走跌 主要指數開低",
-      "summary": "〈美股早盤〉AI疑慮未散油價又漲！Meta與特斯拉走跌 主要指數開低 鉅亨網",
+      "title": "亞股觀望央行與財報周 油價回落近2%",
+      "summary": "亞股觀望央行與財報周 油價回落近2% 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84NVhBMXFUbVNRUE1JY2Y0dEZUNHBIVFA5dXE4LWl3M0Rib1F5MkRwVGZ4bXoyd1JucGxRYXAwYnhucmdOMXlrMUhXdktxa2c?oc=5",
-      "published": "Thu, 22 Oct 2026 13:40:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GblBHSjUwNDFPMmFVVWdIV0FENk42UU40bjlFRmNxb2ZfeVYzSGhKVXEzVHpOSkdoQkdHYS1lQWZwODUwc0VNTEJ6VDJRT0k?oc=5",
+      "published": "Mon, 26 Oct 2026 07:00:14 GMT",
       "topic": "能源",
       "rank": 3,
-      "importance_score": 80,
+      "importance_score": 75,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "黃金也被賣來救急 匯豐解析金價失守4000美元背後壓力",
-      "summary": "黃金也被賣來救急 匯豐解析金價失守4000美元背後壓力 鉅亨網",
+      "title": "AI跌倒、美債吃飽？全球資金爭奪戰 市場用錢投票",
+      "summary": "AI跌倒、美債吃飽？全球資金爭奪戰 市場用錢投票 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3REpzVzZwUFlySmhEdXc1azhyd2tzX29ERm13eXFxa3FtRXM3TFVBcUVZVy1tRmdFTVozbWVNV3g5WmFVVFdtRVlKaTlReTQ?oc=5",
-      "published": "Fri, 23 Oct 2026 10:10:03 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OUldUd0VVOERmZDNhbzdsOU9UeVJwM0p2aE45WnZaV3Z3OFp3dWtxMFFTQklLOWdRTExZdDlaSEw4aHhtb3JzajM2dw?oc=5",
+      "published": "Sun, 25 Oct 2026 22:49:50 GMT",
+      "topic": "美債",
       "rank": 4,
+      "importance_score": 72,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "橋水中國減碼黃金、審慎樂觀看多陸股",
+      "summary": "橋水中國減碼黃金、審慎樂觀看多陸股 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10NnM2b09zcmZwVUEwc0g2RGZTNDJ0WDdJdndXN185QXlnNXJrY0N2RUFpTXZUUmRhSmZHSy1Vdm9LQTV6STlzOWVVX2RRNXc?oc=5",
+      "published": "Fri, 23 Oct 2026 14:10:03 GMT",
+      "topic": "黃金",
+      "rank": 5,
       "importance_score": 65,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "〈貴金屬盤後〉金價跌到逾兩個月低點 油價漲勢再度引發通膨焦慮",
-      "summary": "〈貴金屬盤後〉金價跌到逾兩個月低點 油價漲勢再度引發通膨焦慮 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtVFdheTN2MUNqRi1aTFltWjJRSURlUjRpM1NLbDRiMjEzVXhXTlNVZ0tnamdWMHplS0xiOWlZRUozZkFCX0Fvblh3M3lBWWs?oc=5",
-      "published": "Fri, 23 Oct 2026 11:24:36 GMT",
-      "topic": "能源",
-      "rank": 5,
-      "importance_score": 61,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
