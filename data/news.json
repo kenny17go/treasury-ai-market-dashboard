@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-10-27T04:07:56.891364+00:00",
+  "as_of": "2026-10-27T09:47:57.032006+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "〈貴金屬盤後〉金價摜破4000美元、本周重挫4% 油價漲勢鞏固Fed升息預期",
-      "summary": "〈貴金屬盤後〉金價摜破4000美元、本周重挫4% 油價漲勢鞏固Fed升息預期 鉅亨網",
+      "title": "Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫",
+      "summary": "Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Nc1hHUFlVa3IxVFBjYUxETVlSdjhOdnhQNVVfME5Sc2JfMGQwTF9EZUtIam5PR1dsOHBWdVozQzRBbHhKenhjRzhWbFNNMUk?oc=5",
-      "published": "Sat, 24 Oct 2026 11:17:27 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uc3dDY3ZPZ1FUWmlhbGNhT19aaGdua3hSanZjb2EwRDVXbVo5YmVzSUdyNFAwQ3RhTWdRSGhWY0dJeVpNRGt3ZzNNVQ?oc=5",
+      "published": "Sun, 25 Oct 2026 22:30:01 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 88,
+      "importance_score": 100,
       "related_assets": [
         "UST",
         "USD",
@@ -21,20 +21,20 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈貴金屬盤後〉金價收復4000美元 油價下跌緩解升息焦慮",
-      "summary": "〈貴金屬盤後〉金價收復4000美元 油價下跌緩解升息焦慮 鉅亨網",
+      "title": "美債10月反彈停歇 殖利率下一步牽動美股走向",
+      "summary": "美債10月反彈停歇 殖利率下一步牽動美股走向 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mem5iNlRVeDFFNDVHUVFFT3Z0bWJXbExXaWZ5TEIzUWJMN3F3amVCaTc3bE5NNlVkR2gxWmxBeng5Q2pJdHN0Uk5kWQ?oc=5",
-      "published": "Mon, 26 Oct 2026 22:49:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84cU0zSGZoVUtFOWFpYW1odVNfMWJRMDU0N3RUaVE4UUVvdmQ4YXhnNDV0T0huZC11WC0zdWFGMFVuWDNhbXRVTjN0TQ?oc=5",
+      "published": "Tue, 27 Oct 2026 03:10:03 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 78,
+      "importance_score": 90,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
       "title": "亞股觀望央行與財報周 油價回落近2%",
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈能源盤後〉中東和談帶來一線希望 布蘭特油價跌近1%仍徘徊六個月高點附近",
-      "summary": "〈能源盤後〉中東和談帶來一線希望 布蘭特油價跌近1%仍徘徊六個月高點附近 鉅亨網",
+      "title": "多家機構示警美股風險！貝萊德降至中性、AI仍獲看好、美銀警告估值偏高",
+      "summary": "多家機構示警美股風險！貝萊德降至中性、AI仍獲看好、美銀警告估值偏高 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xOXd0WlF4R2JBOGFtU29jMng0OE16eDJGNW5xbEVNNW5sSlZxYmdVT2dISjlsRkhqVTFPWWhiSlVVaUVsUVdHcmV6U0VtcVk?oc=5",
-      "published": "Mon, 26 Oct 2026 23:00:52 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xWnBKeXVnMlFrcHhBUFl3S1Y3eU5pTnVsVnBxSnhCWHcxLTFUNUFyMFpUTzhZR1RVcFBOakU3bktOamFBendHcHhhdzYzMHc?oc=5",
+      "published": "Mon, 26 Oct 2026 14:10:04 GMT",
+      "topic": "AI / 半導體",
       "rank": 5,
-      "importance_score": 65,
+      "importance_score": 67,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
