@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-27T18:26:39.368318+00:00",
+  "as_of": "2026-10-27T22:27:32.267513+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,20 +37,36 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "亞股觀望央行與財報周 油價回落近2%",
+      "summary": "亞股觀望央行與財報周 油價回落近2% 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GblBHSjUwNDFPMmFVVWdIV0FENk42UU40bjlFRmNxb2ZfeVYzSGhKVXEzVHpOSkdoQkdHYS1lQWZwODUwc0VNTEJ6VDJRT0k?oc=5",
+      "published": "Mon, 26 Oct 2026 07:00:14 GMT",
+      "topic": "能源",
+      "rank": 3,
+      "importance_score": 75,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
       "title": "亞股失血潮！台股遭外資甩賣最慘 全球超級央行周市場觀望",
       "summary": "亞股失血潮！台股遭外資甩賣最慘 全球超級央行周市場觀望 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvSmNQWnVEM3VhUWJkWE45b1d5X3MtalJaWWo1TTdPYnN1UktfUkJIcW1aSUtwa1dKSy1TaGlfaWhzR21RWXRsazBiUF8tS00?oc=5",
       "published": "Tue, 27 Oct 2026 08:42:05 GMT",
       "topic": "台灣",
-      "rank": 3,
-      "importance_score": 68,
+      "rank": 4,
+      "importance_score": 66,
       "related_assets": [
         "TAIEX",
         "TWD",
         "TSM"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
       "title": "AI跌倒、美債吃飽？全球資金爭奪戰 市場用錢投票",
@@ -59,28 +75,12 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13aE9Qdi04SHNWVlIxcHZEZXEzdmJrTTR4clMyVVd5ZklsR0RjYW02TEFVeEVDdjJ3U0x5b2Nra21vZ2pITzcxTFRKeWNtMFE?oc=5",
       "published": "Mon, 26 Oct 2026 05:14:40 GMT",
       "topic": "美債",
-      "rank": 4,
-      "importance_score": 72,
+      "rank": 5,
+      "importance_score": 70,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "多家機構示警美股風險！貝萊德降至中性、AI仍獲看好、美銀警告估值偏高",
-      "summary": "多家機構示警美股風險！貝萊德降至中性、AI仍獲看好、美銀警告估值偏高 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xWnBKeXVnMlFrcHhBUFl3S1Y3eU5pTnVsVnBxSnhCWHcxLTFUNUFyMFpUTzhZR1RVcFBOakU3bktOamFBendHcHhhdzYzMHc?oc=5",
-      "published": "Mon, 26 Oct 2026 14:10:04 GMT",
-      "topic": "AI / 半導體",
-      "rank": 5,
-      "importance_score": 67,
-      "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
