@@ -4,7 +4,7 @@
   "bullets": [
     "主要美股指數平均變動 +1.36%。",
     "美債10年殖利率 4.990%，日變動 -1.0 bps。",
-    "自選股強勢 LITE +14.53%；較弱 META -3.50%。",
+    "自選股強勢 DELL +7.43%；較弱 META -1.66%。",
     "2Y10Y 利差 +29.0 bps。"
   ],
   "risk_score": 66,
@@ -12,18 +12,18 @@
   "yesterday_top": [
     "美股主要指數平均 +1.36%，風險情緒偏多。",
     "10Y 美債殖利率 4.990%。",
-    "DXY 日變動 +0.42%。"
+    "DXY 日變動 +0.11%。"
   ],
   "today_top": [
     "今日暫無已確認的高重要性事件；不以未來日期事件補位。"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -1.0 bps。",
-    "美元：DXY 日變動 +0.42%。",
+    "美元：DXY 日變動 +0.11%。",
     "波動率：VIX 17.52。",
     "曲線：2Y10Y +29.0 bps。"
   ],
   "today_date_taipei": "2026-10-28",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-10-28T01:33:02.649403+00:00"
+  "as_of": "2026-10-28T04:38:22.086498+00:00"
 }
