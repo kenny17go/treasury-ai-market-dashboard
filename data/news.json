@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-10-27T22:27:32.267513+00:00",
+  "as_of": "2026-10-28T01:30:53.797625+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "美債殖利率回落！Fed暫停升息理由受考驗 華許如何說服市場？",
-      "summary": "美債殖利率回落！Fed暫停升息理由受考驗 華許如何說服市場？ 鉅亨網",
+      "title": "Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫",
+      "summary": "Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zRFpod2JRZHotYmFEcXdYSm51cFhiZk9ONVNzSmlvallJOTlnQUlvbmVJRkZMSWIxdnNMZENQZU5lMW5sekxQNlhBb1RrVHc?oc=5",
-      "published": "Mon, 26 Oct 2026 19:00:39 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oRU5DaTg4SWNKTWUyOF9wdUhmMFNXZ3I2dUxRVVZCWFRHU2hiVnN2NFd3TnNlNlo5TXd5cWpqZk5DV0RDVWRkMml2UDZveVE?oc=5",
+      "published": "Mon, 26 Oct 2026 07:12:35 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
       "importance_score": 100,
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫",
-      "summary": "Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫 鉅亨網",
+      "title": "美債10月反彈停歇 殖利率下一步牽動美股走向",
+      "summary": "美債10月反彈停歇 殖利率下一步牽動美股走向 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oRU5DaTg4SWNKTWUyOF9wdUhmMFNXZ3I2dUxRVVZCWFRHU2hiVnN2NFd3TnNlNlo5TXd5cWpqZk5DV0RDVWRkMml2UDZveVE?oc=5",
-      "published": "Mon, 26 Oct 2026 07:12:35 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84cU0zSGZoVUtFOWFpYW1odVNfMWJRMDU0N3RUaVE4UUVvdmQ4YXhnNDV0T0huZC11WC0zdWFGMFVuWDNhbXRVTjN0TQ?oc=5",
+      "published": "Tue, 27 Oct 2026 03:10:03 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 98,
+      "importance_score": 90,
       "related_assets": [
         "UST",
         "USD",
