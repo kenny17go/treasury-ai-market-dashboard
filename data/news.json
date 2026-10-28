@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-10-28T10:48:42.512197+00:00",
+  "as_of": "2026-10-28T13:38:32.483509+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "美債10月反彈停歇 殖利率下一步牽動美股走向",
-      "summary": "美債10月反彈停歇 殖利率下一步牽動美股走向 鉅亨網",
+      "title": "Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫",
+      "summary": "Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zd0RYSmJIcWcyWFpBQ0VTMklpX1BNMko3THo2Ql90bGoybE9nRkdWSlRBakg5bjMzSkktQ3hFQXZPMGt0QWJKdklEUFZ1Y1E?oc=5",
-      "published": "Tue, 27 Oct 2026 03:10:03 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uc3dDY3ZPZ1FUWmlhbGNhT19aaGdua3hSanZjb2EwRDVXbVo5YmVzSUdyNFAwQ3RhTWdRSGhWY0dJeVpNRGt3ZzNNVQ?oc=5",
+      "published": "Sun, 25 Oct 2026 22:30:01 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 92,
+      "importance_score": 100,
       "related_assets": [
         "UST",
         "USD",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈美股早盤〉油價回落、晶片股續揚 主要指數開高靜待Fed決策",
-      "summary": "〈美股早盤〉油價回落、晶片股續揚 主要指數開高靜待Fed決策 鉅亨網",
+      "title": "美債10月反彈停歇 殖利率下一步牽動美股走向",
+      "summary": "美債10月反彈停歇 殖利率下一步牽動美股走向 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tNmV0SEtMZXRibjVoT1A1Tno2TldiWnVpM1BxQW1fNWUwTHVHUXg3ZlJhdlllUVAyaTNUVUJYdUMxZV9ZZUZmUUMwcw?oc=5",
-      "published": "Tue, 27 Oct 2026 13:41:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zd0RYSmJIcWcyWFpBQ0VTMklpX1BNMko3THo2Ql90bGoybE9nRkdWSlRBakg5bjMzSkktQ3hFQXZPMGt0QWJKdklEUFZ1Y1E?oc=5",
+      "published": "Tue, 27 Oct 2026 03:10:03 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 85,
+      "importance_score": 90,
       "related_assets": [
         "UST",
         "USD",
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "多家機構示警美股風險！貝萊德降至中性、AI仍獲看好、美銀警告估值偏高",
-      "summary": "多家機構示警美股風險！貝萊德降至中性、AI仍獲看好、美銀警告估值偏高 鉅亨網",
+      "title": "美擬再放行俄柴油 拿「胡蘿蔔」促停戰 分析師直言難壓油價",
+      "summary": "美擬再放行俄柴油 拿「胡蘿蔔」促停戰 分析師直言難壓油價 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xWnBKeXVnMlFrcHhBUFl3S1Y3eU5pTnVsVnBxSnhCWHcxLTFUNUFyMFpUTzhZR1RVcFBOakU3bktOamFBendHcHhhdzYzMHc?oc=5",
-      "published": "Mon, 26 Oct 2026 14:10:04 GMT",
-      "topic": "AI / 半導體",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mR2doWEhNUGVJNW5jdzFBMzF2OWtKd2dZaVVvaUtQUnZzX3JCVG82Vk5LRjJDMHJHYWVhUDF3QzRON1FyWmZfNHBrVW1IOTg?oc=5",
+      "published": "Wed, 28 Oct 2026 01:19:39 GMT",
+      "topic": "能源",
       "rank": 5,
-      "importance_score": 67,
+      "importance_score": 61,
       "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }

@@ -1,29 +1,29 @@
 {
   "mode": "rules",
-  "headline": "市場風險情緒：偏多",
+  "headline": "市場風險情緒：中性",
   "bullets": [
-    "主要美股指數平均變動 +1.36%。",
+    "主要美股指數平均變動 +0.31%。",
     "美債10年殖利率 4.990%，日變動 -1.0 bps。",
-    "自選股強勢 DELL +7.43%；較弱 META -1.66%。",
+    "自選股強勢 SNDK +5.53%；較弱 UMC ADR -2.80%。",
     "2Y10Y 利差 +29.0 bps。"
   ],
-  "risk_score": 66,
-  "risk_label": "偏多",
+  "risk_score": 54,
+  "risk_label": "中性",
   "yesterday_top": [
-    "美股主要指數平均 +1.36%，風險情緒偏多。",
+    "美股主要指數平均 +0.31%，風險情緒中性。",
     "10Y 美債殖利率 4.990%。",
-    "DXY 日變動 +0.05%。"
+    "DXY 日變動 +0.03%。"
   ],
   "today_top": [
-    "今日暫無已確認的高重要性事件；不以未來日期事件補位。"
+    "新聞｜美擬再放行俄柴油 拿「胡蘿蔔」促停戰 分析師直言難壓油價"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -1.0 bps。",
-    "美元：DXY 日變動 +0.05%。",
-    "波動率：VIX 17.49。",
+    "美元：DXY 日變動 +0.03%。",
+    "波動率：VIX 17.31。",
     "曲線：2Y10Y +29.0 bps。"
   ],
   "today_date_taipei": "2026-10-28",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-10-28T10:50:58.796603+00:00"
+  "as_of": "2026-10-28T13:40:20.962379+00:00"
 }
