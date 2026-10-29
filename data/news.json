@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-29T02:35:24.736955+00:00",
+  "as_of": "2026-10-29T04:49:55.779685+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "美債10月反彈停歇 殖利率下一步牽動美股走向",
-      "summary": "美債10月反彈停歇 殖利率下一步牽動美股走向 鉅亨網",
+      "title": "〈美股早盤〉油價回落、晶片股續揚 主要指數開高靜待Fed決策",
+      "summary": "〈美股早盤〉油價回落、晶片股續揚 主要指數開高靜待Fed決策 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84cU0zSGZoVUtFOWFpYW1odVNfMWJRMDU0N3RUaVE4UUVvdmQ4YXhnNDV0T0huZC11WC0zdWFGMFVuWDNhbXRVTjN0TQ?oc=5",
-      "published": "Tue, 27 Oct 2026 03:10:03 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0Q2cxT2s0UUxTVWRCdjR6SlllRUhiSU1ydDVhQ1VwUFFGU2picFcwYUVxODFmZmtHeUJvY19iZlNlV0hzR2ljaVVkZ0oyb0E?oc=5",
+      "published": "Tue, 27 Oct 2026 13:41:15 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 90,
+      "importance_score": 85,
       "related_assets": [
         "UST",
         "USD",
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈能源盤後〉葉門戰火延燒 沙國煉油廠遇襲 國際油價漲逾2%",
-      "summary": "〈能源盤後〉葉門戰火延燒 沙國煉油廠遇襲 國際油價漲逾2% 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90b2FVTUo1WXVuYXV3ZHdKdGVoYnkxS0JTWDVmQl9aXzI4Tzc0MFBxLU5hUlhZOE12MDI4R01jeG8ySEpPMWdVVTFYZw?oc=5",
-      "published": "Wed, 28 Oct 2026 21:50:54 GMT",
-      "topic": "能源",
-      "rank": 4,
-      "importance_score": 67,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
       "title": "多家機構示警美股風險！貝萊德降至中性、AI仍獲看好、美銀警告估值偏高",
       "summary": "多家機構示警美股風險！貝萊德降至中性、AI仍獲看好、美銀警告估值偏高 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zWlU5MVUxNDJkYWNrSkNWdldremZIU0JoTDdxVUlTQng1WktjZ0dOVWwyR0NkZmRiTXJIYWJ2Nnp2a1BONnVnS3gzcw?oc=5",
       "published": "Mon, 26 Oct 2026 14:10:04 GMT",
       "topic": "AI / 半導體",
-      "rank": 5,
-      "importance_score": 67,
+      "rank": 4,
+      "importance_score": 69,
       "related_assets": [
         "SOX",
         "Nasdaq",
         "TSM / NVDA"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "〈能源盤後〉葉門戰火延燒 沙國煉油廠遇襲 國際油價漲逾2%",
+      "summary": "〈能源盤後〉葉門戰火延燒 沙國煉油廠遇襲 國際油價漲逾2% 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90b2FVTUo1WXVuYXV3ZHdKdGVoYnkxS0JTWDVmQl9aXzI4Tzc0MFBxLU5hUlhZOE12MDI4R01jeG8ySEpPMWdVVTFYZw?oc=5",
+      "published": "Wed, 28 Oct 2026 21:50:54 GMT",
+      "topic": "能源",
+      "rank": 5,
+      "importance_score": 65,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
