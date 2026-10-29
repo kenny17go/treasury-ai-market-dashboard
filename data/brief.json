@@ -2,30 +2,29 @@
   "mode": "rules",
   "headline": "市場風險情緒：偏空",
   "bullets": [
-    "主要美股指數平均變動 -1.05%。",
+    "主要美股指數平均變動 -1.19%。",
     "美債10年殖利率 5.050%，日變動 +6.0 bps。",
-    "自選股強勢 AAPL +1.49%；較弱 GOOGL -12.82%。",
+    "自選股強勢 META +2.41%；較弱 MRVL -14.41%。",
     "2Y10Y 利差 +38.0 bps。"
   ],
-  "risk_score": 37,
+  "risk_score": 36,
   "risk_label": "偏空",
   "yesterday_top": [
-    "美股主要指數平均 -1.05%，風險情緒偏空。",
+    "美股主要指數平均 -1.19%，風險情緒偏空。",
     "10Y 美債殖利率 5.050%。",
-    "DXY 日變動 +0.11%。"
+    "DXY 日變動 -0.16%。"
   ],
   "today_top": [
-    "🇪🇺 — Eurozone｜ECB 貨幣政策會議 / 利率決議與記者會",
-    "新聞｜聯準會按兵不動致殖利率曲線陡峭化 歐洲央行面臨考驗",
-    "新聞｜〈美股早盤〉AI砸錢何時回本？Alphabet財報失色、通膨又施壓 主要指數開低"
+    "🇪🇺 18:00 Eurozone｜歐元區 GDP（第3季初值）",
+    "🇯🇵 — Japan｜日本銀行金融政策決定會合 / 政策聲明"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +6.0 bps。",
-    "美元：DXY 日變動 +0.11%。",
-    "波動率：VIX 17.17。",
+    "美元：DXY 日變動 -0.16%。",
+    "波動率：VIX 16.94。",
     "曲線：2Y10Y +38.0 bps。"
   ],
-  "today_date_taipei": "2026-10-29",
+  "today_date_taipei": "2026-10-30",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-10-29T13:51:10.830541+00:00"
+  "as_of": "2026-10-29T19:22:32.152647+00:00"
 }

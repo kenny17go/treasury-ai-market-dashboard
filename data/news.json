@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-29T13:48:32.719420+00:00",
+  "as_of": "2026-10-29T19:20:15.442297+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,20 +37,36 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "〈美股早盤〉AI砸錢何時回本？Alphabet財報失色、通膨又施壓 主要指數開低",
+      "summary": "〈美股早盤〉AI砸錢何時回本？Alphabet財報失色、通膨又施壓 主要指數開低 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rS3BXUnBINkszbkptVTVJRUxDQ2c1ZWNpWklpT3AyRjVBMVNScTJkMXhTcE1Ha0pnNC10NWhKMzduczZfMno3Nm51dGN3cnM?oc=5",
+      "published": "Thu, 29 Oct 2026 13:40:18 GMT",
+      "topic": "AI / 半導體",
+      "rank": 3,
+      "importance_score": 71,
+      "related_assets": [
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
       "title": "大都會投信發表One MIM新品牌 投資長喊：7480億美元AUM應援 不漏接台股黃金行情",
       "summary": "大都會投信發表One MIM新品牌 投資長喊：7480億美元AUM應援 不漏接台股黃金行情 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EYnVUVk1EVU01c1hKdDI1WG94T05fWXNvWXlEMVFkRXFDRldFOWlKWGdoR3JtOHVLZzMtbHpaUDZ1ZGw1OEtOQlVfamN6WTg?oc=5",
       "published": "Wed, 28 Oct 2026 11:09:32 GMT",
       "topic": "黃金",
-      "rank": 3,
-      "importance_score": 73,
+      "rank": 4,
+      "importance_score": 71,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
       "title": "亞股失血潮！台股遭外資甩賣最慘 全球超級央行周市場觀望",
@@ -59,28 +75,12 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvSmNQWnVEM3VhUWJkWE45b1d5X3MtalJaWWo1TTdPYnN1UktfUkJIcW1aSUtwa1dKSy1TaGlfaWhzR21RWXRsazBiUF8tS00?oc=5",
       "published": "Tue, 27 Oct 2026 08:42:05 GMT",
       "topic": "台灣",
-      "rank": 4,
-      "importance_score": 66,
+      "rank": 5,
+      "importance_score": 64,
       "related_assets": [
         "TAIEX",
         "TWD",
         "TSM"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "〈美股早盤〉AI砸錢何時回本？Alphabet財報失色、通膨又施壓 主要指數開低",
-      "summary": "〈美股早盤〉AI砸錢何時回本？Alphabet財報失色、通膨又施壓 主要指數開低 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rS3BXUnBINkszbkptVTVJRUxDQ2c1ZWNpWklpT3AyRjVBMVNScTJkMXhTcE1Ha0pnNC10NWhKMzduczZfMno3Nm51dGN3cnM?oc=5",
-      "published": "Thu, 29 Oct 2026 13:40:18 GMT",
-      "topic": "AI / 半導體",
-      "rank": 5,
-      "importance_score": 67,
-      "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
