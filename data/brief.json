@@ -4,7 +4,7 @@
   "bullets": [
     "主要美股指數平均變動 +0.67%。",
     "美債10年殖利率 5.050%，日變動 +6.0 bps。",
-    "自選股強勢 SNDK +7.62%；較弱 UMC ADR -3.14%。",
+    "自選股強勢 SNDK +7.60%；較弱 UMC ADR -3.14%。",
     "2Y10Y 利差 +38.0 bps。"
   ],
   "risk_score": 58,
@@ -22,10 +22,10 @@
   "todays_watch": [
     "利率：10Y 日變動 +6.0 bps。",
     "美元：DXY 日變動 -0.02%。",
-    "波動率：VIX 16.91。",
+    "波動率：VIX 16.98。",
     "曲線：2Y10Y +38.0 bps。"
   ],
   "today_date_taipei": "2026-10-29",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-10-29T04:52:46.631870+00:00"
+  "as_of": "2026-10-29T11:12:14.228179+00:00"
 }
