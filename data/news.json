@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-29T11:10:00.819866+00:00",
+  "as_of": "2026-10-29T13:48:32.719420+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -8,7 +8,7 @@
       "title": "聯準會按兵不動致殖利率曲線陡峭化 歐洲央行面臨考驗",
       "summary": "聯準會按兵不動致殖利率曲線陡峭化 歐洲央行面臨考驗 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14d0M3UnRnVVozTFliUG9Oa1NJODhzc1VLekV3RGN0b3VGMXgyWFBBd0YtdTREX2NvR2s5OC0zU3QyUmNwT2hlUlNEVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tOWc5NUpXLTNjMUItamRjTU55ZEVfZFphYzQwSlV0WXhQRUJ6RUxCcDlrNzB4Y3RTWUkxQ09PcjctUHdrR3B3SjB1OC1za1k?oc=5",
       "published": "Thu, 29 Oct 2026 11:00:02 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "Fed持續升息必要性下降 「鉅亨買基金」看好美股基金布局時機",
-      "summary": "Fed持續升息必要性下降 「鉅亨買基金」看好美股基金布局時機 鉅亨網",
+      "title": "不懼美債殖利率衝5%！看好全球央行買金助攻 貝萊德布局金礦龍頭009834將於11/9開募",
+      "summary": "不懼美債殖利率衝5%！看好全球央行買金助攻 貝萊德布局金礦龍頭009834將於11/9開募 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12MHhFVDl2dG9ST2NmVjV4eEVkcHQ5alEtRndWVktQZldSOVVFVm9PNTZJOUlYcDZGVGRGTFhYQld5cjQ4LVJ4ZFpOZw?oc=5",
-      "published": "Thu, 29 Oct 2026 07:54:31 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRRWJnNHNYRWVhYnZYNHRJWGlMdTB0QmZtWDZTS3k2U3BoaXB0dVhldl9LRTFrQlBmQ1pMSVh6d2Q5S0NtVVpCN083X002NlE?oc=5",
+      "published": "Wed, 28 Oct 2026 04:13:37 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 83,
+      "importance_score": 90,
       "related_assets": [
         "UST",
         "USD",
@@ -37,50 +37,50 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "大都會投信發表One MIM新品牌 投資長喊：7480億美元AUM應援 不漏接台股黃金行情",
+      "summary": "大都會投信發表One MIM新品牌 投資長喊：7480億美元AUM應援 不漏接台股黃金行情 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EYnVUVk1EVU01c1hKdDI1WG94T05fWXNvWXlEMVFkRXFDRldFOWlKWGdoR3JtOHVLZzMtbHpaUDZ1ZGw1OEtOQlVfamN6WTg?oc=5",
+      "published": "Wed, 28 Oct 2026 11:09:32 GMT",
+      "topic": "黃金",
+      "rank": 3,
+      "importance_score": 73,
+      "related_assets": [
+        "Gold",
+        "USD",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
       "title": "亞股失血潮！台股遭外資甩賣最慘 全球超級央行周市場觀望",
       "summary": "亞股失血潮！台股遭外資甩賣最慘 全球超級央行周市場觀望 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvSmNQWnVEM3VhUWJkWE45b1d5X3MtalJaWWo1TTdPYnN1UktfUkJIcW1aSUtwa1dKSy1TaGlfaWhzR21RWXRsazBiUF8tS00?oc=5",
       "published": "Tue, 27 Oct 2026 08:42:05 GMT",
       "topic": "台灣",
-      "rank": 3,
-      "importance_score": 68,
+      "rank": 4,
+      "importance_score": 66,
       "related_assets": [
         "TAIEX",
         "TWD",
         "TSM"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "多家機構示警美股風險！貝萊德降至中性、AI仍獲看好、美銀警告估值偏高",
-      "summary": "多家機構示警美股風險！貝萊德降至中性、AI仍獲看好、美銀警告估值偏高 鉅亨網",
+      "title": "〈美股早盤〉AI砸錢何時回本？Alphabet財報失色、通膨又施壓 主要指數開低",
+      "summary": "〈美股早盤〉AI砸錢何時回本？Alphabet財報失色、通膨又施壓 主要指數開低 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xWnBKeXVnMlFrcHhBUFl3S1Y3eU5pTnVsVnBxSnhCWHcxLTFUNUFyMFpUTzhZR1RVcFBOakU3bktOamFBendHcHhhdzYzMHc?oc=5",
-      "published": "Mon, 26 Oct 2026 14:10:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rS3BXUnBINkszbkptVTVJRUxDQ2c1ZWNpWklpT3AyRjVBMVNScTJkMXhTcE1Ha0pnNC10NWhKMzduczZfMno3Nm51dGN3cnM?oc=5",
+      "published": "Thu, 29 Oct 2026 13:40:18 GMT",
       "topic": "AI / 半導體",
-      "rank": 4,
-      "importance_score": 69,
+      "rank": 5,
+      "importance_score": 67,
       "related_assets": [
         "SOX",
         "Nasdaq",
         "TSM / NVDA"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "〈能源盤後〉葉門戰火延燒 沙國煉油廠遇襲 國際油價漲逾2%",
-      "summary": "〈能源盤後〉葉門戰火延燒 沙國煉油廠遇襲 國際油價漲逾2% 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KRGJpLVZvSng3TU0yX3lDYnZrSjNvZWx0VW92QzZ2MnE2ZmI3bmRhZzdqZ19oUnpSVXhsY25HWDhFc2lwVmQ4VnVkTlo0Yjg?oc=5",
-      "published": "Wed, 28 Oct 2026 21:51:08 GMT",
-      "topic": "能源",
-      "rank": 5,
-      "importance_score": 65,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
