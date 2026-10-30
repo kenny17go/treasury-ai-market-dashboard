@@ -1,30 +1,31 @@
 {
   "mode": "rules",
-  "headline": "市場風險情緒：中性",
+  "headline": "市場風險情緒：偏空",
   "bullets": [
-    "主要美股指數平均變動 -0.83%。",
+    "主要美股指數平均變動 -2.21%。",
     "美債10年殖利率 4.980%，日變動 -7.0 bps。",
-    "自選股強勢 SWKS +2.44%；較弱 MRVL -13.29%。",
+    "自選股強勢 GOOGL -1.02%；較弱 INTC -28.89%。",
     "2Y10Y 利差 +37.0 bps。"
   ],
-  "risk_score": 40,
-  "risk_label": "中性",
+  "risk_score": 23,
+  "risk_label": "偏空",
   "yesterday_top": [
-    "美股主要指數平均 -0.83%，風險情緒中性。",
+    "美股主要指數平均 -2.21%，風險情緒偏空。",
     "10Y 美債殖利率 4.980%。",
-    "DXY 日變動 -0.39%。"
+    "DXY 日變動 -0.14%。"
   ],
   "today_top": [
     "🇪🇺 18:00 Eurozone｜歐元區 GDP（第3季初值）",
-    "🇯🇵 — Japan｜日本銀行金融政策決定會合 / 政策聲明"
+    "🇯🇵 — Japan｜日本銀行金融政策決定會合 / 政策聲明",
+    "新聞｜通膨疑慮+科技股拋售效應 黃金價格跌破4000美元大關"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -7.0 bps。",
-    "美元：DXY 日變動 -0.39%。",
-    "波動率：VIX 18.56。",
+    "美元：DXY 日變動 -0.14%。",
+    "波動率：VIX 18.71。",
     "曲線：2Y10Y +37.0 bps。"
   ],
   "today_date_taipei": "2026-10-30",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-10-30T11:06:42.389830+00:00"
+  "as_of": "2026-10-30T13:44:10.198160+00:00"
 }
