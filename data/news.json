@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-30T02:44:03.387213+00:00",
+  "as_of": "2026-10-30T04:50:19.955116+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,20 +37,36 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "銅價｜AI需求與高油價拉鋸下，分析師對明年走勢看法開始分化",
+      "summary": "銅價｜AI需求與高油價拉鋸下，分析師對明年走勢看法開始分化 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hbzRPNzBVbEtXVFZpeHhwelhGdUJsVXRHUEduWUc5YVBFcFY5Z2N4ZzhzSmlLRVhGWVRyRWpTcEcxZ01YRVR6bTA2UWlPbm8?oc=5",
+      "published": "Fri, 30 Oct 2026 04:30:11 GMT",
+      "topic": "能源",
+      "rank": 3,
+      "importance_score": 74,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
       "title": "〈美股早盤〉AI砸錢何時回本？Alphabet財報失色、通膨又施壓 主要指數開低",
       "summary": "〈美股早盤〉AI砸錢何時回本？Alphabet財報失色、通膨又施壓 主要指數開低 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rS3BXUnBINkszbkptVTVJRUxDQ2c1ZWNpWklpT3AyRjVBMVNScTJkMXhTcE1Ha0pnNC10NWhKMzduczZfMno3Nm51dGN3cnM?oc=5",
       "published": "Thu, 29 Oct 2026 13:40:18 GMT",
       "topic": "AI / 半導體",
-      "rank": 3,
-      "importance_score": 71,
+      "rank": 4,
+      "importance_score": 69,
       "related_assets": [
         "SOX",
         "Nasdaq",
         "TSM / NVDA"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
       "title": "大都會投信發表One MIM新品牌 投資長喊：7480億美元AUM應援 不漏接台股黃金行情",
@@ -59,28 +75,12 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EYnVUVk1EVU01c1hKdDI1WG94T05fWXNvWXlEMVFkRXFDRldFOWlKWGdoR3JtOHVLZzMtbHpaUDZ1ZGw1OEtOQlVfamN6WTg?oc=5",
       "published": "Wed, 28 Oct 2026 11:09:32 GMT",
       "topic": "黃金",
-      "rank": 4,
-      "importance_score": 71,
+      "rank": 5,
+      "importance_score": 69,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "〈能源盤後〉美伊重啟談判有望 油價收低 但中東煉油設施遇襲 縮限跌幅",
-      "summary": "〈能源盤後〉美伊重啟談判有望 油價收低 但中東煉油設施遇襲 縮限跌幅 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pckx5S2lfVmM1VFhRdElCN18tbTBXY21YQWpfZ3dPOTk4SHV3ZEF2d0F3RTFnMWF0Y3R0aGF1cnlhcWJJVVY2Ti11TkU5dVk?oc=5",
-      "published": "Thu, 29 Oct 2026 21:05:24 GMT",
-      "topic": "能源",
-      "rank": 5,
-      "importance_score": 61,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
