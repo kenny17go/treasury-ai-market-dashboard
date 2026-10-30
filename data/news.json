@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-10-30T18:55:43.105001+00:00",
+  "as_of": "2026-10-30T22:43:16.266958+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "不懼美債殖利率衝5%！看好全球央行買金助攻 貝萊德布局金礦龍頭009834將於11/9開募",
-      "summary": "不懼美債殖利率衝5%！看好全球央行買金助攻 貝萊德布局金礦龍頭009834將於11/9開募 鉅亨網",
+      "title": "聯準會按兵不動致殖利率曲線陡峭化 歐洲央行面臨考驗",
+      "summary": "聯準會按兵不動致殖利率曲線陡峭化 歐洲央行面臨考驗 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRRWJnNHNYRWVhYnZYNHRJWGlMdTB0QmZtWDZTS3k2U3BoaXB0dVhldl9LRTFrQlBmQ1pMSVh6d2Q5S0NtVVpCN083X002NlE?oc=5",
-      "published": "Wed, 28 Oct 2026 04:13:37 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tOWc5NUpXLTNjMUItamRjTU55ZEVfZFphYzQwSlV0WXhQRUJ6RUxCcDlrNzB4Y3RTWUkxQ09PcjctUHdrR3B3SjB1OC1za1k?oc=5",
+      "published": "Thu, 29 Oct 2026 11:00:02 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 92,
+      "importance_score": 89,
       "related_assets": [
         "UST",
         "USD",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "聯準會按兵不動致殖利率曲線陡峭化 歐洲央行面臨考驗",
-      "summary": "聯準會按兵不動致殖利率曲線陡峭化 歐洲央行面臨考驗 鉅亨網",
+      "title": "〈貴金屬盤後〉黃金挫逾1% PCE通膨加速升溫鞏固升息押注",
+      "summary": "〈貴金屬盤後〉黃金挫逾1% PCE通膨加速升溫鞏固升息押注 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tOWc5NUpXLTNjMUItamRjTU55ZEVfZFphYzQwSlV0WXhQRUJ6RUxCcDlrNzB4Y3RTWUkxQ09PcjctUHdrR3B3SjB1OC1za1k?oc=5",
-      "published": "Thu, 29 Oct 2026 11:00:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HYjA1S2pMV3pZYWdoa0IzNUZocVlmOXpyaEc5UDNGc0pidVhrckliY0F0dGw4Z3RZdi1uZFNKM0dmYXJtRUpuUmExZE5xNjQ?oc=5",
+      "published": "Fri, 30 Oct 2026 02:13:52 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 87,
+      "importance_score": 85,
       "related_assets": [
         "UST",
         "USD",
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "AI商機外溢！瑞銀按讚台股：今明年企業獲利成長皆破4成 明年更勝今年",
-      "summary": "AI商機外溢！瑞銀按讚台股：今明年企業獲利成長皆破4成 明年更勝今年 鉅亨網",
+      "title": "〈貴金屬盤後〉黃金重摔至一年低點、創2008年來最差10月表現 「白色貴金屬」全面下殺",
+      "summary": "〈貴金屬盤後〉黃金重摔至一年低點、創2008年來最差10月表現 「白色貴金屬」全面下殺 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpNzZDQTRDbDA0TDFUSjh0b0Z4ekN2WVg5aERMRy1NNl9uU1NvdzN6ZTZjX012SC1RSzlkU2lWenNTUlkxUDU5WWZmU2VXU0k?oc=5",
-      "published": "Thu, 29 Oct 2026 09:45:02 GMT",
-      "topic": "AI / 半導體",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83Zm1KQ0NmM0lLM2FLVUt0X08yLUJxOXFjS3RrNkJsaTc5bGt0QkNhVkdNenI4T0ZDdXNjVXRRTXVBZEdkSi11cTVOTQ?oc=5",
+      "published": "Fri, 30 Oct 2026 22:33:52 GMT",
+      "topic": "黃金",
       "rank": 5,
-      "importance_score": 67,
+      "importance_score": 63,
       "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
