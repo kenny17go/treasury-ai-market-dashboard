@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-30T22:43:16.266958+00:00",
+  "as_of": "2026-10-31T01:55:48.603261+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈貴金屬盤後〉黃金挫逾1% PCE通膨加速升溫鞏固升息押注",
-      "summary": "〈貴金屬盤後〉黃金挫逾1% PCE通膨加速升溫鞏固升息押注 鉅亨網",
+      "title": "Fed持續升息必要性下降 「鉅亨買基金」看好美股基金布局時機",
+      "summary": "Fed持續升息必要性下降 「鉅亨買基金」看好美股基金布局時機 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HYjA1S2pMV3pZYWdoa0IzNUZocVlmOXpyaEc5UDNGc0pidVhrckliY0F0dGw4Z3RZdi1uZFNKM0dmYXJtRUpuUmExZE5xNjQ?oc=5",
-      "published": "Fri, 30 Oct 2026 02:13:52 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12MHhFVDl2dG9ST2NmVjV4eEVkcHQ5alEtRndWVktQZldSOVVFVm9PNTZJOUlYcDZGVGRGTFhYQld5cjQ4LVJ4ZFpOZw?oc=5",
+      "published": "Thu, 29 Oct 2026 07:54:31 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 85,
+      "importance_score": 83,
       "related_assets": [
         "UST",
         "USD",
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈貴金屬盤後〉黃金重摔至一年低點、創2008年來最差10月表現 「白色貴金屬」全面下殺",
-      "summary": "〈貴金屬盤後〉黃金重摔至一年低點、創2008年來最差10月表現 「白色貴金屬」全面下殺 鉅亨網",
+      "title": "〈能源盤後〉美伊衝突升級風險升高 原油漲逾2%收半年高點 布油月漲13.6%",
+      "summary": "〈能源盤後〉美伊衝突升級風險升高 原油漲逾2%收半年高點 布油月漲13.6% 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83Zm1KQ0NmM0lLM2FLVUt0X08yLUJxOXFjS3RrNkJsaTc5bGt0QkNhVkdNenI4T0ZDdXNjVXRRTXVBZEdkSi11cTVOTQ?oc=5",
-      "published": "Fri, 30 Oct 2026 22:33:52 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HVTllSmhqOE9NRVl2MnMyazVySlNPSGFHWmV0TVBBT3ZJWFl5U3hlTU1SSDdRZTgtek4weGMwZUhvRUpwN2ZVSENwZkYxWXM?oc=5",
+      "published": "Fri, 30 Oct 2026 22:26:44 GMT",
+      "topic": "能源",
       "rank": 5,
-      "importance_score": 63,
+      "importance_score": 65,
       "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
