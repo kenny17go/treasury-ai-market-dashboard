@@ -12,18 +12,19 @@
   "yesterday_top": [
     "美股主要指數平均 -3.23%，風險情緒偏空。",
     "10Y 美債殖利率 4.940%。",
-    "DXY 日變動 +0.04%。"
+    "DXY 日變動 -0.24%。"
   ],
   "today_top": [
+    "新聞｜卡達斡旋談判現曙光 國際原油價格重挫逾3%",
     "新聞｜美國期中選舉也無法阻止科技股下跌？野村：只有Fed停止升息才有用"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -4.0 bps。",
-    "美元：DXY 日變動 +0.04%。",
-    "波動率：VIX 19.42。",
+    "美元：DXY 日變動 -0.24%。",
+    "波動率：VIX 19.37。",
     "曲線：2Y10Y +38.0 bps。"
   ],
   "today_date_taipei": "2026-11-02",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-02T04:58:17.638209+00:00"
+  "as_of": "2026-11-02T13:15:16.059587+00:00"
 }
