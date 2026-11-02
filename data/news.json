@@ -1,50 +1,50 @@
 {
-  "as_of": "2026-10-31T01:55:48.603261+00:00",
+  "as_of": "2026-11-02T04:56:05.778884+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "聯準會按兵不動致殖利率曲線陡峭化 歐洲央行面臨考驗",
-      "summary": "聯準會按兵不動致殖利率曲線陡峭化 歐洲央行面臨考驗 鉅亨網",
+      "title": "美國期中選舉也無法阻止科技股下跌？野村：只有Fed停止升息才有用",
+      "summary": "美國期中選舉也無法阻止科技股下跌？野村：只有Fed停止升息才有用 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tOWc5NUpXLTNjMUItamRjTU55ZEVfZFphYzQwSlV0WXhQRUJ6RUxCcDlrNzB4Y3RTWUkxQ09PcjctUHdrR3B3SjB1OC1za1k?oc=5",
-      "published": "Thu, 29 Oct 2026 11:00:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VTFc3QW81UGY2LXRBLUhYVFFYSVZtV2YzSVgyUDNXLTN0dTd0ZnNMOHRIRjB3VDBxMXFFVFZqRE5aVG5TTVVGX1RvVTl5VDA?oc=5",
+      "published": "Mon, 02 Nov 2026 00:51:21 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 89,
+      "importance_score": 80,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "Fed持續升息必要性下降 「鉅亨買基金」看好美股基金布局時機",
-      "summary": "Fed持續升息必要性下降 「鉅亨買基金」看好美股基金布局時機 鉅亨網",
+      "title": "高盛示警AI資本支出成長恐見頂！科技巨頭變現能力受考驗、年底股市關鍵看油價",
+      "summary": "高盛示警AI資本支出成長恐見頂！科技巨頭變現能力受考驗、年底股市關鍵看油價 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12MHhFVDl2dG9ST2NmVjV4eEVkcHQ5alEtRndWVktQZldSOVVFVm9PNTZJOUlYcDZGVGRGTFhYQld5cjQ4LVJ4ZFpOZw?oc=5",
-      "published": "Thu, 29 Oct 2026 07:54:31 GMT",
-      "topic": "Fed / 利率",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zREVFeFpDVXpkaVB3QkZMaXJPSDJCRU1UVXd5bExaLWNBT2VrNW10emRaU2o1MnpCR2VzVWZBV0VCQTJTR19fa0VtTQ?oc=5",
+      "published": "Sun, 01 Nov 2026 11:10:03 GMT",
+      "topic": "能源",
       "rank": 2,
-      "importance_score": 83,
+      "importance_score": 76,
       "related_assets": [
-        "UST",
-        "USD",
+        "WTI / Brent",
+        "Inflation",
         "Equity"
       ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈美股早盤〉AI砸錢何時回本？Alphabet財報失色、通膨又施壓 主要指數開低",
-      "summary": "〈美股早盤〉AI砸錢何時回本？Alphabet財報失色、通膨又施壓 主要指數開低 鉅亨網",
+      "title": "〈美股早盤〉科技股又挨刀！那指重挫逾2%創兩個多月低點 台積電ADR跌逾3%",
+      "summary": "〈美股早盤〉科技股又挨刀！那指重挫逾2%創兩個多月低點 台積電ADR跌逾3% 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rS3BXUnBINkszbkptVTVJRUxDQ2c1ZWNpWklpT3AyRjVBMVNScTJkMXhTcE1Ha0pnNC10NWhKMzduczZfMno3Nm51dGN3cnM?oc=5",
-      "published": "Thu, 29 Oct 2026 13:40:18 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzYWxwLU9uVkNZZG9iNm56aENmSjlEcE5jZFNTR3B4M1F1YjZTc1BvSklETHBYbUJQSFN6UXhjTE96MFRFWUg2YzBaSWxRYnM?oc=5",
+      "published": "Fri, 30 Oct 2026 13:39:17 GMT",
       "topic": "AI / 半導體",
       "rank": 3,
-      "importance_score": 71,
+      "importance_score": 73,
       "related_assets": [
         "SOX",
         "Nasdaq",
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "大都會投信發表One MIM新品牌 投資長喊：7480億美元AUM應援 不漏接台股黃金行情",
-      "summary": "大都會投信發表One MIM新品牌 投資長喊：7480億美元AUM應援 不漏接台股黃金行情 鉅亨網",
+      "title": "美科技股財報引爆AI支出疑慮 亞股與美股期貨周五全面承壓",
+      "summary": "美科技股財報引爆AI支出疑慮 亞股與美股期貨周五全面承壓 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EYnVUVk1EVU01c1hKdDI1WG94T05fWXNvWXlEMVFkRXFDRldFOWlKWGdoR3JtOHVLZzMtbHpaUDZ1ZGw1OEtOQlVfamN6WTg?oc=5",
-      "published": "Wed, 28 Oct 2026 11:09:32 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15M2Q3Z3NvX1I2SURVOG1Db1RqVVhLYWpHQXJXamkxMGt1eF94WFFiYmJaMzE3VWFvTUx4QkFjSjRCRW9SemwzSVNydWxtSW8?oc=5",
+      "published": "Fri, 30 Oct 2026 10:20:03 GMT",
+      "topic": "AI / 半導體",
       "rank": 4,
-      "importance_score": 71,
+      "importance_score": 69,
       "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈能源盤後〉美伊衝突升級風險升高 原油漲逾2%收半年高點 布油月漲13.6%",
-      "summary": "〈能源盤後〉美伊衝突升級風險升高 原油漲逾2%收半年高點 布油月漲13.6% 鉅亨網",
+      "title": "〈貴金屬盤後〉黃金重摔至一年低點、創2008年來最差10月表現 「白色貴金屬」全面下殺",
+      "summary": "〈貴金屬盤後〉黃金重摔至一年低點、創2008年來最差10月表現 「白色貴金屬」全面下殺 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HVTllSmhqOE9NRVl2MnMyazVySlNPSGFHWmV0TVBBT3ZJWFl5U3hlTU1SSDdRZTgtek4weGMwZUhvRUpwN2ZVSENwZkYxWXM?oc=5",
-      "published": "Fri, 30 Oct 2026 22:26:44 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83Zm1KQ0NmM0lLM2FLVUt0X08yLUJxOXFjS3RrNkJsaTc5bGt0QkNhVkdNenI4T0ZDdXNjVXRRTXVBZEdkSi11cTVOTQ?oc=5",
+      "published": "Fri, 30 Oct 2026 22:33:52 GMT",
+      "topic": "黃金",
       "rank": 5,
-      "importance_score": 65,
+      "importance_score": 63,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
