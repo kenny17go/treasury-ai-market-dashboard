@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-02T13:12:41.277267+00:00",
+  "as_of": "2026-11-02T16:39:46.663494+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -24,8 +24,8 @@
       "title": "美國期中選舉也無法阻止科技股下跌？野村：只有Fed停止升息才有用",
       "summary": "美國期中選舉也無法阻止科技股下跌？野村：只有Fed停止升息才有用 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FLV92Vll4MC1mWFJiU2NKMkZ5ZmN6ekN1ZG1EODhzTzE2R0NfbG5mMEZIeE45RmxLSnZkcXNQdi0xeGhGeTAtNEhmSQ?oc=5",
-      "published": "Sun, 01 Nov 2026 23:41:55 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VTFc3QW81UGY2LXRBLUhYVFFYSVZtV2YzSVgyUDNXLTN0dTd0ZnNMOHRIRjB3VDBxMXFFVFZqRE5aVG5TTVVGX1RvVTl5VDA?oc=5",
+      "published": "Mon, 02 Nov 2026 00:51:21 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
       "importance_score": 78,
@@ -53,33 +53,33 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈貴金屬盤後〉黃金重摔至一年低點、創2008年來最差10月表現 「白色貴金屬」全面下殺",
-      "summary": "〈貴金屬盤後〉黃金重摔至一年低點、創2008年來最差10月表現 「白色貴金屬」全面下殺 鉅亨網",
+      "title": "台股跌深有原因！單周遭倒貨53億美元亞股最慘 富蘭克林揭資金新去向",
+      "summary": "台股跌深有原因！單周遭倒貨53億美元亞股最慘 富蘭克林揭資金新去向 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83Zm1KQ0NmM0lLM2FLVUt0X08yLUJxOXFjS3RrNkJsaTc5bGt0QkNhVkdNenI4T0ZDdXNjVXRRTXVBZEdkSi11cTVOTQ?oc=5",
-      "published": "Fri, 30 Oct 2026 22:33:52 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50WHFUWnM3M2MwVUNBc19TNGhBeG9XNzF0M1lZUVEzS29rSWJZMWsySGs0MDVneUxuVEhOaVFRRUM5bG9rMkIxSWV0MG5qdkk?oc=5",
+      "published": "Mon, 02 Nov 2026 12:00:39 GMT",
+      "topic": "台灣",
       "rank": 4,
-      "importance_score": 65,
+      "importance_score": 64,
       "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
+        "TAIEX",
+        "TWD",
+        "TSM"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "全球股基連六周吸金！亞洲最搶手 美股基金卻失血",
-      "summary": "全球股基連六周吸金！亞洲最搶手 美股基金卻失血 鉅亨網",
+      "title": "〈貴金屬盤後〉黃金重摔至一年低點、創2008年來最差10月表現 「白色貴金屬」全面下殺",
+      "summary": "〈貴金屬盤後〉黃金重摔至一年低點、創2008年來最差10月表現 「白色貴金屬」全面下殺 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16Y1dqa0J4SEVXakFNazJ1THZfZ1hJQ3JQRXdudmVkUjU4dUFVS2JmbWVYY0xTTGg0Y0JpRGNQRlY3U3ZFTUNERFpYVmRwc2M?oc=5",
-      "published": "Fri, 30 Oct 2026 12:30:03 GMT",
-      "topic": "美股",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wWkJ3OTBkb3NNcUYyTUJoQVZCMHp1bnZuSVhQRHhfNFBDT3A2NkRoQm9mNmcyYkFnX0R2Q05MWVpIeUhzc0cxampFRkptTWc?oc=5",
+      "published": "Sat, 31 Oct 2026 02:18:47 GMT",
+      "topic": "黃金",
       "rank": 5,
-      "importance_score": 58,
+      "importance_score": 63,
       "related_assets": [
-        "S&P 500",
-        "Nasdaq",
+        "Gold",
+        "USD",
         "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
