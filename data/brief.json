@@ -1,29 +1,29 @@
 {
   "mode": "rules",
-  "headline": "市場風險情緒：偏空",
+  "headline": "市場風險情緒：偏多",
   "bullets": [
-    "主要美股指數平均變動 -1.13%。",
+    "主要美股指數平均變動 +0.96%。",
     "美債10年殖利率 4.910%，日變動 -3.0 bps。",
-    "自選股強勢 AMZN +2.27%；較弱 LITE -18.61%。",
+    "自選股強勢 SNDK +6.30%；較弱 AAPL -2.73%。",
     "2Y10Y 利差 +32.0 bps。"
   ],
-  "risk_score": 36,
-  "risk_label": "偏空",
+  "risk_score": 62,
+  "risk_label": "偏多",
   "yesterday_top": [
-    "美股主要指數平均 -1.13%，風險情緒偏空。",
+    "美股主要指數平均 +0.96%，風險情緒偏多。",
     "10Y 美債殖利率 4.910%。",
-    "DXY 日變動 +0.11%。"
+    "DXY 日變動 +0.06%。"
   ],
   "today_top": [
-    "新聞｜全球經濟指標"
+    "新聞｜全球經濟指標| 鉅亨網"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -3.0 bps。",
-    "美元：DXY 日變動 +0.11%。",
-    "波動率：VIX 21.27。",
+    "美元：DXY 日變動 +0.06%。",
+    "波動率：VIX 21.11。",
     "曲線：2Y10Y +32.0 bps。"
   ],
   "today_date_taipei": "2026-11-03",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-03T13:05:40.226418+00:00"
+  "as_of": "2026-11-03T14:46:21.506107+00:00"
 }

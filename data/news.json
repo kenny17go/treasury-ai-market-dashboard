@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-03T13:03:12.717598+00:00",
+  "as_of": "2026-11-03T14:44:06.175611+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -69,8 +69,8 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "全球經濟指標",
-      "summary": "全球經濟指標 鉅亨網",
+      "title": "全球經濟指標| 鉅亨網",
+      "summary": "全球經濟指標| 鉅亨網 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
       "published": "Tue, 03 Nov 2026 05:40:53 GMT",
