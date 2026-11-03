@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-03T14:44:06.175611+00:00",
+  "as_of": "2026-11-03T20:42:31.179769+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -69,14 +69,14 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "全球經濟指標| 鉅亨網",
-      "summary": "全球經濟指標| 鉅亨網 鉅亨網",
+      "title": "〈勞動基金績效〉前9月賺2.44兆收益率30%、新制勞退分紅創紀錄 1310萬戶均領13萬元",
+      "summary": "〈勞動基金績效〉前9月賺2.44兆收益率30%、新制勞退分紅創紀錄 1310萬戶均領13萬元 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-      "published": "Tue, 03 Nov 2026 05:40:53 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YQ3gycmJtV1U3SlFyUXMxMjFEbHZPTWJ4VVNJYmdhS2p3b3dtRFJYY2JveEdKM3pZNDlKOWh6Yk4xa05NQXM1RzQyUQ?oc=5",
+      "published": "Mon, 02 Nov 2026 02:52:59 GMT",
       "topic": "全球市場",
       "rank": 5,
-      "importance_score": 49,
+      "importance_score": 53,
       "related_assets": [
         "Global Equity",
         "USD",
