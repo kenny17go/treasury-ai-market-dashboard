@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-11-04T13:07:04.306873+00:00",
+  "as_of": "2026-11-04T14:55:56.629835+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "〈美國期中選舉〉初步票數出爐！民主黨有望拿下國會兩院 那指期挫2%、美元美債殖利率下滑",
-      "summary": "〈美國期中選舉〉初步票數出爐！民主黨有望拿下國會兩院 那指期挫2%、美元美債殖利率下滑 鉅亨網",
+      "title": "〈貴金屬盤後〉聚焦美國期中選舉 黃金下跌 美債和美元殖利率雙升",
+      "summary": "〈貴金屬盤後〉聚焦美國期中選舉 黃金下跌 美債和美元殖利率雙升 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02cUtSeWVLLWJYbkN1OHRmb2MxdDhGYTA2ZXpJN29jSVRpRGFQdmZNRFV3dnFiVVlUQ1Q5d3ZJeGltRWhybkdEZVBYMA?oc=5",
-      "published": "Wed, 04 Nov 2026 03:12:31 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ORHc5Ti1rYUNSSV9yNFY0OHlNSndDUzZVZk9PNjBaNWRlMVJxR0ZXWC1uZ255dzAwYlQ4enRNWkZibmVXVFNDRGs4cEIxelE?oc=5",
+      "published": "Tue, 03 Nov 2026 22:49:35 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 87,
+      "importance_score": 89,
       "related_assets": [
         "UST",
         "USD",
@@ -21,20 +21,20 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈能源盤後〉和平談判壓低油價 Brent跌至近4週低點 唯供應風險仍未解除",
-      "summary": "〈能源盤後〉和平談判壓低油價 Brent跌至近4週低點 唯供應風險仍未解除 鉅亨網",
+      "title": "通膨沒解決！聯準會暗藏升息殺手鐧？為什麼降息機會徹底沒了？吳嘉隆拆解全球資金大洗牌：股市止跌「看這三大指標」！",
+      "summary": "通膨沒解決！聯準會暗藏升息殺手鐧？為什麼降息機會徹底沒了？吳嘉隆拆解全球資金大洗牌：股市止跌「看這三大指標」！ 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81dnpqWlJWakRJbTdFbUlYOXRSZ3I1NXdqek44U2lSbkFLcVItSWN2ZldValh3RWRzTEpnMmFQZjlxTndVVldVTnRyek10Q2s?oc=5",
-      "published": "Tue, 03 Nov 2026 22:07:25 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sSE4zWi11YnBKYmM2YTZLSm05MEphUW11Y2p2cG9yTTBoeUdJV25mZ0M5T1hxM1RiUU96aVlra2tYd1RVYUtldVBmdzhaVXc?oc=5",
+      "published": "Wed, 04 Nov 2026 12:00:04 GMT",
+      "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 79,
+      "importance_score": 82,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
+        "UST",
+        "USD",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
       "title": "卡達斡旋談判現曙光 國際原油價格重挫逾3%",
@@ -53,30 +53,30 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "美國期中選舉也無法阻止科技股下跌？野村：只有Fed停止升息才有用",
-      "summary": "美國期中選舉也無法阻止科技股下跌？野村：只有Fed停止升息才有用 鉅亨網",
+      "title": "〈能源盤後〉和平談判壓低油價 Brent跌至近4週低點 唯供應風險仍未解除",
+      "summary": "〈能源盤後〉和平談判壓低油價 Brent跌至近4週低點 唯供應風險仍未解除 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FLV92Vll4MC1mWFJiU2NKMkZ5ZmN6ekN1ZG1EODhzTzE2R0NfbG5mMEZIeE45RmxLSnZkcXNQdi0xeGhGeTAtNEhmSQ?oc=5",
-      "published": "Sun, 01 Nov 2026 23:41:55 GMT",
-      "topic": "Fed / 利率",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81dnpqWlJWakRJbTdFbUlYOXRSZ3I1NXdqek44U2lSbkFLcVItSWN2ZldValh3RWRzTEpnMmFQZjlxTndVVldVTnRyek10Q2s?oc=5",
+      "published": "Tue, 03 Nov 2026 22:07:25 GMT",
+      "topic": "能源",
       "rank": 4,
-      "importance_score": 74,
+      "importance_score": 75,
       "related_assets": [
-        "UST",
-        "USD",
+        "WTI / Brent",
+        "Inflation",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "7800億美元AI資本支出掀巨浪！貝萊德：高風險「加持」大宗商品超級週期來了",
-      "summary": "7800億美元AI資本支出掀巨浪！貝萊德：高風險「加持」大宗商品超級週期來了 鉅亨網",
+      "title": "〈美股早盤〉民主黨大勝華爾街歡呼！道瓊飆逾千點 AI建設股承壓",
+      "summary": "〈美股早盤〉民主黨大勝華爾街歡呼！道瓊飆逾千點 AI建設股承壓 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KN05ITU1pOVloOTVMc0JmbDdNQjJxWHMtc1hrV1hkeDJRdEgxbWZ3V1VMVzJFZmQ4b2ZjbHBFYmswMVk3UTF3LVZzaWxfeHc?oc=5",
-      "published": "Wed, 04 Nov 2026 07:37:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjTGY3Mm1oakdlMHpDaUlNbVFhSTkzVXVSMFBQdlhsb0QzRklLdTZLeFNESmp1Z2Jma1lCb2ZZYTBpMVMxa2E1a0piM0hldFE?oc=5",
+      "published": "Wed, 04 Nov 2026 14:40:21 GMT",
       "topic": "AI / 半導體",
       "rank": 5,
-      "importance_score": 62,
+      "importance_score": 67,
       "related_assets": [
         "SOX",
         "Nasdaq",
