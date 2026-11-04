@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-03T20:42:31.179769+00:00",
+  "as_of": "2026-11-04T00:58:26.609517+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,18 +53,18 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "台股失守45K免驚！摩根：本益比回落17.5倍 掌握3大關鍵中長線看俏",
-      "summary": "台股失守45K免驚！摩根：本益比回落17.5倍 掌握3大關鍵中長線看俏 鉅亨網",
+      "title": "Meta再發150億美元債券支應AI資料中心擴建",
+      "summary": "Meta再發150億美元債券支應AI資料中心擴建 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsZXAzRkZyS0R1bW5tWFMycFhSeTZ0OThZdG5kRlRNV0FmTEVZcF9aMDRpQVdrcG55UW9UYXpPNVhwT1oyeVVOLUM5cEFkeGs?oc=5",
-      "published": "Mon, 02 Nov 2026 10:05:10 GMT",
-      "topic": "台灣",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5scXV3RFltMUtpWGp1bXdxdlNiakdnS1NzcTc5RVF6TGhlLUhnMDB1MzFLbGxMV2xNODcxbV9PbEdFVGdoMkNWaGxqdVBVU3M?oc=5",
+      "published": "Wed, 04 Nov 2026 00:30:05 GMT",
+      "topic": "AI / 半導體",
       "rank": 4,
       "importance_score": 64,
       "related_assets": [
-        "TAIEX",
-        "TWD",
-        "TSM"
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
