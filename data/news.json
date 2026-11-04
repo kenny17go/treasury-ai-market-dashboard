@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-04T05:17:41.485040+00:00",
+  "as_of": "2026-11-04T13:07:04.306873+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -25,7 +25,7 @@
       "summary": "〈能源盤後〉和平談判壓低油價 Brent跌至近4週低點 唯供應風險仍未解除 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81dnpqWlJWakRJbTdFbUlYOXRSZ3I1NXdqek44U2lSbkFLcVItSWN2ZldValh3RWRzTEpnMmFQZjlxTndVVldVTnRyek10Q2s?oc=5",
-      "published": "Tue, 03 Nov 2026 21:32:45 GMT",
+      "published": "Tue, 03 Nov 2026 22:07:25 GMT",
       "topic": "能源",
       "rank": 2,
       "importance_score": 79,
@@ -69,14 +69,14 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "野村投信最新台股看法--【台股操盤人筆記】AI資本支出續航，震盪中布局台灣供應鏈龍頭",
-      "summary": "野村投信最新台股看法--【台股操盤人筆記】AI資本支出續航，震盪中布局台灣供應鏈龍頭 鉅亨網",
+      "title": "7800億美元AI資本支出掀巨浪！貝萊德：高風險「加持」大宗商品超級週期來了",
+      "summary": "7800億美元AI資本支出掀巨浪！貝萊德：高風險「加持」大宗商品超級週期來了 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zdUdLc0VXUzI2WEtzM05zQUtBbDl0WTNfN21UQ2VhNkpuSVFRY3p5cGRQRFpsZEJ3S1Jab2J2Z1JRUk9UVEI0anVEVE1TeFU?oc=5",
-      "published": "Mon, 02 Nov 2026 09:21:34 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KN05ITU1pOVloOTVMc0JmbDdNQjJxWHMtc1hrV1hkeDJRdEgxbWZ3V1VMVzJFZmQ4b2ZjbHBFYmswMVk3UTF3LVZzaWxfeHc?oc=5",
+      "published": "Wed, 04 Nov 2026 07:37:00 GMT",
       "topic": "AI / 半導體",
       "rank": 5,
-      "importance_score": 67,
+      "importance_score": 62,
       "related_assets": [
         "SOX",
         "Nasdaq",
