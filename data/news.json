@@ -1,9 +1,41 @@
 {
-  "as_of": "2026-11-04T00:58:26.609517+00:00",
+  "as_of": "2026-11-04T05:17:41.485040+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
+    {
+      "title": "〈美國期中選舉〉初步票數出爐！民主黨有望拿下國會兩院 那指期挫2%、美元美債殖利率下滑",
+      "summary": "〈美國期中選舉〉初步票數出爐！民主黨有望拿下國會兩院 那指期挫2%、美元美債殖利率下滑 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02cUtSeWVLLWJYbkN1OHRmb2MxdDhGYTA2ZXpJN29jSVRpRGFQdmZNRFV3dnFiVVlUQ1Q5d3ZJeGltRWhybkdEZVBYMA?oc=5",
+      "published": "Wed, 04 Nov 2026 03:12:31 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1,
+      "importance_score": 87,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
+    {
+      "title": "〈能源盤後〉和平談判壓低油價 Brent跌至近4週低點 唯供應風險仍未解除",
+      "summary": "〈能源盤後〉和平談判壓低油價 Brent跌至近4週低點 唯供應風險仍未解除 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81dnpqWlJWakRJbTdFbUlYOXRSZ3I1NXdqek44U2lSbkFLcVItSWN2ZldValh3RWRzTEpnMmFQZjlxTndVVldVTnRyek10Q2s?oc=5",
+      "published": "Tue, 03 Nov 2026 21:32:45 GMT",
+      "topic": "能源",
+      "rank": 2,
+      "importance_score": 79,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
     {
       "title": "卡達斡旋談判現曙光 國際原油價格重挫逾3%",
       "summary": "卡達斡旋談判現曙光 國際原油價格重挫逾3% 鉅亨網",
@@ -11,8 +43,8 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPTWVxa3BnZDlRRHRWY0QzeEJYTHdKN2pucEFXa21hbVU3U0VMaFFTUUhBVUY1b1A1VWM2cEZCeFNaTEU3Wll3aVhaUQ?oc=5",
       "published": "Mon, 02 Nov 2026 06:42:34 GMT",
       "topic": "能源",
-      "rank": 1,
-      "importance_score": 81,
+      "rank": 3,
+      "importance_score": 77,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
@@ -27,62 +59,30 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FLV92Vll4MC1mWFJiU2NKMkZ5ZmN6ekN1ZG1EODhzTzE2R0NfbG5mMEZIeE45RmxLSnZkcXNQdi0xeGhGeTAtNEhmSQ?oc=5",
       "published": "Sun, 01 Nov 2026 23:41:55 GMT",
       "topic": "Fed / 利率",
-      "rank": 2,
-      "importance_score": 78,
+      "rank": 4,
+      "importance_score": 74,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "高盛示警AI資本支出成長恐見頂！科技巨頭變現能力受考驗、年底股市關鍵看油價",
-      "summary": "高盛示警AI資本支出成長恐見頂！科技巨頭變現能力受考驗、年底股市關鍵看油價 鉅亨網",
+      "title": "野村投信最新台股看法--【台股操盤人筆記】AI資本支出續航，震盪中布局台灣供應鏈龍頭",
+      "summary": "野村投信最新台股看法--【台股操盤人筆記】AI資本支出續航，震盪中布局台灣供應鏈龍頭 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zREVFeFpDVXpkaVB3QkZMaXJPSDJCRU1UVXd5bExaLWNBT2VrNW10emRaU2o1MnpCR2VzVWZBV0VCQTJTR19fa0VtTQ?oc=5",
-      "published": "Sun, 01 Nov 2026 11:10:03 GMT",
-      "topic": "能源",
-      "rank": 3,
-      "importance_score": 74,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "Meta再發150億美元債券支應AI資料中心擴建",
-      "summary": "Meta再發150億美元債券支應AI資料中心擴建 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5scXV3RFltMUtpWGp1bXdxdlNiakdnS1NzcTc5RVF6TGhlLUhnMDB1MzFLbGxMV2xNODcxbV9PbEdFVGdoMkNWaGxqdVBVU3M?oc=5",
-      "published": "Wed, 04 Nov 2026 00:30:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zdUdLc0VXUzI2WEtzM05zQUtBbDl0WTNfN21UQ2VhNkpuSVFRY3p5cGRQRFpsZEJ3S1Jab2J2Z1JRUk9UVEI0anVEVE1TeFU?oc=5",
+      "published": "Mon, 02 Nov 2026 09:21:34 GMT",
       "topic": "AI / 半導體",
-      "rank": 4,
-      "importance_score": 64,
+      "rank": 5,
+      "importance_score": 67,
       "related_assets": [
         "SOX",
         "Nasdaq",
         "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "〈勞動基金績效〉前9月賺2.44兆收益率30%、新制勞退分紅創紀錄 1310萬戶均領13萬元",
-      "summary": "〈勞動基金績效〉前9月賺2.44兆收益率30%、新制勞退分紅創紀錄 1310萬戶均領13萬元 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YQ3gycmJtV1U3SlFyUXMxMjFEbHZPTWJ4VVNJYmdhS2p3b3dtRFJYY2JveEdKM3pZNDlKOWh6Yk4xa05NQXM1RzQyUQ?oc=5",
-      "published": "Mon, 02 Nov 2026 02:52:59 GMT",
-      "topic": "全球市場",
-      "rank": 5,
-      "importance_score": 53,
-      "related_assets": [
-        "Global Equity",
-        "USD",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源"
     }
   ]
 }

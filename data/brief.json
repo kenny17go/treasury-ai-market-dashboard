@@ -3,28 +3,29 @@
   "headline": "市場風險情緒：中性",
   "bullets": [
     "主要美股指數平均變動 +0.85%。",
-    "美債10年殖利率 4.910%，日變動 -3.0 bps。",
+    "美債10年殖利率 4.950%，日變動 +4.0 bps。",
     "自選股強勢 SNDK +4.77%；較弱 AAPL -1.94%。",
-    "2Y10Y 利差 +32.0 bps。"
+    "2Y10Y 利差 +34.0 bps。"
   ],
   "risk_score": 60,
   "risk_label": "中性",
   "yesterday_top": [
     "美股主要指數平均 +0.85%，風險情緒中性。",
-    "10Y 美債殖利率 4.910%。",
-    "DXY 日變動 -0.09%。"
+    "10Y 美債殖利率 4.950%。",
+    "DXY 日變動 -0.37%。"
   ],
   "today_top": [
     "🇺🇸 21:30 United States｜U.S. International Trade in Goods and Services, September 2026",
-    "新聞｜Meta再發150億美元債券支應AI資料中心擴建"
+    "新聞｜〈美國期中選舉〉初步票數出爐！民主黨有望拿下國會兩院 那指期挫2%、美元美債殖利率下滑",
+    "新聞｜〈能源盤後〉和平談判壓低油價 Brent跌至近4週低點 唯供應風險仍未解除"
   ],
   "todays_watch": [
-    "利率：10Y 日變動 -3.0 bps。",
-    "美元：DXY 日變動 -0.09%。",
+    "利率：10Y 日變動 +4.0 bps。",
+    "美元：DXY 日變動 -0.37%。",
     "波動率：VIX 20.83。",
-    "曲線：2Y10Y +32.0 bps。"
+    "曲線：2Y10Y +34.0 bps。"
   ],
   "today_date_taipei": "2026-11-04",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-04T01:00:20.851914+00:00"
+  "as_of": "2026-11-04T05:19:37.130505+00:00"
 }
