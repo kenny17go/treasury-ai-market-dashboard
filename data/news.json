@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-11-05T01:15:56.507839+00:00",
+  "as_of": "2026-11-05T05:39:22.648308+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "〈貴金屬盤後〉聚焦美國期中選舉 黃金下跌 美債和美元殖利率雙升",
-      "summary": "〈貴金屬盤後〉聚焦美國期中選舉 黃金下跌 美債和美元殖利率雙升 鉅亨網",
+      "title": "通膨沒解決！聯準會暗藏升息殺手鐧？為什麼降息機會徹底沒了？吳嘉隆拆解全球資金大洗牌：股市止跌「看這三大指標」！",
+      "summary": "通膨沒解決！聯準會暗藏升息殺手鐧？為什麼降息機會徹底沒了？吳嘉隆拆解全球資金大洗牌：股市止跌「看這三大指標」！ 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ORHc5Ti1rYUNSSV9yNFY0OHlNSndDUzZVZk9PNjBaNWRlMVJxR0ZXWC1uZ255dzAwYlQ4enRNWkZibmVXVFNDRGs4cEIxelE?oc=5",
-      "published": "Tue, 03 Nov 2026 22:49:35 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sSE4zWi11YnBKYmM2YTZLSm05MEphUW11Y2p2cG9yTTBoeUdJV25mZ0M5T1hxM1RiUU96aVlra2tYd1RVYUtldVBmdzhaVXc?oc=5",
+      "published": "Wed, 04 Nov 2026 12:00:04 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 89,
+      "importance_score": 84,
       "related_assets": [
         "UST",
         "USD",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "通膨沒解決！聯準會暗藏升息殺手鐧？為什麼降息機會徹底沒了？吳嘉隆拆解全球資金大洗牌：股市止跌「看這三大指標」！",
-      "summary": "通膨沒解決！聯準會暗藏升息殺手鐧？為什麼降息機會徹底沒了？吳嘉隆拆解全球資金大洗牌：股市止跌「看這三大指標」！ 鉅亨網",
+      "title": "〈美國期中選舉〉初步票數出爐！民主黨有望拿下國會兩院 那指期挫2%、美元美債殖利率下滑",
+      "summary": "〈美國期中選舉〉初步票數出爐！民主黨有望拿下國會兩院 那指期挫2%、美元美債殖利率下滑 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sSE4zWi11YnBKYmM2YTZLSm05MEphUW11Y2p2cG9yTTBoeUdJV25mZ0M5T1hxM1RiUU96aVlra2tYd1RVYUtldVBmdzhaVXc?oc=5",
-      "published": "Wed, 04 Nov 2026 12:00:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0NTZuX2pha1ZJWFMydUVxZ0pyd1VIN1RKbHBkRHhhRFNCVU1mMlUwaG5KSGtjblVzbFpUaTVRVm95bzBtUWpkTG52VXlVUFU?oc=5",
+      "published": "Wed, 04 Nov 2026 03:12:31 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 82,
+      "importance_score": 85,
       "related_assets": [
         "UST",
         "USD",
@@ -69,14 +69,14 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "美股收盤／藍潮助攻道瓊狂飆1,569點 費半、AI基建股逆勢跌",
-      "summary": "美股收盤／藍潮助攻道瓊狂飆1,569點 費半、AI基建股逆勢跌 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kSTJUUTRJUFFPa2hGU3FBX2dSUGgyV0F1U3FwbEp2akNBbnVMb2lOSmFFQmR1b2RWcFB4YzB6OE52cFBqbHZYcDlWLXpwSDNQVkVaZGhNbkxWZUpXT1pyck1maDBrcm85QURZaTNHUVh4M2tDYU9jNlNoLW05d9IBYkFVX3lxTE84Mlktd0hfVVVLNzJTdEhjQkR4MXp1Sm1VNmxzangzUXQzUWlEaUpzUTZ6TWU4dEdDWWQ0VEk3Nm1ocU95VC1NTUJwZWU5RUtTbUdyUlFXd3l3a1FncUd1a2RR?oc=5",
-      "published": "Wed, 04 Nov 2026 22:44:26 GMT",
+      "title": "〈美股早盤〉民主黨大勝華爾街歡呼！道瓊飆逾千點 AI建設股承壓",
+      "summary": "〈美股早盤〉民主黨大勝華爾街歡呼！道瓊飆逾千點 AI建設股承壓 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjTGY3Mm1oakdlMHpDaUlNbVFhSTkzVXVSMFBQdlhsb0QzRklLdTZLeFNESmp1Z2Jma1lCb2ZZYTBpMVMxa2E1a0piM0hldFE?oc=5",
+      "published": "Wed, 04 Nov 2026 14:40:21 GMT",
       "topic": "AI / 半導體",
       "rank": 5,
-      "importance_score": 66,
+      "importance_score": 67,
       "related_assets": [
         "SOX",
         "Nasdaq",
