@@ -1,9 +1,25 @@
 {
-  "as_of": "2026-11-05T13:30:30.608759+00:00",
+  "as_of": "2026-11-05T15:00:25.806832+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
+    {
+      "title": "油價回升、聯準會升息預期壓抑金價 黃金走勢聚焦美國期中選舉",
+      "summary": "油價回升、聯準會升息預期壓抑金價 黃金走勢聚焦美國期中選舉 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFM3RuOHhCT2FZclYzaDNEdHVTUWR2YkVKbnBaMW9EMGRnT01HUXVpaG1YRHdtdF9LdFhTNHlubzNRSkZVNVZnUm83T3ZXRDg?oc=5",
+      "published": "Tue, 03 Nov 2026 09:00:05 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1,
+      "importance_score": 91,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
     {
       "title": "通膨沒解決！聯準會暗藏升息殺手鐧？為什麼降息機會徹底沒了？吳嘉隆拆解全球資金大洗牌：股市止跌「看這三大指標」！",
       "summary": "通膨沒解決！聯準會暗藏升息殺手鐧？為什麼降息機會徹底沒了？吳嘉隆拆解全球資金大洗牌：股市止跌「看這三大指標」！ 鉅亨網",
@@ -11,8 +27,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sSE4zWi11YnBKYmM2YTZLSm05MEphUW11Y2p2cG9yTTBoeUdJV25mZ0M5T1hxM1RiUU96aVlra2tYd1RVYUtldVBmdzhaVXc?oc=5",
       "published": "Wed, 04 Nov 2026 12:00:04 GMT",
       "topic": "Fed / 利率",
-      "rank": 1,
-      "importance_score": 84,
+      "rank": 2,
+      "importance_score": 82,
       "related_assets": [
         "UST",
         "USD",
@@ -27,8 +43,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sREFkZW40MWU1TjJJWWpYSjVjU1hacDlMZ2owVlQ5Nmw1cVVtNExLTEpYRE1vV1p6LUJZYjRQTHpqQXAyMXZ5WUpYa1JEcms?oc=5",
       "published": "Tue, 03 Nov 2026 09:30:02 GMT",
       "topic": "黃金",
-      "rank": 2,
-      "importance_score": 81,
+      "rank": 3,
+      "importance_score": 79,
       "related_assets": [
         "Gold",
         "USD",
@@ -43,40 +59,24 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81dnpqWlJWakRJbTdFbUlYOXRSZ3I1NXdqek44U2lSbkFLcVItSWN2ZldValh3RWRzTEpnMmFQZjlxTndVVldVTnRyek10Q2s?oc=5",
       "published": "Tue, 03 Nov 2026 22:07:25 GMT",
       "topic": "能源",
-      "rank": 3,
-      "importance_score": 77,
+      "rank": 4,
+      "importance_score": 75,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "川普期中選舉受挫 Fed更敢升息？PGIM估一年內再升4碼",
-      "summary": "川普期中選舉受挫 Fed更敢升息？PGIM估一年內再升4碼 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kZzBxWnk4eFp0WTltbFpZbEpBdFE1WGVyZmhBYmhmOVYtcUJ5WHlWNXFqU2dlRV9teWgyMnVDeVpyZ0w1ZkllOE1OMA?oc=5",
-      "published": "Thu, 05 Nov 2026 12:30:27 GMT",
-      "topic": "Fed / 利率",
-      "rank": 4,
-      "importance_score": 74,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "美股收盤／藍潮助攻道瓊狂飆1,569點 費半、AI基建股逆勢跌",
-      "summary": "美股收盤／藍潮助攻道瓊狂飆1,569點 費半、AI基建股逆勢跌 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kSTJUUTRJUFFPa2hGU3FBX2dSUGgyV0F1U3FwbEp2akNBbnVMb2lOSmFFQmR1b2RWcFB4YzB6OE52cFBqbHZYcDlWLXpwSDNQVkVaZGhNbkxWZUpXT1pyck1maDBrcm85QURZaTNHUVh4M2tDYU9jNlNoLW05d9IBYkFVX3lxTE84Mlktd0hfVVVLNzJTdEhjQkR4MXp1Sm1VNmxzangzUXQzUWlEaUpzUTZ6TWU4dEdDWWQ0VEk3Nm1ocU95VC1NTUJwZWU5RUtTbUdyUlFXd3l3a1FncUd1a2RR?oc=5",
-      "published": "Wed, 04 Nov 2026 22:44:26 GMT",
+      "title": "〈美股早盤〉選後行情兩樣情！道瓊續揚、那指開低 台積電ADR挫跌4.5%",
+      "summary": "〈美股早盤〉選後行情兩樣情！道瓊續揚、那指開低 台積電ADR挫跌4.5% 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xRDN4LVZRZVc3MVI0NWhhLWFIYnJqczRMd0J0bl8zbTl0X1ltdHJ4N1JBSHdlTVpDMFV1X19ERE1HQjllVVVMV1M1czQwTjQ?oc=5",
+      "published": "Thu, 05 Nov 2026 14:42:02 GMT",
       "topic": "AI / 半導體",
       "rank": 5,
-      "importance_score": 66,
+      "importance_score": 69,
       "related_assets": [
         "SOX",
         "Nasdaq",

@@ -1,30 +1,29 @@
 {
   "mode": "rules",
-  "headline": "市場風險情緒：中性",
+  "headline": "市場風險情緒：偏空",
   "bullets": [
-    "主要美股指數平均變動 +0.74%。",
+    "主要美股指數平均變動 -3.13%。",
     "美債10年殖利率 4.900%，日變動 -5.0 bps。",
-    "自選股強勢 MSFT +6.73%；較弱 DELL -8.86%。",
+    "自選股強勢 SWKS +2.07%；較弱 UMC ADR -13.82%。",
     "2Y10Y 利差 +32.0 bps。"
   ],
-  "risk_score": 59,
-  "risk_label": "中性",
+  "risk_score": 12,
+  "risk_label": "偏空",
   "yesterday_top": [
-    "美股主要指數平均 +0.74%，風險情緒中性。",
+    "美股主要指數平均 -3.13%，風險情緒偏空。",
     "10Y 美債殖利率 4.900%。",
     "DXY 日變動 +0.11%。"
   ],
   "today_top": [
-    "新聞｜川普期中選舉受挫 Fed更敢升息？PGIM估一年內再升4碼",
-    "新聞｜美股收盤／藍潮助攻道瓊狂飆1,569點 費半、AI基建股逆勢跌"
+    "新聞｜〈美股早盤〉選後行情兩樣情！道瓊續揚、那指開低 台積電ADR挫跌4.5%"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -5.0 bps。",
     "美元：DXY 日變動 +0.11%。",
-    "波動率：VIX 16.90。",
+    "波動率：VIX 18.89。",
     "曲線：2Y10Y +32.0 bps。"
   ],
   "today_date_taipei": "2026-11-05",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-05T13:32:46.436001+00:00"
+  "as_of": "2026-11-05T15:02:49.901467+00:00"
 }
