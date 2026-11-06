@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-05T21:21:29.595341+00:00",
+  "as_of": "2026-11-06T01:41:00.423084+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,20 +21,20 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "AI算力巨頭債券殖利率飆15%！信貸危機要爆了？科技股回檔是泡沫？吳嘉隆：複製當年亞馬遜！換手再攻「抱緊這族群」！",
-      "summary": "AI算力巨頭債券殖利率飆15%！信貸危機要爆了？科技股回檔是泡沫？吳嘉隆：複製當年亞馬遜！換手再攻「抱緊這族群」！ 鉅亨網",
+      "title": "〈貴金屬盤後〉聚焦美國期中選舉 黃金下跌 美債和美元殖利率雙升",
+      "summary": "〈貴金屬盤後〉聚焦美國期中選舉 黃金下跌 美債和美元殖利率雙升 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qX1l4RlRXUDlHRVM5RW1MN3pVdXpIMnUteEtHMFNHR1BxaTdmaDhFZnc0cEl4Z2hWeVFmN1BWT0xoZTJvMTViYlRfSnZWWG8?oc=5",
-      "published": "Wed, 04 Nov 2026 13:00:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ORHc5Ti1rYUNSSV9yNFY0OHlNSndDUzZVZk9PNjBaNWRlMVJxR0ZXWC1uZ255dzAwYlQ4enRNWkZibmVXVFNDRGs4cEIxelE?oc=5",
+      "published": "Tue, 03 Nov 2026 22:49:35 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 82,
+      "importance_score": 87,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
       "title": "全球央行狂買黃金！Q3買進321噸創2024年底來最高 中國、波蘭成最大買家",
@@ -69,14 +69,14 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈美股早盤〉民主黨大勝華爾街歡呼！道瓊飆逾千點 AI建設股承壓",
-      "summary": "〈美股早盤〉民主黨大勝華爾街歡呼！道瓊飆逾千點 AI建設股承壓 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjTGY3Mm1oakdlMHpDaUlNbVFhSTkzVXVSMFBQdlhsb0QzRklLdTZLeFNESmp1Z2Jma1lCb2ZZYTBpMVMxa2E1a0piM0hldFE?oc=5",
-      "published": "Wed, 04 Nov 2026 14:40:21 GMT",
+      "title": "美股收盤／費半暴跌12.3% 那斯達克陷修正 晶片財報 AI 建設疑慮掀賣壓",
+      "summary": "美股收盤／費半暴跌12.3% 那斯達克陷修正 晶片財報 AI 建設疑慮掀賣壓 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZUFhXVzBYTEk3V01rb1V4MHN6eExTZktSS21TVWVPVkZ3UEpiNnFqZGhrdHI2MVAtVmZlSjRnOFJKWC1OWHc4UnFBZE4zQk5BT0EwTnZmSnJIR2Qt0gFiQVVfeXFMUFZBSm9jd0d3cnFzdjEzRnBpd25lQlNXQmhJVnlwcFhDeFgzR3ZaU2NIYW1HVVZ4MmY4VGpvazhBX2tqM0gwanRvREcwMkkxaVNzckl1YVJ4d05FRUdXbnJrLVE?oc=5",
+      "published": "Thu, 05 Nov 2026 22:34:49 GMT",
       "topic": "AI / 半導體",
       "rank": 5,
-      "importance_score": 67,
+      "importance_score": 66,
       "related_assets": [
         "SOX",
         "Nasdaq",
