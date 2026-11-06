@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-11-06T14:41:00.213520+00:00",
+  "as_of": "2026-11-06T20:39:32.205518+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "〈貴金屬盤後〉聚焦美國期中選舉 黃金下跌 美債和美元殖利率雙升",
-      "summary": "〈貴金屬盤後〉聚焦美國期中選舉 黃金下跌 美債和美元殖利率雙升 鉅亨網",
+      "title": "〈貴金屬盤後〉美元和美債殖利率下滑 黃金漲至逾兩周高點",
+      "summary": "〈貴金屬盤後〉美元和美債殖利率下滑 黃金漲至逾兩周高點 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ORHc5Ti1rYUNSSV9yNFY0OHlNSndDUzZVZk9PNjBaNWRlMVJxR0ZXWC1uZ255dzAwYlQ4enRNWkZibmVXVFNDRGs4cEIxelE?oc=5",
-      "published": "Tue, 03 Nov 2026 22:49:35 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93cFE0S1hSYUVKWllwRmlSeVotcWZNYjdRb1d0MktKTkNNeC1PLXlyek1GdW1oTThGQXFrTnlWZWZ3M0dfTXNmb29FdU1LcW8?oc=5",
+      "published": "Thu, 05 Nov 2026 22:54:24 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
       "importance_score": 89,
@@ -21,33 +21,33 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "AI算力巨頭債券殖利率飆15%！信貸危機要爆了？科技股回檔是泡沫？吳嘉隆：複製當年亞馬遜！換手再攻「抱緊這族群」！",
-      "summary": "AI算力巨頭債券殖利率飆15%！信貸危機要爆了？科技股回檔是泡沫？吳嘉隆：複製當年亞馬遜！換手再攻「抱緊這族群」！ 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qX1l4RlRXUDlHRVM5RW1MN3pVdXpIMnUteEtHMFNHR1BxaTdmaDhFZnc0cEl4Z2hWeVFmN1BWT0xoZTJvMTViYlRfSnZWWG8?oc=5",
-      "published": "Wed, 04 Nov 2026 13:00:08 GMT",
-      "topic": "Fed / 利率",
-      "rank": 2,
-      "importance_score": 82,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
       "title": "〈能源盤後〉和平談判壓低油價 Brent跌至近4週低點 唯供應風險仍未解除",
       "summary": "〈能源盤後〉和平談判壓低油價 Brent跌至近4週低點 唯供應風險仍未解除 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81dnpqWlJWakRJbTdFbUlYOXRSZ3I1NXdqek44U2lSbkFLcVItSWN2ZldValh3RWRzTEpnMmFQZjlxTndVVldVTnRyek10Q2s?oc=5",
       "published": "Tue, 03 Nov 2026 22:07:25 GMT",
       "topic": "能源",
-      "rank": 3,
-      "importance_score": 77,
+      "rank": 2,
+      "importance_score": 79,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "高盛下調黃金目標價 因聯準會轉趨鷹派抑制投資需求",
+      "summary": "高盛下調黃金目標價 因聯準會轉趨鷹派抑制投資需求 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BRXQwOFlCYXlZaEc5MlUtdEl3TVNoYWhYZWl6RWZPVDlBWWwxZ0RRWF9PVVplVHYzdmFLTVdUUEd2MzluU08zNlliS2JyZXc?oc=5",
+      "published": "Fri, 06 Nov 2026 13:20:10 GMT",
+      "topic": "Fed / 利率",
+      "rank": 3,
+      "importance_score": 72,
+      "related_assets": [
+        "UST",
+        "USD",
         "Equity"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
@@ -69,11 +69,11 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈美股早盤〉民主黨大勝華爾街歡呼！道瓊飆逾千點 AI建設股承壓",
-      "summary": "〈美股早盤〉民主黨大勝華爾街歡呼！道瓊飆逾千點 AI建設股承壓 鉅亨網",
+      "title": "美股暴跌、亞股跟殺！AI行情真變天？ 鉅亨買基金揭急跌後投資機會",
+      "summary": "美股暴跌、亞股跟殺！AI行情真變天？ 鉅亨買基金揭急跌後投資機會 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjTGY3Mm1oakdlMHpDaUlNbVFhSTkzVXVSMFBQdlhsb0QzRklLdTZLeFNESmp1Z2Jma1lCb2ZZYTBpMVMxa2E1a0piM0hldFE?oc=5",
-      "published": "Wed, 04 Nov 2026 14:40:21 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4dlVhMFhRMkZiVVYwM1FZZ1BBMGJiczdCYTNYVGxTSmg1LXE2Wlk1eXdwUjFRMVEwQTFVZ1pTUE1oUDZWSHR2UVN3bEIyX1k?oc=5",
+      "published": "Fri, 06 Nov 2026 07:09:30 GMT",
       "topic": "AI / 半導體",
       "rank": 5,
       "importance_score": 67,
