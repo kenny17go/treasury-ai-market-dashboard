@@ -1,25 +1,9 @@
 {
-  "as_of": "2026-11-06T05:36:22.063302+00:00",
+  "as_of": "2026-11-06T13:13:37.756928+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
-    {
-      "title": "油價回升、聯準會升息預期壓抑金價 黃金走勢聚焦美國期中選舉",
-      "summary": "油價回升、聯準會升息預期壓抑金價 黃金走勢聚焦美國期中選舉 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFM3RuOHhCT2FZclYzaDNEdHVTUWR2YkVKbnBaMW9EMGRnT01HUXVpaG1YRHdtdF9LdFhTNHlubzNRSkZVNVZnUm83T3ZXRDg?oc=5",
-      "published": "Tue, 03 Nov 2026 09:00:05 GMT",
-      "topic": "Fed / 利率",
-      "rank": 1,
-      "importance_score": 91,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
-    },
     {
       "title": "〈貴金屬盤後〉聚焦美國期中選舉 黃金下跌 美債和美元殖利率雙升",
       "summary": "〈貴金屬盤後〉聚焦美國期中選舉 黃金下跌 美債和美元殖利率雙升 鉅亨網",
@@ -27,8 +11,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ORHc5Ti1rYUNSSV9yNFY0OHlNSndDUzZVZk9PNjBaNWRlMVJxR0ZXWC1uZ255dzAwYlQ4enRNWkZibmVXVFNDRGs4cEIxelE?oc=5",
       "published": "Tue, 03 Nov 2026 22:49:35 GMT",
       "topic": "Fed / 利率",
-      "rank": 2,
-      "importance_score": 87,
+      "rank": 1,
+      "importance_score": 89,
       "related_assets": [
         "UST",
         "USD",
@@ -43,8 +27,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81dnpqWlJWakRJbTdFbUlYOXRSZ3I1NXdqek44U2lSbkFLcVItSWN2ZldValh3RWRzTEpnMmFQZjlxTndVVldVTnRyek10Q2s?oc=5",
       "published": "Tue, 03 Nov 2026 22:07:25 GMT",
       "topic": "能源",
-      "rank": 3,
-      "importance_score": 77,
+      "rank": 2,
+      "importance_score": 79,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
@@ -59,14 +43,14 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZUFhXVzBYTEk3V01rb1V4MHN6eExTZktSS21TVWVPVkZ3UEpiNnFqZGhrdHI2MVAtVmZlSjRnOFJKWC1OWHc4UnFBZE4zQk5BT0EwTnZmSnJIR2Qt0gFiQVVfeXFMUFZBSm9jd0d3cnFzdjEzRnBpd25lQlNXQmhJVnlwcFhDeFgzR3ZaU2NIYW1HVVZ4MmY4VGpvazhBX2tqM0gwanRvREcwMkkxaVNzckl1YVJ4d05FRUdXbnJrLVE?oc=5",
       "published": "Thu, 05 Nov 2026 22:34:49 GMT",
       "topic": "AI / 半導體",
-      "rank": 4,
-      "importance_score": 68,
+      "rank": 3,
+      "importance_score": 70,
       "related_assets": [
         "SOX",
         "Nasdaq",
         "TSM / NVDA"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
       "title": "〈美股早盤〉民主黨大勝華爾街歡呼！道瓊飆逾千點 AI建設股承壓",
@@ -75,12 +59,28 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjTGY3Mm1oakdlMHpDaUlNbVFhSTkzVXVSMFBQdlhsb0QzRklLdTZLeFNESmp1Z2Jma1lCb2ZZYTBpMVMxa2E1a0piM0hldFE?oc=5",
       "published": "Wed, 04 Nov 2026 14:40:21 GMT",
       "topic": "AI / 半導體",
-      "rank": 5,
-      "importance_score": 67,
+      "rank": 4,
+      "importance_score": 69,
       "related_assets": [
         "SOX",
         "Nasdaq",
         "TSM / NVDA"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "德銀示警全球市場恐「隨時崩潰」！揭五大「危險錯位」：油價、通膨與債市訊號背離",
+      "summary": "德銀示警全球市場恐「隨時崩潰」！揭五大「危險錯位」：油價、通膨與債市訊號背離 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xUjRQMTY0aEh2N1IxdXAwS1pxQkxnMjQ2VEhEYk80bm1ESXpabUJPelYzX0xXYjd6bjZZRXdqZld4bGFrU1cweXFBcXNpRXM?oc=5",
+      "published": "Tue, 03 Nov 2026 15:10:03 GMT",
+      "topic": "能源",
+      "rank": 5,
+      "importance_score": 61,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
