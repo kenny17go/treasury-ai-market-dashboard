@@ -1,50 +1,34 @@
 {
-  "as_of": "2026-11-07T00:29:04.644494+00:00",
+  "as_of": "2026-11-09T05:07:00.965739+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "〈貴金屬盤後〉美元和美債殖利率下滑 黃金漲至逾兩周高點",
-      "summary": "〈貴金屬盤後〉美元和美債殖利率下滑 黃金漲至逾兩周高點 鉅亨網",
+      "title": "強勁避險買盤湧入 日本公債殖利率急跌 至6月以來新低",
+      "summary": "強勁避險買盤湧入 日本公債殖利率急跌 至6月以來新低 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93cFE0S1hSYUVKWllwRmlSeVotcWZNYjdRb1d0MktKTkNNeC1PLXlyek1GdW1oTThGQXFrTnlWZWZ3M0dfTXNmb29FdU1LcW8?oc=5",
-      "published": "Thu, 05 Nov 2026 22:54:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5talU4bUU4T0lBTU9VWG56M1Y4OXFVWlgtZ3VTZ3BsNFVrOEIyUEhDSlRvajdHSU4xVTJVSUMzUFlQSU9reXRmeWtQcjZ5Wmc?oc=5",
+      "published": "Fri, 06 Nov 2026 07:50:02 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 89,
+      "importance_score": 78,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈美股早盤〉AI股跌出買盤！晶片股帶動那指反彈 Fed升息陰影仍在",
-      "summary": "〈美股早盤〉AI股跌出買盤！晶片股帶動那指反彈 Fed升息陰影仍在 鉅亨網",
+      "title": "AI股暴跌引發亞洲股匯震盪 避險買盤湧入日元 新台幣一度失守33大關",
+      "summary": "AI股暴跌引發亞洲股匯震盪 避險買盤湧入日元 新台幣一度失守33大關 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EVmFadnl5cG5sRzg0Mk93cjJ5V2xpdmE2ZkhWNjZrNW41TzlQeWVWczc1YWJpOC1WY29DcElBLXlEcVlSYks2QUFRYWNNaUE?oc=5",
-      "published": "Fri, 06 Nov 2026 14:39:15 GMT",
-      "topic": "Fed / 利率",
-      "rank": 2,
-      "importance_score": 89,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
-    },
-    {
-      "title": "美股暴跌、亞股跟殺！AI行情真變天？ 鉅亨買基金揭急跌後投資機會",
-      "summary": "美股暴跌、亞股跟殺！AI行情真變天？ 鉅亨買基金揭急跌後投資機會 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4dlVhMFhRMkZiVVYwM1FZZ1BBMGJiczdCYTNYVGxTSmg1LXE2Wlk1eXdwUjFRMVEwQTFVZ1pTUE1oUDZWSHR2UVN3bEIyX1k?oc=5",
-      "published": "Fri, 06 Nov 2026 07:09:30 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DM2tma19zNmM4RkFteVZnQ3JyZWpuVElCcHJIQ1Y0Z19obWl4X1luZk9qUzFKcks4dkRiWnRPZVN2QS10dXZTRnFVakU0c3M?oc=5",
+      "published": "Fri, 06 Nov 2026 06:40:14 GMT",
       "topic": "AI / 半導體",
-      "rank": 3,
-      "importance_score": 71,
+      "rank": 2,
+      "importance_score": 68,
       "related_assets": [
         "SOX",
         "Nasdaq",
@@ -53,36 +37,52 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "美股收盤／費半暴跌12.3% 那斯達克陷修正 晶片財報 AI 建設疑慮掀賣壓",
-      "summary": "美股收盤／費半暴跌12.3% 那斯達克陷修正 晶片財報 AI 建設疑慮掀賣壓 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZUFhXVzBYTEk3V01rb1V4MHN6eExTZktSS21TVWVPVkZ3UEpiNnFqZGhrdHI2MVAtVmZlSjRnOFJKWC1OWHc4UnFBZE4zQk5BT0EwTnZmSnJIR2Qt0gFiQVVfeXFMUFZBSm9jd0d3cnFzdjEzRnBpd25lQlNXQmhJVnlwcFhDeFgzR3ZaU2NIYW1HVVZ4MmY4VGpvazhBX2tqM0gwanRvREcwMkkxaVNzckl1YVJ4d05FRUdXbnJrLVE?oc=5",
-      "published": "Thu, 05 Nov 2026 22:34:49 GMT",
-      "topic": "AI / 半導體",
-      "rank": 4,
-      "importance_score": 68,
+      "title": "〈貴金屬盤後〉金價本周大漲5.2% 創8月來最佳單周",
+      "summary": "〈貴金屬盤後〉金價本周大漲5.2% 創8月來最佳單周 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MQkc4ckZCNFhCNzZ1M3M1TnJlbGZXQWxmQXhsbmpvN0VIMjh2eVQxZ09hekoyV3VrMUJIX1hmdWduMXBDNkJ2M0R0UQ?oc=5",
+      "published": "Fri, 06 Nov 2026 22:53:20 GMT",
+      "topic": "黃金",
+      "rank": 3,
+      "importance_score": 61,
       "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
+        "Gold",
+        "USD",
+        "UST"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈能源盤後〉 油價本周挫約13%！美伊戰事降溫押注壓低油市 中東油輪遇襲限制跌幅",
-      "summary": "〈能源盤後〉 油價本周挫約13%！美伊戰事降溫押注壓低油市 中東油輪遇襲限制跌幅 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14QTBPQTZ1enlMQlJaaXBDeXRxblNsdVl4WkxYRV9XMjFRdGR4Sng1Q0E4Z1FvbGcxakxKengzMnZVZlI3dHFDLWdRZw?oc=5",
-      "published": "Fri, 06 Nov 2026 22:08:08 GMT",
-      "topic": "能源",
-      "rank": 5,
-      "importance_score": 65,
+      "title": "美投資級長債 有戲",
+      "summary": "美投資級長債 有戲 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tMmJHVDZ3UmpQRVJzX3EweU9YSmRVZWVWXzdMTUZmSzE3SmFKZGc3RDZPNmw5V1JoWF84RWdPY1pfZHR5OTlWTkZsa1NBQUxDeFItck9kYzQ2UdIBX0FVX3lxTE5mcDRXdURJRk1pQzdoSGJJc3hCaWk4LXFsRGhLSTlEMWVob0tYV0ZVU3dtLUFKcldFN2taRktjVFFUcVVabUJhTlk3ZEI0Szg3MFBWR2llRzlUdVhIdlF3?oc=5",
+      "published": "Sat, 07 Nov 2026 08:00:00 GMT",
+      "topic": "全球市場",
+      "rank": 4,
+      "importance_score": 50,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
+        "Global Equity",
+        "USD",
+        "UST"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "高品質財經來源"
+    },
+    {
+      "title": "一週展望：CPI或坐實美聯儲12月加息？黃金恐又打響4000 - 群益期貨",
+      "summary": "一週展望：CPI或坐實美聯儲12月加息？黃金恐又打響4000 群益期貨",
+      "source": "群益期貨",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcDJxbm8yQnl2S0JHaDRnTGwzVmcyQm56cTk1WmlGMnBobG42STNKcXdXQllYZ2NveFNpUDloVnRiejllVGUyUHJlTWM4RVQ0RDVlMWZ3cnE2TDNBTmRabHVkcGI4bHRrZjBVZ2pBUEZqMHpjbnFkZlBZSWk4Ykk0VmhlaG9tMU1PaWlQSEdadw?oc=5",
+      "published": "Sat, 07 Nov 2026 09:53:04 GMT",
+      "topic": "黃金",
+      "rank": 5,
+      "importance_score": 47,
+      "related_assets": [
+        "Gold",
+        "USD",
+        "UST"
+      ],
+      "why_selected": "具明確資產關聯"
     }
   ]
 }
