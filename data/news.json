@@ -1,18 +1,34 @@
 {
-  "as_of": "2026-11-09T05:07:00.965739+00:00",
+  "as_of": "2026-11-09T13:51:29.528090+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "強勁避險買盤湧入 日本公債殖利率急跌 至6月以來新低",
-      "summary": "強勁避險買盤湧入 日本公債殖利率急跌 至6月以來新低 鉅亨網",
+      "title": "本週操盤筆記：美國CPI、PPI、英國GDP與中國通膨數據",
+      "summary": "本週操盤筆記：美國CPI、PPI、英國GDP與中國通膨數據 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5talU4bUU4T0lBTU9VWG56M1Y4OXFVWlgtZ3VTZ3BsNFVrOEIyUEhDSlRvajdHSU4xVTJVSUMzUFlQSU9reXRmeWtQcjZ5Wmc?oc=5",
-      "published": "Fri, 06 Nov 2026 07:50:02 GMT",
-      "topic": "Fed / 利率",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTRFAxMmlTZElfeXhSWHZrdUd5cFpGWDVqZVoxbFhPdThYSGstZGptMFBkbGNqSEVzdDZvcm1kSWd4dFp1SjZRMDFEbXVOYUE?oc=5",
+      "published": "Sun, 08 Nov 2026 13:50:02 GMT",
+      "topic": "中國",
       "rank": 1,
-      "importance_score": 78,
+      "importance_score": 90,
+      "related_assets": [
+        "CNH",
+        "China Equity",
+        "Commodities"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
+    {
+      "title": "民主黨橫掃國會激勵美債強彈 有望複製2023年底行情？專家指兩大數據決定多頭後市",
+      "summary": "民主黨橫掃國會激勵美債強彈 有望複製2023年底行情？專家指兩大數據決定多頭後市 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wcXpGZzRKOEJYUVpjdEpaQVd2dGVubEc4akRyMTJQUFZrYkRiaXNfd2IxalM1SWw1V0ZZZWpQSHV0X1JkdFhWWlQ3aw?oc=5",
+      "published": "Mon, 09 Nov 2026 08:20:04 GMT",
+      "topic": "美債",
+      "rank": 2,
+      "importance_score": 71,
       "related_assets": [
         "UST",
         "USD",
@@ -21,26 +37,10 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "AI股暴跌引發亞洲股匯震盪 避險買盤湧入日元 新台幣一度失守33大關",
-      "summary": "AI股暴跌引發亞洲股匯震盪 避險買盤湧入日元 新台幣一度失守33大關 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DM2tma19zNmM4RkFteVZnQ3JyZWpuVElCcHJIQ1Y0Z19obWl4X1luZk9qUzFKcks4dkRiWnRPZVN2QS10dXZTRnFVakU0c3M?oc=5",
-      "published": "Fri, 06 Nov 2026 06:40:14 GMT",
-      "topic": "AI / 半導體",
-      "rank": 2,
-      "importance_score": 68,
-      "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
       "title": "〈貴金屬盤後〉金價本周大漲5.2% 創8月來最佳單周",
       "summary": "〈貴金屬盤後〉金價本周大漲5.2% 創8月來最佳單周 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MQkc4ckZCNFhCNzZ1M3M1TnJlbGZXQWxmQXhsbmpvN0VIMjh2eVQxZ09hekoyV3VrMUJIX1hmdWduMXBDNkJ2M0R0UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yZGVTNHUxNU5TNnN5MGEzSU5lUUlGalRZOGNCRHAxczA0Z2Y4bkFzWFk0VUdRV1JNbUVyS1ktRm1fODJ6NmxBeV8xdVo0NWs?oc=5",
       "published": "Fri, 06 Nov 2026 22:53:20 GMT",
       "topic": "黃金",
       "rank": 3,
@@ -53,14 +53,14 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "美投資級長債 有戲",
-      "summary": "美投資級長債 有戲 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tMmJHVDZ3UmpQRVJzX3EweU9YSmRVZWVWXzdMTUZmSzE3SmFKZGc3RDZPNmw5V1JoWF84RWdPY1pfZHR5OTlWTkZsa1NBQUxDeFItck9kYzQ2UdIBX0FVX3lxTE5mcDRXdURJRk1pQzdoSGJJc3hCaWk4LXFsRGhLSTlEMWVob0tYV0ZVU3dtLUFKcldFN2taRktjVFFUcVVabUJhTlk3ZEI0Szg3MFBWR2llRzlUdVhIdlF3?oc=5",
-      "published": "Sat, 07 Nov 2026 08:00:00 GMT",
+      "title": "延續反彈動能 金價升至每盎司4120美元上方",
+      "summary": "延續反彈動能 金價升至每盎司4120美元上方 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ha1BYRFdybVF6YmtSaXEzZDVOWnBPSFZISE94WHdXX1NrdkhGMG9rVnZQdmpkYWVvV0N3ajBvOFNHRWhGN0phXzNJMHdqY2M?oc=5",
+      "published": "Mon, 09 Nov 2026 06:10:05 GMT",
       "topic": "全球市場",
       "rank": 4,
-      "importance_score": 50,
+      "importance_score": 55,
       "related_assets": [
         "Global Equity",
         "USD",
