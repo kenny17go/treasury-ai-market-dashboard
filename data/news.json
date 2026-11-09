@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-09T13:51:29.528090+00:00",
+  "as_of": "2026-11-09T16:56:32.992788+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,14 +21,30 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "〈美股早盤〉買盤回來了！油價下跌助攻 道瓊漲600點",
+      "summary": "〈美股早盤〉買盤回來了！油價下跌助攻 道瓊漲600點 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wdVZSdFQ4eDRuNUJUcDFYSEpDS1V0clROV2dZalVkc1VicUtncjBUaGI3emxBWE5jenJoWlBiM0JOb2xsXzAtcGo5bU1QSzQ?oc=5",
+      "published": "Mon, 09 Nov 2026 14:39:44 GMT",
+      "topic": "能源",
+      "rank": 2,
+      "importance_score": 76,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
       "title": "民主黨橫掃國會激勵美債強彈 有望複製2023年底行情？專家指兩大數據決定多頭後市",
       "summary": "民主黨橫掃國會激勵美債強彈 有望複製2023年底行情？專家指兩大數據決定多頭後市 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wcXpGZzRKOEJYUVpjdEpaQVd2dGVubEc4akRyMTJQUFZrYkRiaXNfd2IxalM1SWw1V0ZZZWpQSHV0X1JkdFhWWlQ3aw?oc=5",
       "published": "Mon, 09 Nov 2026 08:20:04 GMT",
       "topic": "美債",
-      "rank": 2,
-      "importance_score": 71,
+      "rank": 3,
+      "importance_score": 69,
       "related_assets": [
         "UST",
         "USD",
@@ -37,36 +53,20 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈貴金屬盤後〉金價本周大漲5.2% 創8月來最佳單周",
-      "summary": "〈貴金屬盤後〉金價本周大漲5.2% 創8月來最佳單周 鉅亨網",
+      "title": "搶美股反彈先別急！美銀Hartnett不改避險立場 三大條件到齊再進場",
+      "summary": "搶美股反彈先別急！美銀Hartnett不改避險立場 三大條件到齊再進場 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yZGVTNHUxNU5TNnN5MGEzSU5lUUlGalRZOGNCRHAxczA0Z2Y4bkFzWFk0VUdRV1JNbUVyS1ktRm1fODJ6NmxBeV8xdVo0NWs?oc=5",
-      "published": "Fri, 06 Nov 2026 22:53:20 GMT",
-      "topic": "黃金",
-      "rank": 3,
-      "importance_score": 61,
-      "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "延續反彈動能 金價升至每盎司4120美元上方",
-      "summary": "延續反彈動能 金價升至每盎司4120美元上方 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ha1BYRFdybVF6YmtSaXEzZDVOWnBPSFZISE94WHdXX1NrdkhGMG9rVnZQdmpkYWVvV0N3ajBvOFNHRWhGN0phXzNJMHdqY2M?oc=5",
-      "published": "Mon, 09 Nov 2026 06:10:05 GMT",
-      "topic": "全球市場",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IT21GOGVpNlVwX0x2S01FS2E2dkYyV29NOWM0ZUpjU1NqM3dhSmJWQko2MVFtLXA3ZzNWQ3RPTFhldmxtWUgzczBocUpLUnc?oc=5",
+      "published": "Sat, 07 Nov 2026 06:00:02 GMT",
+      "topic": "美股",
       "rank": 4,
-      "importance_score": 55,
+      "importance_score": 64,
       "related_assets": [
-        "Global Equity",
-        "USD",
+        "S&P 500",
+        "Nasdaq",
         "UST"
       ],
-      "why_selected": "高品質財經來源"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
       "title": "一週展望：CPI或坐實美聯儲12月加息？黃金恐又打響4000 - 群益期貨",
