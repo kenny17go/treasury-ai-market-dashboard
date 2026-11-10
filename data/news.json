@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-10T15:07:12.478729+00:00",
+  "as_of": "2026-11-10T15:17:25.435019+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,36 +37,20 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "股災席捲台日韓 富達警示亞股3大隱憂 曝台灣央行利率續「凍漲」主因",
-      "summary": "股災席捲台日韓 富達警示亞股3大隱憂 曝台灣央行利率續「凍漲」主因 鉅亨網",
+      "title": "〈美股早盤〉買盤回來了！油價下跌助攻 道瓊漲600點",
+      "summary": "〈美股早盤〉買盤回來了！油價下跌助攻 道瓊漲600點 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hRS1XdnkwZEVmT282eWx1dUgzWlY3aDBZNXNSZWxHMVh3blg0bG9HUnp3Y0JRMUw4d1NteW9ZRzQtNXNzRXZfcVZiTFFYZlU?oc=5",
-      "published": "Tue, 10 Nov 2026 04:33:52 GMT",
-      "topic": "Fed / 利率",
-      "rank": 3,
-      "importance_score": 73,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "〈能源盤後〉川普稱不太可能再攻擊伊朗 Brent盤後跌逾7美元 創8月底來新低",
-      "summary": "〈能源盤後〉川普稱不太可能再攻擊伊朗 Brent盤後跌逾7美元 創8月底來新低 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wMTI0VjBrVWhQWm5vR1FJaURtUUNLa1hBODA3YUhmVS0zRHR0UW9jenBVSkZGU2djOFNLS0ZFWUVFbzI4M3BTZTVkYw?oc=5",
-      "published": "Mon, 09 Nov 2026 21:57:38 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wdVZSdFQ4eDRuNUJUcDFYSEpDS1V0clROV2dZalVkc1VicUtncjBUaGI3emxBWE5jenJoWlBiM0JOb2xsXzAtcGo5bU1QSzQ?oc=5",
+      "published": "Mon, 09 Nov 2026 14:39:44 GMT",
       "topic": "能源",
-      "rank": 4,
-      "importance_score": 67,
+      "rank": 3,
+      "importance_score": 74,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     }
   ]
 }
