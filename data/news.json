@@ -1,34 +1,18 @@
 {
-  "as_of": "2026-11-09T16:56:32.992788+00:00",
+  "as_of": "2026-11-10T00:30:05.210772+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "本週操盤筆記：美國CPI、PPI、英國GDP與中國通膨數據",
-      "summary": "本週操盤筆記：美國CPI、PPI、英國GDP與中國通膨數據 鉅亨網",
+      "title": "〈能源盤後〉川普稱不太可能再攻擊伊朗 Brent盤後跌逾7美元 創8月底來新低",
+      "summary": "〈能源盤後〉川普稱不太可能再攻擊伊朗 Brent盤後跌逾7美元 創8月底來新低 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTRFAxMmlTZElfeXhSWHZrdUd5cFpGWDVqZVoxbFhPdThYSGstZGptMFBkbGNqSEVzdDZvcm1kSWd4dFp1SjZRMDFEbXVOYUE?oc=5",
-      "published": "Sun, 08 Nov 2026 13:50:02 GMT",
-      "topic": "中國",
-      "rank": 1,
-      "importance_score": 90,
-      "related_assets": [
-        "CNH",
-        "China Equity",
-        "Commodities"
-      ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
-    },
-    {
-      "title": "〈美股早盤〉買盤回來了！油價下跌助攻 道瓊漲600點",
-      "summary": "〈美股早盤〉買盤回來了！油價下跌助攻 道瓊漲600點 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wdVZSdFQ4eDRuNUJUcDFYSEpDS1V0clROV2dZalVkc1VicUtncjBUaGI3emxBWE5jenJoWlBiM0JOb2xsXzAtcGo5bU1QSzQ?oc=5",
-      "published": "Mon, 09 Nov 2026 14:39:44 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wMTI0VjBrVWhQWm5vR1FJaURtUUNLa1hBODA3YUhmVS0zRHR0UW9jenBVSkZGU2djOFNLS0ZFWUVFbzI4M3BTZTVkYw?oc=5",
+      "published": "Mon, 09 Nov 2026 21:57:38 GMT",
       "topic": "能源",
-      "rank": 2,
-      "importance_score": 76,
+      "rank": 1,
+      "importance_score": 73,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
@@ -43,8 +27,8 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wcXpGZzRKOEJYUVpjdEpaQVd2dGVubEc4akRyMTJQUFZrYkRiaXNfd2IxalM1SWw1V0ZZZWpQSHV0X1JkdFhWWlQ3aw?oc=5",
       "published": "Mon, 09 Nov 2026 08:20:04 GMT",
       "topic": "美債",
-      "rank": 3,
-      "importance_score": 69,
+      "rank": 2,
+      "importance_score": 71,
       "related_assets": [
         "UST",
         "USD",
@@ -59,14 +43,14 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IT21GOGVpNlVwX0x2S01FS2E2dkYyV29NOWM0ZUpjU1NqM3dhSmJWQko2MVFtLXA3ZzNWQ3RPTFhldmxtWUgzczBocUpLUnc?oc=5",
       "published": "Sat, 07 Nov 2026 06:00:02 GMT",
       "topic": "美股",
-      "rank": 4,
-      "importance_score": 64,
+      "rank": 3,
+      "importance_score": 66,
       "related_assets": [
         "S&P 500",
         "Nasdaq",
         "UST"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
       "title": "一週展望：CPI或坐實美聯儲12月加息？黃金恐又打響4000 - 群益期貨",
@@ -75,12 +59,28 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcDJxbm8yQnl2S0JHaDRnTGwzVmcyQm56cTk1WmlGMnBobG42STNKcXdXQllYZ2NveFNpUDloVnRiejllVGUyUHJlTWM4RVQ0RDVlMWZ3cnE2TDNBTmRabHVkcGI4bHRrZjBVZ2pBUEZqMHpjbnFkZlBZSWk4Ykk0VmhlaG9tMU1PaWlQSEdadw?oc=5",
       "published": "Sat, 07 Nov 2026 09:53:04 GMT",
       "topic": "黃金",
-      "rank": 5,
-      "importance_score": 47,
+      "rank": 4,
+      "importance_score": 49,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
+      ],
+      "why_selected": "具明確資產關聯"
+    },
+    {
+      "title": "美股反彈能撐多久？通膨數據、AI財報登場 下周5大國際財經焦點 - TVBS新聞網",
+      "summary": "美股反彈能撐多久？通膨數據、AI財報登場 下周5大國際財經焦點 TVBS新聞網",
+      "source": "TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYdlhTR1NKaUZUWUVocVg5RG5ISWFaa3ItU2FWaThXM2RVSHNhLXBrTDFqZUFfY0l2U1o2d1AwbzVSM0dHZVVIcWRjdWRyZlk?oc=5",
+      "published": "Sat, 07 Nov 2026 09:55:00 GMT",
+      "topic": "AI / 半導體",
+      "rank": 5,
+      "importance_score": 42,
+      "related_assets": [
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
       "why_selected": "具明確資產關聯"
     }
