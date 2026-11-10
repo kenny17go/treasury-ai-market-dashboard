@@ -1,24 +1,24 @@
 {
-  "as_of": "2026-11-10T06:23:44.797585+00:00",
+  "as_of": "2026-11-10T15:07:12.478729+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "本週操盤筆記：美國CPI、PPI、英國GDP與中國通膨數據",
-      "summary": "本週操盤筆記：美國CPI、PPI、英國GDP與中國通膨數據 鉅亨網",
+      "title": "AI晶片股回神！韓日領軍反彈、台股祭限空令終結連七跌 市場緊盯CPI",
+      "summary": "AI晶片股回神！韓日領軍反彈、台股祭限空令終結連七跌 市場緊盯CPI 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTRFAxMmlTZElfeXhSWHZrdUd5cFpGWDVqZVoxbFhPdThYSGstZGptMFBkbGNqSEVzdDZvcm1kSWd4dFp1SjZRMDFEbXVOYUE?oc=5",
-      "published": "Sun, 08 Nov 2026 13:50:02 GMT",
-      "topic": "中國",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uSm9WV0tkMGVPNVo4OEt4eThyWFBYME9kbTl5LVpTUldLNWxrS1Q1YnMtVlQwZnNMTFlaaEVOUVhVQzEwRmZPS29yWjhDRVU?oc=5",
+      "published": "Tue, 10 Nov 2026 05:53:08 GMT",
+      "topic": "AI / 半導體",
       "rank": 1,
-      "importance_score": 90,
+      "importance_score": 84,
       "related_assets": [
-        "CNH",
-        "China Equity",
-        "Commodities"
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
       "title": "〈貴金屬盤後〉油價重挫緩解通膨疑慮 黃金上漲1%、白銀獲支撐",
@@ -37,18 +37,18 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "新加坡推央行黃金保管服務500公噸金庫搶進國際儲備市場",
-      "summary": "新加坡推央行黃金保管服務500公噸金庫搶進國際儲備市場 鉅亨網",
+      "title": "股災席捲台日韓 富達警示亞股3大隱憂 曝台灣央行利率續「凍漲」主因",
+      "summary": "股災席捲台日韓 富達警示亞股3大隱憂 曝台灣央行利率續「凍漲」主因 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TaDNaTi1abUhOUVlUWFNIbzJVN21JVlFPcEx4ckpySUhhZHVJNVhBTk9vLV9JUWFVVXZjMXlxS2cxWUFDX3hIb0FsTmxhX2M?oc=5",
-      "published": "Tue, 10 Nov 2026 03:30:07 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hRS1XdnkwZEVmT282eWx1dUgzWlY3aDBZNXNSZWxHMVh3blg0bG9HUnp3Y0JRMUw4d1NteW9ZRzQtNXNzRXZfcVZiTFFYZlU?oc=5",
+      "published": "Tue, 10 Nov 2026 04:33:52 GMT",
+      "topic": "Fed / 利率",
       "rank": 3,
       "importance_score": 73,
       "related_assets": [
-        "Gold",
+        "UST",
         "USD",
-        "UST"
+        "Equity"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
@@ -64,22 +64,6 @@
       "related_assets": [
         "WTI / Brent",
         "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "民主黨橫掃國會激勵美債強彈 有望複製2023年底行情？專家指兩大數據決定多頭後市",
-      "summary": "民主黨橫掃國會激勵美債強彈 有望複製2023年底行情？專家指兩大數據決定多頭後市 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Gd2VzeklsMVFMYjdKVW9QRUItSEhIc0lObFhSYjVYdDZzYmlQcGFQWTdyNndCYV9WZWxqZFJJWVZuRHFORXV5OFRDbHFYVnc?oc=5",
-      "published": "Mon, 09 Nov 2026 08:20:04 GMT",
-      "topic": "美債",
-      "rank": 5,
-      "importance_score": 65,
-      "related_assets": [
-        "UST",
-        "USD",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
