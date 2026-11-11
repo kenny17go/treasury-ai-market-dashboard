@@ -1,9 +1,41 @@
 {
-  "as_of": "2026-11-10T21:23:02.360040+00:00",
+  "as_of": "2026-11-11T01:20:52.968851+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
+    {
+      "title": "〈貴金屬盤後〉美CPI火熱提振美元和美債殖利率 金價挫跌近3%",
+      "summary": "〈貴金屬盤後〉美CPI火熱提振美元和美債殖利率 金價挫跌近3% 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12bGxMbUs5eXkwU0h3SENYM1VnS0o2ckhqYmpGcVVVMERsbTN4Q2FTT2p4Y29hdjZQZERzazY3d2VnVUx2Q1Y5XzFqZjdKLVk?oc=5",
+      "published": "Tue, 10 Nov 2026 23:00:26 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1,
+      "importance_score": 95,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
+    {
+      "title": "十月美債反彈只是空單回補假象！T Rowe Price：美債殖利率恐再衝高 衰退才見頂",
+      "summary": "十月美債反彈只是空單回補假象！T Rowe Price：美債殖利率恐再衝高 衰退才見頂 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HOUY3S3U4RE55NEM4OHR4TnZPZFk2bTRYWFZrVmx3VnFlWFEzNTBvbzc2ZjZTT1JjTVE5MEZPZXdFWC1GMXMxdXZPNA?oc=5",
+      "published": "Tue, 10 Nov 2026 20:21:43 GMT",
+      "topic": "Fed / 利率",
+      "rank": 2,
+      "importance_score": 85,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
     {
       "title": "AI晶片股回神！韓日領軍反彈、台股祭限空令終結連七跌 市場緊盯CPI",
       "summary": "AI晶片股回神！韓日領軍反彈、台股祭限空令終結連七跌 市場緊盯CPI 鉅亨網",
@@ -11,8 +43,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uSm9WV0tkMGVPNVo4OEt4eThyWFBYME9kbTl5LVpTUldLNWxrS1Q1YnMtVlQwZnNMTFlaaEVOUVhVQzEwRmZPS29yWjhDRVU?oc=5",
       "published": "Tue, 10 Nov 2026 05:53:08 GMT",
       "topic": "AI / 半導體",
-      "rank": 1,
-      "importance_score": 84,
+      "rank": 3,
+      "importance_score": 80,
       "related_assets": [
         "SOX",
         "Nasdaq",
@@ -27,14 +59,14 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JbXVfbmpob1hEc0RkeVFmR0s4WHZHYWhFbzhUUmVVVm4xTVpFUFRuaE03S3hoVEdVemoxNGhicnJac1RYZFVRdldlZTRyb1k?oc=5",
       "published": "Mon, 09 Nov 2026 22:58:32 GMT",
       "topic": "能源",
-      "rank": 2,
-      "importance_score": 78,
+      "rank": 4,
+      "importance_score": 74,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
       "title": "〈美股早盤〉買盤回來了！油價下跌助攻 道瓊漲600點",
@@ -43,46 +75,14 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wdVZSdFQ4eDRuNUJUcDFYSEpDS1V0clROV2dZalVkc1VicUtncjBUaGI3emxBWE5jenJoWlBiM0JOb2xsXzAtcGo5bU1QSzQ?oc=5",
       "published": "Mon, 09 Nov 2026 14:39:44 GMT",
       "topic": "能源",
-      "rank": 3,
-      "importance_score": 74,
+      "rank": 5,
+      "importance_score": 70,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "美股交易時間大變革！那斯達克12/6啟動23小時交易、亞洲投資人無需再等到深夜",
-      "summary": "美股交易時間大變革！那斯達克12/6啟動23小時交易、亞洲投資人無需再等到深夜 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPN0xjMnhlczhNZUFoR2dRVF9PM2k5OWE1aFZqWnlFRmNRWDBHYWhOcVVhbGlQbk5sbEVUMFJoVUg5N2c5elJ0T1A5NXlPRkE?oc=5",
-      "published": "Sun, 08 Nov 2026 06:10:03 GMT",
-      "topic": "美股",
-      "rank": 4,
-      "importance_score": 64,
-      "related_assets": [
-        "S&P 500",
-        "Nasdaq",
-        "UST"
-      ],
       "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "凱利投資衰退風險儀表板：歷史經驗顯示選後美股表現穩健| 經濟日報 - LINE TODAY",
-      "summary": "凱利投資衰退風險儀表板：歷史經驗顯示選後美股表現穩健| 經濟日報 LINE TODAY",
-      "source": "LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50cl9ZNjBVZjM2alhOQnFMTXJRc05fbExJUmVHdGpOanlwdUhRTzlpTEM3U0dOZzI3QVl0dWZHWEF0N3V6NEd5ZVRXRDdLVXU5aVlTc3R3?oc=5",
-      "published": "Tue, 10 Nov 2026 04:10:27 GMT",
-      "topic": "美股",
-      "rank": 5,
-      "importance_score": 37,
-      "related_assets": [
-        "S&P 500",
-        "Nasdaq",
-        "UST"
-      ],
-      "why_selected": "具明確資產關聯"
     }
   ]
 }
