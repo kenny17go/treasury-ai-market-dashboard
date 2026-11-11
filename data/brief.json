@@ -4,7 +4,7 @@
   "bullets": [
     "主要美股指數平均變動 -0.44%。",
     "美債10年殖利率 4.980%，日變動 +10.0 bps。",
-    "自選股強勢 AMD +14.78%；較弱 NVDA -9.56%。",
+    "自選股強勢 AVGO +3.91%；較弱 NVDA -5.53%。",
     "2Y10Y 利差 +25.0 bps。"
   ],
   "risk_score": 45,
@@ -26,5 +26,5 @@
   ],
   "today_date_taipei": "2026-11-11",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-11T01:23:10.341285+00:00"
+  "as_of": "2026-11-11T05:11:20.681470+00:00"
 }

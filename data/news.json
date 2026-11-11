@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-11T01:20:52.968851+00:00",
+  "as_of": "2026-11-11T05:09:21.960668+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -8,7 +8,7 @@
       "title": "〈貴金屬盤後〉美CPI火熱提振美元和美債殖利率 金價挫跌近3%",
       "summary": "〈貴金屬盤後〉美CPI火熱提振美元和美債殖利率 金價挫跌近3% 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12bGxMbUs5eXkwU0h3SENYM1VnS0o2ckhqYmpGcVVVMERsbTN4Q2FTT2p4Y29hdjZQZERzazY3d2VnVUx2Q1Y5XzFqZjdKLVk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBERnYwdGlCYUlZVG5PUHhuM1pmWjh0c29SMnhHNzBmRjZDb1ctbnd3dHotdFRYZ3dxekJDUTYxbEI2R05TX0tMOTlOWQ?oc=5",
       "published": "Tue, 10 Nov 2026 23:00:26 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
@@ -69,17 +69,17 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈美股早盤〉買盤回來了！油價下跌助攻 道瓊漲600點",
-      "summary": "〈美股早盤〉買盤回來了！油價下跌助攻 道瓊漲600點 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wdVZSdFQ4eDRuNUJUcDFYSEpDS1V0clROV2dZalVkc1VicUtncjBUaGI3emxBWE5jenJoWlBiM0JOb2xsXzAtcGo5bU1QSzQ?oc=5",
-      "published": "Mon, 09 Nov 2026 14:39:44 GMT",
-      "topic": "能源",
+      "title": "美債漲勢增添新動力 期中選舉結果令 AI 交易受創 | 國際焦點 | 國際",
+      "summary": "美債漲勢增添新動力 期中選舉結果令 AI 交易受創 | 國際焦點 | 國際 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNcVhGXzlWTXNrd1E0MmwxV1IwSUZJQ09yOTdvMVU5ZTNTdEFEVGZGeUtsbGJXemUtZUw3SGhhODRUT0FyZlg5TDZxSVRxMWdRTEZkbC1VcGU1UQ?oc=5",
+      "published": "Mon, 09 Nov 2026 14:03:46 GMT",
+      "topic": "美債",
       "rank": 5,
-      "importance_score": 70,
+      "importance_score": 69,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
+        "UST",
+        "USD",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
