@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-11T05:09:21.960668+00:00",
+  "as_of": "2026-11-11T12:42:37.935645+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -8,8 +8,8 @@
       "title": "〈貴金屬盤後〉美CPI火熱提振美元和美債殖利率 金價挫跌近3%",
       "summary": "〈貴金屬盤後〉美CPI火熱提振美元和美債殖利率 金價挫跌近3% 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBERnYwdGlCYUlZVG5PUHhuM1pmWjh0c29SMnhHNzBmRjZDb1ctbnd3dHotdFRYZ3dxekJDUTYxbEI2R05TX0tMOTlOWQ?oc=5",
-      "published": "Tue, 10 Nov 2026 23:00:26 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12bGxMbUs5eXkwU0h3SENYM1VnS0o2ckhqYmpGcVVVMERsbTN4Q2FTT2p4Y29hdjZQZERzazY3d2VnVUx2Q1Y5XzFqZjdKLVk?oc=5",
+      "published": "Wed, 11 Nov 2026 02:35:36 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
       "importance_score": 95,
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "十月美債反彈只是空單回補假象！T Rowe Price：美債殖利率恐再衝高 衰退才見頂",
-      "summary": "十月美債反彈只是空單回補假象！T Rowe Price：美債殖利率恐再衝高 衰退才見頂 鉅亨網",
+      "title": "CPI掀美債殺盤、連沃勒都轉鷹 華爾街將「一口氣升息2碼」納入定價",
+      "summary": "CPI掀美債殺盤、連沃勒都轉鷹 華爾街將「一口氣升息2碼」納入定價 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HOUY3S3U4RE55NEM4OHR4TnZPZFk2bTRYWFZrVmx3VnFlWFEzNTBvbzc2ZjZTT1JjTVE5MEZPZXdFWC1GMXMxdXZPNA?oc=5",
-      "published": "Tue, 10 Nov 2026 20:21:43 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNRU54SXp2QXN6ZDBRS2dQOWR5dDQ5Z0FQWnpsZlVpc2hxanA1dUVrMVhZX1FxbDFRcGdlSGFUME40czNtRXN6ekpieFlzQ3c?oc=5",
+      "published": "Wed, 11 Nov 2026 08:20:04 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 85,
+      "importance_score": 86,
       "related_assets": [
         "UST",
         "USD",
@@ -37,30 +37,30 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "AI晶片股回神！韓日領軍反彈、台股祭限空令終結連七跌 市場緊盯CPI",
-      "summary": "AI晶片股回神！韓日領軍反彈、台股祭限空令終結連七跌 市場緊盯CPI 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uSm9WV0tkMGVPNVo4OEt4eThyWFBYME9kbTl5LVpTUldLNWxrS1Q1YnMtVlQwZnNMTFlaaEVOUVhVQzEwRmZPS29yWjhDRVU?oc=5",
-      "published": "Tue, 10 Nov 2026 05:53:08 GMT",
-      "topic": "AI / 半導體",
+      "title": "美債漲勢增添新動力 期中選舉結果令 AI 交易受創 | 國際焦點 | 國際",
+      "summary": "美債漲勢增添新動力 期中選舉結果令 AI 交易受創 | 國際焦點 | 國際 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNcVhGXzlWTXNrd1E0MmwxV1IwSUZJQ09yOTdvMVU5ZTNTdEFEVGZGeUtsbGJXemUtZUw3SGhhODRUT0FyZlg5TDZxSVRxMWdRTEZkbC1VcGU1UQ?oc=5",
+      "published": "Mon, 09 Nov 2026 14:03:46 GMT",
+      "topic": "美債",
       "rank": 3,
-      "importance_score": 80,
+      "importance_score": 73,
       "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
+        "UST",
+        "USD",
+        "Equity"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈貴金屬盤後〉油價重挫緩解通膨疑慮 黃金上漲1%、白銀獲支撐",
-      "summary": "〈貴金屬盤後〉油價重挫緩解通膨疑慮 黃金上漲1%、白銀獲支撐 鉅亨網",
+      "title": "〈美股早盤〉買盤回來了！油價下跌助攻 道瓊漲600點",
+      "summary": "〈美股早盤〉買盤回來了！油價下跌助攻 道瓊漲600點 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JbXVfbmpob1hEc0RkeVFmR0s4WHZHYWhFbzhUUmVVVm4xTVpFUFRuaE03S3hoVEdVemoxNGhicnJac1RYZFVRdldlZTRyb1k?oc=5",
-      "published": "Mon, 09 Nov 2026 22:58:32 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wdVZSdFQ4eDRuNUJUcDFYSEpDS1V0clROV2dZalVkc1VicUtncjBUaGI3emxBWE5jenJoWlBiM0JOb2xsXzAtcGo5bU1QSzQ?oc=5",
+      "published": "Mon, 09 Nov 2026 14:39:44 GMT",
       "topic": "能源",
       "rank": 4,
-      "importance_score": 74,
+      "importance_score": 72,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "美債漲勢增添新動力 期中選舉結果令 AI 交易受創 | 國際焦點 | 國際",
-      "summary": "美債漲勢增添新動力 期中選舉結果令 AI 交易受創 | 國際焦點 | 國際 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNcVhGXzlWTXNrd1E0MmwxV1IwSUZJQ09yOTdvMVU5ZTNTdEFEVGZGeUtsbGJXemUtZUw3SGhhODRUT0FyZlg5TDZxSVRxMWdRTEZkbC1VcGU1UQ?oc=5",
-      "published": "Mon, 09 Nov 2026 14:03:46 GMT",
-      "topic": "美債",
+      "title": "銅金需求爆發推升礦商獲利 貝萊德黃金及礦業ETF募集至11/13",
+      "summary": "銅金需求爆發推升礦商獲利 貝萊德黃金及礦業ETF募集至11/13 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByRGNqY0YwamkwZ0lQQzdwb3dZTVJkbGo4RTM2Tkl3bUlzbldVSjFPNUk3X09pXzh0YXNQdklyVXNJZV9XSVRMQlQyWmt0Um8?oc=5",
+      "published": "Wed, 11 Nov 2026 06:37:01 GMT",
+      "topic": "黃金",
       "rank": 5,
-      "importance_score": 69,
+      "importance_score": 63,
       "related_assets": [
-        "UST",
+        "Gold",
         "USD",
-        "Equity"
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
