@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-11T14:47:19.347241+00:00",
+  "as_of": "2026-11-11T21:38:14.656300+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "CPI掀美債殺盤、連沃勒都轉鷹 華爾街將「一口氣升息2碼」納入定價",
-      "summary": "CPI掀美債殺盤、連沃勒都轉鷹 華爾街將「一口氣升息2碼」納入定價 鉅亨網",
+      "title": "十月美債反彈只是空單回補假象！T Rowe Price：美債殖利率恐再衝高 衰退才見頂",
+      "summary": "十月美債反彈只是空單回補假象！T Rowe Price：美債殖利率恐再衝高 衰退才見頂 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNRU54SXp2QXN6ZDBRS2dQOWR5dDQ5Z0FQWnpsZlVpc2hxanA1dUVrMVhZX1FxbDFRcGdlSGFUME40czNtRXN6ekpieFlzQ3c?oc=5",
-      "published": "Wed, 11 Nov 2026 08:20:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HOUY3S3U4RE55NEM4OHR4TnZPZFk2bTRYWFZrVmx3VnFlWFEzNTBvbzc2ZjZTT1JjTVE5MEZPZXdFWC1GMXMxdXZPNA?oc=5",
+      "published": "Tue, 10 Nov 2026 20:21:43 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 86,
+      "importance_score": 85,
       "related_assets": [
         "UST",
         "USD",
@@ -53,20 +53,20 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "銅金需求爆發推升礦商獲利 貝萊德黃金及礦業ETF募集至11/13",
-      "summary": "銅金需求爆發推升礦商獲利 貝萊德黃金及礦業ETF募集至11/13 鉅亨網",
+      "title": "全球經濟指標| 鉅亨網",
+      "summary": "全球經濟指標| 鉅亨網 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByRGNqY0YwamkwZ0lQQzdwb3dZTVJkbGo4RTM2Tkl3bUlzbldVSjFPNUk3X09pXzh0YXNQdklyVXNJZV9XSVRMQlQyWmt0Um8?oc=5",
-      "published": "Wed, 11 Nov 2026 06:37:01 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
+      "published": "Wed, 11 Nov 2026 17:31:39 GMT",
+      "topic": "全球市場",
       "rank": 4,
-      "importance_score": 65,
+      "importance_score": 51,
       "related_assets": [
-        "Gold",
+        "Global Equity",
         "USD",
         "UST"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "高品質財經來源"
     },
     {
       "title": "卡達液化天然氣出口逐步回升 裝船出港量仍僅戰前一半",
