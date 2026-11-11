@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-11T12:42:37.935645+00:00",
+  "as_of": "2026-11-11T14:47:19.347241+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈美股早盤〉買盤回來了！油價下跌助攻 道瓊漲600點",
-      "summary": "〈美股早盤〉買盤回來了！油價下跌助攻 道瓊漲600點 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wdVZSdFQ4eDRuNUJUcDFYSEpDS1V0clROV2dZalVkc1VicUtncjBUaGI3emxBWE5jenJoWlBiM0JOb2xsXzAtcGo5bU1QSzQ?oc=5",
-      "published": "Mon, 09 Nov 2026 14:39:44 GMT",
-      "topic": "能源",
-      "rank": 4,
-      "importance_score": 72,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
       "title": "銅金需求爆發推升礦商獲利 貝萊德黃金及礦業ETF募集至11/13",
       "summary": "銅金需求爆發推升礦商獲利 貝萊德黃金及礦業ETF募集至11/13 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByRGNqY0YwamkwZ0lQQzdwb3dZTVJkbGo4RTM2Tkl3bUlzbldVSjFPNUk3X09pXzh0YXNQdklyVXNJZV9XSVRMQlQyWmt0Um8?oc=5",
       "published": "Wed, 11 Nov 2026 06:37:01 GMT",
       "topic": "黃金",
-      "rank": 5,
-      "importance_score": 63,
+      "rank": 4,
+      "importance_score": 65,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "卡達液化天然氣出口逐步回升 裝船出港量仍僅戰前一半",
+      "summary": "卡達液化天然氣出口逐步回升 裝船出港量仍僅戰前一半 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hNUZRcm8xdTdPdjZHaXN3TFpHaVZnMmRRWkt6QnBFOVdzTVBLNi1PdXpkUEpEU2JGUC1jU1haOURrQkNycXlWVjZpcw?oc=5",
+      "published": "Tue, 10 Nov 2026 16:03:15 GMT",
+      "topic": "能源",
+      "rank": 5,
+      "importance_score": 53,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }

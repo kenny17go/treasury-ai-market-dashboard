@@ -1,18 +1,18 @@
 {
   "mode": "rules",
-  "headline": "市場風險情緒：中性",
+  "headline": "市場風險情緒：偏多",
   "bullets": [
-    "主要美股指數平均變動 -0.44%。",
+    "主要美股指數平均變動 +1.17%。",
     "美債10年殖利率 4.980%，日變動 +10.0 bps。",
-    "自選股強勢 AVGO +3.91%；較弱 NVDA -5.53%。",
+    "自選股強勢 SNDK +10.36%；較弱 AMZN -0.55%。",
     "2Y10Y 利差 +25.0 bps。"
   ],
-  "risk_score": 45,
-  "risk_label": "中性",
+  "risk_score": 64,
+  "risk_label": "偏多",
   "yesterday_top": [
-    "美股主要指數平均 -0.44%，風險情緒中性。",
+    "美股主要指數平均 +1.17%，風險情緒偏多。",
     "10Y 美債殖利率 4.980%。",
-    "DXY 日變動 +0.30%。"
+    "DXY 日變動 +0.64%。"
   ],
   "today_top": [
     "新聞｜〈貴金屬盤後〉美CPI火熱提振美元和美債殖利率 金價挫跌近3%",
@@ -21,11 +21,11 @@
   ],
   "todays_watch": [
     "利率：10Y 日變動 +10.0 bps。",
-    "美元：DXY 日變動 +0.30%。",
-    "波動率：VIX 18.49。",
+    "美元：DXY 日變動 +0.64%。",
+    "波動率：VIX 18.32。",
     "曲線：2Y10Y +25.0 bps。"
   ],
   "today_date_taipei": "2026-11-11",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-11T12:44:28.834370+00:00"
+  "as_of": "2026-11-11T14:49:33.851729+00:00"
 }
