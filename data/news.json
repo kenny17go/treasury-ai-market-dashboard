@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-12T02:34:48.569181+00:00",
+  "as_of": "2026-11-12T06:13:32.969989+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,36 +37,36 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "美債漲勢增添新動力 期中選舉結果令 AI 交易受創 | 國際焦點 | 國際",
-      "summary": "美債漲勢增添新動力 期中選舉結果令 AI 交易受創 | 國際焦點 | 國際 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNcVhGXzlWTXNrd1E0MmwxV1IwSUZJQ09yOTdvMVU5ZTNTdEFEVGZGeUtsbGJXemUtZUw3SGhhODRUT0FyZlg5TDZxSVRxMWdRTEZkbC1VcGU1UQ?oc=5",
-      "published": "Mon, 09 Nov 2026 14:03:46 GMT",
-      "topic": "美債",
-      "rank": 3,
-      "importance_score": 73,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
       "title": "〈能源盤後〉美淡化對伊朗再開戰可能 俄烏和談再添供應壓力 原油連2跌至2個月低點",
       "summary": "〈能源盤後〉美淡化對伊朗再開戰可能 俄烏和談再添供應壓力 原油連2跌至2個月低點 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13S1U0bVBiWTBDWWZjYk1KTU1PMGFPUEF4MXZXb2VJdHg2bTFPMTRxU3d3TDZKQ3p4UldPSmFrbnViT053Tkx0SHFlVmVrcTQ?oc=5",
       "published": "Tue, 10 Nov 2026 22:14:06 GMT",
       "topic": "能源",
-      "rank": 4,
-      "importance_score": 67,
+      "rank": 3,
+      "importance_score": 69,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "【財經縱覽】：黃金失守4000關口、WTI原油沖高回落，美元逼近103.0，AI交易受追捧，CoreWeave飆升近25% - Mitrade",
+      "summary": "【財經縱覽】：黃金失守4000關口、WTI原油沖高回落，美元逼近103.0，AI交易受追捧，CoreWeave飆升近25% Mitrade",
+      "source": "Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lM2Frd0lqOVlYczQyM09ZRTh6eTV4Qm41NVRaX0dnV29lcWVha1V5cVJERDBJZEVYTmxxX18tZkl5bjY1MU1uNXp5X0YydExsMjI1T2x4WEhqZm54RkhUNzFUZEZlemJyb3k5ZlBPY0l4bllDR084RmVQUFNKLWM?oc=5",
+      "published": "Thu, 12 Nov 2026 01:19:35 GMT",
+      "topic": "能源",
+      "rank": 4,
+      "importance_score": 61,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、具明確資產關聯"
     },
     {
       "title": "全球經濟指標",
