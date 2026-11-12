@@ -15,7 +15,7 @@
     "DXY 日變動 +0.69%。"
   ],
   "today_top": [
-    "新聞｜全球經濟指標| 鉅亨網"
+    "今日暫無已確認的高重要性事件；不以未來日期事件補位。"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +10.0 bps。",
@@ -25,5 +25,5 @@
   ],
   "today_date_taipei": "2026-11-12",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-11T21:40:31.428887+00:00"
+  "as_of": "2026-11-12T02:37:16.684337+00:00"
 }

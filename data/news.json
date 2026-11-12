@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-11T21:38:14.656300+00:00",
+  "as_of": "2026-11-12T02:34:48.569181+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,36 +53,36 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "全球經濟指標| 鉅亨網",
-      "summary": "全球經濟指標| 鉅亨網 鉅亨網",
+      "title": "〈能源盤後〉美淡化對伊朗再開戰可能 俄烏和談再添供應壓力 原油連2跌至2個月低點",
+      "summary": "〈能源盤後〉美淡化對伊朗再開戰可能 俄烏和談再添供應壓力 原油連2跌至2個月低點 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-      "published": "Wed, 11 Nov 2026 17:31:39 GMT",
-      "topic": "全球市場",
-      "rank": 4,
-      "importance_score": 51,
-      "related_assets": [
-        "Global Equity",
-        "USD",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源"
-    },
-    {
-      "title": "卡達液化天然氣出口逐步回升 裝船出港量仍僅戰前一半",
-      "summary": "卡達液化天然氣出口逐步回升 裝船出港量仍僅戰前一半 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hNUZRcm8xdTdPdjZHaXN3TFpHaVZnMmRRWkt6QnBFOVdzTVBLNi1PdXpkUEpEU2JGUC1jU1haOURrQkNycXlWVjZpcw?oc=5",
-      "published": "Tue, 10 Nov 2026 16:03:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13S1U0bVBiWTBDWWZjYk1KTU1PMGFPUEF4MXZXb2VJdHg2bTFPMTRxU3d3TDZKQ3p4UldPSmFrbnViT053Tkx0SHFlVmVrcTQ?oc=5",
+      "published": "Tue, 10 Nov 2026 22:14:06 GMT",
       "topic": "能源",
-      "rank": 5,
-      "importance_score": 53,
+      "rank": 4,
+      "importance_score": 67,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "全球經濟指標",
+      "summary": "全球經濟指標 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
+      "published": "Mon, 09 Nov 2026 08:00:00 GMT",
+      "topic": "全球市場",
+      "rank": 5,
+      "importance_score": 49,
+      "related_assets": [
+        "Global Equity",
+        "USD",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源"
     }
   ]
 }
