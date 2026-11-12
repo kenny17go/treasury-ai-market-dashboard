@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-12T15:22:36.157240+00:00",
+  "as_of": "2026-11-12T15:40:02.271337+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,36 +53,36 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
+      "title": "〈美股早盤〉黃仁勳辭職震撼市場！主要指數走低、輝達跌逾7%",
+      "summary": "〈美股早盤〉黃仁勳辭職震撼市場！主要指數走低、輝達跌逾7% 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94RUZ3OEEyY0NwWmxTbk5kQV9ZdHJxc3NmT1EyQjlOdExmUkN3NWRtOGs1MWc2bUt6VWNkUlBoQ1BYUnpKLWprdDFZRkhaNjA?oc=5",
+      "published": "Thu, 12 Nov 2026 14:44:58 GMT",
+      "topic": "美股",
+      "rank": 4,
+      "importance_score": 64,
+      "related_assets": [
+        "S&P 500",
+        "Nasdaq",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
       "title": "〈能源盤後〉美淡化對伊朗再開戰可能 俄烏和談再添供應壓力 原油連2跌至2個月低點",
       "summary": "〈能源盤後〉美淡化對伊朗再開戰可能 俄烏和談再添供應壓力 原油連2跌至2個月低點 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13S1U0bVBiWTBDWWZjYk1KTU1PMGFPUEF4MXZXb2VJdHg2bTFPMTRxU3d3TDZKQ3p4UldPSmFrbnViT053Tkx0SHFlVmVrcTQ?oc=5",
       "published": "Tue, 10 Nov 2026 22:14:06 GMT",
       "topic": "能源",
-      "rank": 4,
-      "importance_score": 67,
+      "rank": 5,
+      "importance_score": 65,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "凱利投資衰退風險儀表板：歷史經驗顯示選後美股表現穩健| 經濟日報 - LINE TODAY",
-      "summary": "凱利投資衰退風險儀表板：歷史經驗顯示選後美股表現穩健| 經濟日報 LINE TODAY",
-      "source": "LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50cl9ZNjBVZjM2alhOQnFMTXJRc05fbExJUmVHdGpOanlwdUhRTzlpTEM3U0dOZzI3QVl0dWZHWEF0N3V6NEd5ZVRXRDdLVXU5aVlTc3R3?oc=5",
-      "published": "Tue, 10 Nov 2026 04:10:27 GMT",
-      "topic": "美股",
-      "rank": 5,
-      "importance_score": 37,
-      "related_assets": [
-        "S&P 500",
-        "Nasdaq",
-        "UST"
-      ],
-      "why_selected": "具明確資產關聯"
     }
   ]
 }
