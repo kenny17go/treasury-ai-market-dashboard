@@ -1,57 +1,57 @@
 {
-  "as_of": "2026-11-12T15:40:00.630387+00:00",
+  "as_of": "2026-11-12T21:57:39.632021+00:00",
   "source": "U.S. Treasury / ECB",
   "rates": [
     {
       "series": "DGS2",
       "name": "美債 2年",
-      "value": 4.73,
+      "value": 4.86,
       "unit": "%",
-      "change_bps": 17.00000000000008,
-      "date": "2026-11-10T00:00:00",
+      "change_bps": 12.99999999999999,
+      "date": "2026-11-12T00:00:00",
       "source": "U.S. Treasury"
     },
     {
       "series": "DGS5",
       "name": "美債 5年",
-      "value": 4.81,
+      "value": 4.95,
       "unit": "%",
-      "change_bps": 13.999999999999968,
-      "date": "2026-11-10T00:00:00",
+      "change_bps": 14.000000000000057,
+      "date": "2026-11-12T00:00:00",
       "source": "U.S. Treasury"
     },
     {
       "series": "DGS10",
       "name": "美債 10年",
-      "value": 4.98,
+      "value": 5.1,
       "unit": "%",
-      "change_bps": 10.000000000000053,
-      "date": "2026-11-10T00:00:00",
+      "change_bps": 11.999999999999922,
+      "date": "2026-11-12T00:00:00",
       "source": "U.S. Treasury"
     },
     {
       "series": "DGS30",
       "name": "美債 30年",
-      "value": 5.35,
+      "value": 5.43,
       "unit": "%",
-      "change_bps": 8.999999999999986,
-      "date": "2026-11-10T00:00:00",
+      "change_bps": 8.000000000000007,
+      "date": "2026-11-12T00:00:00",
       "source": "U.S. Treasury"
     },
     {
       "series": "2S10S",
       "name": "2Y10Y 利差",
-      "value": 25.0,
+      "value": 23.999999999999932,
       "unit": "bps",
-      "change_bps": -7.000000000000028,
+      "change_bps": -1.0000000000000675,
       "source": "U.S. Treasury derived"
     },
     {
       "series": "5S30S",
       "name": "5Y30Y 利差",
-      "value": 54.0,
+      "value": 47.99999999999996,
       "unit": "bps",
-      "change_bps": -4.999999999999986,
+      "change_bps": -6.000000000000043,
       "source": "U.S. Treasury derived"
     },
     {

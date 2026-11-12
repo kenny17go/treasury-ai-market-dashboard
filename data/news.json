@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-12T15:40:02.271337+00:00",
+  "as_of": "2026-11-12T21:57:41.047164+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "美10月CPI今夜揭曉：年增率罕見缺席 月增放緩能否撼動聯準會12月升息預期？",
-      "summary": "美10月CPI今夜揭曉：年增率罕見缺席 月增放緩能否撼動聯準會12月升息預期？ 鉅亨網",
+      "title": "CPI掀美債殺盤、連沃勒都轉鷹 華爾街將「一口氣升息2碼」納入定價",
+      "summary": "CPI掀美債殺盤、連沃勒都轉鷹 華爾街將「一口氣升息2碼」納入定價 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FQmtqMDg3YW01alVQWEw5U1hpdnFqNkRadU5SX0Z4RWZERnQyVFN5RFM2WnlISmM0UWU4ZkNrcTZiYzB5ZmVmbFh6TmJVMzg?oc=5",
-      "published": "Tue, 10 Nov 2026 12:30:03 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNRU54SXp2QXN6ZDBRS2dQOWR5dDQ5Z0FQWnpsZlVpc2hxanA1dUVrMVhZX1FxbDFRcGdlSGFUME40czNtRXN6ekpieFlzQ3c?oc=5",
+      "published": "Wed, 11 Nov 2026 08:20:04 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 87,
+      "importance_score": 86,
       "related_assets": [
         "UST",
         "USD",
@@ -37,14 +37,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈能源盤後〉川普稱不太可能再攻擊伊朗 Brent盤後跌逾7美元 創8月底來新低",
-      "summary": "〈能源盤後〉川普稱不太可能再攻擊伊朗 Brent盤後跌逾7美元 創8月底來新低 鉅亨網",
+      "title": "川普喊「不需要與伊朗達成協議」！談判前景蒙陰影 國際油價走高",
+      "summary": "川普喊「不需要與伊朗達成協議」！談判前景蒙陰影 國際油價走高 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wMTI0VjBrVWhQWm5vR1FJaURtUUNLa1hBODA3YUhmVS0zRHR0UW9jenBVSkZGU2djOFNLS0ZFWUVFbzI4M3BTZTVkYw?oc=5",
-      "published": "Mon, 09 Nov 2026 21:57:38 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHeVR1NXFWZVBJbnNuRXFVd19CWHlFYk9EY0lmQWdLazRERVpEU2xBRE83emMtd083aXA5WllFNTd4OFVDTGNnUUtrdFkyRWM?oc=5",
+      "published": "Thu, 12 Nov 2026 13:26:08 GMT",
       "topic": "能源",
       "rank": 3,
-      "importance_score": 69,
+      "importance_score": 65,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
