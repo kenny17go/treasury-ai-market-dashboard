@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-12T06:13:32.969989+00:00",
+  "as_of": "2026-11-12T15:22:36.157240+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "十月美債反彈只是空單回補假象！T Rowe Price：美債殖利率恐再衝高 衰退才見頂",
-      "summary": "十月美債反彈只是空單回補假象！T Rowe Price：美債殖利率恐再衝高 衰退才見頂 鉅亨網",
+      "title": "美10月CPI今夜揭曉：年增率罕見缺席 月增放緩能否撼動聯準會12月升息預期？",
+      "summary": "美10月CPI今夜揭曉：年增率罕見缺席 月增放緩能否撼動聯準會12月升息預期？ 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HOUY3S3U4RE55NEM4OHR4TnZPZFk2bTRYWFZrVmx3VnFlWFEzNTBvbzc2ZjZTT1JjTVE5MEZPZXdFWC1GMXMxdXZPNA?oc=5",
-      "published": "Tue, 10 Nov 2026 20:21:43 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FQmtqMDg3YW01alVQWEw5U1hpdnFqNkRadU5SX0Z4RWZERnQyVFN5RFM2WnlISmM0UWU4ZkNrcTZiYzB5ZmVmbFh6TmJVMzg?oc=5",
+      "published": "Tue, 10 Nov 2026 12:30:03 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 85,
+      "importance_score": 87,
       "related_assets": [
         "UST",
         "USD",
@@ -37,11 +37,11 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈能源盤後〉美淡化對伊朗再開戰可能 俄烏和談再添供應壓力 原油連2跌至2個月低點",
-      "summary": "〈能源盤後〉美淡化對伊朗再開戰可能 俄烏和談再添供應壓力 原油連2跌至2個月低點 鉅亨網",
+      "title": "〈能源盤後〉川普稱不太可能再攻擊伊朗 Brent盤後跌逾7美元 創8月底來新低",
+      "summary": "〈能源盤後〉川普稱不太可能再攻擊伊朗 Brent盤後跌逾7美元 創8月底來新低 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13S1U0bVBiWTBDWWZjYk1KTU1PMGFPUEF4MXZXb2VJdHg2bTFPMTRxU3d3TDZKQ3p4UldPSmFrbnViT053Tkx0SHFlVmVrcTQ?oc=5",
-      "published": "Tue, 10 Nov 2026 22:14:06 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wMTI0VjBrVWhQWm5vR1FJaURtUUNLa1hBODA3YUhmVS0zRHR0UW9jenBVSkZGU2djOFNLS0ZFWUVFbzI4M3BTZTVkYw?oc=5",
+      "published": "Mon, 09 Nov 2026 21:57:38 GMT",
       "topic": "能源",
       "rank": 3,
       "importance_score": 69,
@@ -53,36 +53,36 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "【財經縱覽】：黃金失守4000關口、WTI原油沖高回落，美元逼近103.0，AI交易受追捧，CoreWeave飆升近25% - Mitrade",
-      "summary": "【財經縱覽】：黃金失守4000關口、WTI原油沖高回落，美元逼近103.0，AI交易受追捧，CoreWeave飆升近25% Mitrade",
-      "source": "Mitrade",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lM2Frd0lqOVlYczQyM09ZRTh6eTV4Qm41NVRaX0dnV29lcWVha1V5cVJERDBJZEVYTmxxX18tZkl5bjY1MU1uNXp5X0YydExsMjI1T2x4WEhqZm54RkhUNzFUZEZlemJyb3k5ZlBPY0l4bllDR084RmVQUFNKLWM?oc=5",
-      "published": "Thu, 12 Nov 2026 01:19:35 GMT",
+      "title": "〈能源盤後〉美淡化對伊朗再開戰可能 俄烏和談再添供應壓力 原油連2跌至2個月低點",
+      "summary": "〈能源盤後〉美淡化對伊朗再開戰可能 俄烏和談再添供應壓力 原油連2跌至2個月低點 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13S1U0bVBiWTBDWWZjYk1KTU1PMGFPUEF4MXZXb2VJdHg2bTFPMTRxU3d3TDZKQ3p4UldPSmFrbnViT053Tkx0SHFlVmVrcTQ?oc=5",
+      "published": "Tue, 10 Nov 2026 22:14:06 GMT",
       "topic": "能源",
       "rank": 4,
-      "importance_score": 61,
+      "importance_score": 67,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
-      "why_selected": "高市場影響主題、具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "全球經濟指標",
-      "summary": "全球經濟指標 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-      "published": "Mon, 09 Nov 2026 08:00:00 GMT",
-      "topic": "全球市場",
+      "title": "凱利投資衰退風險儀表板：歷史經驗顯示選後美股表現穩健| 經濟日報 - LINE TODAY",
+      "summary": "凱利投資衰退風險儀表板：歷史經驗顯示選後美股表現穩健| 經濟日報 LINE TODAY",
+      "source": "LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50cl9ZNjBVZjM2alhOQnFMTXJRc05fbExJUmVHdGpOanlwdUhRTzlpTEM3U0dOZzI3QVl0dWZHWEF0N3V6NEd5ZVRXRDdLVXU5aVlTc3R3?oc=5",
+      "published": "Tue, 10 Nov 2026 04:10:27 GMT",
+      "topic": "美股",
       "rank": 5,
-      "importance_score": 49,
+      "importance_score": 37,
       "related_assets": [
-        "Global Equity",
-        "USD",
+        "S&P 500",
+        "Nasdaq",
         "UST"
       ],
-      "why_selected": "高品質財經來源"
+      "why_selected": "具明確資產關聯"
     }
   ]
 }

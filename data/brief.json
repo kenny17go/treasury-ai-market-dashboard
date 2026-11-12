@@ -1,29 +1,29 @@
 {
   "mode": "rules",
-  "headline": "市場風險情緒：偏多",
+  "headline": "市場風險情緒：中性",
   "bullets": [
-    "主要美股指數平均變動 +2.25%。",
+    "主要美股指數平均變動 -0.77%。",
     "美債10年殖利率 4.980%，日變動 +10.0 bps。",
-    "自選股強勢 SNDK +13.71%；較弱 MSFT -2.24%。",
+    "自選股強勢 AVGO +5.20%；較弱 ASX ADR -5.98%。",
     "2Y10Y 利差 +25.0 bps。"
   ],
-  "risk_score": 77,
-  "risk_label": "偏多",
+  "risk_score": 41,
+  "risk_label": "中性",
   "yesterday_top": [
-    "美股主要指數平均 +2.25%，風險情緒偏多。",
+    "美股主要指數平均 -0.77%，風險情緒中性。",
     "10Y 美債殖利率 4.980%。",
-    "DXY 日變動 +0.06%。"
+    "DXY 日變動 +0.17%。"
   ],
   "today_top": [
-    "新聞｜【財經縱覽】：黃金失守4000關口、WTI原油沖高回落，美元逼近103.0，AI交易受追捧，CoreWeave飆升近25% - Mitrade"
+    "今日暫無已確認的高重要性事件；不以未來日期事件補位。"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +10.0 bps。",
-    "美元：DXY 日變動 +0.06%。",
-    "波動率：VIX 17.49。",
+    "美元：DXY 日變動 +0.17%。",
+    "波動率：VIX 18.48。",
     "曲線：2Y10Y +25.0 bps。"
   ],
   "today_date_taipei": "2026-11-12",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-12T06:15:39.052837+00:00"
+  "as_of": "2026-11-12T15:24:28.314715+00:00"
 }
