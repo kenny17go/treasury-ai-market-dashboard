@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-11-13T05:35:17.915038+00:00",
+  "as_of": "2026-11-13T13:26:18.809660+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "〈貴金屬盤後〉美CPI火熱提振美元和美債殖利率 金價挫跌近3%",
-      "summary": "〈貴金屬盤後〉美CPI火熱提振美元和美債殖利率 金價挫跌近3% 鉅亨網",
+      "title": "CPI掀美債殺盤、連沃勒都轉鷹 華爾街將「一口氣升息2碼」納入定價",
+      "summary": "CPI掀美債殺盤、連沃勒都轉鷹 華爾街將「一口氣升息2碼」納入定價 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12bGxMbUs5eXkwU0h3SENYM1VnS0o2ckhqYmpGcVVVMERsbTN4Q2FTT2p4Y29hdjZQZERzazY3d2VnVUx2Q1Y5XzFqZjdKLVk?oc=5",
-      "published": "Wed, 11 Nov 2026 02:35:36 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNRU54SXp2QXN6ZDBRS2dQOWR5dDQ5Z0FQWnpsZlVpc2hxanA1dUVrMVhZX1FxbDFRcGdlSGFUME40czNtRXN6ekpieFlzQ3c?oc=5",
+      "published": "Wed, 11 Nov 2026 08:20:04 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 95,
+      "importance_score": 88,
       "related_assets": [
         "UST",
         "USD",
@@ -21,14 +21,14 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "CPI掀美債殺盤、連沃勒都轉鷹 華爾街將「一口氣升息2碼」納入定價",
-      "summary": "CPI掀美債殺盤、連沃勒都轉鷹 華爾街將「一口氣升息2碼」納入定價 鉅亨網",
+      "title": "十月美債反彈只是空單回補假象！T Rowe Price：美債殖利率恐再衝高 衰退才見頂",
+      "summary": "十月美債反彈只是空單回補假象！T Rowe Price：美債殖利率恐再衝高 衰退才見頂 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNRU54SXp2QXN6ZDBRS2dQOWR5dDQ5Z0FQWnpsZlVpc2hxanA1dUVrMVhZX1FxbDFRcGdlSGFUME40czNtRXN6ekpieFlzQ3c?oc=5",
-      "published": "Wed, 11 Nov 2026 08:20:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HOUY3S3U4RE55NEM4OHR4TnZPZFk2bTRYWFZrVmx3VnFlWFEzNTBvbzc2ZjZTT1JjTVE5MEZPZXdFWC1GMXMxdXZPNA?oc=5",
+      "published": "Tue, 10 Nov 2026 20:21:43 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 86,
+      "importance_score": 85,
       "related_assets": [
         "UST",
         "USD",
