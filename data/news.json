@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-12T21:57:41.047164+00:00",
+  "as_of": "2026-11-13T02:18:53.685383+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,36 +37,20 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "川普喊「不需要與伊朗達成協議」！談判前景蒙陰影 國際油價走高",
-      "summary": "川普喊「不需要與伊朗達成協議」！談判前景蒙陰影 國際油價走高 鉅亨網",
+      "title": "〈貴金屬盤後〉川普宣稱不需要與伊朗達成協議 黃金下挫3%觸逾一年低點",
+      "summary": "〈貴金屬盤後〉川普宣稱不需要與伊朗達成協議 黃金下挫3%觸逾一年低點 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHeVR1NXFWZVBJbnNuRXFVd19CWHlFYk9EY0lmQWdLazRERVpEU2xBRE83emMtd083aXA5WllFNTd4OFVDTGNnUUtrdFkyRWM?oc=5",
-      "published": "Thu, 12 Nov 2026 13:26:08 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JNE02dU8tcElqblYxcVZOcFhvWXB5a19NTUFSQVkwS3llVjl5MkYxZnkzUTJaZnh4OTR2dWpSSFVCUGFFU3laX3hBWQ?oc=5",
+      "published": "Thu, 12 Nov 2026 23:00:06 GMT",
+      "topic": "黃金",
       "rank": 3,
-      "importance_score": 65,
+      "importance_score": 67,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "〈美股早盤〉黃仁勳辭職震撼市場！主要指數走低、輝達跌逾7%",
-      "summary": "〈美股早盤〉黃仁勳辭職震撼市場！主要指數走低、輝達跌逾7% 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94RUZ3OEEyY0NwWmxTbk5kQV9ZdHJxc3NmT1EyQjlOdExmUkN3NWRtOGs1MWc2bUt6VWNkUlBoQ1BYUnpKLWprdDFZRkhaNjA?oc=5",
-      "published": "Thu, 12 Nov 2026 14:44:58 GMT",
-      "topic": "美股",
-      "rank": 4,
-      "importance_score": 64,
-      "related_assets": [
-        "S&P 500",
-        "Nasdaq",
+        "Gold",
+        "USD",
         "UST"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
       "title": "〈能源盤後〉美淡化對伊朗再開戰可能 俄烏和談再添供應壓力 原油連2跌至2個月低點",
@@ -75,12 +59,28 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13S1U0bVBiWTBDWWZjYk1KTU1PMGFPUEF4MXZXb2VJdHg2bTFPMTRxU3d3TDZKQ3p4UldPSmFrbnViT053Tkx0SHFlVmVrcTQ?oc=5",
       "published": "Tue, 10 Nov 2026 22:14:06 GMT",
       "topic": "能源",
-      "rank": 5,
-      "importance_score": 65,
+      "rank": 4,
+      "importance_score": 67,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "〈美股早盤〉黃仁勳辭職震撼市場！主要指數走低、輝達跌逾7%",
+      "summary": "〈美股早盤〉黃仁勳辭職震撼市場！主要指數走低、輝達跌逾7% 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94RUZ3OEEyY0NwWmxTbk5kQV9ZdHJxc3NmT1EyQjlOdExmUkN3NWRtOGs1MWc2bUt6VWNkUlBoQ1BYUnpKLWprdDFZRkhaNjA?oc=5",
+      "published": "Thu, 12 Nov 2026 14:44:58 GMT",
+      "topic": "美股",
+      "rank": 5,
+      "importance_score": 62,
+      "related_assets": [
+        "S&P 500",
+        "Nasdaq",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
