@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-13T13:26:18.809660+00:00",
+  "as_of": "2026-11-13T14:58:13.727880+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
