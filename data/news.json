@@ -1,38 +1,54 @@
 {
-  "as_of": "2026-11-13T21:09:06.893841+00:00",
+  "as_of": "2026-11-14T01:32:16.408146+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "十月美債反彈只是空單回補假象！T Rowe Price：美債殖利率恐再衝高 衰退才見頂",
-      "summary": "十月美債反彈只是空單回補假象！T Rowe Price：美債殖利率恐再衝高 衰退才見頂 鉅亨網",
+      "title": "美元飆上19個月高點！全球市場迎新風暴 聯準會12月升息幾無懸念",
+      "summary": "美元飆上19個月高點！全球市場迎新風暴 聯準會12月升息幾無懸念 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1obWFCX2c3VGxBeUloUkVsbzdhWXBLOURCWlRBSHZHY3FmVHhmU2xralUwdE5mYS1YQXY3Z09pa0VKS0xhbFlTM2VhUjhNUU0?oc=5",
-      "published": "Tue, 10 Nov 2026 23:53:57 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2ZEFjWG5Wc2JYWE45WEZfVElqUnhMM3I4MXVIeGJuT2dQc1p5OW44TDFWVTk2UEM2bjlWcTZSUkxWa3pld3JpdkFZWQ?oc=5",
+      "published": "Thu, 12 Nov 2026 03:19:21 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 87,
+      "importance_score": 81,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "美元飆上19個月高點！全球市場迎新風暴 聯準會12月升息幾無懸念",
-      "summary": "美元飆上19個月高點！全球市場迎新風暴 聯準會12月升息幾無懸念 鉅亨網",
+      "title": "〈貴金屬盤後〉升息疑慮增溫 黃金連二黑、跌破4000美元關卡",
+      "summary": "〈貴金屬盤後〉升息疑慮增溫 黃金連二黑、跌破4000美元關卡 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNdzdrYnlHWFpMQXMyVHF5SEVhTENyYlBiZG4yREFYN2h3QThlRkplbE13WGN1ZlNaejhkc04yUmVIRzR6eVlNMHN6RnB5TjQ?oc=5",
-      "published": "Thu, 12 Nov 2026 03:19:21 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uSG9Vc0NMSktUMHlSV21VZ1JFSHU5RzMwMUR0cHA2UG15SmxpYkRVSVBHRjNMRU9ydXIwcG11SjYxbmdDWDBjV1N1dlF4ZWc?oc=5",
+      "published": "Wed, 11 Nov 2026 23:11:54 GMT",
       "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 79,
+      "importance_score": 76,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "〈貴金屬盤後〉川普宣稱不需要與伊朗達成協議 黃金下挫3%觸逾一年低點",
+      "summary": "〈貴金屬盤後〉川普宣稱不需要與伊朗達成協議 黃金下挫3%觸逾一年低點 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JNE02dU8tcElqblYxcVZOcFhvWXB5a19NTUFSQVkwS3llVjl5MkYxZnkzUTJaZnh4OTR2dWpSSFVCUGFFU3laX3hBWQ?oc=5",
+      "published": "Thu, 12 Nov 2026 23:00:06 GMT",
+      "topic": "黃金",
+      "rank": 3,
+      "importance_score": 67,
+      "related_assets": [
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
@@ -43,44 +59,28 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHeVR1NXFWZVBJbnNuRXFVd19CWHlFYk9EY0lmQWdLazRERVpEU2xBRE83emMtd083aXA5WllFNTd4OFVDTGNnUUtrdFkyRWM?oc=5",
       "published": "Thu, 12 Nov 2026 13:26:08 GMT",
       "topic": "能源",
-      "rank": 3,
-      "importance_score": 65,
+      "rank": 4,
+      "importance_score": 63,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "〈貴金屬盤後〉川普宣稱不需要與伊朗達成協議 黃金下挫3%觸逾一年低點",
-      "summary": "〈貴金屬盤後〉川普宣稱不需要與伊朗達成協議 黃金下挫3%觸逾一年低點 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HdXY2dlh3bFZheTZnR21wWGpUNGFvdEdTU2gzTDBoRnFZNDlzMExBbm1kaEplNkRpSVBKR0xLSkNXaE9YMFU2bWlSUHJzSEk?oc=5",
-      "published": "Fri, 13 Nov 2026 07:51:41 GMT",
-      "topic": "黃金",
-      "rank": 4,
-      "importance_score": 65,
-      "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈能源盤後〉美淡化對伊朗再開戰可能 俄烏和談再添供應壓力 原油連2跌至2個月低點",
-      "summary": "〈能源盤後〉美淡化對伊朗再開戰可能 俄烏和談再添供應壓力 原油連2跌至2個月低點 鉅亨網",
+      "title": "〈美股早盤〉黃仁勳辭職震撼市場！主要指數走低、輝達跌逾7%",
+      "summary": "〈美股早盤〉黃仁勳辭職震撼市場！主要指數走低、輝達跌逾7% 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13S1U0bVBiWTBDWWZjYk1KTU1PMGFPUEF4MXZXb2VJdHg2bTFPMTRxU3d3TDZKQ3p4UldPSmFrbnViT053Tkx0SHFlVmVrcTQ?oc=5",
-      "published": "Tue, 10 Nov 2026 22:14:06 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94RUZ3OEEyY0NwWmxTbk5kQV9ZdHJxc3NmT1EyQjlOdExmUkN3NWRtOGs1MWc2bUt6VWNkUlBoQ1BYUnpKLWprdDFZRkhaNjA?oc=5",
+      "published": "Thu, 12 Nov 2026 14:44:58 GMT",
+      "topic": "美股",
       "rank": 5,
-      "importance_score": 65,
+      "importance_score": 62,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
+        "S&P 500",
+        "Nasdaq",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
