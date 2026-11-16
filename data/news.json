@@ -1,22 +1,38 @@
 {
-  "as_of": "2026-11-16T05:20:22.260800+00:00",
+  "as_of": "2026-11-16T13:51:07.833528+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "〈貴金屬盤後〉川普宣稱不需要與伊朗達成協議 黃金下挫3%觸逾一年低點",
-      "summary": "〈貴金屬盤後〉川普宣稱不需要與伊朗達成協議 黃金下挫3%觸逾一年低點 鉅亨網",
+      "title": "強勢美元與升息預期雙重打擊 金價跌至逾一年新低",
+      "summary": "強勢美元與升息預期雙重打擊 金價跌至逾一年新低 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HdXY2dlh3bFZheTZnR21wWGpUNGFvdEdTU2gzTDBoRnFZNDlzMExBbm1kaEplNkRpSVBKR0xLSkNXaE9YMFU2bWlSUHJzSEk?oc=5",
-      "published": "Fri, 13 Nov 2026 07:51:41 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STi1Tb3M1MkxVdExOOGJOMXpWemxvRG5QeHNaU2txanlmQmtTRnRJWmhwV1VITlU1TVFPZ1JIY2RwNV9Tak9lYl9FWQ?oc=5",
+      "published": "Mon, 16 Nov 2026 09:50:05 GMT",
+      "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 71,
+      "importance_score": 68,
       "related_assets": [
-        "Gold",
+        "UST",
         "USD",
-        "UST"
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "科技股拋售與中國數據疲軟拖累 國際銅價跌至4個月新低",
+      "summary": "科技股拋售與中國數據疲軟拖累 國際銅價跌至4個月新低 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12UjV2bGhJVGh1T3hJWFpfc0ZDTkJ6S3V2ZndmSHI4NUN4MEt0QUJELS00Q0VnSmpJXzBnX3UyNzFWOHAwWF8wNHhGVnpWRzQ?oc=5",
+      "published": "Mon, 16 Nov 2026 11:00:05 GMT",
+      "topic": "中國",
+      "rank": 2,
+      "importance_score": 68,
+      "related_assets": [
+        "CNH",
+        "China Equity",
+        "Commodities"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
@@ -27,8 +43,8 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ySHZFZ3hyV3g5aUMwVk5XSzhWY18xNWJLVFpwR3FrSWR3RVh2WmtwZ1EwUjBHS01IamJrLTVRbUgzeTE3cW9iR2JHNm0xR2M?oc=5",
       "published": "Sat, 14 Nov 2026 05:00:05 GMT",
       "topic": "美股",
-      "rank": 2,
-      "importance_score": 68,
+      "rank": 3,
+      "importance_score": 66,
       "related_assets": [
         "S&P 500",
         "Nasdaq",
@@ -37,20 +53,20 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "債券市場如今面臨比AI衝擊更大的恐懼",
-      "summary": "債券市場如今面臨比AI衝擊更大的恐懼 鉅亨網",
+      "title": "強美元正在「破壞一切」！美銀把翻多時點往後推 明年春天再看",
+      "summary": "強美元正在「破壞一切」！美銀把翻多時點往後推 明年春天再看 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oSWFfeXh3dGlwUVFVazFHWGFPRmJkRWZIeTRJOW1xRzRUcEhZZEd6eV9kS1dCOTJ2Q1ZXd29udlFYcnZMT2VVVUJQSGtNNkk?oc=5",
-      "published": "Fri, 13 Nov 2026 07:30:03 GMT",
-      "topic": "AI / 半導體",
-      "rank": 3,
-      "importance_score": 66,
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDN3p1bV9uZkxiWEcwYXl5Q0NmbS0xTGo1ekhLUU9qdC1OWFA3c1owRm9tclpvMFVrcmpvenpjTU9UNDFnc0VBT3p3bw?oc=5",
+      "published": "Mon, 16 Nov 2026 08:10:04 GMT",
+      "topic": "全球市場",
+      "rank": 4,
+      "importance_score": 51,
       "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
+        "Global Equity",
+        "USD",
+        "UST"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高品質財經來源"
     },
     {
       "title": "〈貴金屬盤後〉金價周跌4.5% 創6月初以來最差單周",
@@ -59,30 +75,14 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kOERjYmFnYzMwT3d2NnFSTGpsMG5peFY3M1NfWDh2Qm1TVnVzTkZLR3FKMnZBXzRVdUdkMUxOdTV6Y1lHTjhmWUpwdw?oc=5",
       "published": "Fri, 13 Nov 2026 23:17:58 GMT",
       "topic": "黃金",
-      "rank": 4,
-      "importance_score": 59,
+      "rank": 5,
+      "importance_score": 57,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "【遠東商銀】歐洲數據不弱，但歐元無力回升",
-      "summary": "【遠東商銀】歐洲數據不弱，但歐元無力回升 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DTk9jODJlTDBXYkVENDMycVEzallqYTNYcy1PNjZfa2h1X01PNUNXNWVnOEhKOXFpSFBMcXVnMUZwUEptdG1VTTU4TQ?oc=5",
-      "published": "Mon, 16 Nov 2026 01:25:16 GMT",
-      "topic": "全球市場",
-      "rank": 5,
-      "importance_score": 49,
-      "related_assets": [
-        "Global Equity",
-        "USD",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源"
     }
   ]
 }
