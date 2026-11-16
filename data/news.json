@@ -1,50 +1,18 @@
 {
-  "as_of": "2026-11-14T01:32:16.408146+00:00",
+  "as_of": "2026-11-16T05:20:22.260800+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "美元飆上19個月高點！全球市場迎新風暴 聯準會12月升息幾無懸念",
-      "summary": "美元飆上19個月高點！全球市場迎新風暴 聯準會12月升息幾無懸念 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2ZEFjWG5Wc2JYWE45WEZfVElqUnhMM3I4MXVIeGJuT2dQc1p5OW44TDFWVTk2UEM2bjlWcTZSUkxWa3pld3JpdkFZWQ?oc=5",
-      "published": "Thu, 12 Nov 2026 03:19:21 GMT",
-      "topic": "Fed / 利率",
-      "rank": 1,
-      "importance_score": 81,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "〈貴金屬盤後〉升息疑慮增溫 黃金連二黑、跌破4000美元關卡",
-      "summary": "〈貴金屬盤後〉升息疑慮增溫 黃金連二黑、跌破4000美元關卡 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uSG9Vc0NMSktUMHlSV21VZ1JFSHU5RzMwMUR0cHA2UG15SmxpYkRVSVBHRjNMRU9ydXIwcG11SjYxbmdDWDBjV1N1dlF4ZWc?oc=5",
-      "published": "Wed, 11 Nov 2026 23:11:54 GMT",
-      "topic": "Fed / 利率",
-      "rank": 2,
-      "importance_score": 76,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
       "title": "〈貴金屬盤後〉川普宣稱不需要與伊朗達成協議 黃金下挫3%觸逾一年低點",
       "summary": "〈貴金屬盤後〉川普宣稱不需要與伊朗達成協議 黃金下挫3%觸逾一年低點 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JNE02dU8tcElqblYxcVZOcFhvWXB5a19NTUFSQVkwS3llVjl5MkYxZnkzUTJaZnh4OTR2dWpSSFVCUGFFU3laX3hBWQ?oc=5",
-      "published": "Thu, 12 Nov 2026 23:00:06 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HdXY2dlh3bFZheTZnR21wWGpUNGFvdEdTU2gzTDBoRnFZNDlzMExBbm1kaEplNkRpSVBKR0xLSkNXaE9YMFU2bWlSUHJzSEk?oc=5",
+      "published": "Fri, 13 Nov 2026 07:51:41 GMT",
       "topic": "黃金",
-      "rank": 3,
-      "importance_score": 67,
+      "rank": 1,
+      "importance_score": 71,
       "related_assets": [
         "Gold",
         "USD",
@@ -53,36 +21,68 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "川普喊「不需要與伊朗達成協議」！談判前景蒙陰影 國際油價走高",
-      "summary": "川普喊「不需要與伊朗達成協議」！談判前景蒙陰影 國際油價走高 鉅亨網",
+      "title": "獲利成長減速、牛市還未完！高盛點名三大布局方向 看好標普明年再漲16%",
+      "summary": "獲利成長減速、牛市還未完！高盛點名三大布局方向 看好標普明年再漲16% 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHeVR1NXFWZVBJbnNuRXFVd19CWHlFYk9EY0lmQWdLazRERVpEU2xBRE83emMtd083aXA5WllFNTd4OFVDTGNnUUtrdFkyRWM?oc=5",
-      "published": "Thu, 12 Nov 2026 13:26:08 GMT",
-      "topic": "能源",
-      "rank": 4,
-      "importance_score": 63,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "〈美股早盤〉黃仁勳辭職震撼市場！主要指數走低、輝達跌逾7%",
-      "summary": "〈美股早盤〉黃仁勳辭職震撼市場！主要指數走低、輝達跌逾7% 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94RUZ3OEEyY0NwWmxTbk5kQV9ZdHJxc3NmT1EyQjlOdExmUkN3NWRtOGs1MWc2bUt6VWNkUlBoQ1BYUnpKLWprdDFZRkhaNjA?oc=5",
-      "published": "Thu, 12 Nov 2026 14:44:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ySHZFZ3hyV3g5aUMwVk5XSzhWY18xNWJLVFpwR3FrSWR3RVh2WmtwZ1EwUjBHS01IamJrLTVRbUgzeTE3cW9iR2JHNm0xR2M?oc=5",
+      "published": "Sat, 14 Nov 2026 05:00:05 GMT",
       "topic": "美股",
-      "rank": 5,
-      "importance_score": 62,
+      "rank": 2,
+      "importance_score": 68,
       "related_assets": [
         "S&P 500",
         "Nasdaq",
         "UST"
       ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "債券市場如今面臨比AI衝擊更大的恐懼",
+      "summary": "債券市場如今面臨比AI衝擊更大的恐懼 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oSWFfeXh3dGlwUVFVazFHWGFPRmJkRWZIeTRJOW1xRzRUcEhZZEd6eV9kS1dCOTJ2Q1ZXd29udlFYcnZMT2VVVUJQSGtNNkk?oc=5",
+      "published": "Fri, 13 Nov 2026 07:30:03 GMT",
+      "topic": "AI / 半導體",
+      "rank": 3,
+      "importance_score": 66,
+      "related_assets": [
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "〈貴金屬盤後〉金價周跌4.5% 創6月初以來最差單周",
+      "summary": "〈貴金屬盤後〉金價周跌4.5% 創6月初以來最差單周 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kOERjYmFnYzMwT3d2NnFSTGpsMG5peFY3M1NfWDh2Qm1TVnVzTkZLR3FKMnZBXzRVdUdkMUxOdTV6Y1lHTjhmWUpwdw?oc=5",
+      "published": "Fri, 13 Nov 2026 23:17:58 GMT",
+      "topic": "黃金",
+      "rank": 4,
+      "importance_score": 59,
+      "related_assets": [
+        "Gold",
+        "USD",
+        "UST"
+      ],
       "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "【遠東商銀】歐洲數據不弱，但歐元無力回升",
+      "summary": "【遠東商銀】歐洲數據不弱，但歐元無力回升 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DTk9jODJlTDBXYkVENDMycVEzallqYTNYcy1PNjZfa2h1X01PNUNXNWVnOEhKOXFpSFBMcXVnMUZwUEptdG1VTTU4TQ?oc=5",
+      "published": "Mon, 16 Nov 2026 01:25:16 GMT",
+      "topic": "全球市場",
+      "rank": 5,
+      "importance_score": 49,
+      "related_assets": [
+        "Global Equity",
+        "USD",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源"
     }
   ]
 }

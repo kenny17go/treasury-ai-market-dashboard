@@ -4,7 +4,7 @@
   "bullets": [
     "主要美股指數平均變動 -1.18%。",
     "美債10年殖利率 5.150%，日變動 +5.0 bps。",
-    "自選股強勢 SWKS +2.66%；較弱 SNDK -9.53%。",
+    "自選股強勢 META +2.95%；較弱 AMD -8.75%。",
     "2Y10Y 利差 +27.0 bps。"
   ],
   "risk_score": 36,
@@ -12,18 +12,18 @@
   "yesterday_top": [
     "美股主要指數平均 -1.18%，風險情緒偏空。",
     "10Y 美債殖利率 5.150%。",
-    "DXY 日變動 +0.23%。"
+    "DXY 日變動 +0.01%。"
   ],
   "today_top": [
-    "今日暫無已確認的高重要性事件；不以未來日期事件補位。"
+    "新聞｜【遠東商銀】歐洲數據不弱，但歐元無力回升"
   ],
   "todays_watch": [
     "利率：10Y 日變動 +5.0 bps。",
-    "美元：DXY 日變動 +0.23%。",
+    "美元：DXY 日變動 +0.01%。",
     "波動率：VIX 19.30。",
     "曲線：2Y10Y +27.0 bps。"
   ],
-  "today_date_taipei": "2026-11-14",
+  "today_date_taipei": "2026-11-16",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-14T01:35:02.015301+00:00"
+  "as_of": "2026-11-16T05:22:58.638089+00:00"
 }
