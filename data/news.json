@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-17T07:00:48.379909+00:00",
+  "as_of": "2026-11-17T16:32:15.603323+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,20 +21,52 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "40年市場老將押注美股崩跌40%、油價飆至500美元 警告美股恐重演韓股夏季暴跌行情",
+      "summary": "40年市場老將押注美股崩跌40%、油價飆至500美元 警告美股恐重演韓股夏季暴跌行情 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQMmFxYllRYnVQQ1E5bWJjMDY3TTBxQVhYODdQNjZNX0d2RExLTUVrYWJucU1xUV9CdVowN3otNDluWmNwZkV2Vi1aMkkyVEk?oc=5",
+      "published": "Tue, 17 Nov 2026 13:10:03 GMT",
+      "topic": "能源",
+      "rank": 2,
+      "importance_score": 76,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
       "title": "1個月狂飆卻要苦等2年重返高點！高盛：Fed升息壓抑金價 2028年底前有望重回5600美元",
       "summary": "1個月狂飆卻要苦等2年重返高點！高盛：Fed升息壓抑金價 2028年底前有望重回5600美元 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oelNJbV9tMF9WUzB1N3A5Wmo0NkY0YTcxZFBYM1E0ampoZklGOHFfa2lHbWVZU3RVN0NocGdKUW1rSU5rMUx2QlZobnJFanc?oc=5",
       "published": "Tue, 17 Nov 2026 04:50:03 GMT",
       "topic": "Fed / 利率",
-      "rank": 2,
-      "importance_score": 78,
+      "rank": 3,
+      "importance_score": 76,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "〈美股早盤〉AI股能否翻身？主要指數漲跌互現 市場屏息等輝達財報",
+      "summary": "〈美股早盤〉AI股能否翻身？主要指數漲跌互現 市場屏息等輝達財報 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fNEt1YjkxbHl3MkVza1cwdkNobGxwS3Rtd3AtTklyNUpPd0dtUWJGLUF5YUVsdG5Bb2RqMW9DYjZ5VVEtcnkwUDVWNHRhUEk?oc=5",
+      "published": "Tue, 17 Nov 2026 14:41:42 GMT",
+      "topic": "AI / 半導體",
+      "rank": 4,
+      "importance_score": 69,
+      "related_assets": [
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
       "title": "強勢美元與升息預期雙重打擊 金價跌至逾一年新低",
@@ -43,46 +75,14 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STi1Tb3M1MkxVdExOOGJOMXpWemxvRG5QeHNaU2txanlmQmtTRnRJWmhwV1VITlU1TVFPZ1JIY2RwNV9Tak9lYl9FWQ?oc=5",
       "published": "Mon, 16 Nov 2026 09:50:05 GMT",
       "topic": "Fed / 利率",
-      "rank": 3,
-      "importance_score": 64,
+      "rank": 5,
+      "importance_score": 60,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "科技股拋售與中國數據疲軟拖累 國際銅價跌至4個月新低",
-      "summary": "科技股拋售與中國數據疲軟拖累 國際銅價跌至4個月新低 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12UjV2bGhJVGh1T3hJWFpfc0ZDTkJ6S3V2ZndmSHI4NUN4MEt0QUJELS00Q0VnSmpJXzBnX3UyNzFWOHAwWF8wNHhGVnpWRzQ?oc=5",
-      "published": "Mon, 16 Nov 2026 11:00:05 GMT",
-      "topic": "中國",
-      "rank": 4,
-      "importance_score": 64,
-      "related_assets": [
-        "CNH",
-        "China Equity",
-        "Commodities"
-      ],
       "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "強美元正在「破壞一切」！美銀把翻多時點往後推 明年春天再看",
-      "summary": "強美元正在「破壞一切」！美銀把翻多時點往後推 明年春天再看 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDN3p1bV9uZkxiWEcwYXl5Q0NmbS0xTGo1ekhLUU9qdC1OWFA3c1owRm9tclpvMFVrcmpvenpjTU9UNDFnc0VBT3p3bw?oc=5",
-      "published": "Mon, 16 Nov 2026 08:10:04 GMT",
-      "topic": "全球市場",
-      "rank": 5,
-      "importance_score": 49,
-      "related_assets": [
-        "Global Equity",
-        "USD",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源"
     }
   ]
 }
