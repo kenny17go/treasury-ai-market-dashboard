@@ -1,9 +1,41 @@
 {
-  "as_of": "2026-11-17T00:33:09.843044+00:00",
+  "as_of": "2026-11-17T07:00:48.379909+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
+    {
+      "title": "黃金為何越跌越該買？！分析師：AI泡沫破裂成為新引擎 美債與科技股賣壓不礙長期牛市",
+      "summary": "黃金為何越跌越該買？！分析師：AI泡沫破裂成為新引擎 美債與科技股賣壓不礙長期牛市 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCd1R1ZHFaS0FiM0k4czdHNHlxV1lEQkR2eVNkSUp2RGJqZm1CQzY0bDhOQ3ZKR0JHU3NNZy03ZElBWWljTlpyUlg5NFUwdWc?oc=5",
+      "published": "Tue, 17 Nov 2026 03:50:09 GMT",
+      "topic": "美債",
+      "rank": 1,
+      "importance_score": 85,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
+    {
+      "title": "1個月狂飆卻要苦等2年重返高點！高盛：Fed升息壓抑金價 2028年底前有望重回5600美元",
+      "summary": "1個月狂飆卻要苦等2年重返高點！高盛：Fed升息壓抑金價 2028年底前有望重回5600美元 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oelNJbV9tMF9WUzB1N3A5Wmo0NkY0YTcxZFBYM1E0ampoZklGOHFfa2lHbWVZU3RVN0NocGdKUW1rSU5rMUx2QlZobnJFanc?oc=5",
+      "published": "Tue, 17 Nov 2026 04:50:03 GMT",
+      "topic": "Fed / 利率",
+      "rank": 2,
+      "importance_score": 78,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
     {
       "title": "強勢美元與升息預期雙重打擊 金價跌至逾一年新低",
       "summary": "強勢美元與升息預期雙重打擊 金價跌至逾一年新低 鉅亨網",
@@ -11,8 +43,8 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STi1Tb3M1MkxVdExOOGJOMXpWemxvRG5QeHNaU2txanlmQmtTRnRJWmhwV1VITlU1TVFPZ1JIY2RwNV9Tak9lYl9FWQ?oc=5",
       "published": "Mon, 16 Nov 2026 09:50:05 GMT",
       "topic": "Fed / 利率",
-      "rank": 1,
-      "importance_score": 68,
+      "rank": 3,
+      "importance_score": 64,
       "related_assets": [
         "UST",
         "USD",
@@ -27,30 +59,14 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12UjV2bGhJVGh1T3hJWFpfc0ZDTkJ6S3V2ZndmSHI4NUN4MEt0QUJELS00Q0VnSmpJXzBnX3UyNzFWOHAwWF8wNHhGVnpWRzQ?oc=5",
       "published": "Mon, 16 Nov 2026 11:00:05 GMT",
       "topic": "中國",
-      "rank": 2,
-      "importance_score": 68,
+      "rank": 4,
+      "importance_score": 64,
       "related_assets": [
         "CNH",
         "China Equity",
         "Commodities"
       ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "獲利成長減速、牛市還未完！高盛點名三大布局方向 看好標普明年再漲16%",
-      "summary": "獲利成長減速、牛市還未完！高盛點名三大布局方向 看好標普明年再漲16% 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ySHZFZ3hyV3g5aUMwVk5XSzhWY18xNWJLVFpwR3FrSWR3RVh2WmtwZ1EwUjBHS01IamJrLTVRbUgzeTE3cW9iR2JHNm0xR2M?oc=5",
-      "published": "Sat, 14 Nov 2026 05:00:05 GMT",
-      "topic": "美股",
-      "rank": 3,
-      "importance_score": 66,
-      "related_assets": [
-        "S&P 500",
-        "Nasdaq",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
       "title": "強美元正在「破壞一切」！美銀把翻多時點往後推 明年春天再看",
@@ -59,30 +75,14 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDN3p1bV9uZkxiWEcwYXl5Q0NmbS0xTGo1ekhLUU9qdC1OWFA3c1owRm9tclpvMFVrcmpvenpjTU9UNDFnc0VBT3p3bw?oc=5",
       "published": "Mon, 16 Nov 2026 08:10:04 GMT",
       "topic": "全球市場",
-      "rank": 4,
-      "importance_score": 51,
+      "rank": 5,
+      "importance_score": 49,
       "related_assets": [
         "Global Equity",
         "USD",
         "UST"
       ],
       "why_selected": "高品質財經來源"
-    },
-    {
-      "title": "黃金投資指南｜金價暴跌失守4000元？一文掌握近期影響因素懶人包與黃金買賣全攻略！｜豐雲學堂2026 年 11 月 - 永豐金證券",
-      "summary": "黃金投資指南｜金價暴跌失守4000元？一文掌握近期影響因素懶人包與黃金買賣全攻略！｜豐雲學堂2026 年 11 月 永豐金證券",
-      "source": "永豐金證券",
-      "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxOSENtQzJZYTA1clNHVFU3OHF0S1NIUmhkTURKRjI5a0dmeHRQRm5zR1N4VV9VWEVlanptb0VXOWFydE1rdnVERDlhVU9tbXdXancyUDJzLXdzQ1dveVI5NE5lOTZtZHltUkdaZUNQTFd4d2hoeHh0eXlrWE9iR0tKWjk5QjN4N2E4WTJWb3RGZGpxMTg5aklBQzJENWl4VVpyNHhJLUJkUGhRekJKQmZpMDNlZ3JqajRzWVJtWk4taHJEQVRNTnJDdTdMSjZHNnFkaWs1UlJYR3lpMkpLQjlWUC1GMTV3Q2VEa0xpcXp4V054alFpYWNOQk9XbWRwWlVCM3hWVm8tREg3NXZ2bTJHQUM2R0Z0SEdRanJIWC1KRjVOdTVlejdLTDZEaWdzbEhOUVFEMDlFeWI0a3JnMzJaSk00YXdyR1FCT3BocWtVX0NtS2VsQThMQnhvUV9rWFpMY1I3ZFRLZk1SRERpSnNyOU4xWVRXTVVrYkRYTjBpQUJoczU4c2REN1E3bDgzalIxdk9QRG5OMEd5bExQeC1pQlIyWXJkcWtjLUc2R1BMZ3g5WVFsczZfN0xudFl6TDdyZG9UYWpIR0VFbUo0cGFHYXgyMThOZUxYVDBITHg0Z3hSc3IwRWxFdGl4bk1NQ1lONDFEM1NJc0NKY041em8yeW16UndvRkhGRFlIZHZtelowUWRUZ1dSdVBNczhxT1JqT2tXd252TTE?oc=5",
-      "published": "Mon, 16 Nov 2026 01:34:50 GMT",
-      "topic": "黃金",
-      "rank": 5,
-      "importance_score": 38,
-      "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
-      ],
-      "why_selected": "具明確資產關聯"
     }
   ]
 }

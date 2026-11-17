@@ -12,18 +12,20 @@
   "yesterday_top": [
     "美股主要指數平均 -2.74%，風險情緒偏空。",
     "10Y 美債殖利率 5.120%。",
-    "DXY 日變動 +0.17%。"
+    "DXY 日變動 -0.04%。"
   ],
   "today_top": [
-    "🇺🇸 23:00 United States｜Experimental Super Intelligence Economic Statistics, 2024"
+    "🇺🇸 23:00 United States｜Experimental Super Intelligence Economic Statistics, 2024",
+    "新聞｜黃金為何越跌越該買？！分析師：AI泡沫破裂成為新引擎 美債與科技股賣壓不礙長期牛市",
+    "新聞｜1個月狂飆卻要苦等2年重返高點！高盛：Fed升息壓抑金價 2028年底前有望重回5600美元"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -3.0 bps。",
-    "美元：DXY 日變動 +0.17%。",
+    "美元：DXY 日變動 -0.04%。",
     "波動率：VIX 22.91。",
     "曲線：2Y10Y +29.0 bps。"
   ],
   "today_date_taipei": "2026-11-17",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-17T00:35:31.488425+00:00"
+  "as_of": "2026-11-17T07:03:29.816592+00:00"
 }
