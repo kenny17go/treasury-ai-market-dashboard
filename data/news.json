@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-16T16:33:30.697856+00:00",
+  "as_of": "2026-11-17T00:33:09.843044+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -69,20 +69,20 @@
       "why_selected": "高品質財經來源"
     },
     {
-      "title": "〈貴金屬盤後〉金價周跌4.5% 創6月初以來最差單周",
-      "summary": "〈貴金屬盤後〉金價周跌4.5% 創6月初以來最差單周 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3UDFjMjNDSjcyLXJqUW5JeEIzeUladTNKUzk4eEs2d3pabHRvT3VGc0gxQWpQYUZHZUx4Y1pfa0VSU3hBRTY5d3dfUi1iaXc?oc=5",
-      "published": "Sat, 14 Nov 2026 00:26:36 GMT",
+      "title": "黃金投資指南｜金價暴跌失守4000元？一文掌握近期影響因素懶人包與黃金買賣全攻略！｜豐雲學堂2026 年 11 月 - 永豐金證券",
+      "summary": "黃金投資指南｜金價暴跌失守4000元？一文掌握近期影響因素懶人包與黃金買賣全攻略！｜豐雲學堂2026 年 11 月 永豐金證券",
+      "source": "永豐金證券",
+      "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxOSENtQzJZYTA1clNHVFU3OHF0S1NIUmhkTURKRjI5a0dmeHRQRm5zR1N4VV9VWEVlanptb0VXOWFydE1rdnVERDlhVU9tbXdXancyUDJzLXdzQ1dveVI5NE5lOTZtZHltUkdaZUNQTFd4d2hoeHh0eXlrWE9iR0tKWjk5QjN4N2E4WTJWb3RGZGpxMTg5aklBQzJENWl4VVpyNHhJLUJkUGhRekJKQmZpMDNlZ3JqajRzWVJtWk4taHJEQVRNTnJDdTdMSjZHNnFkaWs1UlJYR3lpMkpLQjlWUC1GMTV3Q2VEa0xpcXp4V054alFpYWNOQk9XbWRwWlVCM3hWVm8tREg3NXZ2bTJHQUM2R0Z0SEdRanJIWC1KRjVOdTVlejdLTDZEaWdzbEhOUVFEMDlFeWI0a3JnMzJaSk00YXdyR1FCT3BocWtVX0NtS2VsQThMQnhvUV9rWFpMY1I3ZFRLZk1SRERpSnNyOU4xWVRXTVVrYkRYTjBpQUJoczU4c2REN1E3bDgzalIxdk9QRG5OMEd5bExQeC1pQlIyWXJkcWtjLUc2R1BMZ3g5WVFsczZfN0xudFl6TDdyZG9UYWpIR0VFbUo0cGFHYXgyMThOZUxYVDBITHg0Z3hSc3IwRWxFdGl4bk1NQ1lONDFEM1NJc0NKY041em8yeW16UndvRkhGRFlIZHZtelowUWRUZ1dSdVBNczhxT1JqT2tXd252TTE?oc=5",
+      "published": "Mon, 16 Nov 2026 01:34:50 GMT",
       "topic": "黃金",
       "rank": 5,
-      "importance_score": 57,
+      "importance_score": 38,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "具明確資產關聯"
     }
   ]
 }
