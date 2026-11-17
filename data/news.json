@@ -1,30 +1,30 @@
 {
-  "as_of": "2026-11-17T16:32:15.603323+00:00",
+  "as_of": "2026-11-17T23:41:37.110639+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "黃金為何越跌越該買？！分析師：AI泡沫破裂成為新引擎 美債與科技股賣壓不礙長期牛市",
-      "summary": "黃金為何越跌越該買？！分析師：AI泡沫破裂成為新引擎 美債與科技股賣壓不礙長期牛市 鉅亨網",
+      "title": "1個月狂飆卻要苦等2年重返高點！高盛：Fed升息壓抑金價 2028年底前有望重回5600美元",
+      "summary": "1個月狂飆卻要苦等2年重返高點！高盛：Fed升息壓抑金價 2028年底前有望重回5600美元 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCd1R1ZHFaS0FiM0k4czdHNHlxV1lEQkR2eVNkSUp2RGJqZm1CQzY0bDhOQ3ZKR0JHU3NNZy03ZElBWWljTlpyUlg5NFUwdWc?oc=5",
-      "published": "Tue, 17 Nov 2026 03:50:09 GMT",
-      "topic": "美債",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oelNJbV9tMF9WUzB1N3A5Wmo0NkY0YTcxZFBYM1E0ampoZklGOHFfa2lHbWVZU3RVN0NocGdKUW1rSU5rMUx2QlZobnJFanc?oc=5",
+      "published": "Tue, 17 Nov 2026 04:50:03 GMT",
+      "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 85,
+      "importance_score": 80,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
       ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
       "title": "40年市場老將押注美股崩跌40%、油價飆至500美元 警告美股恐重演韓股夏季暴跌行情",
       "summary": "40年市場老將押注美股崩跌40%、油價飆至500美元 警告美股恐重演韓股夏季暴跌行情 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQMmFxYllRYnVQQ1E5bWJjMDY3TTBxQVhYODdQNjZNX0d2RExLTUVrYWJucU1xUV9CdVowN3otNDluWmNwZkV2Vi1aMkkyVEk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LbmFPaEhpbGJNemRRRjI4cUxvcVI1NndmTzBuM2ppVEJEQXhtbS1sUFk0OTlidVExdFdtNDA2NThVTWl5MXlVaHZrTQ?oc=5",
       "published": "Tue, 17 Nov 2026 13:10:03 GMT",
       "topic": "能源",
       "rank": 2,
@@ -37,18 +37,18 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "1個月狂飆卻要苦等2年重返高點！高盛：Fed升息壓抑金價 2028年底前有望重回5600美元",
-      "summary": "1個月狂飆卻要苦等2年重返高點！高盛：Fed升息壓抑金價 2028年底前有望重回5600美元 鉅亨網",
+      "title": "逾20年最大減持！美銀調查：AI投資熱情顯著降溫 全球機構大砍AI部位 轉投黃金與國際股市",
+      "summary": "逾20年最大減持！美銀調查：AI投資熱情顯著降溫 全球機構大砍AI部位 轉投黃金與國際股市 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oelNJbV9tMF9WUzB1N3A5Wmo0NkY0YTcxZFBYM1E0ampoZklGOHFfa2lHbWVZU3RVN0NocGdKUW1rSU5rMUx2QlZobnJFanc?oc=5",
-      "published": "Tue, 17 Nov 2026 04:50:03 GMT",
-      "topic": "Fed / 利率",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZZmRCN0pkUTNEUUg1cEcyVkNZNERJQzFvZ0QxU3h3Q3Q2N3YxaVR2NnN0Z2ItSk5tcHBaVVN2dU90Y2g2dHhKbEl1MA?oc=5",
+      "published": "Tue, 17 Nov 2026 20:50:38 GMT",
+      "topic": "黃金",
       "rank": 3,
-      "importance_score": 76,
+      "importance_score": 73,
       "related_assets": [
-        "UST",
+        "Gold",
         "USD",
-        "Equity"
+        "UST"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
@@ -69,17 +69,17 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "強勢美元與升息預期雙重打擊 金價跌至逾一年新低",
-      "summary": "強勢美元與升息預期雙重打擊 金價跌至逾一年新低 鉅亨網",
+      "title": "〈能源盤後〉油輪遇襲、美國原油庫存料下降 原油上漲 唯供應過剩壓力縮限漲幅",
+      "summary": "〈能源盤後〉油輪遇襲、美國原油庫存料下降 原油上漲 唯供應過剩壓力縮限漲幅 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STi1Tb3M1MkxVdExOOGJOMXpWemxvRG5QeHNaU2txanlmQmtTRnRJWmhwV1VITlU1TVFPZ1JIY2RwNV9Tak9lYl9FWQ?oc=5",
-      "published": "Mon, 16 Nov 2026 09:50:05 GMT",
-      "topic": "Fed / 利率",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oY3VXcVplZzRGT3pqX2hsWlVaMktHV21PVDVtMEpUWE1RUlN1SllrMnRXZjh4bjRyeVRKNUN3Tk5kSGRYMGM3aldWd2JDUE0?oc=5",
+      "published": "Tue, 17 Nov 2026 22:12:25 GMT",
+      "topic": "能源",
       "rank": 5,
-      "importance_score": 60,
+      "importance_score": 61,
       "related_assets": [
-        "UST",
-        "USD",
+        "WTI / Brent",
+        "Inflation",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"

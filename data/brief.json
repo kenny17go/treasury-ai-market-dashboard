@@ -2,28 +2,30 @@
   "mode": "rules",
   "headline": "市場風險情緒：偏空",
   "bullets": [
-    "主要美股指數平均變動 -1.32%。",
-    "美債10年殖利率 5.120%，日變動 -3.0 bps。",
-    "自選股強勢 ARM +1.33%；較弱 SNDK -4.68%。",
-    "2Y10Y 利差 +29.0 bps。"
+    "主要美股指數平均變動 -0.77%。",
+    "美債10年殖利率 5.100%，日變動 -2.0 bps。",
+    "自選股強勢 ARM +4.73%；較弱 TSM ADR -3.68%。",
+    "2Y10Y 利差 +30.0 bps。"
   ],
-  "risk_score": 26,
+  "risk_score": 33,
   "risk_label": "偏空",
   "yesterday_top": [
-    "美股主要指數平均 -1.32%，風險情緒偏空。",
-    "10Y 美債殖利率 5.120%。",
-    "DXY 日變動 -0.09%。"
+    "美股主要指數平均 -0.77%，風險情緒偏空。",
+    "10Y 美債殖利率 5.100%。",
+    "DXY 日變動 +0.05%。"
   ],
   "today_top": [
-    "🇺🇸 23:00 United States｜Outdoor Recreation Economic Statistics, U.S. and States, 2025"
+    "🇺🇸 23:00 United States｜Outdoor Recreation Economic Statistics, U.S. and States, 2025",
+    "新聞｜逾20年最大減持！美銀調查：AI投資熱情顯著降溫 全球機構大砍AI部位 轉投黃金與國際股市",
+    "新聞｜〈能源盤後〉油輪遇襲、美國原油庫存料下降 原油上漲 唯供應過剩壓力縮限漲幅"
   ],
   "todays_watch": [
-    "利率：10Y 日變動 -3.0 bps。",
-    "美元：DXY 日變動 -0.09%。",
-    "波動率：VIX 25.09。",
-    "曲線：2Y10Y +29.0 bps。"
+    "利率：10Y 日變動 -2.0 bps。",
+    "美元：DXY 日變動 +0.05%。",
+    "波動率：VIX 25.46。",
+    "曲線：2Y10Y +30.0 bps。"
   ],
   "today_date_taipei": "2026-11-18",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-17T16:34:48.121522+00:00"
+  "as_of": "2026-11-17T23:43:48.354695+00:00"
 }
