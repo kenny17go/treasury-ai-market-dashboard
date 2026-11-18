@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-18T16:01:08.326952+00:00",
+  "as_of": "2026-11-18T23:00:28.157569+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,11 +37,11 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "美債殖利率攀升引爆華爾街論戰！高盛等機構看多富達卻潑冷水：十年債殖利率飆到6%也不算便宜",
-      "summary": "美債殖利率攀升引爆華爾街論戰！高盛等機構看多富達卻潑冷水：十年債殖利率飆到6%也不算便宜 鉅亨網",
+      "title": "14個月新低！Fed官員接連暗示升息 現貨黃金摔1.2%失守3800美元大關",
+      "summary": "14個月新低！Fed官員接連暗示升息 現貨黃金摔1.2%失守3800美元大關 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MYTBkbmN1WEhoY3ZCM0pnVUhXSGR1VXZna1F6T19XdjJfSktqRmxmdDh4clF6SHhQNmdwYjVEeXBSeWVyQ0VzRk1lUkswMHc?oc=5",
-      "published": "Wed, 18 Nov 2026 06:00:11 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zN003U2VPUXN2ZzQzQUt3Mi1nYV95RDEzemlsU0NFdTBZZjRDVlBKV2gxNWx2ZGpEb1dSWWNrbVZlNnJUdUhSRWtOOEtzdUE?oc=5",
+      "published": "Wed, 18 Nov 2026 03:00:14 GMT",
       "topic": "Fed / 利率",
       "rank": 3,
       "importance_score": 83,
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "逾20年最大減持！美銀調查：AI投資熱情顯著降溫 全球機構大砍AI部位 轉投黃金與國際股市",
-      "summary": "逾20年最大減持！美銀調查：AI投資熱情顯著降溫 全球機構大砍AI部位 轉投黃金與國際股市 鉅亨網",
+      "title": "40年市場老將押注美股崩跌40%、油價飆至500美元 警告美股恐重演韓股夏季暴跌行情",
+      "summary": "40年市場老將押注美股崩跌40%、油價飆至500美元 警告美股恐重演韓股夏季暴跌行情 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZZmRCN0pkUTNEUUg1cEcyVkNZNERJQzFvZ0QxU3h3Q3Q2N3YxaVR2NnN0Z2ItSk5tcHBaVVN2dU90Y2g2dHhKbEl1MA?oc=5",
-      "published": "Tue, 17 Nov 2026 20:50:38 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQMmFxYllRYnVQQ1E5bWJjMDY3TTBxQVhYODdQNjZNX0d2RExLTUVrYWJucU1xUV9CdVowN3otNDluWmNwZkV2Vi1aMkkyVEk?oc=5",
+      "published": "Tue, 17 Nov 2026 13:10:03 GMT",
+      "topic": "能源",
       "rank": 5,
-      "importance_score": 69,
+      "importance_score": 70,
       "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
