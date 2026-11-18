@@ -1,30 +1,31 @@
 {
   "mode": "rules",
-  "headline": "市場風險情緒：偏空",
+  "headline": "市場風險情緒：中性",
   "bullets": [
-    "主要美股指數平均變動 -0.77%。",
+    "主要美股指數平均變動 -0.59%。",
     "美債10年殖利率 5.100%，日變動 -2.0 bps。",
-    "自選股強勢 ARM +4.73%；較弱 TSM ADR -3.68%。",
+    "自選股強勢 AVGO +3.14%；較弱 SNDK -3.45%。",
     "2Y10Y 利差 +30.0 bps。"
   ],
-  "risk_score": 33,
-  "risk_label": "偏空",
+  "risk_score": 43,
+  "risk_label": "中性",
   "yesterday_top": [
-    "美股主要指數平均 -0.77%，風險情緒偏空。",
+    "美股主要指數平均 -0.59%，風險情緒中性。",
     "10Y 美債殖利率 5.100%。",
-    "DXY 日變動 +0.17%。"
+    "DXY 日變動 +0.33%。"
   ],
   "today_top": [
-    "🇺🇸 23:00 United States｜Outdoor Recreation Economic Statistics, U.S. and States, 2025",
-    "新聞｜逾20年最大減持！美銀調查：AI投資熱情顯著降溫 全球機構大砍AI部位 轉投黃金與國際股市"
+    "新聞｜〈貴金屬盤後〉美元和美債殖利率雙升 黃金仍陷一年低點",
+    "新聞｜美債殖利率攀升引爆華爾街論戰！高盛等機構看多富達卻潑冷水：十年債殖利率飆到6%也不算便宜",
+    "新聞｜高盛本月第二度下修金價預期 各國央行持續買入黃金"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -2.0 bps。",
-    "美元：DXY 日變動 +0.17%。",
-    "波動率：VIX 25.46。",
+    "美元：DXY 日變動 +0.33%。",
+    "波動率：VIX 24.69。",
     "曲線：2Y10Y +30.0 bps。"
   ],
   "today_date_taipei": "2026-11-18",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-18T06:25:51.199745+00:00"
+  "as_of": "2026-11-18T15:55:35.718595+00:00"
 }
