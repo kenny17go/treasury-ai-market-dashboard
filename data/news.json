@@ -1,25 +1,9 @@
 {
-  "as_of": "2026-11-19T03:59:08.711542+00:00",
+  "as_of": "2026-11-19T06:26:02.206101+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
-    {
-      "title": "〈貴金屬盤後〉美元和美債殖利率雙升 黃金仍陷一年低點",
-      "summary": "〈貴金屬盤後〉美元和美債殖利率雙升 黃金仍陷一年低點 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94N0NXdHYxWUxtM01BV2xNVGIyRk04dDNHdUdiLWVIdlUzaWs5TDE4cVhvSzQ1cHFZQ1NkOU83SC13NlBTNHFucU9CUU51c1U?oc=5",
-      "published": "Tue, 17 Nov 2026 22:56:31 GMT",
-      "topic": "Fed / 利率",
-      "rank": 1,
-      "importance_score": 89,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
-    },
     {
       "title": "〈能源盤後〉美國原油庫存增幅超預期 WTI油價重挫逾3%",
       "summary": "〈能源盤後〉美國原油庫存增幅超預期 WTI油價重挫逾3% 鉅亨網",
@@ -27,27 +11,11 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96aUdHSEhFcTZ3NVRuVjlhbW9idkJ2MjdXVXlnckFHS21rUU9xNVhfZi1sNjF2eEMxUE5GRmFTcGFXMWRsNGd6UGc3LU05c0U?oc=5",
       "published": "Wed, 18 Nov 2026 23:05:30 GMT",
       "topic": "能源",
-      "rank": 2,
-      "importance_score": 87,
+      "rank": 1,
+      "importance_score": 89,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
-    },
-    {
-      "title": "黃金為何越跌越該買？！分析師：AI泡沫破裂成為新引擎 美債與科技股賣壓不礙長期牛市",
-      "summary": "黃金為何越跌越該買？！分析師：AI泡沫破裂成為新引擎 美債與科技股賣壓不礙長期牛市 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCd1R1ZHFaS0FiM0k4czdHNHlxV1lEQkR2eVNkSUp2RGJqZm1CQzY0bDhOQ3ZKR0JHU3NNZy03ZElBWWljTlpyUlg5NFUwdWc?oc=5",
-      "published": "Tue, 17 Nov 2026 03:50:09 GMT",
-      "topic": "美債",
-      "rank": 3,
-      "importance_score": 81,
-      "related_assets": [
-        "UST",
-        "USD",
         "Equity"
       ],
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
@@ -59,8 +27,40 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MYTBkbmN1WEhoY3ZCM0pnVUhXSGR1VXZna1F6T19XdjJfSktqRmxmdDh4clF6SHhQNmdwYjVEeXBSeWVyQ0VzRk1lUkswMHc?oc=5",
       "published": "Wed, 18 Nov 2026 06:00:11 GMT",
       "topic": "Fed / 利率",
+      "rank": 2,
+      "importance_score": 85,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
+    {
+      "title": "14個月新低！Fed官員接連暗示升息 現貨黃金摔1.2%失守3800美元大關",
+      "summary": "14個月新低！Fed官員接連暗示升息 現貨黃金摔1.2%失守3800美元大關 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zN003U2VPUXN2ZzQzQUt3Mi1nYV95RDEzemlsU0NFdTBZZjRDVlBKV2gxNWx2ZGpEb1dSWWNrbVZlNnJUdUhSRWtOOEtzdUE?oc=5",
+      "published": "Wed, 18 Nov 2026 03:00:14 GMT",
+      "topic": "Fed / 利率",
+      "rank": 3,
+      "importance_score": 83,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
+    {
+      "title": "黃金為何越跌越該買？！分析師：AI泡沫破裂成為新引擎 美債與科技股賣壓不礙長期牛市",
+      "summary": "黃金為何越跌越該買？！分析師：AI泡沫破裂成為新引擎 美債與科技股賣壓不礙長期牛市 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCd1R1ZHFaS0FiM0k4czdHNHlxV1lEQkR2eVNkSUp2RGJqZm1CQzY0bDhOQ3ZKR0JHU3NNZy03ZElBWWljTlpyUlg5NFUwdWc?oc=5",
+      "published": "Tue, 17 Nov 2026 03:50:09 GMT",
+      "topic": "美債",
       "rank": 4,
-      "importance_score": 81,
+      "importance_score": 79,
       "related_assets": [
         "UST",
         "USD",
