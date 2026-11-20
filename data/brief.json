@@ -12,19 +12,20 @@
   "yesterday_top": [
     "美股主要指數平均 -2.20%，風險情緒偏空。",
     "10Y 美債殖利率 5.040%。",
-    "DXY 日變動 -0.03%。"
+    "DXY 日變動 -0.10%。"
   ],
   "today_top": [
     "🇺🇸 21:30 United States｜Activities of U.S. Multinational Enterprises, 2024",
-    "新聞｜〈貴金屬盤後〉14個月低點反彈失敗！美元走強、Fed升息預期升溫 黃金收跌1.5% 失守3700美元"
+    "新聞｜〈貴金屬盤後〉14個月低點反彈失敗！美元走強、Fed升息預期升溫 黃金收跌1.5% 失守3700美元",
+    "新聞｜〈能源盤後〉沙國原油出口月增21%、美國庫存暴增340萬桶 油價陷多空拉鋸 持平作收"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -3.0 bps。",
-    "美元：DXY 日變動 -0.03%。",
+    "美元：DXY 日變動 -0.10%。",
     "波動率：VIX 28.44。",
     "曲線：2Y10Y +28.0 bps。"
   ],
   "today_date_taipei": "2026-11-20",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-20T04:07:08.660932+00:00"
+  "as_of": "2026-11-20T06:13:09.915309+00:00"
 }

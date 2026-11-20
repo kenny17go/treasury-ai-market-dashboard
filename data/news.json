@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-20T04:05:02.771038+00:00",
+  "as_of": "2026-11-20T06:11:13.355043+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,20 +21,20 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈能源盤後〉美國原油庫存增幅超預期 WTI油價重挫逾3%",
-      "summary": "〈能源盤後〉美國原油庫存增幅超預期 WTI油價重挫逾3% 鉅亨網",
+      "title": "〈能源盤後〉沙國原油出口月增21%、美國庫存暴增340萬桶 油價陷多空拉鋸 持平作收",
+      "summary": "〈能源盤後〉沙國原油出口月增21%、美國庫存暴增340萬桶 油價陷多空拉鋸 持平作收 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMa0hGQ0ZuYWVLNVZKNUp5NW1URmR1VXhJZUFYZFA5ZElvbkM0a1Y1M0toQkRxcmNSdGlaam8ySWNtSi1JTE1QLXBUWQ?oc=5",
-      "published": "Wed, 18 Nov 2026 22:59:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HeUtUWXpaZGV2UTZNTGNCMFhwengtMjVjZE5SYUNCUEZ1aG0wNk80RmJBRGZVUkQ1VFItSjVOa2pCWVBWUEV5d3Jpa1d1Q0U?oc=5",
+      "published": "Fri, 20 Nov 2026 01:38:25 GMT",
       "topic": "能源",
       "rank": 2,
-      "importance_score": 87,
+      "importance_score": 79,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
       "title": "高盛本月第二度下修金價預期 各國央行持續買入黃金",
