@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-20T15:49:27.507149+00:00",
+  "as_of": "2026-11-20T22:25:28.242263+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,14 +21,30 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "〈能源盤後〉胡塞武裝威脅攻擊沙國紅海港口！油價尾盤反彈仍難扭轉跌勢 Brent、WTI連3週收黑",
+      "summary": "〈能源盤後〉胡塞武裝威脅攻擊沙國紅海港口！油價尾盤反彈仍難扭轉跌勢 Brent、WTI連3週收黑 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ITEdnTmhVZVhlbXRYMnhDZ1hFSXFybGJoMEpjX2xoTkV0VVRqX2N5b2ZpWGNicEw3am1lQ0k2b18wNUtBSlNzREhpaHVER2c?oc=5",
+      "published": "Fri, 20 Nov 2026 22:10:41 GMT",
+      "topic": "能源",
+      "rank": 2,
+      "importance_score": 87,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
+    {
       "title": "〈能源盤後〉沙國原油出口月增21%、美國庫存暴增340萬桶 油價陷多空拉鋸 持平作收",
       "summary": "〈能源盤後〉沙國原油出口月增21%、美國庫存暴增340萬桶 油價陷多空拉鋸 持平作收 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HeUtUWXpaZGV2UTZNTGNCMFhwengtMjVjZE5SYUNCUEZ1aG0wNk80RmJBRGZVUkQ1VFItSjVOa2pCWVBWUEV5d3Jpa1d1Q0U?oc=5",
       "published": "Fri, 20 Nov 2026 01:38:25 GMT",
       "topic": "能源",
-      "rank": 2,
-      "importance_score": 79,
+      "rank": 3,
+      "importance_score": 77,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
@@ -43,44 +59,28 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2U0tTS0x6Q0N6eFM5WFpOVlh4MFdPSngyaFVjZFVpenFidG44eUtrbnRPSGR0SjVFeld2RldXUWc1V18zMHRBVTRGWQ?oc=5",
       "published": "Wed, 18 Nov 2026 06:50:04 GMT",
       "topic": "黃金",
-      "rank": 3,
-      "importance_score": 69,
+      "rank": 4,
+      "importance_score": 67,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "〈貴金屬盤後〉Fed會議紀錄放鷹 黃金重挫逾3%跌破3800美元",
-      "summary": "〈貴金屬盤後〉Fed會議紀錄放鷹 黃金重挫逾3%跌破3800美元 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LVVpGSFc4VjN5LXRZOEdoZ0dhXy1QTTg1Z1RpUkl0ZUxxLWo2SGFUZlB0cVJKbDA3ODVhb3RDRU5jSlJEX2lwSExCeWVudlU?oc=5",
-      "published": "Wed, 18 Nov 2026 23:25:26 GMT",
-      "topic": "Fed / 利率",
-      "rank": 4,
-      "importance_score": 74,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "逾20年最大減持！美銀調查：AI投資熱情顯著降溫 全球機構大砍AI部位 轉投黃金與國際股市",
-      "summary": "逾20年最大減持！美銀調查：AI投資熱情顯著降溫 全球機構大砍AI部位 轉投黃金與國際股市 鉅亨網",
+      "title": "一週內連破四道關卡！受Fed鷹派信號+AI股續跌影響 現貨金價跌破3600美元",
+      "summary": "一週內連破四道關卡！受Fed鷹派信號+AI股續跌影響 現貨金價跌破3600美元 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZZmRCN0pkUTNEUUg1cEcyVkNZNERJQzFvZ0QxU3h3Q3Q2N3YxaVR2NnN0Z2ItSk5tcHBaVVN2dU90Y2g2dHhKbEl1MA?oc=5",
-      "published": "Tue, 17 Nov 2026 20:50:38 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1NEFYT3RwS2thTGpudHV3VDJuUzE0ZTVjNTdtV1lJSVh4QTVyOXVRZEJfTDktUEdrWEJOUjJMbG9pVWYxNUM0NHdQZWpaaVU?oc=5",
+      "published": "Fri, 20 Nov 2026 01:50:04 GMT",
+      "topic": "Fed / 利率",
       "rank": 5,
-      "importance_score": 69,
+      "importance_score": 70,
       "related_assets": [
-        "Gold",
+        "UST",
         "USD",
-        "UST"
+        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
