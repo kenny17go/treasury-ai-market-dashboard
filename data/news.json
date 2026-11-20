@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-19T23:08:28.460539+00:00",
+  "as_of": "2026-11-20T04:05:02.771038+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -9,7 +9,7 @@
       "summary": "〈貴金屬盤後〉14個月低點反彈失敗！美元走強、Fed升息預期升溫 黃金收跌1.5% 失守3700美元 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16YVJHejZNbUZFVERZaU9mS0pObFNSdEViQm0yamxUZnZGRl9OTkw5RkVhX1VLWXF2RDZaVHl5bXJOd0VvY3YtVXBGbkRMWGM?oc=5",
-      "published": "Thu, 19 Nov 2026 22:38:57 GMT",
+      "published": "Thu, 19 Nov 2026 23:47:58 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
       "importance_score": 87,
@@ -21,52 +21,20 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "黃金為何越跌越該買？！分析師：AI泡沫破裂成為新引擎 美債與科技股賣壓不礙長期牛市",
-      "summary": "黃金為何越跌越該買？！分析師：AI泡沫破裂成為新引擎 美債與科技股賣壓不礙長期牛市 鉅亨網",
+      "title": "〈能源盤後〉美國原油庫存增幅超預期 WTI油價重挫逾3%",
+      "summary": "〈能源盤後〉美國原油庫存增幅超預期 WTI油價重挫逾3% 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCd1R1ZHFaS0FiM0k4czdHNHlxV1lEQkR2eVNkSUp2RGJqZm1CQzY0bDhOQ3ZKR0JHU3NNZy03ZElBWWljTlpyUlg5NFUwdWc?oc=5",
-      "published": "Tue, 17 Nov 2026 03:50:09 GMT",
-      "topic": "美債",
-      "rank": 2,
-      "importance_score": 83,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
-    },
-    {
-      "title": "美債殖利率攀升引爆華爾街論戰！高盛等機構看多富達卻潑冷水：十年債殖利率飆到6%也不算便宜",
-      "summary": "美債殖利率攀升引爆華爾街論戰！高盛等機構看多富達卻潑冷水：十年債殖利率飆到6%也不算便宜 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MYTBkbmN1WEhoY3ZCM0pnVUhXSGR1VXZna1F6T19XdjJfSktqRmxmdDh4clF6SHhQNmdwYjVEeXBSeWVyQ0VzRk1lUkswMHc?oc=5",
-      "published": "Wed, 18 Nov 2026 06:00:11 GMT",
-      "topic": "Fed / 利率",
-      "rank": 3,
-      "importance_score": 83,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
-    },
-    {
-      "title": "〈能源盤後〉沙國原油出口月增21%、美國庫存暴增340萬桶 油價陷多空拉鋸 持平作收",
-      "summary": "〈能源盤後〉沙國原油出口月增21%、美國庫存暴增340萬桶 油價陷多空拉鋸 持平作收 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HeUtUWXpaZGV2UTZNTGNCMFhwengtMjVjZE5SYUNCUEZ1aG0wNk80RmJBRGZVUkQ1VFItSjVOa2pCWVBWUEV5d3Jpa1d1Q0U?oc=5",
-      "published": "Thu, 19 Nov 2026 21:11:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMa0hGQ0ZuYWVLNVZKNUp5NW1URmR1VXhJZUFYZFA5ZElvbkM0a1Y1M0toQkRxcmNSdGlaam8ySWNtSi1JTE1QLXBUWQ?oc=5",
+      "published": "Wed, 18 Nov 2026 22:59:22 GMT",
       "topic": "能源",
-      "rank": 4,
-      "importance_score": 75,
+      "rank": 2,
+      "importance_score": 87,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
         "Equity"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
       "title": "高盛本月第二度下修金價預期 各國央行持續買入黃金",
@@ -75,12 +43,44 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2U0tTS0x6Q0N6eFM5WFpOVlh4MFdPSngyaFVjZFVpenFidG44eUtrbnRPSGR0SjVFeld2RldXUWc1V18zMHRBVTRGWQ?oc=5",
       "published": "Wed, 18 Nov 2026 06:50:04 GMT",
       "topic": "黃金",
-      "rank": 5,
-      "importance_score": 65,
+      "rank": 3,
+      "importance_score": 69,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "逾20年最大減持！美銀調查：AI投資熱情顯著降溫 全球機構大砍AI部位 轉投黃金與國際股市",
+      "summary": "逾20年最大減持！美銀調查：AI投資熱情顯著降溫 全球機構大砍AI部位 轉投黃金與國際股市 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZZmRCN0pkUTNEUUg1cEcyVkNZNERJQzFvZ0QxU3h3Q3Q2N3YxaVR2NnN0Z2ItSk5tcHBaVVN2dU90Y2g2dHhKbEl1MA?oc=5",
+      "published": "Tue, 17 Nov 2026 20:50:38 GMT",
+      "topic": "黃金",
+      "rank": 4,
+      "importance_score": 71,
+      "related_assets": [
+        "Gold",
+        "USD",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
+      "title": "〈美股早盤〉AI股能否翻身？主要指數漲跌互現 市場屏息等輝達財報",
+      "summary": "〈美股早盤〉AI股能否翻身？主要指數漲跌互現 市場屏息等輝達財報 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fNEt1YjkxbHl3MkVza1cwdkNobGxwS3Rtd3AtTklyNUpPd0dtUWJGLUF5YUVsdG5Bb2RqMW9DYjZ5VVEtcnkwUDVWNHRhUEk?oc=5",
+      "published": "Tue, 17 Nov 2026 14:41:42 GMT",
+      "topic": "AI / 半導體",
+      "rank": 5,
+      "importance_score": 67,
+      "related_assets": [
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }

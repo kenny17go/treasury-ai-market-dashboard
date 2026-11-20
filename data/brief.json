@@ -4,7 +4,7 @@
   "bullets": [
     "主要美股指數平均變動 -2.20%。",
     "美債10年殖利率 5.040%，日變動 -3.0 bps。",
-    "自選股強勢 INTC +1.79%；較弱 AMD -7.73%。",
+    "自選股強勢 SNDK +678.12%；較弱 AMD -7.73%。",
     "2Y10Y 利差 +28.0 bps。"
   ],
   "risk_score": 16,
@@ -12,20 +12,19 @@
   "yesterday_top": [
     "美股主要指數平均 -2.20%，風險情緒偏空。",
     "10Y 美債殖利率 5.040%。",
-    "DXY 日變動 +0.07%。"
+    "DXY 日變動 -0.03%。"
   ],
   "today_top": [
     "🇺🇸 21:30 United States｜Activities of U.S. Multinational Enterprises, 2024",
-    "新聞｜〈貴金屬盤後〉14個月低點反彈失敗！美元走強、Fed升息預期升溫 黃金收跌1.5% 失守3700美元",
-    "新聞｜〈能源盤後〉沙國原油出口月增21%、美國庫存暴增340萬桶 油價陷多空拉鋸 持平作收"
+    "新聞｜〈貴金屬盤後〉14個月低點反彈失敗！美元走強、Fed升息預期升溫 黃金收跌1.5% 失守3700美元"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -3.0 bps。",
-    "美元：DXY 日變動 +0.07%。",
+    "美元：DXY 日變動 -0.03%。",
     "波動率：VIX 28.44。",
     "曲線：2Y10Y +28.0 bps。"
   ],
   "today_date_taipei": "2026-11-20",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-19T23:11:15.082083+00:00"
+  "as_of": "2026-11-20T04:07:08.660932+00:00"
 }
