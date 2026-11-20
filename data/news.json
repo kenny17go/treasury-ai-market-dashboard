@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-20T06:11:13.355043+00:00",
+  "as_of": "2026-11-20T15:29:47.187435+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,14 +21,30 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "14個月新低！Fed官員接連暗示升息 現貨黃金摔1.2%失守3800美元大關",
+      "summary": "14個月新低！Fed官員接連暗示升息 現貨黃金摔1.2%失守3800美元大關 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zN003U2VPUXN2ZzQzQUt3Mi1nYV95RDEzemlsU0NFdTBZZjRDVlBKV2gxNWx2ZGpEb1dSWWNrbVZlNnJUdUhSRWtOOEtzdUE?oc=5",
+      "published": "Wed, 18 Nov 2026 03:00:14 GMT",
+      "topic": "Fed / 利率",
+      "rank": 2,
+      "importance_score": 85,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
+    {
       "title": "〈能源盤後〉沙國原油出口月增21%、美國庫存暴增340萬桶 油價陷多空拉鋸 持平作收",
       "summary": "〈能源盤後〉沙國原油出口月增21%、美國庫存暴增340萬桶 油價陷多空拉鋸 持平作收 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HeUtUWXpaZGV2UTZNTGNCMFhwengtMjVjZE5SYUNCUEZ1aG0wNk80RmJBRGZVUkQ1VFItSjVOa2pCWVBWUEV5d3Jpa1d1Q0U?oc=5",
       "published": "Fri, 20 Nov 2026 01:38:25 GMT",
       "topic": "能源",
-      "rank": 2,
-      "importance_score": 79,
+      "rank": 3,
+      "importance_score": 77,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
@@ -43,24 +59,8 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2U0tTS0x6Q0N6eFM5WFpOVlh4MFdPSngyaFVjZFVpenFidG44eUtrbnRPSGR0SjVFeld2RldXUWc1V18zMHRBVTRGWQ?oc=5",
       "published": "Wed, 18 Nov 2026 06:50:04 GMT",
       "topic": "黃金",
-      "rank": 3,
-      "importance_score": 69,
-      "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "逾20年最大減持！美銀調查：AI投資熱情顯著降溫 全球機構大砍AI部位 轉投黃金與國際股市",
-      "summary": "逾20年最大減持！美銀調查：AI投資熱情顯著降溫 全球機構大砍AI部位 轉投黃金與國際股市 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZZmRCN0pkUTNEUUg1cEcyVkNZNERJQzFvZ0QxU3h3Q3Q2N3YxaVR2NnN0Z2ItSk5tcHBaVVN2dU90Y2g2dHhKbEl1MA?oc=5",
-      "published": "Tue, 17 Nov 2026 20:50:38 GMT",
-      "topic": "黃金",
       "rank": 4,
-      "importance_score": 71,
+      "importance_score": 67,
       "related_assets": [
         "Gold",
         "USD",
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈美股早盤〉AI股能否翻身？主要指數漲跌互現 市場屏息等輝達財報",
-      "summary": "〈美股早盤〉AI股能否翻身？主要指數漲跌互現 市場屏息等輝達財報 鉅亨網",
+      "title": "逾20年最大減持！美銀調查：AI投資熱情顯著降溫 全球機構大砍AI部位 轉投黃金與國際股市",
+      "summary": "逾20年最大減持！美銀調查：AI投資熱情顯著降溫 全球機構大砍AI部位 轉投黃金與國際股市 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fNEt1YjkxbHl3MkVza1cwdkNobGxwS3Rtd3AtTklyNUpPd0dtUWJGLUF5YUVsdG5Bb2RqMW9DYjZ5VVEtcnkwUDVWNHRhUEk?oc=5",
-      "published": "Tue, 17 Nov 2026 14:41:42 GMT",
-      "topic": "AI / 半導體",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZZmRCN0pkUTNEUUg1cEcyVkNZNERJQzFvZ0QxU3h3Q3Q2N3YxaVR2NnN0Z2ItSk5tcHBaVVN2dU90Y2g2dHhKbEl1MA?oc=5",
+      "published": "Tue, 17 Nov 2026 20:50:38 GMT",
+      "topic": "黃金",
       "rank": 5,
-      "importance_score": 67,
+      "importance_score": 69,
       "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
