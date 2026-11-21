@@ -4,7 +4,7 @@
   "bullets": [
     "主要美股指數平均變動 -5.29%。",
     "美債10年殖利率 4.920%，日變動 -12.0 bps。",
-    "自選股強勢 AAPL -1.87%；較弱 SNDK -15.99%。",
+    "自選股強勢 AAPL -1.87%；較弱 SNDK -18.27%。",
     "2Y10Y 利差 +29.0 bps。"
   ],
   "risk_score": 0,
@@ -15,15 +15,15 @@
     "DXY 日變動 -0.06%。"
   ],
   "today_top": [
-    "新聞｜〈能源盤後〉胡塞武裝威脅攻擊沙國紅海港口！油價尾盤反彈仍難扭轉跌勢 Brent、WTI連3週收黑"
+    "新聞｜全球公債殖利率急跌！AI股重挫掀避險潮 美債連五日走低"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -12.0 bps。",
     "美元：DXY 日變動 -0.06%。",
-    "波動率：VIX 35.89。",
+    "波動率：VIX 39.53。",
     "曲線：2Y10Y +29.0 bps。"
   ],
   "today_date_taipei": "2026-11-21",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-20T22:27:48.023152+00:00"
+  "as_of": "2026-11-21T03:21:52.427058+00:00"
 }

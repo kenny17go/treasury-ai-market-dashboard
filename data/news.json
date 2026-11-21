@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-11-20T22:25:28.242263+00:00",
+  "as_of": "2026-11-21T03:19:45.564387+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "〈貴金屬盤後〉14個月低點反彈失敗！美元走強、Fed升息預期升溫 黃金收跌1.5% 失守3700美元",
-      "summary": "〈貴金屬盤後〉14個月低點反彈失敗！美元走強、Fed升息預期升溫 黃金收跌1.5% 失守3700美元 鉅亨網",
+      "title": "全球公債殖利率急跌！AI股重挫掀避險潮 美債連五日走低",
+      "summary": "全球公債殖利率急跌！AI股重挫掀避險潮 美債連五日走低 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16YVJHejZNbUZFVERZaU9mS0pObFNSdEViQm0yamxUZnZGRl9OTkw5RkVhX1VLWXF2RDZaVHl5bXJOd0VvY3YtVXBGbkRMWGM?oc=5",
-      "published": "Thu, 19 Nov 2026 23:47:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14aS1yQnZrM1VqWDNkX0REcDRnT3BGUmNnYldqWGlOS1VId1IzS0tBSXlmdHRzVS1ueVF6WHJFSFh5djNrZkQ4dlhlX19Rdnc?oc=5",
+      "published": "Sat, 21 Nov 2026 03:10:02 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
-      "importance_score": 87,
+      "importance_score": 92,
       "related_assets": [
         "UST",
         "USD",
@@ -21,36 +21,20 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈能源盤後〉胡塞武裝威脅攻擊沙國紅海港口！油價尾盤反彈仍難扭轉跌勢 Brent、WTI連3週收黑",
-      "summary": "〈能源盤後〉胡塞武裝威脅攻擊沙國紅海港口！油價尾盤反彈仍難扭轉跌勢 Brent、WTI連3週收黑 鉅亨網",
+      "title": "〈貴金屬盤後〉14個月低點反彈失敗！美元走強、Fed升息預期升溫 黃金收跌1.5% 失守3700美元",
+      "summary": "〈貴金屬盤後〉14個月低點反彈失敗！美元走強、Fed升息預期升溫 黃金收跌1.5% 失守3700美元 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ITEdnTmhVZVhlbXRYMnhDZ1hFSXFybGJoMEpjX2xoTkV0VVRqX2N5b2ZpWGNicEw3am1lQ0k2b18wNUtBSlNzREhpaHVER2c?oc=5",
-      "published": "Fri, 20 Nov 2026 22:10:41 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16YVJHejZNbUZFVERZaU9mS0pObFNSdEViQm0yamxUZnZGRl9OTkw5RkVhX1VLWXF2RDZaVHl5bXJOd0VvY3YtVXBGbkRMWGM?oc=5",
+      "published": "Thu, 19 Nov 2026 23:47:58 GMT",
+      "topic": "Fed / 利率",
       "rank": 2,
-      "importance_score": 87,
+      "importance_score": 85,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
+        "UST",
+        "USD",
         "Equity"
       ],
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
-    },
-    {
-      "title": "〈能源盤後〉沙國原油出口月增21%、美國庫存暴增340萬桶 油價陷多空拉鋸 持平作收",
-      "summary": "〈能源盤後〉沙國原油出口月增21%、美國庫存暴增340萬桶 油價陷多空拉鋸 持平作收 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HeUtUWXpaZGV2UTZNTGNCMFhwengtMjVjZE5SYUNCUEZ1aG0wNk80RmJBRGZVUkQ1VFItSjVOa2pCWVBWUEV5d3Jpa1d1Q0U?oc=5",
-      "published": "Fri, 20 Nov 2026 01:38:25 GMT",
-      "topic": "能源",
-      "rank": 3,
-      "importance_score": 77,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
       "title": "高盛本月第二度下修金價預期 各國央行持續買入黃金",
@@ -59,8 +43,24 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2U0tTS0x6Q0N6eFM5WFpOVlh4MFdPSngyaFVjZFVpenFidG44eUtrbnRPSGR0SjVFeld2RldXUWc1V18zMHRBVTRGWQ?oc=5",
       "published": "Wed, 18 Nov 2026 06:50:04 GMT",
       "topic": "黃金",
+      "rank": 3,
+      "importance_score": 69,
+      "related_assets": [
+        "Gold",
+        "USD",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "數位風險升高推升黃金配置需求！央行買盤助攻高盛估2028年金價達5600美元",
+      "summary": "數位風險升高推升黃金配置需求！央行買盤助攻高盛估2028年金價達5600美元 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oSnNaWjJ4OUMzMzZNN2NjR0d1Q3M1VWJ4SDNfMmlZSndESjdXOEVYdUJpZm12VXN5MEZaR2xkaFZ5MDdoaU5NUlJGRQ?oc=5",
+      "published": "Wed, 18 Nov 2026 23:39:33 GMT",
+      "topic": "黃金",
       "rank": 4,
-      "importance_score": 67,
+      "importance_score": 71,
       "related_assets": [
         "Gold",
         "USD",
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "一週內連破四道關卡！受Fed鷹派信號+AI股續跌影響 現貨金價跌破3600美元",
-      "summary": "一週內連破四道關卡！受Fed鷹派信號+AI股續跌影響 現貨金價跌破3600美元 鉅亨網",
+      "title": "〈美股早盤〉Anthropic重挫拖累AI股！那指開盤跌逾1% 道瓊逼近修正區間",
+      "summary": "〈美股早盤〉Anthropic重挫拖累AI股！那指開盤跌逾1% 道瓊逼近修正區間 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1NEFYT3RwS2thTGpudHV3VDJuUzE0ZTVjNTdtV1lJSVh4QTVyOXVRZEJfTDktUEdrWEJOUjJMbG9pVWYxNUM0NHdQZWpaaVU?oc=5",
-      "published": "Fri, 20 Nov 2026 01:50:04 GMT",
-      "topic": "Fed / 利率",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxWlpJd0VLNjFjV0Q1VHVrLXlPaDE2Xy1SQXVIeUMzNXNxTDFrM0pocFk4cm1lT3U0NFZzUnFVaGFhTUd4WXI1endNY2ZMdzQ?oc=5",
+      "published": "Fri, 20 Nov 2026 14:39:03 GMT",
+      "topic": "AI / 半導體",
       "rank": 5,
-      "importance_score": 70,
+      "importance_score": 67,
       "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
