@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-21T03:19:45.564387+00:00",
+  "as_of": "2026-11-23T06:20:07.106477+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,50 +21,50 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈貴金屬盤後〉14個月低點反彈失敗！美元走強、Fed升息預期升溫 黃金收跌1.5% 失守3700美元",
-      "summary": "〈貴金屬盤後〉14個月低點反彈失敗！美元走強、Fed升息預期升溫 黃金收跌1.5% 失守3700美元 鉅亨網",
+      "title": "〈能源盤後〉胡塞武裝威脅攻擊沙國紅海港口！油價尾盤反彈仍難扭轉跌勢 Brent、WTI連3週收黑",
+      "summary": "〈能源盤後〉胡塞武裝威脅攻擊沙國紅海港口！油價尾盤反彈仍難扭轉跌勢 Brent、WTI連3週收黑 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16YVJHejZNbUZFVERZaU9mS0pObFNSdEViQm0yamxUZnZGRl9OTkw5RkVhX1VLWXF2RDZaVHl5bXJOd0VvY3YtVXBGbkRMWGM?oc=5",
-      "published": "Thu, 19 Nov 2026 23:47:58 GMT",
-      "topic": "Fed / 利率",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ITEdnTmhVZVhlbXRYMnhDZ1hFSXFybGJoMEpjX2xoTkV0VVRqX2N5b2ZpWGNicEw3am1lQ0k2b18wNUtBSlNzREhpaHVER2c?oc=5",
+      "published": "Fri, 20 Nov 2026 22:10:59 GMT",
+      "topic": "能源",
       "rank": 2,
-      "importance_score": 85,
+      "importance_score": 87,
       "related_assets": [
-        "UST",
-        "USD",
+        "WTI / Brent",
+        "Inflation",
         "Equity"
       ],
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "高盛本月第二度下修金價預期 各國央行持續買入黃金",
-      "summary": "高盛本月第二度下修金價預期 各國央行持續買入黃金 鉅亨網",
+      "title": "不甩升息預期！美債連漲5天將創今年最長紀錄 誰在逆勢買？",
+      "summary": "不甩升息預期！美債連漲5天將創今年最長紀錄 誰在逆勢買？ 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2U0tTS0x6Q0N6eFM5WFpOVlh4MFdPSngyaFVjZFVpenFidG44eUtrbnRPSGR0SjVFeld2RldXUWc1V18zMHRBVTRGWQ?oc=5",
-      "published": "Wed, 18 Nov 2026 06:50:04 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90YlJTTElmRTBlalpvZnBXVmJGTDlXYkFyMkd2TTFZdjF4UWNhOXlBQkNTQVc4akdsRDE3SVZJd3hvNDhodzdTU1ZqdDc2T3M?oc=5",
+      "published": "Fri, 20 Nov 2026 07:50:04 GMT",
+      "topic": "Fed / 利率",
       "rank": 3,
-      "importance_score": 69,
+      "importance_score": 76,
       "related_assets": [
-        "Gold",
+        "UST",
         "USD",
-        "UST"
+        "Equity"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "數位風險升高推升黃金配置需求！央行買盤助攻高盛估2028年金價達5600美元",
-      "summary": "數位風險升高推升黃金配置需求！央行買盤助攻高盛估2028年金價達5600美元 鉅亨網",
+      "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14%",
+      "summary": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14% 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oSnNaWjJ4OUMzMzZNN2NjR0d1Q3M1VWJ4SDNfMmlZSndESjdXOEVYdUJpZm12VXN5MEZaR2xkaFZ5MDdoaU5NUlJGRQ?oc=5",
-      "published": "Wed, 18 Nov 2026 23:39:33 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1TWExRndYejA5TkVPZmxTSnNPemZRaHVtMk05bkFkRVVXNld4LTNkM1c4ZnA3d0lObEZkZXZyZUlmMmtDSTZqNy1oMGFwazQ?oc=5",
+      "published": "Fri, 20 Nov 2026 22:10:04 GMT",
+      "topic": "AI / 半導體",
       "rank": 4,
-      "importance_score": 71,
+      "importance_score": 74,
       "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
