@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-23T06:20:07.106477+00:00",
+  "as_of": "2026-11-23T18:31:53.729499+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -8,7 +8,7 @@
       "title": "全球公債殖利率急跌！AI股重挫掀避險潮 美債連五日走低",
       "summary": "全球公債殖利率急跌！AI股重挫掀避險潮 美債連五日走低 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14aS1yQnZrM1VqWDNkX0REcDRnT3BGUmNnYldqWGlOS1VId1IzS0tBSXlmdHRzVS1ueVF6WHJFSFh5djNrZkQ4dlhlX19Rdnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LbnR5LV9GZlJJOV8wRlNvYzFPYl84WFZMcWNoUmp3YTFYRmZwQ1dZZjhRSVhRWjZKWWlwSXlCVnN6Z19RaG0yaXpSSQ?oc=5",
       "published": "Sat, 21 Nov 2026 03:10:02 GMT",
       "topic": "Fed / 利率",
       "rank": 1,
@@ -37,30 +37,30 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "不甩升息預期！美債連漲5天將創今年最長紀錄 誰在逆勢買？",
-      "summary": "不甩升息預期！美債連漲5天將創今年最長紀錄 誰在逆勢買？ 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90YlJTTElmRTBlalpvZnBXVmJGTDlXYkFyMkd2TTFZdjF4UWNhOXlBQkNTQVc4akdsRDE3SVZJd3hvNDhodzdTU1ZqdDc2T3M?oc=5",
-      "published": "Fri, 20 Nov 2026 07:50:04 GMT",
-      "topic": "Fed / 利率",
-      "rank": 3,
-      "importance_score": 76,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
       "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14%",
       "summary": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14% 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1TWExRndYejA5TkVPZmxTSnNPemZRaHVtMk05bkFkRVVXNld4LTNkM1c4ZnA3d0lObEZkZXZyZUlmMmtDSTZqNy1oMGFwazQ?oc=5",
       "published": "Fri, 20 Nov 2026 22:10:04 GMT",
       "topic": "AI / 半導體",
+      "rank": 3,
+      "importance_score": 76,
+      "related_assets": [
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "摩根大通：AI融資狂潮阻礙全球債市反彈",
+      "summary": "摩根大通：AI融資狂潮阻礙全球債市反彈 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xMzVJazZmMHVQeVdxTlp3WVIyc2VrR2d4NjVEZ2VGNm03M2w5MVZMY2pwaVFxcEVzRHdYN2NIQ1M0OTBzeV9UQXZUcVRhM28?oc=5",
+      "published": "Mon, 23 Nov 2026 10:50:19 GMT",
+      "topic": "AI / 半導體",
       "rank": 4,
-      "importance_score": 74,
+      "importance_score": 64,
       "related_assets": [
         "SOX",
         "Nasdaq",
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈美股早盤〉Anthropic重挫拖累AI股！那指開盤跌逾1% 道瓊逼近修正區間",
-      "summary": "〈美股早盤〉Anthropic重挫拖累AI股！那指開盤跌逾1% 道瓊逼近修正區間 鉅亨網",
+      "title": "命中率70%！施羅德2027十大預測一表看 台股供應鏈首度上榜即居冠",
+      "summary": "命中率70%！施羅德2027十大預測一表看 台股供應鏈首度上榜即居冠 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxWlpJd0VLNjFjV0Q1VHVrLXlPaDE2Xy1SQXVIeUMzNXNxTDFrM0pocFk4cm1lT3U0NFZzUnFVaGFhTUd4WXI1endNY2ZMdzQ?oc=5",
-      "published": "Fri, 20 Nov 2026 14:39:03 GMT",
-      "topic": "AI / 半導體",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53T2NPb3RGQVlTaDFiaHU1MEJZTHRITVRRT2lLVVR1ZnJSRTFXQk15NDh0R0lqdzRndVRQUkdPUTJzd1BtZm1nN1FmZHdLekk?oc=5",
+      "published": "Mon, 23 Nov 2026 08:10:07 GMT",
+      "topic": "台灣",
       "rank": 5,
-      "importance_score": 67,
+      "importance_score": 62,
       "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
+        "TAIEX",
+        "TWD",
+        "TSM"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
