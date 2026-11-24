@@ -1,34 +1,18 @@
 {
-  "as_of": "2026-11-23T18:49:56.080795+00:00",
+  "as_of": "2026-11-24T04:08:22.269329+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "全球公債殖利率急跌！AI股重挫掀避險潮 美債連五日走低",
-      "summary": "全球公債殖利率急跌！AI股重挫掀避險潮 美債連五日走低 鉅亨網",
+      "title": "〈能源盤後〉 原油重挫逾3%！Brent、WTI齊創近三個月新低 利比亞復產加劇供應過剩疑慮",
+      "summary": "〈能源盤後〉 原油重挫逾3%！Brent、WTI齊創近三個月新低 利比亞復產加劇供應過剩疑慮 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LbnR5LV9GZlJJOV8wRlNvYzFPYl84WFZMcWNoUmp3YTFYRmZwQ1dZZjhRSVhRWjZKWWlwSXlCVnN6Z19RaG0yaXpSSQ?oc=5",
-      "published": "Sat, 21 Nov 2026 03:10:02 GMT",
-      "topic": "Fed / 利率",
-      "rank": 1,
-      "importance_score": 92,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
-    },
-    {
-      "title": "〈能源盤後〉胡塞武裝威脅攻擊沙國紅海港口！油價尾盤反彈仍難扭轉跌勢 Brent、WTI連3週收黑",
-      "summary": "〈能源盤後〉胡塞武裝威脅攻擊沙國紅海港口！油價尾盤反彈仍難扭轉跌勢 Brent、WTI連3週收黑 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ITEdnTmhVZVhlbXRYMnhDZ1hFSXFybGJoMEpjX2xoTkV0VVRqX2N5b2ZpWGNicEw3am1lQ0k2b18wNUtBSlNzREhpaHVER2c?oc=5",
-      "published": "Fri, 20 Nov 2026 22:10:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wakVOOFJNRHdjQzVpdHNEODVnWWtQZ2tETnI4Q0lTUHJ4RmZFUzk1dHA3c1dmVWdYYTUxTUVJRloxYVp5ZEVfTEd5TUtNTkk?oc=5",
+      "published": "Mon, 23 Nov 2026 21:31:14 GMT",
       "topic": "能源",
-      "rank": 2,
-      "importance_score": 87,
+      "rank": 1,
+      "importance_score": 89,
       "related_assets": [
         "WTI / Brent",
         "Inflation",
@@ -37,36 +21,20 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14%",
-      "summary": "〈美股盤後〉美股大屠殺！AI殺盤全面失控道瓊標普陷修正區費半瀉逾10% 輝達、美光暴跌約14% 鉅亨網",
+      "title": "〈貴金屬盤後〉黃金上周重挫9%後強彈逾3% 聚焦本周PCE通膨",
+      "summary": "〈貴金屬盤後〉黃金上周重挫9%後強彈逾3% 聚焦本周PCE通膨 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1TWExRndYejA5TkVPZmxTSnNPemZRaHVtMk05bkFkRVVXNld4LTNkM1c4ZnA3d0lObEZkZXZyZUlmMmtDSTZqNy1oMGFwazQ?oc=5",
-      "published": "Fri, 20 Nov 2026 22:10:04 GMT",
-      "topic": "AI / 半導體",
-      "rank": 3,
-      "importance_score": 76,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Xa0xOMjc3czVFcVhJM3NXbDVzSUhaUXdDNU02YlVVVTV0cW1mVWRSekJ2enNvdmtpQS1Bd0xudGdLN1pBbU9WTW1FU0ZFZGs?oc=5",
+      "published": "Mon, 23 Nov 2026 22:46:46 GMT",
+      "topic": "黃金",
+      "rank": 2,
+      "importance_score": 78,
       "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "摩根大通：AI融資狂潮阻礙全球債市反彈",
-      "summary": "摩根大通：AI融資狂潮阻礙全球債市反彈 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xMzVJazZmMHVQeVdxTlp3WVIyc2VrR2d4NjVEZ2VGNm03M2w5MVZMY2pwaVFxcEVzRHdYN2NIQ1M0OTBzeV9UQXZUcVRhM28?oc=5",
-      "published": "Mon, 23 Nov 2026 10:50:19 GMT",
-      "topic": "AI / 半導體",
-      "rank": 4,
-      "importance_score": 64,
-      "related_assets": [
-        "SOX",
-        "Nasdaq",
-        "TSM / NVDA"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
       "title": "命中率70%！施羅德2027十大預測一表看 台股供應鏈首度上榜即居冠",
@@ -75,14 +43,46 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53T2NPb3RGQVlTaDFiaHU1MEJZTHRITVRRT2lLVVR1ZnJSRTFXQk15NDh0R0lqdzRndVRQUkdPUTJzd1BtZm1nN1FmZHdLekk?oc=5",
       "published": "Mon, 23 Nov 2026 08:10:07 GMT",
       "topic": "台灣",
-      "rank": 5,
-      "importance_score": 62,
+      "rank": 3,
+      "importance_score": 66,
       "related_assets": [
         "TAIEX",
         "TWD",
         "TSM"
       ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "黃金強勢回升3.5% 市場靜待美通膨數據、Fed升息前景 - VOCO News",
+      "summary": "黃金強勢回升3.5% 市場靜待美通膨數據、Fed升息前景 VOCO News",
+      "source": "VOCO News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FMnZ3N3FHMkFiV1g5Q1VQSUFZSTdsMmhhV1RFUnlXOTRQdnhEU25XbDJjT0o4WmdfWUtDWHpHN0FUQ0JkbnhVbWRtWUNQWDVKcGJQT05TM1FRdWVLQnNDMWhMQ09KcTVQeE1OUEJkTl9mUGJxVHJ3?oc=5",
+      "published": "Tue, 24 Nov 2026 01:33:50 GMT",
+      "topic": "Fed / 利率",
+      "rank": 4,
+      "importance_score": 56,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、具明確資產關聯"
+    },
+    {
+      "title": "亞洲一週前瞻：韓國央行利率決議、中國工業利潤、台灣工業生產、東京通膨 - 新聞與統計 - IndexBox",
+      "summary": "亞洲一週前瞻：韓國央行利率決議、中國工業利潤、台灣工業生產、東京通膨 - 新聞與統計 IndexBox",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNE5PZWthVzRXVzZKdXNfUUdNYWs0bXhwOTZHRDY5THVMbVpBRy1XdGpMQWM2dFVqWjd2T0xtUWhGMFR1NWV3ck1rX0dlT0I4VkRaZGFOYUV2bVVjTGRvR2p3MmU4Z2l1T3dNOHl0WFRfbnBPMl82Nk1rYUE1ZmlZRmdZckQtVDJoUmNnQXhfVXZyNnBPdXR3VlZ3U0hLQ28?oc=5",
+      "published": "Sun, 22 Nov 2026 18:40:31 GMT",
+      "topic": "Fed / 利率",
+      "rank": 5,
+      "importance_score": 50,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "具明確資產關聯"
     }
   ]
 }
