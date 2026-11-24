@@ -1,31 +1,30 @@
 {
   "mode": "rules",
-  "headline": "市場風險情緒：偏多",
+  "headline": "市場風險情緒：偏空",
   "bullets": [
-    "主要美股指數平均變動 +7.05%。",
-    "美債10年殖利率 4.920%，日變動 -12.0 bps。",
-    "自選股強勢 NVDA +31.59%；較弱 SNDK -9.94%。",
+    "主要美股指數平均變動 -2.08%。",
+    "美債10年殖利率 4.920%，日變動 +0.0 bps。",
+    "自選股強勢 SWKS +7.57%；較弱 SNDK -17.50%。",
     "2Y10Y 利差 +29.0 bps。"
   ],
-  "risk_score": 100,
-  "risk_label": "偏多",
+  "risk_score": 17,
+  "risk_label": "偏空",
   "yesterday_top": [
-    "美股主要指數平均 +7.05%，風險情緒偏多。",
+    "美股主要指數平均 -2.08%，風險情緒偏空。",
     "10Y 美債殖利率 4.920%。",
-    "DXY 日變動 -0.05%。"
+    "DXY 日變動 -0.51%。"
   ],
   "today_top": [
-    "新聞｜〈能源盤後〉 原油重挫逾3%！Brent、WTI齊創近三個月新低 利比亞復產加劇供應過剩疑慮",
-    "新聞｜〈貴金屬盤後〉黃金上周重挫9%後強彈逾3% 聚焦本周PCE通膨",
-    "新聞｜黃仁勳回歸輝達帶動美元攀高 市場押Fed升息1碼 - VOCO News"
+    "🇺🇸 21:30 United States｜GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026",
+    "🇺🇸 21:30 United States｜Personal Income and Outlays, October 2026"
   ],
   "todays_watch": [
-    "利率：10Y 日變動 -12.0 bps。",
-    "美元：DXY 日變動 -0.05%。",
-    "波動率：VIX 26.86。",
+    "利率：10Y 日變動 +0.0 bps。",
+    "美元：DXY 日變動 -0.51%。",
+    "波動率：VIX 26.62。",
     "曲線：2Y10Y +29.0 bps。"
   ],
-  "today_date_taipei": "2026-11-24",
+  "today_date_taipei": "2026-11-25",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-24T08:56:34.310872+00:00"
+  "as_of": "2026-11-24T18:28:33.551131+00:00"
 }

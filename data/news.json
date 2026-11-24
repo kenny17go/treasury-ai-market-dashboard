@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-24T08:54:33.821571+00:00",
+  "as_of": "2026-11-24T18:26:03.708917+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,17 +21,17 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
-      "title": "〈貴金屬盤後〉黃金上周重挫9%後強彈逾3% 聚焦本周PCE通膨",
-      "summary": "〈貴金屬盤後〉黃金上周重挫9%後強彈逾3% 聚焦本周PCE通膨 鉅亨網",
+      "title": "〈美股早盤〉狂歡只一天？黃仁勳回歸行情降溫 輝達拖累主要指數開低",
+      "summary": "〈美股早盤〉狂歡只一天？黃仁勳回歸行情降溫 輝達拖累主要指數開低 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Xa0xOMjc3czVFcVhJM3NXbDVzSUhaUXdDNU02YlVVVTV0cW1mVWRSekJ2enNvdmtpQS1Bd0xudGdLN1pBbU9WTW1FU0ZFZGs?oc=5",
-      "published": "Mon, 23 Nov 2026 22:46:46 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41TmU1OUlsT2hPS3I4R3NONEdGNzBnVHlrQmFvZ2dOZFBjNVltSFYtbENKR3BTYWtLXzZoRmM1Y19lNmx4UXo0Y09VTQ?oc=5",
+      "published": "Tue, 24 Nov 2026 14:57:13 GMT",
+      "topic": "美股",
       "rank": 2,
-      "importance_score": 78,
+      "importance_score": 64,
       "related_assets": [
-        "Gold",
-        "USD",
+        "S&P 500",
+        "Nasdaq",
         "UST"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
@@ -53,36 +53,36 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "亞洲一週前瞻：韓國央行利率決議、中國工業利潤、台灣工業生產、東京通膨 - 新聞與統計 - IndexBox",
-      "summary": "亞洲一週前瞻：韓國央行利率決議、中國工業利潤、台灣工業生產、東京通膨 - 新聞與統計 IndexBox",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNE5PZWthVzRXVzZKdXNfUUdNYWs0bXhwOTZHRDY5THVMbVpBRy1XdGpMQWM2dFVqWjd2T0xtUWhGMFR1NWV3ck1rX0dlT0I4VkRaZGFOYUV2bVVjTGRvR2p3MmU4Z2l1T3dNOHl0WFRfbnBPMl82Nk1rYUE1ZmlZRmdZckQtVDJoUmNnQXhfVXZyNnBPdXR3VlZ3U0hLQ28?oc=5",
-      "published": "Sun, 22 Nov 2026 18:40:31 GMT",
-      "topic": "Fed / 利率",
+      "title": "法國外貿銀行：金價反彈難持久 明年1月或下探3340美元",
+      "summary": "法國外貿銀行：金價反彈難持久 明年1月或下探3340美元 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TMUwtNDR6ZTNMMU84TWJMbERwTjlFV3hCOWpMa3BsQVhWV2RlUVJ1SUdHenFiX0NTQi04NmVtUmVlR1g0ckNWV2hDLUxnQXM?oc=5",
+      "published": "Tue, 24 Nov 2026 09:10:05 GMT",
+      "topic": "全球市場",
       "rank": 4,
-      "importance_score": 52,
+      "importance_score": 55,
       "related_assets": [
-        "UST",
+        "Global Equity",
         "USD",
-        "Equity"
+        "UST"
       ],
-      "why_selected": "具明確資產關聯"
+      "why_selected": "高品質財經來源"
     },
     {
-      "title": "黃仁勳回歸輝達帶動美元攀高 市場押Fed升息1碼 - VOCO News",
-      "summary": "黃仁勳回歸輝達帶動美元攀高 市場押Fed升息1碼 VOCO News",
-      "source": "VOCO News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xMHQ3cEo4MWFOaV9NNndBSjFzYWxzMU9vQ0o0N2dUa2Fya3RncjhGWVRpMndzMnQzMlFtMHFZaTFldGlEcUh2cjdSczlVcWxZeHY3S3VPWFB3cnRxOS1nUk9lNWRrSTgzMzYtNTlRVW1nQkpLU3JR?oc=5",
-      "published": "Tue, 24 Nov 2026 01:36:40 GMT",
-      "topic": "Fed / 利率",
+      "title": "WTI原油走勢：油價跌破80關口、創逾三個月新低，一因素預示短期跌勢有望延續 - Mitrade",
+      "summary": "WTI原油走勢：油價跌破80關口、創逾三個月新低，一因素預示短期跌勢有望延續 Mitrade",
+      "source": "Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16RU4ybkZnTm1SNWdiNzg2UW9jT0FUeDJXQ2ZnSkpoWnFGd2FZRjJpaUtxYU1YZE5PcDI1N214R00tekt0alpJRXZzMkJ3cDFRSlhvYXlBa0dxcjcycDNyNDM2U3NjbExyRzVUTWJPSDZyQjdJN1dZd3F3?oc=5",
+      "published": "Tue, 24 Nov 2026 06:50:14 GMT",
+      "topic": "能源",
       "rank": 5,
-      "importance_score": 47,
+      "importance_score": 56,
       "related_assets": [
-        "UST",
-        "USD",
+        "WTI / Brent",
+        "Inflation",
         "Equity"
       ],
-      "why_selected": "具明確資產關聯"
+      "why_selected": "高市場影響主題、具明確資產關聯"
     }
   ]
 }
