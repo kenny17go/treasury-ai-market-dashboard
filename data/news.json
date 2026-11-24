@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-24T04:08:22.269329+00:00",
+  "as_of": "2026-11-24T08:54:33.821571+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,36 +37,20 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "命中率70%！施羅德2027十大預測一表看 台股供應鏈首度上榜即居冠",
-      "summary": "命中率70%！施羅德2027十大預測一表看 台股供應鏈首度上榜即居冠 鉅亨網",
+      "title": "黃金為何與科技股一起跌？高盛揭追加保證金如何引爆跨市場賣壓",
+      "summary": "黃金為何與科技股一起跌？高盛揭追加保證金如何引爆跨市場賣壓 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53T2NPb3RGQVlTaDFiaHU1MEJZTHRITVRRT2lLVVR1ZnJSRTFXQk15NDh0R0lqdzRndVRQUkdPUTJzd1BtZm1nN1FmZHdLekk?oc=5",
-      "published": "Mon, 23 Nov 2026 08:10:07 GMT",
-      "topic": "台灣",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xQzJaVHhqV0xrUWtqNnpNaHpCRUlEcDRkVjlQX29xZk9ZTU5FM2Z3RXloOWd2Ymx3VFk2M1lDRlJZNmItdWpnMkhUWVRnRVU?oc=5",
+      "published": "Mon, 23 Nov 2026 04:10:03 GMT",
+      "topic": "黃金",
       "rank": 3,
-      "importance_score": 66,
+      "importance_score": 63,
       "related_assets": [
-        "TAIEX",
-        "TWD",
-        "TSM"
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "黃金強勢回升3.5% 市場靜待美通膨數據、Fed升息前景 - VOCO News",
-      "summary": "黃金強勢回升3.5% 市場靜待美通膨數據、Fed升息前景 VOCO News",
-      "source": "VOCO News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FMnZ3N3FHMkFiV1g5Q1VQSUFZSTdsMmhhV1RFUnlXOTRQdnhEU25XbDJjT0o4WmdfWUtDWHpHN0FUQ0JkbnhVbWRtWUNQWDVKcGJQT05TM1FRdWVLQnNDMWhMQ09KcTVQeE1OUEJkTl9mUGJxVHJ3?oc=5",
-      "published": "Tue, 24 Nov 2026 01:33:50 GMT",
-      "topic": "Fed / 利率",
-      "rank": 4,
-      "importance_score": 56,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、具明確資產關聯"
     },
     {
       "title": "亞洲一週前瞻：韓國央行利率決議、中國工業利潤、台灣工業生產、東京通膨 - 新聞與統計 - IndexBox",
@@ -75,8 +59,24 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNE5PZWthVzRXVzZKdXNfUUdNYWs0bXhwOTZHRDY5THVMbVpBRy1XdGpMQWM2dFVqWjd2T0xtUWhGMFR1NWV3ck1rX0dlT0I4VkRaZGFOYUV2bVVjTGRvR2p3MmU4Z2l1T3dNOHl0WFRfbnBPMl82Nk1rYUE1ZmlZRmdZckQtVDJoUmNnQXhfVXZyNnBPdXR3VlZ3U0hLQ28?oc=5",
       "published": "Sun, 22 Nov 2026 18:40:31 GMT",
       "topic": "Fed / 利率",
+      "rank": 4,
+      "importance_score": 52,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "具明確資產關聯"
+    },
+    {
+      "title": "黃仁勳回歸輝達帶動美元攀高 市場押Fed升息1碼 - VOCO News",
+      "summary": "黃仁勳回歸輝達帶動美元攀高 市場押Fed升息1碼 VOCO News",
+      "source": "VOCO News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xMHQ3cEo4MWFOaV9NNndBSjFzYWxzMU9vQ0o0N2dUa2Fya3RncjhGWVRpMndzMnQzMlFtMHFZaTFldGlEcUh2cjdSczlVcWxZeHY3S3VPWFB3cnRxOS1nUk9lNWRrSTgzMzYtNTlRVW1nQkpLU3JR?oc=5",
+      "published": "Tue, 24 Nov 2026 01:36:40 GMT",
+      "topic": "Fed / 利率",
       "rank": 5,
-      "importance_score": 50,
+      "importance_score": 47,
       "related_assets": [
         "UST",
         "USD",
