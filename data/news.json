@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-24T18:26:03.708917+00:00",
+  "as_of": "2026-11-25T02:39:26.959064+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,36 +53,36 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
+      "title": "美股期指開盤反彈 那斯達克期貨大漲2.5% 但三星SK海力士盤前仍大跌5%",
+      "summary": "美股期指開盤反彈 那斯達克期貨大漲2.5% 但三星SK海力士盤前仍大跌5% 經濟日報",
+      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JUENpU2JzemU3RUlCaS1IMUQ0VFdING53VUYtMnhPMUl2YmstT2FYUVBNNWVRTHpCNXgtbGdVREVQMlF5SUd1ZHI0azBQUDNDT0ZnZlprUVNodDRl0gFiQVVfeXFMT0lCSnI2aVlxV01QX3B4a3NwTmlvWktGdFNEeENFQzF0NnpMZ0dpRTlnOWRxOXJoaEU2Skw4dnhsRnRncHJYaWtJb19ISEJGbmVFOXhCWVVCcHFwMzNhTmJtWkE?oc=5",
+      "published": "Sun, 22 Nov 2026 23:48:29 GMT",
+      "topic": "美股",
+      "rank": 4,
+      "importance_score": 63,
+      "related_assets": [
+        "S&P 500",
+        "Nasdaq",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
       "title": "法國外貿銀行：金價反彈難持久 明年1月或下探3340美元",
       "summary": "法國外貿銀行：金價反彈難持久 明年1月或下探3340美元 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TMUwtNDR6ZTNMMU84TWJMbERwTjlFV3hCOWpMa3BsQVhWV2RlUVJ1SUdHenFiX0NTQi04NmVtUmVlR1g0ckNWV2hDLUxnQXM?oc=5",
       "published": "Tue, 24 Nov 2026 09:10:05 GMT",
       "topic": "全球市場",
-      "rank": 4,
-      "importance_score": 55,
+      "rank": 5,
+      "importance_score": 53,
       "related_assets": [
         "Global Equity",
         "USD",
         "UST"
       ],
       "why_selected": "高品質財經來源"
-    },
-    {
-      "title": "WTI原油走勢：油價跌破80關口、創逾三個月新低，一因素預示短期跌勢有望延續 - Mitrade",
-      "summary": "WTI原油走勢：油價跌破80關口、創逾三個月新低，一因素預示短期跌勢有望延續 Mitrade",
-      "source": "Mitrade",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16RU4ybkZnTm1SNWdiNzg2UW9jT0FUeDJXQ2ZnSkpoWnFGd2FZRjJpaUtxYU1YZE5PcDI1N214R00tekt0alpJRXZzMkJ3cDFRSlhvYXlBa0dxcjcycDNyNDM2U3NjbExyRzVUTWJPSDZyQjdJN1dZd3F3?oc=5",
-      "published": "Tue, 24 Nov 2026 06:50:14 GMT",
-      "topic": "能源",
-      "rank": 5,
-      "importance_score": 56,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高市場影響主題、具明確資產關聯"
     }
   ]
 }
