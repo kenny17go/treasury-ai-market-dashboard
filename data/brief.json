@@ -4,7 +4,7 @@
   "bullets": [
     "主要美股指數平均變動 -2.25%。",
     "美債10年殖利率 4.910%，日變動 -1.0 bps。",
-    "自選股強勢 SWKS +5.02%；較弱 SNDK -19.72%。",
+    "自選股強勢 SWKS +5.02%；較弱 SNDK -19.71%。",
     "2Y10Y 利差 +28.0 bps。"
   ],
   "risk_score": 15,
@@ -12,19 +12,20 @@
   "yesterday_top": [
     "美股主要指數平均 -2.25%，風險情緒偏空。",
     "10Y 美債殖利率 4.910%。",
-    "DXY 日變動 -0.47%。"
+    "DXY 日變動 +0.20%。"
   ],
   "today_top": [
     "🇺🇸 21:30 United States｜GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026",
-    "🇺🇸 21:30 United States｜Personal Income and Outlays, October 2026"
+    "🇺🇸 21:30 United States｜Personal Income and Outlays, October 2026",
+    "新聞｜〈能源盤後〉荷姆茲海峽3艘船遇襲 原油漲逾2% 但供應過剩仍壓頂"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -1.0 bps。",
-    "美元：DXY 日變動 -0.47%。",
+    "美元：DXY 日變動 +0.20%。",
     "波動率：VIX 26.36。",
     "曲線：2Y10Y +28.0 bps。"
   ],
   "today_date_taipei": "2026-11-25",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-25T02:41:11.164364+00:00"
+  "as_of": "2026-11-25T07:33:56.169756+00:00"
 }

@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-25T02:39:26.959064+00:00",
+  "as_of": "2026-11-25T07:31:09.519345+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,33 +21,33 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "〈能源盤後〉荷姆茲海峽3艘船遇襲 原油漲逾2% 但供應過剩仍壓頂",
+      "summary": "〈能源盤後〉荷姆茲海峽3艘船遇襲 原油漲逾2% 但供應過剩仍壓頂 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aUzh6Wk5BUTMyNDNGUUpobmRnVGpFQTBGT1dSckZocWhRZ0lBeUlaQkQ2Qm1zT0xMVkZVeVJ2b0hZdktjTVlSNlpnZzlEWm8?oc=5",
+      "published": "Wed, 25 Nov 2026 00:01:29 GMT",
+      "topic": "能源",
+      "rank": 2,
+      "importance_score": 71,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
       "title": "〈美股早盤〉狂歡只一天？黃仁勳回歸行情降溫 輝達拖累主要指數開低",
       "summary": "〈美股早盤〉狂歡只一天？黃仁勳回歸行情降溫 輝達拖累主要指數開低 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41TmU1OUlsT2hPS3I4R3NONEdGNzBnVHlrQmFvZ2dOZFBjNVltSFYtbENKR3BTYWtLXzZoRmM1Y19lNmx4UXo0Y09VTQ?oc=5",
       "published": "Tue, 24 Nov 2026 14:57:13 GMT",
       "topic": "美股",
-      "rank": 2,
-      "importance_score": 64,
+      "rank": 3,
+      "importance_score": 62,
       "related_assets": [
         "S&P 500",
         "Nasdaq",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "黃金為何與科技股一起跌？高盛揭追加保證金如何引爆跨市場賣壓",
-      "summary": "黃金為何與科技股一起跌？高盛揭追加保證金如何引爆跨市場賣壓 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xQzJaVHhqV0xrUWtqNnpNaHpCRUlEcDRkVjlQX29xZk9ZTU5FM2Z3RXloOWd2Ymx3VFk2M1lDRlJZNmItdWpnMkhUWVRnRVU?oc=5",
-      "published": "Mon, 23 Nov 2026 04:10:03 GMT",
-      "topic": "黃金",
-      "rank": 3,
-      "importance_score": 63,
-      "related_assets": [
-        "Gold",
-        "USD",
         "UST"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
@@ -69,20 +69,20 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "法國外貿銀行：金價反彈難持久 明年1月或下探3340美元",
-      "summary": "法國外貿銀行：金價反彈難持久 明年1月或下探3340美元 鉅亨網",
+      "title": "日本40年期公債標售需求疲軟 全球避險情緒與政策不確定性罩頂",
+      "summary": "日本40年期公債標售需求疲軟 全球避險情緒與政策不確定性罩頂 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TMUwtNDR6ZTNMMU84TWJMbERwTjlFV3hCOWpMa3BsQVhWV2RlUVJ1SUdHenFiX0NTQi04NmVtUmVlR1g0ckNWV2hDLUxnQXM?oc=5",
-      "published": "Tue, 24 Nov 2026 09:10:05 GMT",
-      "topic": "全球市場",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xUnlOYzByd05RWEw5WmxXbjAtUmdrMXJ2VkhFaGVmVXdENVFGeExRdDl3dld6QWFEWS1lTm1pVE1qUXFza2ZNR1h1bnN1VFk?oc=5",
+      "published": "Wed, 25 Nov 2026 06:50:05 GMT",
+      "topic": "日本",
       "rank": 5,
-      "importance_score": 53,
+      "importance_score": 57,
       "related_assets": [
-        "Global Equity",
-        "USD",
+        "JPY",
+        "Nikkei",
         "UST"
       ],
-      "why_selected": "高品質財經來源"
+      "why_selected": "高品質財經來源、具明確資產關聯"
     }
   ]
 }
