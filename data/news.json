@@ -1,9 +1,25 @@
 {
-  "as_of": "2026-11-25T17:41:36.823448+00:00",
+  "as_of": "2026-11-26T01:14:17.460527+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
+    {
+      "title": "〈貴金屬盤後〉黃金反彈無力下挫逾2% Fed官員放鷹強化12月升息預期",
+      "summary": "〈貴金屬盤後〉黃金反彈無力下挫逾2% Fed官員放鷹強化12月升息預期 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83MHo2aHFOODdrMmljYlBjZC0yTEM0cDBQcEtyM0tuTGhMT2JKLW53cFVGQm9UaWFEYVFBZUswbElTVEFPQXVrQlpoMkJCQmM?oc=5",
+      "published": "Wed, 25 Nov 2026 09:47:43 GMT",
+      "topic": "Fed / 利率",
+      "rank": 1,
+      "importance_score": 87,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+    },
     {
       "title": "〈貴金屬盤後〉黃金上周重挫9%後強彈逾3% 聚焦本周PCE通膨",
       "summary": "〈貴金屬盤後〉黃金上周重挫9%後強彈逾3% 聚焦本周PCE通膨 鉅亨網",
@@ -11,14 +27,46 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Xa0xOMjc3czVFcVhJM3NXbDVzSUhaUXdDNU02YlVVVTV0cW1mVWRSekJ2enNvdmtpQS1Bd0xudGdLN1pBbU9WTW1FU0ZFZGs?oc=5",
       "published": "Mon, 23 Nov 2026 22:46:46 GMT",
       "topic": "黃金",
-      "rank": 1,
-      "importance_score": 80,
+      "rank": 2,
+      "importance_score": 78,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
       ],
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "〈貴金屬盤後〉美PCE通膨進一步升溫 金價一度跌破3500美元",
+      "summary": "〈貴金屬盤後〉美PCE通膨進一步升溫 金價一度跌破3500美元 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkalFQbTQzSnotZWJzNlhnREM3X3lDOVVNRVE0b2dKV0VPSkxfVFZHMS02RHlidzEwOFE2dzFhdldTR2JwXzRGOHVkYw?oc=5",
+      "published": "Wed, 25 Nov 2026 22:34:38 GMT",
+      "topic": "黃金",
+      "rank": 3,
+      "importance_score": 69,
+      "related_assets": [
+        "Gold",
+        "USD",
+        "UST"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "「輝黃」回巢掀台股漲停潮！PIMCO：AI資本支出上看10兆美元 曝2027年配置新局",
+      "summary": "「輝黃」回巢掀台股漲停潮！PIMCO：AI資本支出上看10兆美元 曝2027年配置新局 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIM0NzR2xLOThMMFR0V2I3ZWNGZ0hJbnJDSWVzZTJxLU1EVGRQV0w4ZWNsY2FrNGNHRFhuNEI4N00zbko2VjFrcVdLZ19rYVE?oc=5",
+      "published": "Tue, 24 Nov 2026 03:46:57 GMT",
+      "topic": "AI / 半導體",
+      "rank": 4,
+      "importance_score": 69,
+      "related_assets": [
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
       "title": "摩根大通示警股市或迎來「非常難看的聖誕節」！伊朗戰爭、Fed緊縮、政府關門、關稅上調、晶片管制一起來",
@@ -27,60 +75,12 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mMHBrMjl3alBCUF9uX1dHYmpqVjZQTXpGRmpCZEZWUDZDdU9VMVhCRjR3T1d1SkZQQkVLWk83Z3M3cHRiZHRCeVZ1dVRoNTg?oc=5",
       "published": "Wed, 25 Nov 2026 15:10:03 GMT",
       "topic": "Fed / 利率",
-      "rank": 2,
-      "importance_score": 71,
+      "rank": 5,
+      "importance_score": 65,
       "related_assets": [
         "UST",
         "USD",
         "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "〈能源盤後〉荷姆茲海峽3艘船遇襲 原油漲逾2% 但供應過剩仍壓頂",
-      "summary": "〈能源盤後〉荷姆茲海峽3艘船遇襲 原油漲逾2% 但供應過剩仍壓頂 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aUzh6Wk5BUTMyNDNGUUpobmRnVGpFQTBGT1dSckZocWhRZ0lBeUlaQkQ2Qm1zT0xMVkZVeVJ2b0hZdktjTVlSNlpnZzlEWm8?oc=5",
-      "published": "Wed, 25 Nov 2026 00:01:29 GMT",
-      "topic": "能源",
-      "rank": 3,
-      "importance_score": 69,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "美股期指開盤反彈 那斯達克期貨大漲2.5% 但三星SK海力士盤前仍大跌5%",
-      "summary": "美股期指開盤反彈 那斯達克期貨大漲2.5% 但三星SK海力士盤前仍大跌5% 經濟日報",
-      "source": "經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JUENpU2JzemU3RUlCaS1IMUQ0VFdING53VUYtMnhPMUl2YmstT2FYUVBNNWVRTHpCNXgtbGdVREVQMlF5SUd1ZHI0azBQUDNDT0ZnZlprUVNodDRl0gFiQVVfeXFMT0lCSnI2aVlxV01QX3B4a3NwTmlvWktGdFNEeENFQzF0NnpMZ0dpRTlnOWRxOXJoaEU2Skw4dnhsRnRncHJYaWtJb19ISEJGbmVFOXhCWVVCcHFwMzNhTmJtWkE?oc=5",
-      "published": "Sun, 22 Nov 2026 23:48:29 GMT",
-      "topic": "美股",
-      "rank": 4,
-      "importance_score": 63,
-      "related_assets": [
-        "S&P 500",
-        "Nasdaq",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "黃金為何與科技股一起跌？高盛揭追加保證金如何引爆跨市場賣壓",
-      "summary": "黃金為何與科技股一起跌？高盛揭追加保證金如何引爆跨市場賣壓 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xQzJaVHhqV0xrUWtqNnpNaHpCRUlEcDRkVjlQX29xZk9ZTU5FM2Z3RXloOWd2Ymx3VFk2M1lDRlJZNmItdWpnMkhUWVRnRVU?oc=5",
-      "published": "Mon, 23 Nov 2026 04:10:03 GMT",
-      "topic": "黃金",
-      "rank": 5,
-      "importance_score": 59,
-      "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
