@@ -15,16 +15,15 @@
     "DXY 日變動 +0.14%。"
   ],
   "today_top": [
-    "新聞｜〈貴金屬盤後〉美PCE通膨進一步升溫 金價一度跌破3500美元",
-    "新聞｜〈能源盤後〉胡塞武裝聲稱攻擊沙國最大煉油廠 Brent漲破94美元 供應過剩仍是油市隱憂"
+    "今日暫無已確認的高重要性事件；不以未來日期事件補位。"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -6.0 bps。",
     "美元：DXY 日變動 +0.14%。",
-    "波動率：VIX 28.29。",
+    "波動率：VIX 26.80。",
     "曲線：2Y10Y +24.0 bps。"
   ],
-  "today_date_taipei": "2026-11-26",
+  "today_date_taipei": "2026-11-27",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-26T07:21:14.156843+00:00"
+  "as_of": "2026-11-26T17:25:49.484006+00:00"
 }
