@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-26T01:14:17.460527+00:00",
+  "as_of": "2026-11-26T07:18:18.567297+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
+      "title": "〈能源盤後〉胡塞武裝聲稱攻擊沙國最大煉油廠 Brent漲破94美元 供應過剩仍是油市隱憂",
+      "summary": "〈能源盤後〉胡塞武裝聲稱攻擊沙國最大煉油廠 Brent漲破94美元 供應過剩仍是油市隱憂 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Sd3NlWkNCVWJhUEZ1NHkwYXRLNHhJQklmRjFtSmxfLU05Z2QxTU9aLWozNEMxUElMR0ZNZFZoZGVJcnZSLXdOWXl2VlEtckk?oc=5",
+      "published": "Wed, 25 Nov 2026 21:53:12 GMT",
+      "topic": "能源",
+      "rank": 4,
+      "importance_score": 67,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、具明確資產關聯"
+    },
+    {
       "title": "「輝黃」回巢掀台股漲停潮！PIMCO：AI資本支出上看10兆美元 曝2027年配置新局",
       "summary": "「輝黃」回巢掀台股漲停潮！PIMCO：AI資本支出上看10兆美元 曝2027年配置新局 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIM0NzR2xLOThMMFR0V2I3ZWNGZ0hJbnJDSWVzZTJxLU1EVGRQV0w4ZWNsY2FrNGNHRFhuNEI4N00zbko2VjFrcVdLZ19rYVE?oc=5",
       "published": "Tue, 24 Nov 2026 03:46:57 GMT",
       "topic": "AI / 半導體",
-      "rank": 4,
-      "importance_score": 69,
+      "rank": 5,
+      "importance_score": 67,
       "related_assets": [
         "SOX",
         "Nasdaq",
         "TSM / NVDA"
-      ],
-      "why_selected": "高品質財經來源、具明確資產關聯"
-    },
-    {
-      "title": "摩根大通示警股市或迎來「非常難看的聖誕節」！伊朗戰爭、Fed緊縮、政府關門、關稅上調、晶片管制一起來",
-      "summary": "摩根大通示警股市或迎來「非常難看的聖誕節」！伊朗戰爭、Fed緊縮、政府關門、關稅上調、晶片管制一起來 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mMHBrMjl3alBCUF9uX1dHYmpqVjZQTXpGRmpCZEZWUDZDdU9VMVhCRjR3T1d1SkZQQkVLWk83Z3M3cHRiZHRCeVZ1dVRoNTg?oc=5",
-      "published": "Wed, 25 Nov 2026 15:10:03 GMT",
-      "topic": "Fed / 利率",
-      "rank": 5,
-      "importance_score": 65,
-      "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
