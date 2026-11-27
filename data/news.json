@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-27T01:05:07.248727+00:00",
+  "as_of": "2026-11-27T07:15:44.418062+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,14 +37,14 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "重申「黃金不可替代」！達利歐：無論市況好壞 投資組合都該配10%–15%",
-      "summary": "重申「黃金不可替代」！達利歐：無論市況好壞 投資組合都該配10%–15% 鉅亨網",
+      "title": "比特幣黃金先跌、股市慢半拍 策略師揭示這波資金退潮順序",
+      "summary": "比特幣黃金先跌、股市慢半拍 策略師揭示這波資金退潮順序 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UakJHbmw5WVRlLVBvZkRFc3JWU29MZk53RXhXZWh1ZTBsbnVJVHdkdUtmQUN0X1N2MHBEQVBnQy05VkxuWVlxREdaYk9DakU?oc=5",
-      "published": "Thu, 26 Nov 2026 03:20:07 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WVTdMNmV4WmpqLThOQTBBWklQSkgzRnR5ejRCSEt3VjQtYWxLSFBhQWlJX2xxdkZ5N1J4NEotai1WbjJUYWw5QjBXM21LZXc?oc=5",
+      "published": "Fri, 27 Nov 2026 03:10:04 GMT",
       "topic": "黃金",
       "rank": 3,
-      "importance_score": 67,
+      "importance_score": 63,
       "related_assets": [
         "Gold",
         "USD",

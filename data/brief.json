@@ -15,7 +15,7 @@
     "DXY 日變動 +0.14%。"
   ],
   "today_top": [
-    "今日暫無已確認的高重要性事件；不以未來日期事件補位。"
+    "新聞｜比特幣黃金先跌、股市慢半拍 策略師揭示這波資金退潮順序"
   ],
   "todays_watch": [
     "利率：10Y 日變動 -6.0 bps。",
@@ -25,5 +25,5 @@
   ],
   "today_date_taipei": "2026-11-27",
   "today_filter": "calendar date == Taipei today; news published date == Taipei today; future events forbidden",
-  "as_of": "2026-11-27T01:07:19.174537+00:00"
+  "as_of": "2026-11-27T07:18:13.195465+00:00"
 }
