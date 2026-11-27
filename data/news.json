@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-26T17:23:33.997156+00:00",
+  "as_of": "2026-11-27T01:05:07.248727+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -37,34 +37,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈能源盤後〉胡塞武裝聲稱攻擊沙國最大煉油廠 Brent漲破94美元 供應過剩仍是油市隱憂",
-      "summary": "〈能源盤後〉胡塞武裝聲稱攻擊沙國最大煉油廠 Brent漲破94美元 供應過剩仍是油市隱憂 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Sd3NlWkNCVWJhUEZ1NHkwYXRLNHhJQklmRjFtSmxfLU05Z2QxTU9aLWozNEMxUElMR0ZNZFZoZGVJcnZSLXdOWXl2VlEtckk?oc=5",
-      "published": "Thu, 26 Nov 2026 06:57:26 GMT",
-      "topic": "能源",
-      "rank": 3,
-      "importance_score": 69,
-      "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
       "title": "重申「黃金不可替代」！達利歐：無論市況好壞 投資組合都該配10%–15%",
       "summary": "重申「黃金不可替代」！達利歐：無論市況好壞 投資組合都該配10%–15% 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UakJHbmw5WVRlLVBvZkRFc3JWU29MZk53RXhXZWh1ZTBsbnVJVHdkdUtmQUN0X1N2MHBEQVBnQy05VkxuWVlxREdaYk9DakU?oc=5",
       "published": "Thu, 26 Nov 2026 03:20:07 GMT",
       "topic": "黃金",
-      "rank": 4,
-      "importance_score": 65,
+      "rank": 3,
+      "importance_score": 67,
       "related_assets": [
         "Gold",
         "USD",
         "UST"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
+      "title": "〈能源盤後〉胡塞武裝聲稱攻擊沙國最大煉油廠 Brent漲破94美元 供應過剩仍是油市隱憂",
+      "summary": "〈能源盤後〉胡塞武裝聲稱攻擊沙國最大煉油廠 Brent漲破94美元 供應過剩仍是油市隱憂 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Sd3NlWkNCVWJhUEZ1NHkwYXRLNHhJQklmRjFtSmxfLU05Z2QxTU9aLWozNEMxUElMR0ZNZFZoZGVJcnZSLXdOWXl2VlEtckk?oc=5",
+      "published": "Thu, 26 Nov 2026 06:57:26 GMT",
+      "topic": "能源",
+      "rank": 4,
+      "importance_score": 67,
+      "related_assets": [
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
