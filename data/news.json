@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-27T07:15:44.418062+00:00",
+  "as_of": "2026-11-27T17:02:18.327021+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
@@ -21,30 +21,30 @@
       "why_selected": "高市場影響主題、高品質財經來源、時效性高"
     },
     {
+      "title": "亞股反彈壓抑避險需求 美國公債殖利率隨之攀升",
+      "summary": "亞股反彈壓抑避險需求 美國公債殖利率隨之攀升 鉅亨網",
+      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzTGRIdS1aSlJtcUgtOG9NdkVyX0lVX0dfUHpGcVJOY2R2cGVRQzdVNEpKVlI0bjhBNGF5YVVZdkFUYlN3MjV4dDl6MkE2QWs?oc=5",
+      "published": "Fri, 27 Nov 2026 07:40:03 GMT",
+      "topic": "Fed / 利率",
+      "rank": 2,
+      "importance_score": 72,
+      "related_assets": [
+        "UST",
+        "USD",
+        "Equity"
+      ],
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
+    },
+    {
       "title": "〈貴金屬盤後〉美PCE通膨進一步升溫 金價一度跌破3500美元",
       "summary": "〈貴金屬盤後〉美PCE通膨進一步升溫 金價一度跌破3500美元 鉅亨網",
       "source": "鉅亨網",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkalFQbTQzSnotZWJzNlhnREM3X3lDOVVNRVE0b2dKV0VPSkxfVFZHMS02RHlidzEwOFE2dzFhdldTR2JwXzRGOHVkYw?oc=5",
       "published": "Wed, 25 Nov 2026 22:34:38 GMT",
       "topic": "黃金",
-      "rank": 2,
-      "importance_score": 71,
-      "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
-      ],
-      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
-    },
-    {
-      "title": "比特幣黃金先跌、股市慢半拍 策略師揭示這波資金退潮順序",
-      "summary": "比特幣黃金先跌、股市慢半拍 策略師揭示這波資金退潮順序 鉅亨網",
-      "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WVTdMNmV4WmpqLThOQTBBWklQSkgzRnR5ejRCSEt3VjQtYWxLSFBhQWlJX2xxdkZ5N1J4NEotai1WbjJUYWw5QjBXM21LZXc?oc=5",
-      "published": "Fri, 27 Nov 2026 03:10:04 GMT",
-      "topic": "黃金",
       "rank": 3,
-      "importance_score": 63,
+      "importance_score": 69,
       "related_assets": [
         "Gold",
         "USD",
@@ -53,11 +53,11 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈能源盤後〉胡塞武裝聲稱攻擊沙國最大煉油廠 Brent漲破94美元 供應過剩仍是油市隱憂",
-      "summary": "〈能源盤後〉胡塞武裝聲稱攻擊沙國最大煉油廠 Brent漲破94美元 供應過剩仍是油市隱憂 鉅亨網",
+      "title": "〈能源盤後〉荷姆茲海峽3艘船遇襲 原油漲逾2% 但供應過剩仍壓頂",
+      "summary": "〈能源盤後〉荷姆茲海峽3艘船遇襲 原油漲逾2% 但供應過剩仍壓頂 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Sd3NlWkNCVWJhUEZ1NHkwYXRLNHhJQklmRjFtSmxfLU05Z2QxTU9aLWozNEMxUElMR0ZNZFZoZGVJcnZSLXdOWXl2VlEtckk?oc=5",
-      "published": "Thu, 26 Nov 2026 06:57:26 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aUzh6Wk5BUTMyNDNGUUpobmRnVGpFQTBGT1dSckZocWhRZ0lBeUlaQkQ2Qm1zT0xMVkZVeVJ2b0hZdktjTVlSNlpnZzlEWm8?oc=5",
+      "published": "Wed, 25 Nov 2026 00:01:29 GMT",
       "topic": "能源",
       "rank": 4,
       "importance_score": 67,
@@ -69,18 +69,18 @@
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "〈能源盤後〉荷姆茲海峽3艘船遇襲 原油漲逾2% 但供應過剩仍壓頂",
-      "summary": "〈能源盤後〉荷姆茲海峽3艘船遇襲 原油漲逾2% 但供應過剩仍壓頂 鉅亨網",
+      "title": "比特幣黃金先跌、股市慢半拍 策略師揭示這波資金退潮順序",
+      "summary": "比特幣黃金先跌、股市慢半拍 策略師揭示這波資金退潮順序 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aUzh6Wk5BUTMyNDNGUUpobmRnVGpFQTBGT1dSckZocWhRZ0lBeUlaQkQ2Qm1zT0xMVkZVeVJ2b0hZdktjTVlSNlpnZzlEWm8?oc=5",
-      "published": "Wed, 25 Nov 2026 00:01:29 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WVTdMNmV4WmpqLThOQTBBWklQSkgzRnR5ejRCSEt3VjQtYWxLSFBhQWlJX2xxdkZ5N1J4NEotai1WbjJUYWw5QjBXM21LZXc?oc=5",
+      "published": "Fri, 27 Nov 2026 03:10:04 GMT",
+      "topic": "黃金",
       "rank": 5,
-      "importance_score": 65,
+      "importance_score": 59,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
-        "Equity"
+        "Gold",
+        "USD",
+        "UST"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
