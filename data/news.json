@@ -1,24 +1,24 @@
 {
-  "as_of": "2026-11-27T17:02:18.327021+00:00",
+  "as_of": "2026-11-28T00:37:44.245363+00:00",
   "source": "Google News RSS",
   "strategy": "Market Brief V1: source quality + recency + market impact + topic diversity + deduplication; rule-based, no AI required",
   "engine": "Market Importance Engine V1",
   "items": [
     {
-      "title": "〈貴金屬盤後〉黃金反彈無力下挫逾2% Fed官員放鷹強化12月升息預期",
-      "summary": "〈貴金屬盤後〉黃金反彈無力下挫逾2% Fed官員放鷹強化12月升息預期 鉅亨網",
+      "title": "〈美股早盤〉AI買盤回流主要指數走揚 標普500拚4月以來最佳單周表現",
+      "summary": "〈美股早盤〉AI買盤回流主要指數走揚 標普500拚4月以來最佳單周表現 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83MHo2aHFOODdrMmljYlBjZC0yTEM0cDBQcEtyM0tuTGhMT2JKLW53cFVGQm9UaWFEYVFBZUswbElTVEFPQXVrQlpoMkJCQmM?oc=5",
-      "published": "Wed, 25 Nov 2026 09:47:43 GMT",
-      "topic": "Fed / 利率",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RUTJueU1RMkg4SFN5YXNwMGlVX3hmdnFFTWlKSWpzSXQzSmphWUkyZkVwZnVtendWRWJtenoyYWR4b0wtaHdQQmswcXF1Q1U?oc=5",
+      "published": "Fri, 27 Nov 2026 15:32:52 GMT",
+      "topic": "AI / 半導體",
       "rank": 1,
-      "importance_score": 87,
+      "importance_score": 80,
       "related_assets": [
-        "UST",
-        "USD",
-        "Equity"
+        "SOX",
+        "Nasdaq",
+        "TSM / NVDA"
       ],
-      "why_selected": "高市場影響主題、高品質財經來源、時效性高"
+      "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
       "title": "亞股反彈壓抑避險需求 美國公債殖利率隨之攀升",
@@ -53,34 +53,34 @@
       "why_selected": "高品質財經來源、時效性高、具明確資產關聯"
     },
     {
-      "title": "〈能源盤後〉荷姆茲海峽3艘船遇襲 原油漲逾2% 但供應過剩仍壓頂",
-      "summary": "〈能源盤後〉荷姆茲海峽3艘船遇襲 原油漲逾2% 但供應過剩仍壓頂 鉅亨網",
+      "title": "摩根大通示警股市或迎來「非常難看的聖誕節」！伊朗戰爭、Fed緊縮、政府關門、關稅上調、晶片管制一起來",
+      "summary": "摩根大通示警股市或迎來「非常難看的聖誕節」！伊朗戰爭、Fed緊縮、政府關門、關稅上調、晶片管制一起來 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aUzh6Wk5BUTMyNDNGUUpobmRnVGpFQTBGT1dSckZocWhRZ0lBeUlaQkQ2Qm1zT0xMVkZVeVJ2b0hZdktjTVlSNlpnZzlEWm8?oc=5",
-      "published": "Wed, 25 Nov 2026 00:01:29 GMT",
-      "topic": "能源",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mMHBrMjl3alBCUF9uX1dHYmpqVjZQTXpGRmpCZEZWUDZDdU9VMVhCRjR3T1d1SkZQQkVLWk83Z3M3cHRiZHRCeVZ1dVRoNTg?oc=5",
+      "published": "Wed, 25 Nov 2026 15:10:03 GMT",
+      "topic": "Fed / 利率",
       "rank": 4,
       "importance_score": 67,
       "related_assets": [
-        "WTI / Brent",
-        "Inflation",
+        "UST",
+        "USD",
         "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     },
     {
-      "title": "比特幣黃金先跌、股市慢半拍 策略師揭示這波資金退潮順序",
-      "summary": "比特幣黃金先跌、股市慢半拍 策略師揭示這波資金退潮順序 鉅亨網",
+      "title": "〈能源盤後〉胡塞武裝聲稱攻擊沙國最大煉油廠 Brent漲破94美元 供應過剩仍是油市隱憂",
+      "summary": "〈能源盤後〉胡塞武裝聲稱攻擊沙國最大煉油廠 Brent漲破94美元 供應過剩仍是油市隱憂 鉅亨網",
       "source": "鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WVTdMNmV4WmpqLThOQTBBWklQSkgzRnR5ejRCSEt3VjQtYWxLSFBhQWlJX2xxdkZ5N1J4NEotai1WbjJUYWw5QjBXM21LZXc?oc=5",
-      "published": "Fri, 27 Nov 2026 03:10:04 GMT",
-      "topic": "黃金",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Sd3NlWkNCVWJhUEZ1NHkwYXRLNHhJQklmRjFtSmxfLU05Z2QxTU9aLWozNEMxUElMR0ZNZFZoZGVJcnZSLXdOWXl2VlEtckk?oc=5",
+      "published": "Thu, 26 Nov 2026 06:57:26 GMT",
+      "topic": "能源",
       "rank": 5,
-      "importance_score": 59,
+      "importance_score": 65,
       "related_assets": [
-        "Gold",
-        "USD",
-        "UST"
+        "WTI / Brent",
+        "Inflation",
+        "Equity"
       ],
       "why_selected": "高品質財經來源、具明確資產關聯"
     }
